@@ -1,0 +1,13 @@
+{
+  "name": "footballisimo-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android/iOS обёртка приложения Footballisimo (Capacitor)",
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  }
+}

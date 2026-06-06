@@ -1,0 +1,10 @@
+{
+  "appId": "app.footballisimo.wc2026",
+  "appName": "Footballisimo",
+  "webDir": "www",
+  "server": {
+    "url": "https://USERNAME.github.io/REPO/",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
