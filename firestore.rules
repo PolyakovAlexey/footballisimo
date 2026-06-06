@@ -1,0 +1,27 @@
+rules_version = '2';
+// Firebase Console -> Firestore Database -> Rules -> вставить и опубликовать.
+// ВАЖНО: список email должен совпадать с ADMIN_EMAILS в index.html.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isAdmin() {
+      return request.auth != null
+        && request.auth.token.email in ['admin@footballisimo.app'];
+    }
+
+    // Профили участников: читать может любой (для лидерборда),
+    // изменять — только владелец своего документа или админ.
+    match /players/{uid} {
+      allow read: if true;
+      allow create, update: if request.auth != null
+                            && (request.auth.uid == uid || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // Переопределения админа (результаты/коэффициенты): читают все, пишет только админ.
+    match /admin/{doc} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}
