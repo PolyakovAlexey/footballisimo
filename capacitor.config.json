@@ -3,7 +3,7 @@
   "appName": "Footballisimo",
   "webDir": "www",
   "server": {
-    "url": "https://USERNAME.github.io/REPO/",
+    "url": "https://polyakovalexey.github.io/footballisimo/",
     "cleartext": false,
     "androidScheme": "https"
   }
