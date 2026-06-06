@@ -385,6 +385,11 @@ header nav{margin-left:8px}
     <input class="auth-input" id="auth-email" type="email" placeholder="Email" autocomplete="email">
     <input class="auth-input" id="auth-pass" type="password" placeholder="Пароль (мин. 6 символов)" autocomplete="current-password">
     <button class="auth-submit" id="auth-go" onclick="authSubmit()">Войти</button>
+    <button id="reset-btn" type="button" onclick="resetPassword()"
+      style="width:100%;margin-top:8px;background:none;border:none;color:var(--txm);
+             font-size:13px;cursor:pointer;text-decoration:underline;padding:4px">
+      Забыл пароль?
+    </button>
     <div class="auth-msg" id="auth-msg"></div>
   </div>
 </div>
@@ -973,13 +978,13 @@ document.addEventListener('click',function(e){
    Пока поля = "PASTE_...", сайт работает в ЛОКАЛЬНОМ демо-режиме
    (данные только на этом устройстве, общего лидерборда нет). */
 const firebaseConfig = {
-  apiKey: "AIzaSyD5DuqX7MzDhbqtGHFtOdr9tHszPzHCMJ4",
-  authDomain: "footballisimo-ab271.firebaseapp.com",
-  projectId: "footballisimo-ab271",
-  storageBucket: "footballisimo-ab271.firebasestorage.app",
-  messagingSenderId: "289451458238",
-  appId: "1:289451458238:web:2c71e3eb5cb9a8ed6f68ef",
-  measurementId: "G-JG9QHTQE2H"
+  apiKey: "AIzaSyCqiV_6cenuKIrYEG7JW0Mp564K0iFgANw",
+  authDomain: "footballisimo-18b80.firebaseapp.com",
+  projectId: "footballisimo-18b80",
+  storageBucket: "footballisimo-18b80.firebasestorage.app",
+  messagingSenderId: "665003129891",
+  appId: "1:665003129891:web:05b692f308261e7ca14596",
+  measurementId: "G-CLT931JQ2F"
 };
 
 const START_CAPITAL = 50000;
@@ -1067,6 +1072,26 @@ function _loadUserDoc(uid,email){
 
 /* ---------- AUTH UI ---------- */
 let _authMode='login';
+
+function resetPassword(){
+  var email=(document.getElementById('auth-email').value||'').trim().toLowerCase();
+  var msg=document.getElementById('auth-msg');
+  if(!email){ msg.style.color='#ef4444'; msg.textContent='Введи email для восстановления'; return; }
+  if(_fbReady && _auth){
+    _auth.sendPasswordResetEmail(email)
+      .then(function(){ msg.style.color='#22c55e'; msg.textContent='Письмо со сбросом пароля отправлено на '+email; })
+      .catch(function(e){
+        msg.style.color='#ef4444';
+        msg.textContent = (e&&e.code&&e.code.indexOf('user-not-found')>=0)
+          ? 'Такой email не зарегистрирован'
+          : 'Ошибка: '+(e&&e.message||e);
+      });
+  } else {
+    msg.style.color='#ef4444';
+    msg.textContent='Восстановление пароля работает только в Firebase-режиме.';
+  }
+}
+
 function openAuth(){ document.getElementById('authModal').classList.add('open'); document.getElementById('auth-msg').textContent=''; }
 function closeAuth(){ document.getElementById('authModal').classList.remove('open'); }
 function authTab(m){
@@ -1075,6 +1100,8 @@ function authTab(m){
   document.getElementById('tab-reg').classList.toggle('active',m==='reg');
   document.getElementById('reg-name-wrap').style.display = m==='reg'?'block':'none';
   document.getElementById('auth-go').textContent = m==='reg'?'Зарегистрироваться':'Войти';
+  var rb=document.getElementById('reset-btn');
+  if(rb) rb.style.display = m==='login'?'block':'none';
 }
 function _msg(t,ok){ var el=document.getElementById('auth-msg'); el.textContent=t; el.style.color=ok?'#22c55e':'#ef4444'; }
 
