@@ -1,0 +1,56 @@
+name: Update news and deploy
+on:
+  schedule:
+    - cron: "0 6 * * *"
+    # Дополнительный прогон каждые 30 мин в дни матчей даёт почти-живые результаты.
+    # Раскомментируй на время турнира, если нужно чаще обновлять результаты:
+    # - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Update news JSON
+        run: python update_news_pipeline.py
+      - name: Update odds from Ligastavok
+        env:
+          LS_COOKIE: ${{ secrets.LS_COOKIE }}
+        run: python update_odds.py
+      # ↓ НОВЫЙ ШАГ — реальные результаты матчей (для расчёта ставок и таблиц)
+      - name: Update real match results
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: python update_results.py
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add api_data.json
+          git diff --cached --quiet || git commit -m "Daily update: news + odds + results"
+          git push
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
