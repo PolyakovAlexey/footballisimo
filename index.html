@@ -234,6 +234,11 @@ tr:hover td{background:rgba(204,255,0,.04)}
   .bet-odds{font-size:13px;padding:6px}
 }
 
+
+/* отступ между логотипом и меню */
+header .hi{gap:28px}
+header nav{margin-left:8px}
+@media(max-width:800px){header .hi{gap:10px}header nav{margin-left:0}}
 </style>
   <!-- Firebase (общий лидерборд). Если не настроен — сайт работает в локальном демо-режиме. -->
   <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
@@ -381,6 +386,15 @@ tr:hover td{background:rgba(204,255,0,.04)}
     <input class="auth-input" id="auth-pass" type="password" placeholder="Пароль (мин. 6 символов)" autocomplete="current-password">
     <button class="auth-submit" id="auth-go" onclick="authSubmit()">Войти</button>
     <div class="auth-msg" id="auth-msg"></div>
+  </div>
+</div>
+
+<!-- Профиль -->
+<div class="auth-modal" id="profileModal">
+  <div class="auth-box" style="max-width:440px;max-height:88vh;overflow-y:auto">
+    <button class="auth-x" onclick="closeProfile()">&times;</button>
+    <h2 style="font-size:22px;margin-bottom:14px">Мой профиль</h2>
+    <div id="profile-body"></div>
   </div>
 </div>
 
@@ -641,7 +655,15 @@ const FLAGS={
   "Эстония":"ee","Латвия":"lv","Литва":"lt","Черногория":"me","Северная Македония":"mk",
   "Белоруссия":"by","Молдова":"md","Азербайджан":"az","Армения":"am","Казахстан":"kz",
   "Киргизия":"kg","Таджикистан":"tj","Туркмения":"tm","Монголия":"mn","Россия":"ru"
-};
+}
+
+const _SQUAD_FLAG_ALIAS={"ЮАР":"za","Южная Корея":"kr","Босния и Герцеговина":"ba","Новая Зеландия":"nz","ДР Конго":"cd","Кот-д'Ивуар":"ci"};
+function _squadFlag(name){
+  var code=_SQUAD_FLAG_ALIAS[name]||FLAGS[name];
+  if(!code) return '';
+  return '<img src="https://flagcdn.com/w40/'+code+'.png" alt="" style="width:26px;height:18px;object-fit:cover;border-radius:3px;flex:0 0 auto" loading="lazy" onerror="this.style.display=\'none\'">';
+}
+;
 
 function flagImg(team){
   const code=FLAGS[team];
@@ -967,6 +989,8 @@ function _useFirebase(){
 }
 
 function initBackend(){
+  if(typeof firebase==='undefined') _fbReason='SDK Firebase не загрузился (проверь интернет/доступ к gstatic)';
+  else if(!firebaseConfig.apiKey || firebaseConfig.apiKey.indexOf('PASTE')===0) _fbReason='конфиг Firebase не вставлен в index.html';
   if(_useFirebase()){
     try{
       firebase.initializeApp(firebaseConfig);
@@ -977,7 +1001,7 @@ function initBackend(){
         if(u){ _loadUserDoc(u.uid, u.email); }
         else { ACC=null; refreshAccountUI(); }
       });
-    }catch(e){ console.warn('Firebase init failed, локальный режим', e); _fbReady=false; localInit(); }
+    }catch(e){ console.warn('Firebase init failed', e); _fbReason='ошибка Firebase: '+(e&&e.message||e); _fbReady=false; localInit(); }
   } else {
     localInit();
   }
@@ -1106,7 +1130,7 @@ function refreshAccountUI(){
     if(ACC){
       chip.classList.add('logged');
       chip.innerHTML='<span>'+escapeHtml(ACC.name)+'</span> <b>'+_net(ACC).toLocaleString('ru')+' ₽</b>';
-      chip.onclick=logout; chip.title='Выйти';
+      chip.onclick=openProfile; chip.title='Профиль';
     } else {
       chip.classList.remove('logged'); chip.textContent='Войти'; chip.onclick=openAuth; chip.title='';
     }
@@ -1233,7 +1257,7 @@ function renderLeaderboard(){
         +'</tr>';
     });
     html+='</tbody></table>';
-    if(!_fbReady) html+='<p style="color:var(--txm);font-size:12px;margin-top:12px;text-align:center">⚠️ Демо-режим: лидерборд виден только на этом устройстве. Для общего турнира подключите Firebase (см. инструкцию).</p>';
+    if(!_fbReady) html+='<p style="color:var(--txm);font-size:12px;margin-top:12px;text-align:center">⚠️ Демо-режим: данные только на этом устройстве. Причина: '+(_fbReason||'Firebase не активен')+'. Подключите Firebase (см. инструкцию).</p>';
     wrap.innerHTML=html;
   }
   if(_fbReady){
@@ -1512,6 +1536,75 @@ function startAutoRefresh(){
 }
 
 
+/* ===== ПРОФИЛЬ: почта, смена пароля, мои ставки, выход ===== */
+let _fbReason = '';
+
+function openProfile(){
+  if(!ACC){ openAuth(); return; }
+  renderProfile();
+  document.getElementById('profileModal').classList.add('open');
+}
+function closeProfile(){ document.getElementById('profileModal').classList.remove('open'); }
+
+function renderProfile(){
+  var host=document.getElementById('profile-body');
+  if(!ACC){ host.innerHTML=''; return; }
+  var pend=(ACC.pending||[]);
+  var sett=(ACC.settled||[]);
+
+  var betsPend = pend.length ? pend.map(function(b){
+    return '<div class="history-item"><div style="max-width:200px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(b.label)+'</div>'
+      +'<div style="font-size:11px;color:var(--txm)">×'+b.odds+' · '+b.stake.toLocaleString('ru')+' ₽</div></div>'
+      +'<span style="color:#eab308;font-size:11px;font-weight:700">ждём</span></div>';
+  }).join('') : '<p style="color:var(--txm);font-size:13px">Нет активных ставок</p>';
+
+  var betsSett = sett.length ? sett.map(function(h){
+    var profit=h.won?'+'+(h.payout-h.stake).toLocaleString('ru')+' ₽':'−'+h.stake.toLocaleString('ru')+' ₽';
+    return '<div class="history-item"><div style="max-width:200px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(h.label)+' ('+h.score+')</div>'
+      +'<div style="font-size:11px;color:var(--txm)">×'+h.odds+' · '+h.stake.toLocaleString('ru')+' ₽</div></div>'
+      +'<span class="'+(h.won?'win-badge':'loss-badge')+'">'+profit+'</span></div>';
+  }).join('') : '<p style="color:var(--txm);font-size:13px">Сыгранных ставок пока нет</p>';
+
+  host.innerHTML=''
+    +'<div class="acct-panel">'
+      +'<div class="acct-row"><span style="color:var(--txm)">Имя</span><span class="v">'+escapeHtml(ACC.name||'')+'</span></div>'
+      +'<div class="acct-row"><span style="color:var(--txm)">Почта</span><span class="v" style="font-size:13px">'+escapeHtml(ACC.email||'')+'</span></div>'
+      +'<div class="acct-row"><span style="color:var(--txm)">Баланс</span><span class="v" style="color:var(--pr)">'+(ACC.balance||0).toLocaleString('ru')+' ₽</span></div>'
+      +'<div class="acct-row"><span style="color:var(--txm)">Кредиты</span><span class="v" style="color:var(--sec)">−'+(ACC.loans||0).toLocaleString('ru')+' ₽</span></div>'
+      +'<div class="acct-row" style="border-top:1px solid rgba(255,255,255,.08);padding-top:6px;margin-top:6px"><span>Зачёт</span><span class="v">'+_net(ACC).toLocaleString('ru')+' ₽</span></div>'
+    +'</div>'
+    +'<h3 style="font-size:14px;margin:16px 0 8px">Сменить пароль</h3>'
+    +'<input class="auth-input" id="pf-pass" type="password" placeholder="Новый пароль (мин. 6)">'
+    +'<button class="auth-submit" onclick="changePass()">Сменить пароль</button>'
+    +'<div class="auth-msg" id="pf-msg"></div>'
+    +'<h3 style="font-size:14px;margin:18px 0 8px">Активные ставки ('+pend.length+')</h3>'+betsPend
+    +'<h3 style="font-size:14px;margin:18px 0 8px">Сыгранные ставки ('+sett.length+')</h3>'+betsSett
+    +'<button class="loan-btn" style="margin-top:18px;border-color:var(--txm);color:var(--tx)" onclick="closeProfile();logout()">Выйти из аккаунта</button>';
+}
+
+function changePass(){
+  var p=document.getElementById('pf-pass').value||'';
+  var msg=document.getElementById('pf-msg');
+  if(p.length<6){ msg.style.color='#ef4444'; msg.textContent='Минимум 6 символов'; return; }
+  if(_fbReady && _auth && _auth.currentUser){
+    _auth.currentUser.updatePassword(p).then(function(){
+      msg.style.color='#22c55e'; msg.textContent='Пароль изменён';
+      document.getElementById('pf-pass').value='';
+    }).catch(function(e){
+      msg.style.color='#ef4444';
+      msg.textContent = (e&&e.code&&e.code.indexOf('recent-login')>=0)
+        ? 'Для смены пароля выйди и зайди заново, затем повтори'
+        : 'Ошибка: '+(e&&e.message||'');
+    });
+  } else {
+    // локальный режим
+    var u=_lsUsers(); if(u[ACC.email]){ u[ACC.email].pass=p; ACC.pass=p; _lsSave(u); }
+    msg.style.color='#22c55e'; msg.textContent='Пароль изменён (локально)';
+    document.getElementById('pf-pass').value='';
+  }
+}
+
+
 function initApp(){
   // Матчи — с флагами и фильтрами по группе
   const mc=document.getElementById('mc');
@@ -1563,7 +1656,7 @@ function initApp(){
         ${sq&&sq.squadImg?`<img src="${sq.squadImg}" alt="${name}" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block" loading="lazy" onerror="this.parentNode.innerHTML='<div style=&quot;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:24px&quot;>'+"${flag}"+'</div>'">`:`<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:24px">${flag}</div>`}
       </div>
       <div style="min-width:0;flex:1">
-        <div style="font-weight:800;font-size:14px;line-height:1.25;white-space:normal;word-break:break-word">${name}</div>
+        <div style="font-weight:800;font-size:14px;line-height:1.25;display:flex;align-items:center;gap:8px;flex-wrap:wrap">${name}${_squadFlag(name)}</div>
         ${grp}
         <div style="font-size:12px;color:var(--pr);margin-top:6px">Смотреть состав →</div>
       </div>
@@ -1575,7 +1668,7 @@ function initApp(){
   pc.innerHTML=DB.players.slice(0,4).map(p=>`<div class="card pc" onclick="openPlayerCard('${p.n}')" style="cursor:pointer">
     <img src="${p.img}" alt="${p.n}" class="pimg" onerror="this.style.display='none'">
     <div class="pname">${p.n}</div>
-    <div style="color:var(--txm);font-size:13px">${flagImg(p.c)} ${p.c} · ${p.club}</div>
+    <div style="color:var(--txm);font-size:13px;display:flex;align-items:center;gap:6px;justify-content:center;flex-wrap:wrap">${flagImg(p.c)} ${p.c} · ${clubLogo(p.club,16)} ${p.club}</div>
     <div class="pval">${p.v}</div>
     <div style="font-size:12px;background:var(--s2);padding:3px 10px;border-radius:6px;margin-top:6px">${p.pos}</div>
   </div>`).join('');
@@ -1821,11 +1914,22 @@ function openTop50(){
     DB.players.map(p=>`<tr onclick="openPlayerCard('${p.n}')" style="cursor:pointer">
       <td style="color:var(--txm)">${p.r}</td>
       <td><img src="${p.img}" class="mp" onerror="this.style.display='none'">${p.n}</td>
-      <td>${flagImg(p.c)} ${p.c}</td><td>${p.club}</td><td style="color:var(--txm)">${p.pos}</td>
+      <td>${flagImg(p.c)} ${p.c}</td><td><span style="display:inline-flex;align-items:center;gap:6px">${clubLogo(p.club,18)}${p.club}</span></td><td style="color:var(--txm)">${p.pos}</td>
       <td>${p.age}</td>
       <td style="color:var(--pr);font-weight:900">${p.v}</td>
     </tr>`).join('')
   }</tbody></table>`);
+}
+
+function clubLogo(name,size){
+  size=size||18;
+  if(!name) return '';
+  var c=(''+name).replace(/[«»'\"()]/g,'').trim().split(' ');
+  var ci=((c[0]||'').charAt(0)+((c[1]||'').charAt(0)||'')).toUpperCase();
+  return '<span style="flex:0 0 auto;width:'+(size+4)+'px;height:'+(size+4)+'px;border-radius:4px;display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;overflow:hidden;background:rgba(255,255,255,.08)">'
+    +'<img src="https://img.logo.dev/'+encodeClub(name)+'?token=pk_R5ZLg6_hS98pZYTG0MhsVQ&size=40" alt="" width="'+size+'" height="'+size+'" style="object-fit:contain" '
+    +'onerror="this.parentElement.innerHTML=&quot;'+ci+'&quot;;this.parentElement.style.cssText+=&quot;;font-size:9px;font-weight:800;color:var(--pr)&quot;">'
+    +'</span>';
 }
 
 function encodeClub(name){
@@ -1862,7 +1966,17 @@ function encodeClub(name){
     'Хетафе':'getafecf.com','Алавес':'deportivoalaves.es',
     'Брага':'scbraga.pt','Спортинг':'sporting.pt',
     'Краков':'wisla.krakow.pl','Легия':'legia.com',
-    'Рубин':'rubin-kazan.ru','Урал':'football-ural.ru'
+    'Рубин':'rubin-kazan.ru','Урал':'football-ural.ru',
+    'Виктория':'fcviktoria.cz','Славия':'slavia.cz','Спарта':'sparta.cz','Градец Кралове':'fchk.cz',
+    'Шахтёр':'shakhtar.com','Динамо Загреб':'gnkdinamo.hr','Црвена Звезда':'crvenazvezda.rs','Партизан':'partizan.rs',
+    'Базель':'fcb.ch','Янг Бойз':'bscyb.ch','Грассхоппер':'gcz.ch',
+    'Сельта':'rccelta.es','Райо Вальекано':'rayovallecano.es','Лас-Пальмас':'udlaspalmas.es','Мальорка':'rcdmallorca.es','Эспаньол':'rcdespanyol.com',
+    'Лидс':'leedsunited.com','Эвертон':'evertonfc.com','Астон Вилла':'avfc.co.uk','Брайтон':'brightonandhovealbion.com','Кристал Пэлас':'cpfc.co.uk','Брентфорд':'brentfordfc.com','Вулверхэмптон':'wolves.co.uk','Ноттингем':'nottinghamforest.co.uk','Борнмут':'afcb.co.uk','Саутгемптон':'southamptonfc.com',
+    'Лилль':'losc.fr','Ренн':'staderennais.com','Ницца':'ogcnice.com','Ланс':'rclens.fr','Нант':'fcnantes.com',
+    'Штутгарт':'vfb.de','Айнтрахт':'eintracht.de','Вольфсбург':'vfl-wolfsburg.de','Боруссия М':'borussia.de','Аугсбург':'fcaugsburg.de',
+    'Удинезе':'udinese.com','Болонья':'bolognafc.it','Дженоа':'genoacfc.it','Кальяри':'cagliaricalcio.com','Эмполи':'empolifc.com',
+    'Аль-Иттихад':'ittihadclub.sa','Аль-Ахли':'alahli.com','Аль-Шабаб':'alshabab.sa','Аль-Эттифак':'ettifaq.sa',
+    'Палмейрас':'palmeiras.com.br','Коринтианс':'corinthians.com.br','Сан-Паулу':'saopaulofc.net','Атлетико Минейро':'atletico.com.br','Гремио':'gremio.net','Интернасьонал':'internacional.com.br','Ботафого':'botafogo.com.br','Сантос':'santosfc.com.br'
   };
   if(map[name]) return map[name];
   // Генерируем домен из названия
@@ -1885,7 +1999,7 @@ function openSquad(k){
       const clubMatch = nm.match(/[«(]([^»)]+)[»)]/);
       const clubName = clubMatch ? clubMatch[1] : '';
       return `<li style="padding:9px 12px;background:rgba(255,255,255,.05);border-radius:10px;font-size:14px;display:flex;align-items:center;gap:8px">
-        ${clubName ? `<span style="flex-shrink:0;width:22px;height:22px;border-radius:3px;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;background:rgba(255,255,255,.08)"><img src="https://img.logo.dev/${encodeClub(clubName)}?token=pk_R5ZLg6_hS98pZYTG0MhsVQ&size=40" alt="${clubName}" width="20" height="20" style="object-fit:contain" onerror="this.parentElement.innerHTML='⚽'"></span>` : ''}
+        ${clubName ? `<span style="flex-shrink:0;width:22px;height:22px;border-radius:3px;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;background:rgba(255,255,255,.08)"><img src="https://img.logo.dev/${encodeClub(clubName)}?token=pk_R5ZLg6_hS98pZYTG0MhsVQ&size=40" alt="${clubName}" width="20" height="20" style="object-fit:contain" onerror="this.parentElement.innerHTML='${(function(c){c=(c||'').replace(/[«»\'"()]/g,'').trim();var p=c.split(' ');return ((p[0]||'').charAt(0)+((p[1]||'').charAt(0)||'')).toUpperCase();})(clubName)}';this.parentElement.style.cssText+=';font-size:9px;font-weight:800;color:var(--pr)'"></span>` : ''}
         <span>${nm}</span>
       </li>`;
     }).join('')}</ul>`;
@@ -2069,7 +2183,7 @@ function openPlayerCard(name){
     <div style="flex:1;min-width:180px">
       <div style="font-size:22px;font-weight:900;font-family:var(--fd);margin-bottom:4px">${p.n}</div>
       <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;color:var(--txm);font-size:14px">
-        ${flag} ${p.c} &nbsp;·&nbsp; ${p.club}
+        ${flag} ${p.c} &nbsp;·&nbsp; ${clubLogo(p.club,18)} ${p.club}
       </div>
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:14px">
         <div style="background:var(--s2);border-radius:8px;padding:8px 12px">
