@@ -1,109 +1,198 @@
 """
-update_results.py — тянет РЕАЛЬНЫЕ результаты матчей ЧМ-2026 и пишет их в api_data.json.
+update_odds.py — реальные коэффициенты ЧМ-2026 с the-odds-api.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Источник: the-odds-api.com (агрегатор Pinnacle, Bet365, Unibet, …)
+Бесплатный план: 500 запросов/месяц, без карты.
 
-Источник: football-data.org (бесплатный тариф, нужен токен).
-  1. Зарегистрируйся на https://www.football-data.org/client/register
-  2. Получи бесплатный API-токен.
-  3. Добавь его в GitHub → Settings → Secrets → Actions как FOOTBALL_DATA_TOKEN.
+НАСТРОЙКА (один раз):
+  1. Зарегистрируйся на https://the-odds-api.com
+  2. Скопируй API-ключ из личного кабинета
+  3. GitHub → Settings → Secrets → Actions → New repository secret
+     Имя:  ODDS_API_KEY
+     Значение: твой ключ
 
-Турнир ЧМ (FIFA World Cup) в football-data.org имеет код 'WC'.
-Скрипт сохраняет в api_data.json массив "results":
-  [{ "t1": "...", "t2": "...", "score1": 2, "score2": 1,
-     "status": "FINISHED", "utcDate": "2026-06-11T19:00:00Z" }, ...]
-
-Сопоставление имён команд (англ → рус, как в DB сайта) задаётся в TEAM_RU.
-Дополняй TEAM_RU по мере необходимости — что не найдено, останется на англ.,
-а фронтенд сопоставит по дате + частичному совпадению.
+Ключ LS_COOKIE больше не нужен (старый источник — Лига Ставок).
 """
 import os
 import json
 import requests
+from datetime import datetime
 
-TOKEN = os.environ.get("FOOTBALL_DATA_TOKEN", "")
-COMPETITION = "WC"  # FIFA World Cup
-BASE = "https://api.football-data.org/v4"
+API_KEY = os.environ.get("ODDS_API_KEY", "")
+BASE    = "https://api.the-odds-api.com/v4"
 
-# Англ. название из API -> рус. название как в DB сайта.
-# Дополняй при необходимости.
+# Английские названия команд → русские (как в DB сайта)
 TEAM_RU = {
-    "Mexico": "Мексика", "South Africa": "Юж. Африка", "South Korea": "Ю. Корея",
-    "Korea Republic": "Ю. Корея", "Czech Republic": "Чехия", "Czechia": "Чехия",
-    "Canada": "Канада", "Bosnia and Herzegovina": "Босния и Г.", "USA": "США",
-    "United States": "США", "Paraguay": "Парагвай", "Qatar": "Катар",
-    "Switzerland": "Швейцария", "Brazil": "Бразилия", "Morocco": "Марокко",
-    "Haiti": "Гаити", "Scotland": "Шотландия", "Australia": "Австралия",
-    "Turkey": "Турция", "Türkiye": "Турция", "Germany": "Германия",
-    "Curacao": "Кюрасао", "Netherlands": "Нидерланды", "Japan": "Япония",
-    "France": "Франция", "England": "Англия", "Argentina": "Аргентина",
-    "Spain": "Испания", "Portugal": "Португалия", "Belgium": "Бельгия",
-    "Uruguay": "Уругвай", "Colombia": "Колумбия", "Denmark": "Дания",
-    "Croatia": "Хорватия", "Austria": "Австрия", "Poland": "Польша",
-    "Senegal": "Сенегал", "Iran": "Иран", "Ecuador": "Эквадор",
-    "Norway": "Норвегия", "Sweden": "Швеция", "Georgia": "Грузия",
-    "Hungary": "Венгрия",
+    "Mexico":                  "Мексика",
+    "Czech Republic":          "Чехия",
+    "Czechia":                 "Чехия",
+    "South Africa":            "Юж. Африка",
+    "South Korea":             "Ю. Корея",
+    "Korea Republic":          "Ю. Корея",
+    "Canada":                  "Канада",
+    "Qatar":                   "Катар",
+    "Switzerland":             "Швейцария",
+    "Bosnia and Herzegovina":  "Босния и Г.",
+    "Brazil":                  "Бразилия",
+    "Morocco":                 "Марокко",
+    "Haiti":                   "Гаити",
+    "Scotland":                "Шотландия",
+    "USA":                     "США",
+    "United States":           "США",
+    "Paraguay":                "Парагвай",
+    "Australia":               "Австралия",
+    "Turkey":                  "Турция",
+    "Türkiye":                 "Турция",
+    "Germany":                 "Германия",
+    "Curacao":                 "Кюрасао",
+    "Netherlands":             "Нидерланды",
+    "Japan":                   "Япония",
+    "Cote d'Ivoire":           "Кот-д'Ивуар",
+    "Ivory Coast":             "Кот-д'Ивуар",
+    "Ecuador":                 "Эквадор",
+    "Sweden":                  "Швеция",
+    "Tunisia":                 "Тунис",
+    "Spain":                   "Испания",
+    "Cape Verde":              "Кабо-Верде",
+    "Belgium":                 "Бельгия",
+    "Egypt":                   "Египет",
+    "Saudi Arabia":            "Саудовская Аравия",
+    "Uruguay":                 "Уругвай",
+    "France":                  "Франция",
+    "Senegal":                 "Сенегал",
+    "Iraq":                    "Ирак",
+    "Norway":                  "Норвегия",
+    "Argentina":               "Аргентина",
+    "Algeria":                 "Алжир",
+    "Austria":                 "Австрия",
+    "Jordan":                  "Иордания",
+    "Portugal":                "Португалия",
+    "DR Congo":                "ДР Конго",
+    "Congo DR":                "ДР Конго",
+    "Democratic Republic of Congo": "ДР Конго",
+    "England":                 "Англия",
+    "Croatia":                 "Хорватия",
+    "Ghana":                   "Гана",
+    "Panama":                  "Панама",
+    "Uzbekistan":              "Узбекистан",
+    "Colombia":                "Колумбия",
+    "Iran":                    "Иран",
+    "New Zealand":             "Нов. Зеландия",
 }
-
 
 def ru(name):
     return TEAM_RU.get(name, name)
 
-
-def fetch_results():
-    if not TOKEN:
-        print("⚠️  FOOTBALL_DATA_TOKEN не задан — результаты не обновляются.")
-        return None
-    headers = {"X-Auth-Token": TOKEN}
-    url = f"{BASE}/competitions/{COMPETITION}/matches"
+def find_wc_sport(api_key):
+    """Находим ключ ЧМ-2026 в списке доступных спортов."""
     try:
-        r = requests.get(url, headers=headers, timeout=20)
-        print("API статус:", r.status_code)
+        r = requests.get(f"{BASE}/sports", params={"apiKey": api_key}, timeout=15)
+        sports = r.json()
+        # Сначала ищем 2026
+        for s in sports:
+            k = s.get("key", "")
+            t = s.get("title", "")
+            if ("2026" in k or "2026" in t) and ("world" in k.lower() or "fifa" in t.lower()):
+                print(f"  Найден турнир: {k} ({t})")
+                return k
+        # Запасной вариант — любой WC
+        for s in sports:
+            if "world_cup" in s.get("key", "").lower():
+                k = s["key"]
+                print(f"  Запасной турнир: {k}")
+                return k
+    except Exception as e:
+        print(f"  Ошибка поиска турнира: {e}")
+    return "soccer_fifa_world_cup_2026"
+
+def fetch_odds():
+    if not API_KEY:
+        print("⚠️  ODDS_API_KEY не задан — пропускаем.")
+        return []
+
+    print("Ищем турнир ЧМ-2026...")
+    sport = find_wc_sport(API_KEY)
+
+    print(f"Запрашиваем коэффициенты для: {sport}")
+    try:
+        r = requests.get(
+            f"{BASE}/sports/{sport}/odds",
+            params={
+                "apiKey":      API_KEY,
+                "regions":     "eu,uk",
+                "markets":     "h2h",          # 1X2 (основное время)
+                "oddsFormat":  "decimal",
+                "bookmakers":  "pinnacle,bet365,unibet,bwin",
+            },
+            timeout=20,
+        )
+        remaining = r.headers.get("x-requests-remaining", "?")
+        used      = r.headers.get("x-requests-used", "?")
+        print(f"Статус: {r.status_code} | Запросов использовано: {used}, осталось: {remaining}")
         if r.status_code != 200:
-            print("Ошибка:", r.text[:200])
-            return None
+            print(f"Ошибка: {r.text[:300]}")
+            return []
         return r.json()
     except Exception as e:
-        print("Исключение:", e)
-        return None
+        print(f"Исключение: {e}")
+        return []
 
+def parse_odds(events):
+    """Из ответа API извлекаем средние коэффициенты по букмекерам."""
+    result = []
+    for ev in events:
+        home = ev.get("home_team", "?")
+        away = ev.get("away_team", "?")
+        t1, t2 = ru(home), ru(away)
 
-def parse_results(data):
-    out = []
-    for m in (data or {}).get("matches", []):
-        home = m.get("homeTeam", {}).get("name") or "?"
-        away = m.get("awayTeam", {}).get("name") or "?"
-        ft = m.get("score", {}).get("fullTime", {})
-        out.append({
-            "t1": ru(home),
-            "t2": ru(away),
-            "score1": ft.get("home"),
-            "score2": ft.get("away"),
-            "status": m.get("status"),          # SCHEDULED / IN_PLAY / FINISHED
-            "utcDate": m.get("utcDate"),
-            "winner": m.get("score", {}).get("winner"),  # HOME_TEAM / AWAY_TEAM / DRAW
+        all_k1, all_kx, all_k2 = [], [], []
+
+        for bm in ev.get("bookmakers", []):
+            for mkt in bm.get("markets", []):
+                if mkt.get("key") != "h2h":
+                    continue
+                outcomes = {o["name"]: o["price"] for o in mkt.get("outcomes", [])}
+                if home in outcomes and away in outcomes:
+                    all_k1.append(outcomes[home])
+                    all_k2.append(outcomes[away])
+                    if "Draw" in outcomes:
+                        all_kx.append(outcomes["Draw"])
+
+        if not all_k1 or not all_kx or not all_k2:
+            continue
+
+        # Среднее по букмекерам, округляем до 2 знаков
+        result.append({
+            "t1":    t1,
+            "t2":    t2,
+            "k1":    round(sum(all_k1) / len(all_k1), 2),
+            "kDraw": round(sum(all_kx) / len(all_kx), 2),
+            "k2":    round(sum(all_k2) / len(all_k2), 2),
         })
-    return out
 
+    return result
 
 def main():
     try:
         with open("api_data.json", "r", encoding="utf-8") as f:
-            api_data = json.load(f)
+            data = json.load(f)
     except Exception:
-        api_data = {}
+        data = {}
 
-    raw = fetch_results()
-    results = parse_results(raw)
-    if results:
-        api_data["results"] = results
-        from datetime import datetime
-        api_data["results_updated"] = datetime.utcnow().isoformat() + "Z"
-        print(f"✅ Сохранено {len(results)} матчей с результатами/статусами")
+    raw   = fetch_odds()
+    odds  = parse_odds(raw)
+
+    if odds:
+        data["odds"]         = odds
+        data["odds_updated"] = datetime.utcnow().isoformat() + "Z"
+        print(f"\n✅ Получено матчей с коэффициентами: {len(odds)}")
+        for o in odds[:5]:
+            print(f"  {o['t1']} vs {o['t2']}: {o['k1']} / {o['kDraw']} / {o['k2']}")
         with open("api_data.json", "w", encoding="utf-8") as f:
-            json.dump(api_data, f, ensure_ascii=False, indent=2)
-        print("💾 api_data.json обновлён")
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print("\n💾 api_data.json обновлён")
     else:
-        print("⚠️  Результаты не получены — api_data.json не изменён")
-
+        print("⚠️  Коэффициенты не получены — api_data.json не изменён")
 
 if __name__ == "__main__":
     main()
