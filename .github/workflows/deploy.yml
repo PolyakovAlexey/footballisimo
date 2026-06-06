@@ -1,8 +1,17 @@
 name: Update data and deploy
 on:
   schedule:
-    - cron: "0 6 * * *"          # раз в сутки в 6:00 UTC
-    # - cron: "*/30 * * * *"     # раскомментируй в дни матчей для частого обновления
+    - cron: "0 6 * * *"   # 09:00 МСК
+    - cron: "0 7 * * *"   # 10:00 МСК
+    - cron: "0 8 * * *"   # 11:00 МСК
+    - cron: "0 9 * * *"   # 12:00 МСК
+    - cron: "0 10 * * *"  # 13:00 МСК
+    - cron: "0 11 * * *"  # 14:00 МСК
+    - cron: "0 12 * * *"  # 15:00 МСК
+    - cron: "0 13 * * *"  # 16:00 МСК
+    - cron: "0 16 * * *"  # 19:00 МСК
+    - cron: "0 18 * * *"  # 21:00 МСК
+    - cron: "0 20 * * *"  # 23:00 МСК
   workflow_dispatch:
   push:
     branches: [main]
@@ -17,69 +26,42 @@ jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - run: pip install requests
 
-      - name: Install dependencies
-        run: pip install requests
-
-      # Запускаем скрипт только если файл есть в репозитории
-      - name: Update news JSON
+      - name: Обновить новости
         run: |
-          if [ -f update_news_pipeline.py ]; then
-            python update_news_pipeline.py
-          else
-            echo "update_news_pipeline.py не найден — пропускаем"
-          fi
+          [ -f update_news_pipeline.py ] && python update_news_pipeline.py || echo "нет update_news_pipeline.py"
 
-      - name: Update odds from Ligastavok
+      - name: Обновить коэффициенты (the-odds-api.com)
         env:
-          LS_COOKIE: ${{ secrets.LS_COOKIE }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
-          if [ -f update_odds.py ]; then
-            python update_odds.py
-          else
-            echo "update_odds.py не найден — пропускаем"
-          fi
+          [ -f update_odds.py ] && python update_odds.py || echo "нет update_odds.py"
 
-      - name: Update real match results
+      - name: Обновить результаты матчей (football-data.org)
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: |
-          if [ -f update_results.py ]; then
-            python update_results.py
-          else
-            echo "update_results.py не найден — пропускаем"
-          fi
+          [ -f update_results.py ] && python update_results.py || echo "нет update_results.py"
 
-      - name: Ensure api_data.json exists
+      - name: Создать api_data.json если нет
         run: |
-          if [ ! -f api_data.json ]; then
-            echo '{"news":[],"odds":[],"results":[]}' > api_data.json
-            echo "api_data.json создан"
-          fi
+          [ -f api_data.json ] || echo '{"news":[],"odds":[],"results":[]}' > api_data.json
 
-      - name: Commit updated data
+      - name: Коммит данных
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add api_data.json
-          git diff --cached --quiet || git commit -m "Auto update: data"
+          git diff --cached --quiet || git commit -m "Auto update: news + odds + results"
           git push
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v4
