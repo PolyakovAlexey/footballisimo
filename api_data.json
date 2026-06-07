@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "7 июня 2026",
+      "t": "Расписание сборной Кабо-Верде в групповом этапе чемпионата мира п...",
+      "text": "Сборная Кабо-Верде сыграет на чемпионате мира по футболу в группе H.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-kabo-verde-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429115/"
+    },
+    {
+      "d": "7 июня 2026",
       "t": "Источник: запасные могут оставаться в раздевалках во время матчей...",
       "text": "Сборные-участники чемпионата мира-2026 рассматривают возможность разрешить запасным футболистам наблюдать за матчами из раздевалки...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший полузащитник сборной Италии Альберто Аквилани возглавит «Сассуоло», сообщает инсайдер Фабрицио Романо.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/eks-igrok-sbornoy-italii-akvilani-stanet-glavnym-trenerom-sassuolo-2429098/"
-    },
-    {
-      "d": "7 июня 2026",
-      "t": "Почеттино после поражения США от Германии: «Реакция была потрясаю...",
-      "text": "Главный тренер сборной США Маурисио Почеттино прокомментировал поражение от команды Германии (1:2) в товарищеском матче.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-ssha-pochettino-prokommentiroval-porazhenie-ot-komandy-germanii-v-tovarischeskom-matche-2429090/"
     }
   ],
   "odds": [
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-07T08:43:44.853956Z"
+  "odds_updated": "2026-06-07T09:12:51.344042Z"
 }
