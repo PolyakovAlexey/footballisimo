@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "7 июня 2026",
+      "t": "Источник: запасные могут оставаться в раздевалках во время матчей...",
+      "text": "Сборные-участники чемпионата мира-2026 рассматривают возможность разрешить запасным футболистам наблюдать за матчами из раздевалки...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/istochnik-zapasnye-mogut-ostavatsya-v-razdevalkah-vo-vremya-matchey-chm-2026-iz-za-zhary-2429141/"
+    },
+    {
+      "d": "7 июня 2026",
       "t": "Защитник сборной Бразилии Уэсли получил травму перед ЧМ-2026",
       "text": "Защитник сборной Бразилии Уэсли получил повреждение в товарищеском матче против Египта (2:1).",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер сборной США Маурисио Почеттино прокомментировал поражение от команды Германии (1:2) в товарищеском матче.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-ssha-pochettino-prokommentiroval-porazhenie-ot-komandy-germanii-v-tovarischeskom-matche-2429090/"
-    },
-    {
-      "d": "7 июня 2026",
-      "t": "Сборная Кюрасао разгромила сборную Арубы в товарищеской игре",
-      "text": "Сборная Кюрасао победила команду Арубы в товарищеском матче на своем поле в Виллемстаде — 4:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kyurasao-aruba-rezultat-tovarischeskogo-matcha-7-iyunya-2026-2429079/"
     }
   ],
   "odds": [
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-07T08:26:54.508100Z"
+  "odds_updated": "2026-06-07T08:43:44.853956Z"
 }
