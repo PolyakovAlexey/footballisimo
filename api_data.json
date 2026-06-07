@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "7 июня 2026",
+      "t": "Расписание сборной Новой Зеландии в групповом этапе чемпионата ми...",
+      "text": "Сборная Новой Зеландии сыграет на чемпионате мира по футболу в группе G.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-novoy-zelandii-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429161/"
+    },
+    {
+      "d": "7 июня 2026",
       "t": "Расписание сборной Ирана в групповом этапе чемпионата мира по фут...",
       "text": "Сборная Ирана сыграет на чемпионате мира по футболу в группе G.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер сборной Шотландии Стив Кларк прокомментировал победу над Боливией (4:0) в товарищеском матче.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-shotlandii-klark-prokommentiroval-pobedu-nad-boliviey-v-tovarischeskom-matche-2429103/"
-    },
-    {
-      "d": "7 июня 2026",
-      "t": "Нгумоа вошел в пятерку самых молодых дебютантов в истории сборной...",
-      "text": "Полузащитник «Ливерпуля» Рио Нгумоа дебютировал за сборную Англии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/ngumoa-voshel-v-pyaterku-samyh-molodyh-debyutantov-v-istorii-sbornoy-anglii-2429102/"
     }
   ],
   "odds": [
@@ -83,7 +83,7 @@
       "t1": "США",
       "t2": "Парагвай",
       "k1": 1.96,
-      "kDraw": 3.45,
+      "kDraw": 3.42,
       "k2": 3.98
     },
     {
@@ -103,9 +103,9 @@
     {
       "t1": "Гаити",
       "t2": "Шотландия",
-      "k1": 6.85,
+      "k1": 6.72,
       "kDraw": 4.28,
-      "k2": 1.48
+      "k2": 1.49
     },
     {
       "t1": "Австралия",
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-07T10:25:45.119700Z"
+  "odds_updated": "2026-06-07T11:07:11.680646Z"
 }
