@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "7 июня 2026",
+      "t": "Расписание сборной Саудовской Аравии в групповом этапе чемпионата...",
+      "text": "Сборная Саудовской Аравии сыграет на чемпионате мира по футболу в группе H.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-saudovskoy-aravii-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429182/"
+    },
+    {
+      "d": "7 июня 2026",
+      "t": "Барановская заявила, что ее сын пропитался «спартаковским духом»:...",
+      "text": "Юлия Барановская в кулуарах ПМЭФ-2026 рассказала «СЭ», что ее сын Арсений пропитался «спартаковским духом».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/yuliya-baranovskaya-rasskazala-chto-ee-syn-arseniy-propitalsya-spartakovskim-duhom-2429185/"
+    },
+    {
+      "d": "7 июня 2026",
+      "t": "Барановская о выступлении сына за «Спартак»: «Это уже образ жизни...",
+      "text": "Юлия Барановская в разговоре с «СЭ» в кулуарах ПМЭФ-2026 высказалась о выступлении своего сына Арсения за «Спартак».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/yuliya-baranovskaya-vyskazalas-o-vystuplenii-svoego-syna-arseniya-za-spartak-2429180/"
+    },
+    {
+      "d": "7 июня 2026",
       "t": "Расписание сборной Новой Зеландии в групповом этапе чемпионата ми...",
       "text": "Сборная Новой Зеландии сыграет на чемпионате мира по футболу в группе G.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Сборные-участники чемпионата мира-2026 рассматривают возможность разрешить запасным футболистам наблюдать за матчами из раздевалки...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/istochnik-zapasnye-mogut-ostavatsya-v-razdevalkah-vo-vremya-matchey-chm-2026-iz-za-zhary-2429141/"
-    },
-    {
-      "d": "7 июня 2026",
-      "t": "Защитник сборной Бразилии Уэсли получил травму перед ЧМ-2026",
-      "text": "Защитник сборной Бразилии Уэсли получил повреждение в товарищеском матче против Египта (2:1).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-brazilii-uesli-poluchil-travmu-pered-chm-2026-2429109/"
-    },
-    {
-      "d": "7 июня 2026",
-      "t": "Тухель — о матче Англии с Новой Зеландией: «Мы подавали кроссы, м...",
-      "text": "Главный тренер сборной Англии Томас Тухель прокомментировал победу над Новой Зеландией (1:0) в товарищеском матче.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-anglii-tuhel-prokommentiroval-pobedu-nad-novoy-zelandiey-v-tovarischeskom-matche-2429105/"
-    },
-    {
-      "d": "7 июня 2026",
-      "t": "Тренер сборной Шотландии Кларк после победы над Боливией: «На это...",
-      "text": "Главный тренер сборной Шотландии Стив Кларк прокомментировал победу над Боливией (4:0) в товарищеском матче.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-shotlandii-klark-prokommentiroval-pobedu-nad-boliviey-v-tovarischeskom-matche-2429103/"
     }
   ],
   "odds": [
@@ -350,7 +350,7 @@
       "t2": "Ирак",
       "k1": 1.12,
       "kDraw": 7.88,
-      "k2": 21.36
+      "k2": 21.34
     },
     {
       "t1": "Норвегия",
@@ -411,8 +411,8 @@
     {
       "t1": "Шотландия",
       "t2": "Бразилия",
-      "k1": 5.96,
-      "kDraw": 4.77,
+      "k1": 5.94,
+      "kDraw": 4.76,
       "k2": 1.46
     },
     {
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-07T12:23:25.893638Z"
+  "odds_updated": "2026-06-07T13:16:02.003930Z"
 }
