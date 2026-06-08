@@ -448,6 +448,7 @@ header nav{margin-left:8px}
       </div>
       <button class="adm-btn" onclick="adminSaveOdds()">Сохранить коэффициенты</button>
     </div>
+    <div id="adm-pane-settings" style="display:none;padding:4px 0"></div>
   </div>
 </div>
 
@@ -1593,6 +1594,35 @@ function startAutoRefresh(){
 let _fbReason = '';
 
 
+
+function filterBets(){
+  if(!ACC) return;
+  var q=(document.getElementById('bet-search')?document.getElementById('bet-search').value||'':'').toLowerCase();
+  var pend=ACC.pending||[], sett=ACC.settled||[];
+  var pendF=pend.filter(function(b){return !q||(b.label||'').toLowerCase().indexOf(q)>=0;});
+  var settF=sett.filter(function(b){return !q||(b.label||'').toLowerCase().indexOf(q)>=0;});
+
+  var pp=document.getElementById('pf-pend');
+  var ps=document.getElementById('pf-sett');
+
+  var mkPend=pendF.length?pendF.map(function(b,i){
+    return '<div class="history-item"><div style="max-width:170px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(b.label||'')+'</div>'
+      +'<div style="font-size:11px;color:var(--txm)">×'+b.odds+' · '+b.stake.toLocaleString('ru')+' ₽</div></div>'
+      +'<div style="display:flex;align-items:center;gap:8px"><span style="color:#eab308;font-size:11px;font-weight:700">ждём</span>'
+      +'<button onclick="cancelBet('+pend.indexOf(b)+')" style="background:none;border:1px solid var(--sec);color:var(--sec);border-radius:6px;font-size:11px;padding:3px 8px;cursor:pointer">Отменить</button></div></div>';
+  }).join(''):'<p style="color:var(--txm);font-size:13px">Нет активных ставок</p>';
+
+  var mkSett=settF.length?settF.map(function(h){
+    var profit=h.won?'+'+(h.payout-h.stake).toLocaleString('ru')+' ₽':'−'+h.stake.toLocaleString('ru')+' ₽';
+    return '<div class="history-item"><div style="max-width:200px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(h.label||'')+' ('+h.score+')</div>'
+      +'<div style="font-size:11px;color:var(--txm)">×'+h.odds+' · '+h.stake.toLocaleString('ru')+' ₽</div></div>'
+      +'<span class="'+(h.won?'win-badge':'loss-badge')+'">'+profit+'</span></div>';
+  }).join(''):'<p style="color:var(--txm);font-size:13px">Сыгранных ставок пока нет</p>';
+
+  if(pp) pp.innerHTML=mkPend;
+  if(ps) ps.innerHTML=mkSett;
+}
+
 function cancelBet(i){
   if(!ACC || !ACC.pending || !ACC.pending[i]) return;
   if(!confirm('Отменить ставку и вернуть '+ACC.pending[i].stake.toLocaleString('ru')+' ₽?')) return;
@@ -1643,9 +1673,9 @@ function renderProfile(){
     +'<input class="auth-input" id="pf-pass" type="password" placeholder="Новый пароль (мин. 6)">'
     +'<button class="auth-submit" onclick="changePass()">Сменить пароль</button>'
     +'<div class="auth-msg" id="pf-msg"></div>'
-    +'<div style="margin:16px 0 10px"><input id="bet-search" class="auth-input" placeholder="🔍 Поиск ставки…" oninput="renderProfile()" style="margin:0"></div>'
-    +'<h3 style="font-size:14px;margin:10px 0 8px">Активные ставки ('+pend.length+')</h3>'+betsPend
-    +'<h3 style="font-size:14px;margin:18px 0 8px">Сыгранные ставки ('+settF.length+')</h3>'+betsSett
+    +'<div style="margin:16px 0 10px"><input id="bet-search" class="auth-input" placeholder="🔍 Поиск ставки…" oninput="filterBets()" style="margin:0"></div>'
+    +'<h3 style="font-size:14px;margin:10px 0 8px">Активные ставки ('+pendF.length+')</h3><div id="pf-pend">'+betsPend+'</div>'
+    +'<h3 style="font-size:14px;margin:18px 0 8px">Сыгранные ставки ('+settF.length+')</h3><div id="pf-sett">'+betsSett+'</div>'
     +'<button class="loan-btn" style="margin-top:18px;border-color:var(--txm);color:var(--tx)" onclick="closeProfile();logout()">Выйти из аккаунта</button>';
 }
 
