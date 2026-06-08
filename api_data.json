@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "8 июня 2026",
+      "t": "Смолов пока не принял решение о завершении карьеры",
+      "text": "Нападающий сборной России Федор Смолов заявил «СЭ», что пока не принял решение о завершении карьеры.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/rossiyskiy-napadayuschiy-fedor-smolov-poka-ne-prinyal-reshenie-o-zavershenii-karery-2429403/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Вахания — о Тринидаде и Тобаго: «Команда, которая старается играт...",
+      "text": "Защитник сборной России Илья Вахания рассказал о своем состоянии перед BetBoom товарищеским матче против Тринидада и Тобаго.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/zaschitnik-sbornoy-rossii-ilya-vahaniya-kommentariy-o-matche-protiv-trinidada-i-tobago-2429407/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Мамаев — о назначении советником президента «Волги»: «Новая должн...",
+      "text": "Бывший полузащитник сборной России Павел Мамаев прокомментировал «СЭ» назначение на должность советника президента ульяновского фу...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_d1/news/pavel-mamaev-kommentariy-o-naznachenii-sovetnikom-prezidenta-volgi-2429402/"
+    },
+    {
+      "d": "8 июня 2026",
       "t": "Смолов заявил, что ориентируется на Гвардиолу: «Гениальный тренер...",
       "text": "Нападающий сборной России Федор Смолов ответил на вопрос «СЭ», на кого из тренеров ориентируется.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Пресс-служба РФС сообщила о прибытии сборной России по футболу в Калининград.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-po-futbolu-priletela-v-kaliningrad-2429371/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Расписание сборной Норвегии в групповом этапе чемпионата мира по ...",
-      "text": "Сборная Норвегии будет играть на чемпионате мира по футболу в группе I.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-norvegii-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429362/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "На матч сборной России против Тринидада и Тобаго реализовано окол...",
-      "text": "Как сообщили «СЭ» в пресс-службе РФС, на матч сборной России против Тринидада и Тобаго реализовано около 30 тысяч билетов. В прода...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/na-match-sbornoy-rossii-protiv-trinidada-i-tobago-realizovano-okolo-30-tysyach-biletov-2429367/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Губернатор Калининградской области: «Талалаев не хочет уходить из...",
-      "text": "Губернатор Калининградской области Алексей Беспрозванных в разговоре с «СЭ» в кулуарах ПМЭФ-2026 оценил перспективы «Балтики» в пр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/gubernator-kaliningradskoy-oblasti-aleksey-besprozvannyh-kommentariy-o-perspektivah-baltiki-2429363/"
     }
   ],
   "odds": [
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-08T12:04:57.849313Z"
+  "odds_updated": "2026-06-08T12:25:53.330919Z"
 }
