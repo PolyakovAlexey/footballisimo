@@ -2,59 +2,59 @@
   "news": [
     {
       "d": "8 июня 2026",
+      "t": "Смолов заявил, что ориентируется на Гвардиолу: «Гениальный тренер...",
+      "text": "Нападающий сборной России Федор Смолов ответил на вопрос «СЭ», на кого из тренеров ориентируется.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-sbornoy-rossii-fedor-smolov-zayavil-chto-orientiruetsya-na-trenera-hosepa-gvardiolu-2429400/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Губернатор Калининградской области об игре сборной России: «Важно...",
+      "text": "Губернатор Калининградской области Алексей Беспрозванных в разговоре с «СЭ» поделился ожиданиями от проведения товарищеского матча...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/gubernator-kaliningradskoy-oblasti-otmetil-azhiotazh-vokrug-matcha-sbornoy-rosiii-protiv-trinidada-i-tobago-2429395/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Вратарь «Локомотива» Митрюшкин считает, что сборная Франции выигр...",
+      "text": "Вратарь «Локомотива» Антон Митрюшкин назвал своих фаворитов чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vratar-lokomotiva-mitryushkin-schitaet-chto-sbornaya-francii-vyigraet-chm-2026-2429387/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Расписание сборной Алжира в групповом этапе чемпионата мира по фу...",
+      "text": "Сборная Алжира будет играть на чемпионате мира по футболу в группе J.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-alzhira-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429368/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Сборная России по футболу прилетела в Калининград",
+      "text": "Пресс-служба РФС сообщила о прибытии сборной России по футболу в Калининград.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-po-futbolu-priletela-v-kaliningrad-2429371/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "Расписание сборной Норвегии в групповом этапе чемпионата мира по ...",
+      "text": "Сборная Норвегии будет играть на чемпионате мира по футболу в группе I.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-norvegii-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429362/"
+    },
+    {
+      "d": "8 июня 2026",
+      "t": "На матч сборной России против Тринидада и Тобаго реализовано окол...",
+      "text": "Как сообщили «СЭ» в пресс-службе РФС, на матч сборной России против Тринидада и Тобаго реализовано около 30 тысяч билетов. В прода...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/na-match-sbornoy-rossii-protiv-trinidada-i-tobago-realizovano-okolo-30-tysyach-biletov-2429367/"
+    },
+    {
+      "d": "8 июня 2026",
       "t": "Губернатор Калининградской области: «Талалаев не хочет уходить из...",
       "text": "Губернатор Калининградской области Алексей Беспрозванных в разговоре с «СЭ» в кулуарах ПМЭФ-2026 оценил перспективы «Балтики» в пр...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/gubernator-kaliningradskoy-oblasti-aleksey-besprozvannyh-kommentariy-o-perspektivah-baltiki-2429363/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Расписание сборной Сенегала в групповом этапе чемпионата мира по ...",
-      "text": "Сборная Сенегала будет играть на чемпионате мира по футболу в группе I.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-senegala-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429344/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Павел Мамаев стал советником президента ульяновской «Волги»",
-      "text": "Бывший полузащитник сборной России Павел Мамаев стал советником президента «Волги», сообщает пресс-служба ульяновского клуба.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/pavel-mamaev-stal-sovetnikom-prezidenta-ulyanovskoy-volgi-2429350/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Расписание сборной Туниса в групповом этапе чемпионата мира по фу...",
-      "text": "Сборная Туниса сыграет на чемпионате мира по футболу в группе F.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/raspisanie-sbornoy-tunisa-v-gruppovom-etape-chempionata-mira-po-futbolu-2026-2429340/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Кисляк: «Верю, что еще сыграю на чемпионате мира за сборную»",
-      "text": "Полузащитник ЦСКА Матвей Кисляк в разговоре с «СЭ» высказался об отстранении сборной России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/matvey-kislyak-verit-chto-sygraet-za-sbornuyu-rossii-na-chempionate-mira-2429335/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Инфантино пожелал полузащитнику сборной Дании Эриксену скорейшего...",
-      "text": "Президент ФИФА Джанни Инфантино отреагировал на ситуацию с капитаном сборной Дании Кристианом Эриксеном, который потерял сознание ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/prezident-fifa-dzhanni-infantino-pozhelal-poluzaschitniku-sbornoy-danii-kristianu-eriksenu-skoreyshego-vyzdorovleniya-2429316/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Кейн — о жаре на ЧМ-2026: «Это не будет проблемой. Мы уже привыкл...",
-      "text": "Нападающий сборной Англии Харри Кейн считает, что высокая температура воздуха на финальном турнире чемпионата мира-2026 не станет ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-sbornoy-anglii-keyn-prokommentiroval-situaciyu-s-zharoy-na-chm-po-futbolu-2026-2429310/"
-    },
-    {
-      "d": "8 июня 2026",
-      "t": "Игроки сборной Марокко Мазрауи и Эззалзули получили травмы за нес...",
-      "text": "Футболисты сборной Марокко Нуссаир Мазрауи и Абде Эззалзули получили повреждения в товарищеском матче против Норвегии (1:1) перед ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/igroki-sbornoy-marokko-mazraui-i-ezzalzuli-poluchili-travmy-za-neskolko-dney-do-chm-2026-2429308/"
     }
   ],
   "odds": [
@@ -103,8 +103,8 @@
     {
       "t1": "Гаити",
       "t2": "Шотландия",
-      "k1": 6.72,
-      "kDraw": 4.35,
+      "k1": 6.73,
+      "kDraw": 4.38,
       "k2": 1.48
     },
     {
@@ -117,8 +117,8 @@
     {
       "t1": "Германия",
       "t2": "Curaçao",
-      "k1": 1.01,
-      "kDraw": 19.0,
+      "k1": 1.02,
+      "kDraw": 18.0,
       "k2": 46.0
     },
     {
@@ -132,7 +132,7 @@
       "t1": "Кот-д'Ивуар",
       "t2": "Эквадор",
       "k1": 3.61,
-      "kDraw": 2.75,
+      "kDraw": 2.78,
       "k2": 2.42
     },
     {
@@ -140,21 +140,21 @@
       "t2": "Тунис",
       "k1": 1.91,
       "kDraw": 3.4,
-      "k2": 4.29
+      "k2": 4.28
     },
     {
       "t1": "Испания",
       "t2": "Кабо-Верде",
       "k1": 1.08,
-      "kDraw": 11.15,
-      "k2": 27.43
+      "kDraw": 11.4,
+      "k2": 26.93
     },
     {
       "t1": "Бельгия",
       "t2": "Египет",
-      "k1": 1.67,
-      "kDraw": 3.82,
-      "k2": 5.15
+      "k1": 1.65,
+      "kDraw": 3.87,
+      "k2": 5.35
     },
     {
       "t1": "Саудовская Аравия",
@@ -166,7 +166,7 @@
     {
       "t1": "Иран",
       "t2": "Нов. Зеландия",
-      "k1": 1.89,
+      "k1": 1.9,
       "kDraw": 3.38,
       "k2": 4.36
     },
@@ -180,7 +180,7 @@
     {
       "t1": "Ирак",
       "t2": "Норвегия",
-      "k1": 13.36,
+      "k1": 13.37,
       "kDraw": 6.88,
       "k2": 1.2
     },
@@ -300,8 +300,8 @@
       "t1": "Эквадор",
       "t2": "Curaçao",
       "k1": 1.19,
-      "kDraw": 6.62,
-      "k2": 12.66
+      "kDraw": 6.64,
+      "k2": 12.73
     },
     {
       "t1": "Тунис",
@@ -341,16 +341,16 @@
     {
       "t1": "Аргентина",
       "t2": "Австрия",
-      "k1": 1.64,
-      "kDraw": 3.73,
-      "k2": 5.19
+      "k1": 1.62,
+      "kDraw": 3.75,
+      "k2": 5.27
     },
     {
       "t1": "Франция",
       "t2": "Ирак",
       "k1": 1.12,
       "kDraw": 7.88,
-      "k2": 21.34
+      "k2": 21.43
     },
     {
       "t1": "Норвегия",
@@ -362,8 +362,8 @@
     {
       "t1": "Иордания",
       "t2": "Алжир",
-      "k1": 6.12,
-      "kDraw": 4.08,
+      "k1": 6.14,
+      "kDraw": 4.11,
       "k2": 1.5
     },
     {
@@ -439,8 +439,8 @@
     {
       "t1": "Curaçao",
       "t2": "Кот-д'Ивуар",
-      "k1": 11.32,
-      "kDraw": 5.77,
+      "k1": 11.4,
+      "kDraw": 5.78,
       "k2": 1.23
     },
     {
@@ -490,7 +490,7 @@
       "t2": "Ирак",
       "k1": 1.4,
       "kDraw": 4.47,
-      "k2": 7.39
+      "k2": 7.44
     },
     {
       "t1": "Кабо-Верде",
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-08T10:15:31.269473Z"
+  "odds_updated": "2026-06-08T12:04:57.849313Z"
 }
