@@ -419,6 +419,7 @@ header nav{margin-left:8px}
       <button class="adm-tab active" id="adm-tab-players" onclick="adminTab('players')">Участники</button>
       <button class="adm-tab" id="adm-tab-results" onclick="adminTab('results')">Результаты</button>
       <button class="adm-tab" id="adm-tab-odds" onclick="adminTab('odds')">Коэффициенты</button>
+      <button class="adm-tab" id="adm-tab-settings" onclick="adminTab('settings')">Настройки</button>
     </div>
 
     <div id="adm-pane-players">
@@ -1195,6 +1196,11 @@ function renderAcctPanel(){
 
 function takeLoan(){
   if(!ACC){ openAuth(); return; }
+  var currentLoans = Math.round((ACC.loans||0) / LOAN_AMOUNT);
+  if(currentLoans >= MAX_LOAN_COUNT){
+    _toast('Лимит кредитов: максимум '+MAX_LOAN_COUNT+' × '+LOAN_AMOUNT.toLocaleString('ru')+' ₽ = '+(MAX_LOAN_COUNT*LOAN_AMOUNT).toLocaleString('ru')+' ₽. Изменить в админке → Настройки.');
+    return;
+  }
   ACC.balance += LOAN_AMOUNT;
   ACC.loans = (ACC.loans||0) + LOAN_AMOUNT;
   saveAccount().then(function(){ refreshAccountUI(); renderLeaderboard(); });
@@ -1280,6 +1286,7 @@ function renderLeaderboard(){
   if(!wrap) return;
   function paint(list){
     list.sort(function(a,b){return _net(b)-_net(a);});
+    if(!isAdmin()) list=list.filter(function(u){return !u.hidden;});
     if(!list.length){ wrap.innerHTML='<p style="color:var(--txm);padding:20px;text-align:center">Пока нет участников — зарегистрируйся первым!</p>'; return; }
     var html='<table class="lb-table"><thead><tr><th class="lb-rank">#</th><th>Участник</th><th style="text-align:right">Баланс</th><th style="text-align:right">Кредиты</th><th style="text-align:right">Зачёт</th></tr></thead><tbody>';
     list.forEach(function(u,i){
@@ -1399,13 +1406,14 @@ function refreshAdminUI(){
 function openAdmin(){ if(!isAdmin()){alert('Доступ только для администратора');return;} document.getElementById('adminModal').classList.add('open'); adminTab('players'); }
 function closeAdmin(){ document.getElementById('adminModal').classList.remove('open'); }
 function adminTab(t){
-  ['players','results','odds'].forEach(function(x){
+  ['players','results','odds','settings'].forEach(function(x){
     document.getElementById('adm-tab-'+x).classList.toggle('active',x===t);
     document.getElementById('adm-pane-'+x).style.display = x===t?'block':'none';
   });
   if(t==='players') renderAdminPlayers();
   if(t==='results') renderAdminMatchPickers();
   if(t==='odds') renderAdminMatchPickers();
+  if(t==='settings') renderAdminSettings();
 }
 
 /* ---- ИГРОКИ ---- */
@@ -1437,6 +1445,7 @@ function renderAdminPlayers(){
         +'<label class="adm-f">Кредиты<input type="number" class="adm-inp" id="loan_'+escapeHtml(key)+'" value="'+(u.loans||0)+'"></label>'
         +'<button class="adm-save" onclick="adminSavePlayer(\''+escapeHtml(key)+'\')">💾</button>'
         +'<button class="adm-del" onclick="adminDeletePlayer(\''+escapeHtml(key)+'\')">🗑</button>'
+        +'<button class="adm-del" title="скрыть/показать в таблице" onclick="adminToggleHidden(\''+escapeHtml(key)+'\')" style="font-size:16px;padding:5px 8px;border:none;background:none;cursor:pointer;opacity:'+(u.hidden?0.3:1)+'" >👁</button>'
         +'</div>';
     }).join('');
   });
@@ -1605,14 +1614,17 @@ function renderProfile(){
   var pend=(ACC.pending||[]);
   var sett=(ACC.settled||[]);
 
-  var betsPend = pend.length ? pend.map(function(b,i){
+  var q=(document.getElementById('bet-search')?(document.getElementById('bet-search').value||'').toLowerCase():'');
+  var pendF=pend.filter(function(b){return !q||escapeHtml(b.label||'').toLowerCase().indexOf(q)>=0;});
+  var settF=sett.filter(function(b){return !q||escapeHtml(b.label||'').toLowerCase().indexOf(q)>=0;});
+  var betsPend = pendF.length ? pendF.map(function(b,i){
     return '<div class="history-item"><div style="max-width:170px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(b.label)+'</div>'
       +'<div style="font-size:11px;color:var(--txm)">×'+b.odds+' · '+b.stake.toLocaleString('ru')+' ₽</div></div>'
       +'<div style="display:flex;align-items:center;gap:8px"><span style="color:#eab308;font-size:11px;font-weight:700">ждём</span>'
       +'<button onclick="cancelBet('+i+')" style="background:none;border:1px solid var(--sec);color:var(--sec);border-radius:6px;font-size:11px;padding:3px 8px;cursor:pointer">Отменить</button></div></div>';
   }).join('') : '<p style="color:var(--txm);font-size:13px">Нет активных ставок</p>';
 
-  var betsSett = sett.length ? sett.map(function(h){
+  var betsSett = settF.length ? settF.map(function(h){
     var profit=h.won?'+'+(h.payout-h.stake).toLocaleString('ru')+' ₽':'−'+h.stake.toLocaleString('ru')+' ₽';
     return '<div class="history-item"><div style="max-width:200px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(h.label)+' ('+h.score+')</div>'
       +'<div style="font-size:11px;color:var(--txm)">×'+h.odds+' · '+h.stake.toLocaleString('ru')+' ₽</div></div>'
@@ -1631,8 +1643,9 @@ function renderProfile(){
     +'<input class="auth-input" id="pf-pass" type="password" placeholder="Новый пароль (мин. 6)">'
     +'<button class="auth-submit" onclick="changePass()">Сменить пароль</button>'
     +'<div class="auth-msg" id="pf-msg"></div>'
-    +'<h3 style="font-size:14px;margin:18px 0 8px">Активные ставки ('+pend.length+')</h3>'+betsPend
-    +'<h3 style="font-size:14px;margin:18px 0 8px">Сыгранные ставки ('+sett.length+')</h3>'+betsSett
+    +'<div style="margin:16px 0 10px"><input id="bet-search" class="auth-input" placeholder="🔍 Поиск ставки…" oninput="renderProfile()" style="margin:0"></div>'
+    +'<h3 style="font-size:14px;margin:10px 0 8px">Активные ставки ('+pend.length+')</h3>'+betsPend
+    +'<h3 style="font-size:14px;margin:18px 0 8px">Сыгранные ставки ('+settF.length+')</h3>'+betsSett
     +'<button class="loan-btn" style="margin-top:18px;border-color:var(--txm);color:var(--tx)" onclick="closeProfile();logout()">Выйти из аккаунта</button>';
 }
 
@@ -1706,6 +1719,79 @@ function renderPredictions(){
   }).join('');
   setTimeout(function(){ document.querySelectorAll('.pb').forEach(function(b){ b.style.width=b.getAttribute('data-w'); }); },300);
 }
+
+/* ======================================================
+   НОВЫЕ ФУНКЦИИ: лимит кредитов, поиск ставок, скрытие
+   ====================================================== */
+
+/* --- Лимит кредитов (по умолчанию 10, управляется админом) --- */
+let MAX_LOAN_COUNT = 10;
+
+function loadAdminSettings(){
+  if(_fbReady){
+    _db.collection('config').doc('settings').get().then(function(doc){
+      if(doc.exists && doc.data().maxLoanCount) MAX_LOAN_COUNT = doc.data().maxLoanCount;
+    }).catch(function(){});
+  } else {
+    try{ var s=JSON.parse(localStorage.getItem('admin_settings')||'{}'); if(s.maxLoanCount) MAX_LOAN_COUNT=s.maxLoanCount; }catch(e){}
+  }
+}
+function saveAdminSettings(data){
+  if(_fbReady){
+    return _db.collection('config').doc('settings').set(data,{merge:true});
+  } else {
+    try{ var s=JSON.parse(localStorage.getItem('admin_settings')||'{}'); Object.assign(s,data); localStorage.setItem('admin_settings',JSON.stringify(s)); }catch(e){}
+    return Promise.resolve();
+  }
+}
+
+/* --- Скрытие игрока из лидерборда --- */
+function adminToggleHidden(key){
+  _getAllPlayers().then(function(list){
+    var u=list.find(function(x){return (x.uid||x.email)===key;});
+    if(!u) return;
+    var hide=!u.hidden;
+    if(_fbReady){
+      _db.collection('players').doc(key).set({hidden:hide},{merge:true})
+        .then(function(){ renderAdminPlayers(); renderLeaderboard(); })
+        .catch(_admErr);
+    } else {
+      var us=_lsUsers();
+      Object.keys(us).forEach(function(k){ if(us[k].uid===key||us[k].email===key) us[k].hidden=hide; });
+      _lsSave(us); renderAdminPlayers(); renderLeaderboard();
+    }
+  });
+}
+
+/* --- Вкладка Настройки в админке --- */
+function renderAdminSettings(){
+  var pane=document.getElementById('adm-pane-settings');
+  if(!pane) return;
+  pane.innerHTML=''
+    +'<div style="padding:14px 0">'
+    +'<label style="display:block;font-size:13px;color:var(--txm);margin-bottom:6px">Максимум кредитов на одного игрока</label>'
+    +'<div style="display:flex;gap:10px;align-items:center">'
+    +'<input id="set-maxloan" type="number" min="1" max="100" value="'+MAX_LOAN_COUNT+'" class="adm-inp" style="width:80px">'
+    +'<span style="color:var(--txm);font-size:13px">× '+LOAN_AMOUNT.toLocaleString('ru')+' ₽ = макс. '+(MAX_LOAN_COUNT*LOAN_AMOUNT).toLocaleString('ru')+' ₽ кредитов</span>'
+    +'</div>'
+    +'<div id="set-preview" style="color:var(--txm);font-size:12px;margin:6px 0 10px"></div>'
+    +'<button class="adm-save" onclick="adminSaveSettingsUI()">Сохранить настройки</button>'
+    +'</div>';
+  document.getElementById('set-maxloan').oninput=function(){
+    var n=parseInt(this.value)||10;
+    var el=document.getElementById('set-preview');
+    if(el) el.textContent='Макс. сумма кредитов: '+(n*LOAN_AMOUNT).toLocaleString('ru')+' ₽';
+  };
+}
+function adminSaveSettingsUI(){
+  var n=parseInt(document.getElementById('set-maxloan').value)||10;
+  MAX_LOAN_COUNT=n;
+  saveAdminSettings({maxLoanCount:n}).then(function(){
+    _toast('Настройки сохранены. Макс. кредитов: '+n+' ('+( n*LOAN_AMOUNT).toLocaleString('ru')+' ₽)');
+    renderAdminSettings();
+  }).catch(_admErr);
+}
+
 
 function initApp(){
   // Матчи — с флагами и фильтрами по группе
