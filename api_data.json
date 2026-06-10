@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "10 июня 2026",
+      "t": "Месси стал самым возрастным автором гола в истории сборной Аргент...",
+      "text": "Восьмикратный обладатель «Золотого мяча» Лионель Месси побил рекорд Анхеля Лабруны, став самым возрастным автором гола в истории с...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/lionel-messi-stal-samym-vozrastnym-avtorom-gola-v-istorii-sbornoy-argentiny-2429930/"
+    },
+    {
+      "d": "10 июня 2026",
+      "t": "БЕТСИТИ разыграет Harley-Davidson и 16 млн рублей на ЧМ-2026",
+      "text": "Лучшие игроки получат до трех фрибетов.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/stavki-na-sport/novosti-rynka/news/betsiti-razygraet-harley-davidson-i-16-mln-rubley-na-chm-2026-2429919/"
+    },
+    {
+      "d": "10 июня 2026",
       "t": "Талалаев о Месси и Аргентине: «В них верится больше, чем в Португ...",
       "text": "Главный тренер «Балтики» Андрей Талалаев в авторской колонке для «Спорт-Экспресса» сравнил перспективы сборных Аргентины, Португал...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Как рассказали «СЭ» в сборной Тринидада и Тобаго, команда будет добираться до Порт-оф-Спейн с тремя пересадками: в Москве, Стамбул...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-trinidada-i-tobago-provedet-v-nebe-19-chasov-chtoby-dobratsya-domoy-iz-kaliningrada-2429907/"
-    },
-    {
-      "d": "10 июня 2026",
-      "t": "Матч открытия ЧМ-2026 по футболу в Мексике: дата и время, кто сыг...",
-      "text": "Национальные команды Мексики и ЮАР встретятся в матче чемпионата мира 11 июня.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/match-otkrytiya-chm-2026-po-futbolu-v-meksike-data-i-vremya-kto-sygraet-meksika-yuar-2429851/"
-    },
-    {
-      "d": "10 июня 2026",
-      "t": "Талалаев — о просмотре ЧМ-2026: «Задача невыполнимая из-за сборов...",
-      "text": "В колонке для «Спорт-Экспресса», которую главный тренер «Балтики» Андрей Талалаев будет вести во время чемпионата мира,  он призна...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-baltiki-andrey-talalaev-nazval-nevypolnimoy-zadachu-po-prosmotru-vseh-matchey-chm-2026-iz-za-sborov-komandy-2429892/"
     }
   ],
   "odds": [
@@ -146,8 +146,8 @@
       "t1": "Испания",
       "t2": "Кабо-Верде",
       "k1": 1.08,
-      "kDraw": 11.34,
-      "k2": 27.23
+      "kDraw": 11.84,
+      "k2": 28.73
     },
     {
       "t1": "Бельгия",
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-10T14:27:00.010987Z"
+  "odds_updated": "2026-06-10T14:47:54.427436Z"
 }
