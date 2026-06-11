@@ -1,0 +1,70 @@
+name: Update data and deploy
+on:
+  schedule:
+    # Обычное расписание — 11 раз в день с 09:00 до 23:00 МСК
+    - cron: "0 6 * * *"    # 09:00 МСК
+    - cron: "0 8 * * *"    # 11:00 МСК
+    - cron: "0 10 * * *"   # 13:00 МСК
+    - cron: "0 12 * * *"   # 15:00 МСК
+    - cron: "0 14 * * *"   # 17:00 МСК
+
+    # Частые обновления в пиковые часы матчей (16:00-04:00 UTC = 19:00-07:00 МСК)
+    # Каждые 5 минут — минимальный интервал GitHub Actions
+    - cron: "*/5 16-23 * * *"   # 19:00-02:00 МСК каждые 5 мин
+    - cron: "*/5 0-3 * * *"     # 03:00-06:00 МСК каждые 5 мин (поздние матчи)
+
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+
+      - name: Обновить новости
+        run: |
+          [ -f update_news_pipeline.py ] && python update_news_pipeline.py || echo "нет файла"
+
+      - name: Обновить коэффициенты
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: |
+          [ -f update_odds.py ] && python update_odds.py || echo "нет файла"
+
+      - name: Обновить результаты матчей (живые данные)
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: |
+          [ -f update_results.py ] && python update_results.py || echo "нет файла"
+
+      - name: Создать api_data.json если нет
+        run: |
+          [ -f api_data.json ] || echo '{"news":[],"odds":[],"results":[]}' > api_data.json
+
+      - name: Коммит данных
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add api_data.json
+          git diff --cached --quiet || git commit -m "Live update: results + odds"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - uses: actions/deploy-pages@v4
