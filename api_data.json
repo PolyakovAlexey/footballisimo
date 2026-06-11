@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "11 июня 2026",
+      "t": "Мбаппе рассказал, за кого болела сборная Франции в финале Лиги че...",
+      "text": "Капитан сборной Франции Килиан Мбаппе рассказал, что в финале Лиги чемпионов французская команда болела за «ПСЖ».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mbappe-rasskazal-za-kogo-bolela-sbornaya-francii-v-finale-ligi-chempionov-2430297/"
+    },
+    {
+      "d": "11 июня 2026",
       "t": "Вратарь сборной ЮАР назвал причины поражения от Мексики",
       "text": "Вратарь сборной ЮАР Ронвен Уильямс прокомментировал поражение от Мексики (0:2) в первом матче чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Сборная ДР Конго получила разрешение на въезд в США для участия в чемпионате мира 2026 года, сообщает AFP.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/sbornoy-dr-kongo-razreshili-vezd-v-ssha-dlya-uchastiya-v-chm-2026-2430285/"
-    },
-    {
-      "d": "11 июня 2026",
-      "t": "«Локомотив» отреагировал на удаление Монтеса в матче открытия ЧМ-...",
-      "text": "«Локомотив» на официальных страницах в социальных сетях отреагировал на удаление мексиканского защитника команды Сесара Монтеса в ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/lokomotiv-otreagiroval-na-udalenie-montesa-v-matche-otkrytiya-chm-2026-2430284/"
     }
   ],
   "odds": [
@@ -68,9 +68,9 @@
     {
       "t1": "Канада",
       "t2": "Bosnia & Herzegovina",
-      "k1": 1.84,
-      "kDraw": 3.5,
-      "k2": 4.63
+      "k1": 1.83,
+      "kDraw": 3.48,
+      "k2": 4.68
     },
     {
       "t1": "США",
@@ -82,8 +82,8 @@
     {
       "t1": "Катар",
       "t2": "Швейцария",
-      "k1": 13.97,
-      "kDraw": 6.66,
+      "k1": 13.96,
+      "kDraw": 6.64,
       "k2": 1.21
     },
     {
@@ -556,6 +556,944 @@
       "k2": 1.17
     }
   ],
-  "results": [],
-  "odds_updated": "2026-06-11T23:27:59.841676Z"
+  "results": [
+    {
+      "t1": "Мексика",
+      "t2": "Юж. Африка",
+      "score1": 2,
+      "score2": 0,
+      "status": "FINISHED",
+      "utcDate": "2026-06-11T19:00:00Z",
+      "winner": "HOME_TEAM"
+    },
+    {
+      "t1": "Ю. Корея",
+      "t2": "Чехия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-12T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Канада",
+      "t2": "Босния и Г.",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-12T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "США",
+      "t2": "Парагвай",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-13T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Катар",
+      "t2": "Швейцария",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-13T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Бразилия",
+      "t2": "Марокко",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-13T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Гаити",
+      "t2": "Шотландия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-14T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Австралия",
+      "t2": "Турция",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-14T04:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Германия",
+      "t2": "Кюрасао",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-14T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Нидерланды",
+      "t2": "Япония",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-14T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Кот-д'Ивуар",
+      "t2": "Эквадор",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-14T23:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Швеция",
+      "t2": "Тунис",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Испания",
+      "t2": "Cape Verde Islands",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T16:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Бельгия",
+      "t2": "Египет",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Саудовская Аравия",
+      "t2": "Уругвай",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-15T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Иран",
+      "t2": "Нов. Зеландия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-16T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Франция",
+      "t2": "Сенегал",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-16T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Ирак",
+      "t2": "Норвегия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-16T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Аргентина",
+      "t2": "Алжир",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-17T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Австрия",
+      "t2": "Иордания",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-17T04:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Португалия",
+      "t2": "ДРК",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-17T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Англия",
+      "t2": "Хорватия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-17T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Гана",
+      "t2": "Панама",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-17T23:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Узбекистан",
+      "t2": "Колумбия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-18T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Чехия",
+      "t2": "Юж. Африка",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-18T16:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Швейцария",
+      "t2": "Босния и Г.",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-18T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Канада",
+      "t2": "Катар",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-18T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Мексика",
+      "t2": "Ю. Корея",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-19T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "США",
+      "t2": "Австралия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-19T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Шотландия",
+      "t2": "Марокко",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-19T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Бразилия",
+      "t2": "Гаити",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-20T00:30:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Турция",
+      "t2": "Парагвай",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-20T03:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Нидерланды",
+      "t2": "Швеция",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-20T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Германия",
+      "t2": "Кот-д'Ивуар",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-20T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Эквадор",
+      "t2": "Кюрасао",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-21T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Тунис",
+      "t2": "Япония",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-21T04:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Испания",
+      "t2": "Саудовская Аравия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-21T16:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Бельгия",
+      "t2": "Иран",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-21T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Уругвай",
+      "t2": "Cape Verde Islands",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-21T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Нов. Зеландия",
+      "t2": "Египет",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-22T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Аргентина",
+      "t2": "Австрия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-22T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Франция",
+      "t2": "Ирак",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-22T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Норвегия",
+      "t2": "Сенегал",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-23T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Иордания",
+      "t2": "Алжир",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-23T03:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Португалия",
+      "t2": "Узбекистан",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-23T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Англия",
+      "t2": "Гана",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-23T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Панама",
+      "t2": "Хорватия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-23T23:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Колумбия",
+      "t2": "ДРК",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-24T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Швейцария",
+      "t2": "Канада",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-24T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Босния и Г.",
+      "t2": "Катар",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-24T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Марокко",
+      "t2": "Гаити",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-24T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Шотландия",
+      "t2": "Бразилия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-24T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Чехия",
+      "t2": "Мексика",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-25T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Юж. Африка",
+      "t2": "Ю. Корея",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-25T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Эквадор",
+      "t2": "Германия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-25T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Кюрасао",
+      "t2": "Кот-д'Ивуар",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-25T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Тунис",
+      "t2": "Нидерланды",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-25T23:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Япония",
+      "t2": "Швеция",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-25T23:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Турция",
+      "t2": "США",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-26T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Парагвай",
+      "t2": "Австралия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-26T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Норвегия",
+      "t2": "Франция",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-26T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Сенегал",
+      "t2": "Ирак",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-26T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Уругвай",
+      "t2": "Испания",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Cape Verde Islands",
+      "t2": "Саудовская Аравия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Нов. Зеландия",
+      "t2": "Бельгия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T03:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Египет",
+      "t2": "Иран",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T03:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Панама",
+      "t2": "Англия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Хорватия",
+      "t2": "Гана",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Колумбия",
+      "t2": "Португалия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T23:30:00Z",
+      "winner": null
+    },
+    {
+      "t1": "ДРК",
+      "t2": "Узбекистан",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-27T23:30:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Иордания",
+      "t2": "Аргентина",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-28T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "Алжир",
+      "t2": "Австрия",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-28T02:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-28T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-29T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-29T20:30:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-30T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-30T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-06-30T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-01T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-01T16:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-01T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-02T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-02T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-02T23:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-03T03:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-03T18:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-03T22:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-04T01:30:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-04T17:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-04T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-05T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-06T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-06T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-07T00:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-07T16:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-07T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-09T20:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-10T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-11T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-12T01:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-14T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-15T19:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-18T21:00:00Z",
+      "winner": null
+    },
+    {
+      "t1": "?",
+      "t2": "?",
+      "score1": null,
+      "score2": null,
+      "status": "TIMED",
+      "utcDate": "2026-07-19T19:00:00Z",
+      "winner": null
+    }
+  ],
+  "odds_updated": "2026-06-11T23:35:12.177080Z",
+  "results_updated": "2026-06-11T23:35:13.102917Z"
 }
