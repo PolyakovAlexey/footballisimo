@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "11 июня 2026",
+      "t": "Ватару Эндо пропустит ЧМ-2026 и объявил о завершении карьеры в сб...",
+      "text": "Полузащитник «Ливерпуля» и сборной Японии Ватару Эндо сообщил, что не сыграет на ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vataru-endo-propustit-chm-2026-i-obyavil-o-zavershenii-karery-v-sbornoy-yaponii-2430252/"
+    },
+    {
+      "d": "11 июня 2026",
+      "t": "Шакира выступила на открытии чемпионата мира-2026",
+      "text": "Колумбийская певица Шакира выступила на церемонии открытия чемпионата мира по футболу 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/shakira-vystupila-na-otkrytii-chempionata-mira-2026-2430250/"
+    },
+    {
+      "d": "11 июня 2026",
+      "t": "Мексика — ЮАР, 11 июня 2026: прямая трансляция матча чемпионата м...",
+      "text": "Игра состоится на стадионе «Ацтека» в Мехико (Мексика).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/meksika-yuar-11-iyunya-2026-pryamaya-translyaciya-matcha-chempionata-mira-video-onlayn-2430229/"
+    },
+    {
+      "d": "11 июня 2026",
       "t": "ЧМ по футболу 2026: кто выиграет турнир",
       "text": "Кто является главным фаворитом на победу на ЧМ-2026.",
       "src": "Спорт-Экспресс",
@@ -34,42 +55,21 @@
       "text": "В Мексике стартовала церемония открытия чемпионата мира по футболу-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/v-meksike-nachalas-ceremoniya-otkrytiya-chm-2026-2430245/"
-    },
-    {
-      "d": "11 июня 2026",
-      "t": "ЧМ по футболу 2026: почему сборная России не участвует",
-      "text": "Почему сборная России не сыграет на ЧМ-2026?",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chm-po-futbolu-2026-pochemu-sbornaya-rossii-ne-uchastvuet-2430156/"
-    },
-    {
-      "d": "11 июня 2026",
-      "t": "Семин назвал фаворитов предстоящего чемпионата мира-2026",
-      "text": "Бывший главный тренер сборной России Юрий Семин рассказал «СЭ», кого считает фаворитами предстоящего чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chm-2026-po-futbolu-prognoz-yuriya-semina-kto-favorit-turnira-2430243/"
-    },
-    {
-      "d": "11 июня 2026",
-      "t": "Мексика — ЮАР: хозяева с восьмой попытки выиграют матч открытия Ч...",
-      "text": "11 июня в Мехико стартует долгожданный XXIII чемпионат мира по футболу.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/stavki-na-sport/prognozy/news/meksika-yuar-prognoz-na-match-chm-2026-11-iyunya-2026-goda-2430239/"
     }
   ],
   "odds": [
     {
       "t1": "Мексика",
       "t2": "Юж. Африка",
-      "k1": 1.42,
-      "kDraw": 4.62,
-      "k2": 8.38
+      "k1": 1.44,
+      "kDraw": 4.42,
+      "k2": 8.75
     },
     {
       "t1": "Ю. Корея",
       "t2": "Чехия",
       "k1": 2.67,
-      "kDraw": 3.02,
+      "kDraw": 3.04,
       "k2": 2.96
     },
     {
@@ -82,7 +82,7 @@
     {
       "t1": "США",
       "t2": "Парагвай",
-      "k1": 1.91,
+      "k1": 1.92,
       "kDraw": 3.45,
       "k2": 4.29
     },
@@ -564,5 +564,5 @@
     }
   ],
   "results": [],
-  "odds_updated": "2026-06-11T18:07:17.880036Z"
+  "odds_updated": "2026-06-11T18:23:45.737039Z"
 }
