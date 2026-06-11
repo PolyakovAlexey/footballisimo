@@ -1518,6 +1518,7 @@ function renderAdminPlayers(){
         +'<label class="adm-f">Баланс<input type="number" class="adm-inp" id="bal_'+escapeHtml(key)+'" value="'+(u.balance||0)+'"></label>'
         +'<label class="adm-f">Кредиты<input type="number" class="adm-inp" id="loan_'+escapeHtml(key)+'" value="'+(u.loans||0)+'"></label>'
         +'<button class="adm-save" onclick="adminSavePlayer(\''+escapeHtml(key)+'\')">💾</button>'
+        +'<button class="adm-save" style="background:var(--s2);color:var(--pr)" onclick="adminViewBets(\''+escapeHtml(key)+'\')" title="Смотреть ставки">📋</button>'
         +'<button class="adm-del" onclick="adminDeletePlayer(\''+escapeHtml(key)+'\')">🗑</button>'
         +'<button class="adm-del" title="скрыть/показать в таблице" onclick="adminToggleHidden(\''+escapeHtml(key)+'\')" style="font-size:16px;padding:5px 8px;border:none;background:none;cursor:pointer;opacity:'+(u.hidden?0.3:1)+'" >👁</button>'
         +'</div>';
@@ -1849,6 +1850,40 @@ function saveAdminSettings(data){
 }
 
 /* --- Скрытие игрока из лидерборда --- */
+
+function adminViewBets(key){
+  if(!isAdmin()) return;
+  _getAllPlayers().then(function(list){
+    var u=list.find(function(x){return (x.uid||x.email)===key;});
+    if(!u){ _toast('Игрок не найден'); return; }
+    var pend=u.pending||[], sett=u.settled||[];
+    var html='<div class="acct-panel">'
+      +'<div class="acct-row"><span style="color:var(--txm)">Имя</span><span class="v">'+escapeHtml(u.name||'')+'</span></div>'
+      +'<div class="acct-row"><span style="color:var(--txm)">Почта</span><span class="v" style="font-size:12px">'+escapeHtml(u.email||'')+'</span></div>'
+      +'<div class="acct-row"><span style="color:var(--txm)">Баланс</span><span class="v" style="color:var(--pr)">'+(u.balance||0).toLocaleString('ru')+' ₽</span></div>'
+      +'<div class="acct-row"><span style="color:var(--txm)">Кредиты</span><span class="v" style="color:var(--sec)">−'+(u.loans||0).toLocaleString('ru')+' ₽</span></div>'
+      +'<div class="acct-row" style="border-top:1px solid rgba(255,255,255,.08);padding-top:6px;margin-top:6px"><span>Зачёт</span><span class="v">'+_net(u).toLocaleString('ru')+' ₽</span></div>'
+      +'</div>';
+
+    html+='<h3 style="font-size:14px;margin:16px 0 8px">Активные ставки ('+pend.length+')</h3>';
+    html+= pend.length ? pend.map(function(b){
+      return '<div class="history-item"><div style="max-width:210px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(b.label||'')+'</div>'
+        +'<div style="font-size:11px;color:var(--txm)">×'+b.odds+' · '+(b.stake||0).toLocaleString('ru')+' ₽</div></div>'
+        +'<span style="color:#eab308;font-size:11px;font-weight:700">ждём</span></div>';
+    }).join('') : '<p style="color:var(--txm);font-size:13px">Нет активных ставок</p>';
+
+    html+='<h3 style="font-size:14px;margin:16px 0 8px">Сыгранные ставки ('+sett.length+')</h3>';
+    html+= sett.length ? sett.map(function(b){
+      var profit=b.won?'+'+((b.payout||0)-(b.stake||0)).toLocaleString('ru')+' ₽':'−'+(b.stake||0).toLocaleString('ru')+' ₽';
+      return '<div class="history-item"><div style="max-width:210px"><div style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+escapeHtml(b.label||'')+' ('+(b.score||'')+')</div>'
+        +'<div style="font-size:11px;color:var(--txm)">×'+b.odds+' · '+(b.stake||0).toLocaleString('ru')+' ₽</div></div>'
+        +'<span class="'+(b.won?'win-badge':'loss-badge')+'">'+profit+'</span></div>';
+    }).join('') : '<p style="color:var(--txm);font-size:13px">Сыгранных ставок пока нет</p>';
+
+    openMPush('Ставки: '+(u.name||'Игрок'), html);
+  }).catch(function(e){ _toast('Ошибка загрузки ставок'); console.error(e); });
+}
+
 function adminToggleHidden(key){
   _getAllPlayers().then(function(list){
     var u=list.find(function(x){return (x.uid||x.email)===key;});
