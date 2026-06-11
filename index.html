@@ -1574,8 +1574,8 @@ function adminSaveResult(){
     applyOverrides();
     window.__rerenderHome && window.__rerenderHome();
     renderStandingsTable(_standingGroup); if(typeof renderPredictions==='function') renderPredictions();
-    settlePendingBets();
     _toast('Результат сохранён: '+m.t1+' '+s1+':'+s2+' '+m.t2);
+    adminRecalcAll(true);
   });
 }
 function adminClearResult(){
@@ -1586,8 +1586,8 @@ function adminClearResult(){
 }
 
 /* Пересчёт ставок ВСЕХ участников по текущим результатам */
-function adminRecalcAll(){
-  if(!confirm('Пересчитать ставки всех участников по текущим результатам?')) return;
+function adminRecalcAll(silent){
+  if(!silent && !confirm('Пересчитать ставки всех участников по текущим результатам?')) return;
   _getAllPlayers().then(function(list){
     var ops=[];
     list.forEach(function(u){
@@ -1616,7 +1616,7 @@ function adminRecalcAll(){
     }
     Promise.all(ops).then(function(){
       if(ACC){ var me=list.find(function(x){return x.uid===ACC.uid||x.email===ACC.email;}); if(me){ACC.balance=me.balance;ACC.pending=me.pending;ACC.settled=me.settled;refreshAccountUI();} }
-      renderLeaderboard(); _toast('Ставки пересчитаны для всех участников');
+      renderLeaderboard(); _toast(silent?'Ставки рассчитаны':'Ставки пересчитаны для всех участников');
     }).catch(_admErr);
   });
 }
@@ -1981,7 +1981,7 @@ function initApp(){
     const grp=sq&&sq.group?`<div style="font-size:11px;color:var(--txm);margin-top:2px">Группа ${sq.group}</div>`:'';
     return`<div class="card sc" onclick="openSquad('${k}')" style="padding:14px;overflow:hidden;display:flex;align-items:center;gap:12px">
       <div style="width:54px;height:54px;flex:0 0 54px;border-radius:50%;overflow:hidden;background:var(--s2)">
-        ${sq&&sq.squadImg?`<img src="${sq.squadImg}" alt="${name}" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block" loading="lazy" onerror="this.parentNode.innerHTML='<div style=&quot;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:24px&quot;>'+"${flag}"+'</div>'">`:`<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:24px">${flag}</div>`}
+        ${sq&&sq.squadImg?`<img src="${sq.squadImg}" alt="${name}" style="width:100%;height:100%;object-fit:cover;object-position:top;display:block" loading="lazy" onerror="if(this.parentNode){this.parentNode.innerHTML='<div style=&quot;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:24px&quot;>'+"${flag}"+'</div>'}">`:`<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:24px">${flag}</div>`}
       </div>
       <div style="min-width:0;flex:1">
         <div style="font-weight:800;font-size:14px;line-height:1.25;display:flex;align-items:center;gap:8px;flex-wrap:wrap">${name}${_squadFlag(name)}</div>
