@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "16 июня 2026",
+      "t": "Сборная России поздравила Сафонова и Батракова со свадьбами",
+      "text": "Сборная России в своем Telegram-канале поздравила вратаря «ПСЖ» Матвея Сафонова и полузащитника «Локомотива» Алексея Батракова со ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-pozdravila-matveya-safonova-i-alekseya-batrakova-so-svadbami-2431562/"
+    },
+    {
+      "d": "16 июня 2026",
+      "t": "Сака готов играть через боль на ЧМ-2026: «Людям все равно, как ты...",
+      "text": "Вингер сборной Англии Букайо Сака заявил, что готов рискнуть своим здоровьем и играть через боль на чемпионате мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vinger-sbornoy-anglii-bukayo-saka-gotov-igrat-na-chempionate-mira-2026-nesmotrya-na-travmu-2431553/"
+    },
+    {
+      "d": "16 июня 2026",
+      "t": "Аргентина — Алжир: где смотреть трансляцию матча ЧМ по футболу",
+      "text": "Национальные команды Аргентины и Алжира проведут матч в 1-м туре группового этапа ЧМ-2026 в ночь на 17 июня.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/argentina-alzhir-gde-smotret-translyaciyu-matcha-chm-po-futbolu-video-onlayn-2431551/"
+    },
+    {
+      "d": "16 июня 2026",
       "t": "Франция — Сенегал: прогноз Джо Коула на матч ЧМ-2026",
       "text": "16 июня один из главных фаворитов ЧМ-2026 сборная Франции в первом туре группового этапа сыграет с командой Сенегала.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник «Ньюкасла» и сборной Англии Тино Ливраменто не сыграет на чемпионате мира из-за травмы икроножной мышцы.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chaloba-zamenit-poluchivshego-travmu-livramento-v-sbornoy-anglii-na-chm-2026-2431526/"
-    },
-    {
-      "d": "16 июня 2026",
-      "t": "Клиент Polymarket выиграл почти 5 млн долларов на ничьей Испании ...",
-      "text": "Один из клиентов крупнейшего в мире рынка прогнозов Polymarket сорвал джек-пот, поверив в сенсацию в матче ЧМ-2026 между Испанией ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/stavki-na-sport/novosti-rynka/news/klient-polymarket-vyigral-pochti-5-mln-dollarov-na-nichey-ispanii-i-kabo-verde-2431524/"
-    },
-    {
-      "d": "16 июня 2026",
-      "t": "Романо: Бернарду Силва подписал контракт с «Реалом»",
-      "text": "Полузащитник сборной Португалии Бернарду Силва подписал контракт с «Реалом», сообщает инсайдер Фабрицио Романо.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/romano-bernardu-silva-podpisal-kontrakt-s-realom-2431518/"
-    },
-    {
-      "d": "16 июня 2026",
-      "t": "Виза форварда сборной Ирана Тораби истекла после первого матча ЧМ...",
-      "text": "Нападающий сборной Ирана Мехди Тораби столкнулся с визовыми трудностями после первого матча чемпионата мира 2026 года, сообщает аг...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/viza-forvarda-sbornoy-irana-torabi-istekla-posle-pervogo-matcha-chm-2026-2431509/"
     }
   ],
   "odds": [
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-16T15:12:03.915953Z"
+  "results_updated": "2026-06-16T16:29:07.523997Z"
 }
