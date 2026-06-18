@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "18 июня 2026",
+      "t": "Суперкомпьютер Opta назвал нового фаворита чемпионата мира-2026",
+      "text": "Суперкомпьютер Opta определил нового фаворита на победу в чемпионате мира 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/superkompyuter-opta-nazval-novogo-favorita-chempionata-mira-po-futbolu-2026-2432120/"
+    },
+    {
+      "d": "18 июня 2026",
       "t": "Непомнящий отметил положительный эффект от пауз на водопой на ЧМ-...",
       "text": "Бывший главный тренер сборной Камеруна Валерий Непомнящий в разговоре с «СЭ» прокомментировал нововведение чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший игрок «Спартака» и «Динамо» Кирилл Комбаров в новом выпуске FONTour в Майами рассказал об отсутствии ажиотажа среди болельщ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kirill-kombarov-rasskazal-ob-atmosfere-v-ssha-vo-vremya-chempionata-mira-2026-po-futbolu-2432074/"
-    },
-    {
-      "d": "18 июня 2026",
-      "t": "Кински: «У сборной Чехии нет другого выхода, кроме как обыграть Ю...",
-      "text": "Бывший вратарь «Сатурна» и сборной Чехии Антонин Кински в разговоре с «СЭ» поделился ожиданиями от матча национальной команды прот...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/eks-vratar-saturna-kinski-podelilsya-ozhidaniyami-ot-matcha-chehiya-yuar-na-chm-2026-2432073/"
     }
   ],
   "odds": [
@@ -669,7 +669,7 @@
       "t2": "Панама",
       "score1": 1,
       "score2": 0,
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "utcDate": "2026-06-17T23:00:00Z",
       "winner": "HOME_TEAM"
     },
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-18T11:48:27.255292Z"
+  "results_updated": "2026-06-18T12:56:42.181625Z"
 }
