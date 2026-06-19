@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "19 июня 2026",
+      "t": "Льоренте о критике Испании после ничьей с Кабо-Верде: «Кто не под...",
+      "text": "Полузащитник сборной Испании Маркос Льоренте отреагировал на критику национальной команды после ничьей со сборной Кабо-Верде в пер...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/poluzaschitnik-markos-lorente-kommentariy-o-kritike-sbornoy-ispanii-na-chempionate-mira-2026-2432453/"
+    },
+    {
+      "d": "19 июня 2026",
+      "t": "Президент Аргентины Милей вступился за Месси после ложной новости...",
+      "text": "Президент Аргентины Хавьер Милей отреагировал на ложную новость о смерти отца нападающего аргентинской сборной Лионеля Месси.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-argentiny-haver-miley-vstupilsya-za-futbolista-lionelya-messi-posle-lozhnoy-novosti-o-smerti-ego-otca-2432437/"
+    },
+    {
+      "d": "19 июня 2026",
+      "t": "ПФК ЦСКА: расписание матчей летних сборов в 2026 году",
+      "text": "Опубликовано расписание шести товарищеских матчей ЦСКА летом 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/pfk-cska-raspisanie-matchey-letnih-sborov-2026-2432422/"
+    },
+    {
+      "d": "19 июня 2026",
       "t": "Александр Мостовой рассказал о рождении сына в шоу от БЕТСИТИ «Кт...",
       "text": "Экс-игрок сборной России сказал, что с рождением ребенка его поздравил легенда бразильского футбола Роберто Карлос.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бразилия и Гаити сыграют в матче группового этапа ЧМ-2026 20 июня.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/braziliya-gaiti-20-iyunya-2026-onlayn-translyaciya-chm-po-futbolu-gde-smotret-2432301/"
-    },
-    {
-      "d": "19 июня 2026",
-      "t": "Ведущий «Матч ТВ» Романов принес извинения за слова о женщинах-су...",
-      "text": "Ведущий «Матч ТВ» Андрей Романов принес извинения за высказывание о женщинах-судьях, прозвучавшее в эфире во время обсуждения матч...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/veduschiy-match-tv-andrey-romanov-prines-izvineniya-za-slova-o-zhenschinah-sudyah-na-chm-2026-2432411/"
-    },
-    {
-      "d": "19 июня 2026",
-      "t": "«Анжи» примет «Нефтяник», 2DROTS дома сыграют с «Орлом» в первом ...",
-      "text": "Состоялась жеребьевка первого раунда пути регионов FONBET Кубка России в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/stali-izvestny-pary-pervogo-raunda-puti-regionov-kubka-rossii-v-sezone-2026-27-2432409/"
-    },
-    {
-      "d": "19 июня 2026",
-      "t": "Шварц: «Мы с Карпиным находимся в контакте. Для меня важно, что о...",
-      "text": "Главный тренер московского «Динамо» Сандро Шварц заявил, что находится в контакте с Валерием Карпиным, возглавляющим сборную Росси...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/glavnyy-trener-dinamo-sandro-shvarc-kommentariy-o-trenere-sbornoy-rossii-valerii-karpine-2432399/"
     }
   ],
   "odds": [
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-19T14:48:18.543908Z"
+  "results_updated": "2026-06-19T16:27:02.671078Z"
 }
