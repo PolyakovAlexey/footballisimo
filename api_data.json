@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "21 июня 2026",
+      "t": "Тренер сборной Кот-д'Ивуара Фаэ обвинил Германию в несоблюдении п...",
+      "text": "Главный тренер сборной Кот-д'Ивуара Эмерсе Фаэ после поражения от команды Германии со счетом 1:2 в матче чемпионата мира по футбол...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-sbornoy-kot-divuara-fae-obvinil-germaniyu-v-nesoblyudenii-principov-feyr-pley-na-chm-2026-2432867/"
+    },
+    {
+      "d": "21 июня 2026",
+      "t": "Определился состав участников Первой лиги в сезоне-2026/27",
+      "text": "Стали известны все команды, которые сыграют в Первой лиге в сезоне-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_d1/news/opredelilsya-sostav-uchastnikov-pervoy-ligi-v-sezone-2026-27-2432862/"
+    },
+    {
+      "d": "21 июня 2026",
+      "t": "Испания — Саудовская Аравия: прогноз Александра Мостового на матч...",
+      "text": "21 июня один из фаворитов ЧМ-2026 сборная Испании проведет свой второй матч группового этапа.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/stavki-na-sport/prognozy/news/ispaniya-saudovskaya-araviya-prognoz-aleksandra-mostovogo-na-match-chm-2026-po-futbolu-21-iyunya-2026-goda-2432860/"
+    },
+    {
+      "d": "21 июня 2026",
       "t": "«Велес» вернулся в Первую лигу",
       "text": "Московский «Велес» сыграет в Первой лиге в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник сборной Туниса Али Абди принес извинения болельщикам национальной команды за выступление на ЧМ-2026 и раскритиковал посто...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-tunisa-abdi-izvinilsya-pered-bolelschikami-posle-porazheniya-ot-yaponii-na-chm-2026-2432851/"
-    },
-    {
-      "d": "21 июня 2026",
-      "t": "Семин впечатлен игрой сборной Марокко на ЧМ-2026: «Команда вызыва...",
-      "text": "Бывший главный тренер сборной России Юрий Семин в разговоре с «СЭ» поделился мнением об игре Марокко на чемпионате мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/semin-vpechatlen-igroy-sbornoy-marokko-na-chm-2026-2432842/"
-    },
-    {
-      "d": "21 июня 2026",
-      "t": "Рианчо верит в победу Испании над Саудовской Аравией: «Испанцы до...",
-      "text": "Бывший тренер «Спартака» Рауль Рианчо в разговоре с «СЭ» поделился ожиданиями от матча Испания — Саудовская Аравия на чемпионате м...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-saudovskaya-araviya-prognoz-raulya-riancho-na-match-gruppy-h-chm-2026-20-iyunya-2432840/"
-    },
-    {
-      "d": "21 июня 2026",
-      "t": "Ямаль — о критике: «Прошел один тур ЧМ. Для вас Испания ужасна, а...",
-      "text": "Полузащитник сборной Испании Ламин Ямаль отреагировал на критику игры команды на ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/lamin-yamal-otvetil-zhurnalistam-na-kritiku-sbornoy-ispanii-posle-nichey-s-kabo-verde-na-chm-2026-2432832/"
     }
   ],
   "odds": [
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-21T11:13:27.386368Z"
+  "results_updated": "2026-06-21T12:11:24.514907Z"
 }
