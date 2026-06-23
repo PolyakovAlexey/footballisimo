@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "23 июня 2026",
+      "t": "Президент США Трамп не будет присутствовать на матчах ЧМ-2026 до ...",
+      "text": "Президент США Дональд Трамп не планирует посещать матчи чемпионата мира до финала, сообщает The Telegraph.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-ssha-tramp-ne-budet-prisutstvovat-na-matchah-chm-2026-do-finala-2433409/"
+    },
+    {
+      "d": "23 июня 2026",
+      "t": "Панама — Хорватия: во сколько начало матча группового этапа ЧМ",
+      "text": "Панама и Хорватия сыграют в матче группового этапа ЧМ-2026 24 июня.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/panama-horvatiya-24-iyunya-2026-vo-skolko-nachalo-matcha-gruppovogo-etapa-chm-gde-smotret-translyaciyu-2433377/"
+    },
+    {
+      "d": "23 июня 2026",
       "t": "Мостовой поблагодарил Макелеле за включение в топ лучших партнеро...",
       "text": "Бывший футболист «Сельты» и сборной России Александр Мостовой отреагировал на слова экс-игрока сборной Франции Клода Макелеле.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Вратарь Даниил Голиков поделился впечатлениями от прибытия в «Ростов» и рассказал об ожиданиях от сезона-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/golikov-podelilsya-vpechatleniyami-ot-pervogo-dnya-v-rostove-2433376/"
-    },
-    {
-      "d": "23 июня 2026",
-      "t": "Англия — Гана: во сколько начало матча группового этапа ЧМ, где с...",
-      "text": "23 июня сборные Англии и Ганы встретятся в матче группового этапа чемпионата мира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/angliya-gana-23-iyunya-2026-vo-skolko-nachalo-matcha-gruppovogo-etapa-chm-gde-smotret-translyaciyu-2433373/"
-    },
-    {
-      "d": "23 июня 2026",
-      "t": "Мбаппе раскритиковал состояние поля после возобновления матча Фра...",
-      "text": "Нападающий сборной Франции Килиан Мбаппе раскритиковал сотрудников стадиона за плохую подготовку газона после возобновления матча ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mbappe-raskritikoval-sostoyanie-polya-posle-vozobnovleniya-matcha-franciya-irak-na-chm-2026-2433375/"
     }
   ],
   "odds": [
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-23T10:59:18.493510Z"
+  "results_updated": "2026-06-23T12:35:21.768603Z"
 }
