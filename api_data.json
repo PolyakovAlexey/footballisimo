@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "25 июня 2026",
+      "t": "Нигматуллин рассказал, что столкнулся с хейтом",
+      "text": "Руслан Нигматуллин в своей колонке для «СЭ» рассказал, что столкнулся с хейтом после матча Португалия — Узбекистан (5:0) во втором...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/nigmatullin-rasskazal-chto-stolknulsya-s-heytom-2433943/"
+    },
+    {
+      "d": "25 июня 2026",
+      "t": "Эквадор — Германия: во сколько начало матча группового этапа ЧМ, ...",
+      "text": "25 июня сборные Эквадора и Германии встретятся в матче группового этапа чемпионата мира по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ekvador-germaniya-25-iyunya-2026-vo-skolko-nachalo-matcha-gruppovogo-etapa-chm-gde-smotret-translyaciyu-2433939/"
+    },
+    {
+      "d": "25 июня 2026",
+      "t": "Губерниев с настороженностью относится к допуску россиян на юноше...",
+      "text": "Известный комментатор Дмитрий Губерниев в разговоре с «СЭ» отреагировал на решение ФИФА допустить сборную России U-15 до чемпионат...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/guberniev-s-nastorozhennostyu-otnositsya-k-dopusku-rossiyan-na-yunosheskiy-chm-u-15-2433936/"
+    },
+    {
+      "d": "25 июня 2026",
       "t": "В Госдуме РФ назвали историческим допуск сборной России U-15 до ч...",
       "text": "Депутат Госдумы РФ Дмитрий Свищев в разговоре с «СЭ» отреагировал на решение ФИФА допустить сборную России U15 до чемпионата мира ...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Главный тренер сборной Чехии Мирослав Коубек прокомментировал вылет команды с чемпионата мира 2026 года.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-sbornoy-chehii-koubek-zayavil-chto-komanda-dolzhna-byla-luchshe-sygrat-na-chm-2026-2433920/"
-    },
-    {
-      "d": "25 июня 2026",
-      "t": "ЧМ-2026, расписание и результаты 25-26 июня: Эквадор — Германия, ...",
-      "text": "Матчи 3-го тура группового этапа на чемпионате мира по футболу.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chempionat-mira-po-futbolu-2026-raspisanie-i-rezultaty-25-26-iyunya-ekvador-germaniya-kyurasao-kot-d-ivuar-tunis-niderlandy-yaponiya-shveciya-paragvay-avstraliya-i-turciya-ssha-2433908/"
-    },
-    {
-      "d": "25 июня 2026",
-      "t": "Мексика впервые в своей истории выиграла все три матча в группе н...",
-      "text": "Сборная Мексики победила сборную Чехии (3:0) в матче третьего тура групповой стадии финального турнира чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/meksika-vpervye-v-svoey-istorii-vyigrala-vse-tri-matcha-v-gruppe-na-chempionate-mira-po-futbolu-2433914/"
-    },
-    {
-      "d": "25 июня 2026",
-      "t": "Безвыигрышная серия Чехии на чемпионатах мира растянулась до пяти...",
-      "text": "Сборная Чехии проиграла сборной Мексики (0:3) в матче третьего тура групповой стадии финального турнира чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/bezvyigryshnaya-seriya-chehii-na-chm-po-futbolu-rastyanulas-do-pyati-matchey-2433912/"
     }
   ],
   "odds": [
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-25T07:35:39.781053Z"
+  "results_updated": "2026-06-25T08:47:42.872663Z"
 }
