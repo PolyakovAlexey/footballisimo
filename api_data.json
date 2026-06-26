@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "26 июня 2026",
+      "t": "Юрген Клопп раскритиковал игру сборной Германии в матче с Эквадор...",
+      "text": "Бывший тренер дортмундской «Боруссии» и «Ливерпуля» немец Юрген Клопп раскритиковал игру сборной Германии в матче третьего тура гр...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/yurgen-klopp-raskritikoval-igru-sbornoy-germanii-v-matche-s-ekvadorom-na-chm-2026-2434318/"
+    },
+    {
+      "d": "26 июня 2026",
+      "t": "L'Equipe: «Челси» подпишет защитника сборной Франции Лакруа за 55...",
+      "text": "Защитник «Кристал Пэлас» и сборной Франции Максенс Лакруа в ближайшее время станет игроком «Челси», сообщает L'Equipe.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/lequipe-chelsi-podpishet-zaschitnika-sbornoy-francii-lakrua-za-55-millionov-evro-2434317/"
+    },
+    {
+      "d": "26 июня 2026",
+      "t": "Изидор — о выступлении Гаити на ЧМ-2026: «Заслуживали покинуть ту...",
+      "text": "Нападающий сборной Гаити Вильсон Изидор подвел итоги выступления команды на ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vilson-izidor-ocenil-vystuplenie-gaiti-na-chm-2026-2434310/"
+    },
+    {
+      "d": "26 июня 2026",
       "t": "Неймар вышел из переговоров с «Цинциннати» из МЛС",
       "text": "Нападающий «Сантоса» и сборной Бразилии Неймар отказался от варианта с переходом в «Цинциннати», сообщает The Athletic.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник «Балтики» Элдар Чивич в разговоре с «СЭ» поделился ожиданиями от выступления сборной Боснии и Герцеговины в 1/16 финала ч...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-baltiki-eldar-chivich-podelilsya-ozhidaniyami-ot-vystupleniya-sbornoy-bosnii-i-gercegoviny-v-1-16-finala-chm-2026-2434297/"
-    },
-    {
-      "d": "26 июня 2026",
-      "t": "Норвегия — Франция: во сколько начало матча группового этапа ЧМ, ...",
-      "text": "26 июня сборные Норвегии и Франции встретятся в матче группового этапа чемпионата мира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-franciya-26-iyunya-2026-vo-skolko-nachalo-matcha-gruppovogo-etapa-chm-gde-smotret-translyaciyu-2434292/"
-    },
-    {
-      "d": "26 июня 2026",
-      "t": "Уругвай — Испания: прогноз и коэффициенты и ставки на матч ЧМ по ...",
-      "text": "В ночь на 27 июня сборные Уругвая и Испании встретятся в 3-м туре группового этапа чемпионата мира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/urugvay-ispaniya-27-iyunya-2026-prognoz-i-koefficienty-i-stavki-na-match-chm-po-futbolu-kto-pobedit-2434280/"
-    },
-    {
-      "d": "26 июня 2026",
-      "t": "Почеттино раскритиковал журналистов: «У вас вопросы, словно США у...",
-      "text": "Главный тренер сборной США Маурисио Почеттино на пресс-конференции остался недоволен тем, что журналисты не поздравили его команду...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/pochettino-raskritikoval-zhurnalistov-i-ushel-s-press-konferencii-posle-porazheniya-ssha-ot-turcii-na-chm-2026-2434278/"
     }
   ],
   "odds": [
@@ -1115,8 +1115,8 @@
       "winner": null
     },
     {
-      "t1": "Юж. Африка",
-      "t2": "Канада",
+      "t1": "?",
+      "t2": "?",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1124,8 +1124,8 @@
       "winner": null
     },
     {
-      "t1": "Бразилия",
-      "t2": "Япония",
+      "t1": "?",
+      "t2": "?",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1133,7 +1133,7 @@
       "winner": null
     },
     {
-      "t1": "Германия",
+      "t1": "?",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1142,8 +1142,8 @@
       "winner": null
     },
     {
-      "t1": "Нидерланды",
-      "t2": "Марокко",
+      "t1": "?",
+      "t2": "?",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1169,7 +1169,7 @@
       "winner": null
     },
     {
-      "t1": "Мексика",
+      "t1": "?",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1196,8 +1196,8 @@
       "winner": null
     },
     {
-      "t1": "США",
-      "t2": "Босния и Г.",
+      "t1": "?",
+      "t2": "?",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1223,7 +1223,7 @@
       "winner": null
     },
     {
-      "t1": "Швейцария",
+      "t1": "?",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1232,7 +1232,7 @@
       "winner": null
     },
     {
-      "t1": "Австралия",
+      "t1": "?",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1241,7 +1241,7 @@
       "winner": null
     },
     {
-      "t1": "Аргентина",
+      "t1": "?",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-26T10:47:36.140566Z"
+  "results_updated": "2026-06-26T12:13:16.426596Z"
 }
