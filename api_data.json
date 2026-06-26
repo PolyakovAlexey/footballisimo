@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "26 июня 2026",
+      "t": "Норвегия — Франция: прямая трансляция матча ЧМ 2026 по футболу, в...",
+      "text": "Сборные Норвегии и Франции встретятся в матче заключительного, 3-го тура чемпионата мира по футболу 26 июня.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-franciya-26-iyunya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2434356/"
+    },
+    {
+      "d": "26 июня 2026",
+      "t": "Рианчо надеется увидеть фантастическую победу Испании над Уругвае...",
+      "text": "Бывший тренер «Спартака» Рауль Рианчо в разговоре с «СЭ» поделился ожиданиями от матча Уругвай — Испания на чемпионате мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-urugvay-prognoz-raulya-riancho-na-match-chm-2026-2434346/"
+    },
+    {
+      "d": "26 июня 2026",
       "t": "Юрген Клопп раскритиковал игру сборной Германии в матче с Эквадор...",
       "text": "Бывший тренер дортмундской «Боруссии» и «Ливерпуля» немец Юрген Клопп раскритиковал игру сборной Германии в матче третьего тура гр...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Международная федерация футбола (ФИФА) разрешила провести акцию в поддержку ЛГБТ* перед матчем сборных Египта и Ирана на групповом...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-ne-stala-otmenyat-akciyu-v-podderzhku-lgbt-pered-igroy-egipet-iran-na-chm-2026-2434300/"
-    },
-    {
-      "d": "26 июня 2026",
-      "t": "Когда играет Узбекистан на ЧМ-2026: дата и время матча",
-      "text": "Матч пройдет на стадионе «Мерседес-Бенц» в Атланте (штат Джорджия, США).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kogda-igraet-uzbekistan-na-chm-2026-data-i-vremya-po-moskovskomu-i-tashkentskomu-vremeni-2434298/"
-    },
-    {
-      "d": "26 июня 2026",
-      "t": "Защитник «Балтики» Чивич: «Босния и Герцеговина преподнесет сюрпр...",
-      "text": "Защитник «Балтики» Элдар Чивич в разговоре с «СЭ» поделился ожиданиями от выступления сборной Боснии и Герцеговины в 1/16 финала ч...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-baltiki-eldar-chivich-podelilsya-ozhidaniyami-ot-vystupleniya-sbornoy-bosnii-i-gercegoviny-v-1-16-finala-chm-2026-2434297/"
     }
   ],
   "odds": [
@@ -1115,8 +1115,8 @@
       "winner": null
     },
     {
-      "t1": "?",
-      "t2": "?",
+      "t1": "Юж. Африка",
+      "t2": "Канада",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1124,8 +1124,8 @@
       "winner": null
     },
     {
-      "t1": "?",
-      "t2": "?",
+      "t1": "Бразилия",
+      "t2": "Япония",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1133,7 +1133,7 @@
       "winner": null
     },
     {
-      "t1": "?",
+      "t1": "Германия",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1142,8 +1142,8 @@
       "winner": null
     },
     {
-      "t1": "?",
-      "t2": "?",
+      "t1": "Нидерланды",
+      "t2": "Марокко",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1169,7 +1169,7 @@
       "winner": null
     },
     {
-      "t1": "?",
+      "t1": "Мексика",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1196,8 +1196,8 @@
       "winner": null
     },
     {
-      "t1": "?",
-      "t2": "?",
+      "t1": "США",
+      "t2": "Босния и Г.",
       "score1": null,
       "score2": null,
       "status": "TIMED",
@@ -1223,7 +1223,7 @@
       "winner": null
     },
     {
-      "t1": "?",
+      "t1": "Швейцария",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1232,7 +1232,7 @@
       "winner": null
     },
     {
-      "t1": "?",
+      "t1": "Австралия",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1241,7 +1241,7 @@
       "winner": null
     },
     {
-      "t1": "?",
+      "t1": "Аргентина",
       "t2": "?",
       "score1": null,
       "score2": null,
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-26T12:13:16.426596Z"
+  "results_updated": "2026-06-26T14:09:13.412887Z"
 }
