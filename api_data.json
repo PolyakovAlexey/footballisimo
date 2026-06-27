@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "27 июня 2026",
+      "t": "Модрич и Влашич выйдут в старте сборной Хорватии на матч ЧМ-2026 ...",
+      "text": "Стали известны стартовые составы сборных Хорватии и Ганы на матч 3-го тура группового турнира чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/horvatiya-gana-startovye-sostavy-na-match-chempionata-mira-28-iyunya-2026-2434706/"
+    },
+    {
+      "d": "27 июня 2026",
+      "t": "Панама — Англия: Кейн, Рэшфорд и Сака выйдут на поле с первых мин...",
+      "text": "Сборные Панамы и Англии объявили стартовые составы на матч 3-го тура группового этапа чемпионата мира по футболу — 2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/panama-angliya-startovye-sostavy-na-match-chm-2026-28-iyunya-2434705/"
+    },
+    {
+      "d": "27 июня 2026",
+      "t": "Колдун из Ганы извинился перед Турцией за вылет сборной с ЧМ-2026",
+      "text": "Колдун из Ганы Нана Кваку Бонсам принес извинения турецкому народу за вылет сборной Турции с чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/koldun-iz-gany-izvinilsya-pered-turciey-za-vylet-sbornoy-s-chm-2026-2434704/"
+    },
+    {
+      "d": "27 июня 2026",
       "t": "Уругвайская футбольная ассоциация отменила чартер для сборной пос...",
       "text": "Футболисты сборной Уругвая будут возвращаться домой с чемпионата мира коммерческими рейсами и за свой счет, сообщает журналист Мар...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Панама и Англия сыграют в матче группового этапа ЧМ-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/panama-angliya-pryamoy-efir-videotranslyaciya-gde-smotret-onlayn-2434508/"
-    },
-    {
-      "d": "27 июня 2026",
-      "t": "Алжир — Австрия: прямая трансляция матча ЧМ 2026 по футболу",
-      "text": "Алжир и Австрия сыграют в матче группового этапа ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/alzhir-avstriya-28-iyunya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2434531/"
-    },
-    {
-      "d": "27 июня 2026",
-      "t": "Иордания — Аргентина: смотреть онлайн трансляцию матча ЧМ по футб...",
-      "text": "Иордания и Аргентина сыграют в матче группового этапа ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/iordaniya-argentina-28-iyunya-2026-smotret-onlayn-translyaciyu-matcha-chm-po-futbolu-gde-video-2434529/"
-    },
-    {
-      "d": "27 июня 2026",
-      "t": "Полузащитник «Сандерленда» Джака может перейти в «Челси»",
-      "text": "Полузащитник «Сандерленда» и сборной Швейцарии Гранит Джака может стать игроком «Челси», сообщил инсайдер Фабрицио Романо.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/poluzaschitnik-dzhaka-mozhet-pereyti-v-chelsi-2434684/"
     }
   ],
   "odds": [
@@ -1404,5 +1404,5 @@
     }
   ],
   "odds_updated": "2026-06-16T00:00:01.239279Z",
-  "results_updated": "2026-06-27T19:47:34.249909Z"
+  "results_updated": "2026-06-27T20:45:14.088909Z"
 }
