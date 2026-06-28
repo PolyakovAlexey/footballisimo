@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 июня 2026",
+      "t": "Балогун: «В плей-офф ЧМ большие игроки делают шаг вперед, принима...",
+      "text": "Нападающий сборной США Фоларин Балогун рассказал о разнице в атмосфере вокруг матчей чемпионата мира-2026 после начала плей-офф.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-sbornoy-ssha-balogun-rasskazal-o-raznice-v-atmosfere-vokrug-matchey-chm-po-futbolu-2026-posle-nachala-pley-off-2434997/"
+    },
+    {
+      "d": "28 июня 2026",
+      "t": "Талалаев — о сборной Боснии на ЧМ-2026: «Игра немножко примитивна...",
+      "text": "Главный тренер «Балтики» Андрей Талалаев в своей колонке для «СЭ» оценил выступление сборных Сенегала и Боснии на чемпионате мира-...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-baltiki-andrey-talalaev-kommentariy-ob-igre-sbornyh-senegala-i-bosnii-na-chm-po-futbolu-2026-2434982/"
+    },
+    {
+      "d": "28 июня 2026",
+      "t": "Эуштакиу после матча с ЮАР: «Мы очень хотели подарить эту победу ...",
+      "text": "Полузащитник сборной Канады Стивен Эуштакиу прокомментировал победу над ЮАР в 1/16 финала чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/poluzaschitnik-sbornoy-kanady-eushtakiu-prokommentiroval-pobedu-nad-yuar-v-1-16-finala-chm-po-futbolu-2026-2434992/"
+    },
+    {
+      "d": "28 июня 2026",
       "t": "Прогноз на матч Бразилия — Япония 1/16 финала ЧМ-2026 по футболу",
       "text": "29 июня сборные Бразилии и Японии сыграют в матче 1/16 финала чемпионата мира.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Полное расписание матчей 1/16 финала ЧМ-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chm-po-futbolu-2026-matchi-1-16-finala-raspisanie-i-rezultaty-igr-28-iyunya-4-iyulya-setka-pley-off-chempionata-mira-2434863/"
-    },
-    {
-      "d": "28 июня 2026",
-      "t": "Талалаев: «Жаль Бьелсу. Но он потерял контроль над раздевалкой сб...",
-      "text": "Главный тренер «Балтики» Андрей Талалаев в своей колонке для «СЭ» оценил выступление сборной Уругвая на чемпионате мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-baltiki-andrey-talalaev-podelilsya-mneniem-o-vystuplenii-sbornoy-urugvaya-na-chm-2026-2434978/"
-    },
-    {
-      "d": "28 июня 2026",
-      "t": "Канада победила ЮАР благодаря голу в добавленное время и вышла в ...",
-      "text": "Сборная Канады победила сборную ЮАР в матче 1/16 финала чемпионата мира — 1:0. Игра проходила в Инглвуде (штат Калифорния, США).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/yuar-kanada-rezultat-matcha-1-16-finala-chempionata-mira-2026-28-iyunya-schet-0-1-2434983/"
-    },
-    {
-      "d": "28 июня 2026",
-      "t": "ЮАР — Канада: Эуштакиу вывел канадцев вперед на 90+2-й минуте",
-      "text": "Сборная Канады вышла вперед в матче со сборной ЮАР в 1/16 финала ЧМ-2026 — 1:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/yuar-kanada-eushtakiu-vyvel-kanadcev-vpered-na-90-2-y-minute-matcha-chm-2026-2434984/"
     }
   ],
   "odds": [
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-06-28T21:47:20.593457Z"
+  "results_updated": "2026-06-28T22:46:11.995585Z"
 }
