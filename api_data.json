@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "29 июня 2026",
+      "t": "Германия — Парагвай: команды сыграют в овертайме",
+      "text": "Сборная Германии в американском Фоксборо играет со сборной Парагвая в 1/16 финала чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/germaniya-paragvay-komandy-sygrayut-v-overtayme-matcha-chm-po-futbolu-2026-2435270/"
+    },
+    {
+      "d": "29 июня 2026",
+      "t": "Германия — Парагвай: Хаверц сравнял счет",
+      "text": "Сборная Германии сравняла счет в матче 1/16 финала чемпионата мира-2026 против Парагвая — 1:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/germaniya-paragvay-haverc-sravnyal-schet-v-matche-chm-2026-2435266/"
+    },
+    {
+      "d": "29 июня 2026",
       "t": "Бразилия — Япония: судья ошибочно не удалил Сано — тот забил гол",
       "text": "На 12-й минуте матча 1/16 финала ЧМ-2026 Бразилия — Япония (2:1) судья Маурицио Мариани ошибочно не удалил Кайсу Сано, а тот спуст...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной Бразилии Карло Анчелотти объяснил, почему не выпустил нападающего Неймара в матче против Японии (2:1) в 1/1...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/karlo-anchelotti-obyasnil-pochemu-ne-vypustil-neymara-v-matche-braziliya-yaponiya-na-chm-2026-2435247/"
-    },
-    {
-      "d": "29 июня 2026",
-      "t": "Германия — Парагвай: прямой эфир, видеотрансляция, где смотреть о...",
-      "text": "29 июня сборные Германии и Парагвая проведут матч в 1/16 финала чемпионата мира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/germaniya-paragvay-pryamoy-efir-videotranslyaciya-gde-smotret-onlayn-match-1-16-finala-chm-2435127/"
-    },
-    {
-      "d": "29 июня 2026",
-      "t": "Мартинелли забил самый поздний гол в матчах навылет на ЧМ с 1966 ...",
-      "text": "Нападающий сборной Бразилии Габриэл Мартинелли забил победный гол в матче со сборной Японии в 1/16 финала чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gabriel-martinelli-zabil-samyy-pozdniy-gol-v-matchah-navylet-na-chm-s-1966-goda-2435240/"
     }
   ],
   "odds": [
@@ -841,11 +841,11 @@
     {
       "t1": "Германия",
       "t2": "Парагвай",
-      "score1": 0,
+      "score1": 1,
       "score2": 1,
       "status": "IN_PLAY",
       "utcDate": "2026-06-29T20:30:00Z",
-      "winner": "AWAY_TEAM"
+      "winner": "DRAW"
     },
     {
       "t1": "Нидерланды",
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-06-29T21:45:24.686578Z"
+  "results_updated": "2026-06-29T22:44:47.473837Z"
 }
