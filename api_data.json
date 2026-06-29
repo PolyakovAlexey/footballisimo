@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "29 июня 2026",
+      "t": "Бразилия — Япония: японцы ведут в счете после первого тайма",
+      "text": "Сборная Японии ведет в счете после первого тайма матча 1/16 плей-офф чемпионата мира-2026 против Бразилии — 1:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/braziliya-yaponiya-rezultat-pervogo-tayma-matcha-chm-2026-29-iyunya-2435215/"
+    },
+    {
+      "d": "29 июня 2026",
+      "t": "Коубек объявил об уходе с поста главного тренера сборной Чехии",
+      "text": "Мирослав Коубек покинул пост главного тренера сборной Чехии по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/koubek-obyavil-ob-uhode-s-posta-glavnogo-trenera-sbornoy-chehii-2435210/"
+    },
+    {
+      "d": "29 июня 2026",
+      "t": "Бразилия — Япония: японцы открыли счет ударом из-за пределов штра...",
+      "text": "Сборная Японии открыла счет в матче 1/16 финала чемпионата мира-2026 против Бразилии — 1:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/braziliya-yaponiya-yaponcy-otkryli-schet-udarom-iz-za-shtrafnoy-2435207/"
+    },
+    {
+      "d": "29 июня 2026",
       "t": "Бразилия — Япония: прямой эфир, видеотрансляция, где смотреть онл...",
       "text": "29 июня сборные Бразилии и Японии будут играть в матче 1/16 финала чемпионата мира.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нидерланды и Марокко сыграют в 1/16 финала чемпионата мира 30 июня.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/niderlandy-marokko-30-iyunya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2435086/"
-    },
-    {
-      "d": "29 июня 2026",
-      "t": "Романцев: «Удаления игроков за прикрытый рот — редкая глупость»",
-      "text": "Бывший главный тренер «Спартака» и сборной России Олег Романцев в интервью «СЭ» прокомментировал запрет на прикрывание рта рукой в...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/romancev-nazval-glupostyu-udaleniya-igrokov-za-prikrytyy-rot-2435169/"
-    },
-    {
-      "d": "29 июня 2026",
-      "t": "Германия — Парагвай: прямая трансляция матча ЧМ 2026 по футболу",
-      "text": "29 июня Германия и Парагвай встретятся в матче 1/16 финала чемпионата мира по футболу.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/germaniya-paragvay-29-iyunya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2435158/"
-    },
-    {
-      "d": "29 июня 2026",
-      "t": "Романцев объяснил, почему на ЧМ-2026 болеет за Марокко",
-      "text": "Бывший главный тренер «Спартака» и сборной России Олег Романцев в интервью «СЭ» рассказал, за кого болеет на чемпионате мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/romancev-obyasnil-pochemu-na-chm-2026-boleet-za-marokko-2435162/"
     }
   ],
   "odds": [
@@ -832,11 +832,11 @@
     {
       "t1": "Бразилия",
       "t2": "Япония",
-      "score1": null,
-      "score2": null,
-      "status": "TIMED",
+      "score1": 0,
+      "score2": 1,
+      "status": "PAUSED",
       "utcDate": "2026-06-29T17:00:00Z",
-      "winner": null
+      "winner": "AWAY_TEAM"
     },
     {
       "t1": "Германия",
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-06-29T16:48:37.026080Z"
+  "results_updated": "2026-06-29T18:07:13.055580Z"
 }
