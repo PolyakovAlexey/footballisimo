@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "30 июня 2026",
+      "t": "Клопп прокомментировал возможное назначение на пост главного трен...",
+      "text": "Бывший тренер дортмундской «Боруссии» и «Ливерпуля» ответил на вопрос о возможном назначении на должность главного тренера сборной...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/klopp-prokommentiroval-vozmozhnoe-naznachenie-na-post-glavnogo-trenera-sbornoy-germanii-posle-chm-2026-2435428/"
+    },
+    {
+      "d": "30 июня 2026",
+      "t": "Франция — Швеция: смотреть прямую трансляцию матча 1/16 финала ЧМ...",
+      "text": "Франция и Швеция сыграют в матче 1/16 финала ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-shveciya-1-iyulya-2026-smotret-pryamuyu-translyaciyu-matcha-1-16-finala-chm-po-futbolu-gde-video-2435401/"
+    },
+    {
+      "d": "30 июня 2026",
       "t": "Ширер отреагировал на вылет сборной Германии с чемпионата мира 20...",
       "text": "Бывший форвард сборной Англии Алан Ширер раскритиковал Германию после вылета немцев с ЧМ-2026.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер «Сочи» Игорь Осинькин прокомментировал «СЭ» вылет сборной Германии с чемпионата мира-2026 от Парагвая (1:1, 3:4).",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sochi-igor-osinkin-prokommentiroval-vylet-sbornoy-germanii-s-chm-2026-2435393/"
-    },
-    {
-      "d": "30 июня 2026",
-      "t": "Семин не считает вылет сборной Нидерландов с ЧМ неожиданным",
-      "text": "Бывший главный тренер «Локомотива» Юрий Семин прокомментировал «СЭ» поражение сборной Нидерландов от Марокко (1:1, 2:3 пен.) в мат...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/semin-ne-schitaet-vylet-sbornoy-niderlandov-s-chm-neozhidannym-2435396/"
-    },
-    {
-      "d": "30 июня 2026",
-      "t": "Экс-тренера сборной Южной Кореи Хон Мен Бо встретили свистом на р...",
-      "text": "Бывший главный тренер сборной Южной Кореи Хон Мен Бо по возвращении на родину с чемпионата мира-2026 был встречен гневными выкрика...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trenera-sbornoy-yuzhnoy-korei-hon-men-bo-vstretili-svistom-na-rodine-posle-vyleta-s-chm-2026-2435398/"
     }
   ],
   "odds": [
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-06-30T10:53:56.995054Z"
+  "results_updated": "2026-06-30T12:11:48.390830Z"
 }
