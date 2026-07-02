@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "2 июля 2026",
+      "t": "Испания — Австрия: прямая трансляция матча ЧМ-2026 по футболу",
+      "text": "Игра состоится на стадионе «Соу-Фай» в Лос-Анджелесе (штат Калифорния, США).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-avstriya-2-iyulya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2436034/"
+    },
+    {
+      "d": "2 июля 2026",
+      "t": "Экс-хавбек сборной Испании Касорла завершил карьеру",
+      "text": "Двукратный чемпион Европы в составе сборной Испании полузащитник Санти Касорла завершил спортивную карьеру.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/eks-havbek-sbornoy-ispanii-santi-kasorla-zavershil-kareru-2436073/"
+    },
+    {
+      "d": "2 июля 2026",
+      "t": "Месси и сборную Аргентины усиленно досматривали в аэропорту перед...",
+      "text": "Сборная Аргентины и капитан команды Лионель Месси столкнулись с усиленным досмотром в аэропорту перед входом в самолет, который до...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/messi-i-sbornuyu-argentiny-usilenno-dosmatrivali-v-aeroportu-pered-vyletom-na-match-chm-2436071/"
+    },
+    {
+      "d": "2 июля 2026",
       "t": "Португалия — Хорватия, ЧМ по футболу: статистика и история личных...",
       "text": "Сборные Португалии и Хорватии сыграют в матче 1/16 финала ЧМ-2026 в ночь на пятницу, 3 июля.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший тренер «Спартака» Гильермо Абаскаль в интервью «СЭ» высказался об отстранении сборной России.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/abaskal-nazval-glavnuyu-problemu-sbornoy-rossii-2436035/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "Семин объяснил, почему неудачи топ-сборных на ЧМ-2026 нельзя назв...",
-      "text": "Бывший главный тренер «Локомотива» Юрий Семин поделился с «СЭ» мнением о выступлении европейских сборных на чемпионате мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/semin-obyasnil-pochemu-neudachi-top-sbornyh-na-chm-2026-nelzya-nazvat-upadkom-futbola-v-evrope-2436054/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "Португалия — Хорватия: прогноз, ставка и коэффициенты на матч 1/1...",
-      "text": "Португалия и Хорватия встретятся в 1/16 финала чемпионата мира в ночь на пятницу, 3 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/portugaliya-horvatiya-prognoz-stavka-i-koefficienty-na-match-1-16-finala-chm-2026-po-futbolu-kto-pobedit-2436048/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "В сборной ДР Конго сообщили о смерти отца главного тренера Десабр...",
-      "text": "Главный тренер сборной ДР Конго Себастьен Десабр потерял отца.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/dr-kongo-soobschila-o-smerti-otca-glavnogo-trenera-desabra-na-press-konferencii-posle-porazheniya-ot-anglii-na-chm-2026-2436039/"
     }
   ],
   "odds": [
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-07-02T10:34:16.907200Z"
+  "results_updated": "2026-07-02T12:10:11.541756Z"
 }
