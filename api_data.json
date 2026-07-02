@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "2 июля 2026",
+      "t": "Швейцария — Алжир: во сколько начало матча 1/16 финала ЧМ, где см...",
+      "text": "3 июля сборные Швейцарии и Алжира встретятся в матче 1/16 финала чемпионата мира.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/shveycariya-alzhir-3-iyulya-2026-vo-skolko-nachalo-matcha-1-16-finala-chm-gde-smotret-translyaciyu-2436149/"
+    },
+    {
+      "d": "2 июля 2026",
       "t": "Губерниев о паузах на водопой на ЧМ-2026: «Америка вместе с ФИФА ...",
       "text": "Известный комментатор Дмитрий Губерниев поделился с «СЭ»  мнением о проведении специальных перерывов на водопой в каждом матче чем...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший главный тренер сборной России Валерий Газзаев в разговоре с «СЭ» поделился мнением о выступлении европейских сборных на чем...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/valeriy-gazzaev-schitaet-chto-evropeyskie-sbornye-nedoocenivayut-sopernikov-na-chm-2026-2436096/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "Испания — Австрия: прямая трансляция матча ЧМ-2026 по футболу",
-      "text": "Игра состоится на стадионе «Соу-Фай» в Лос-Анджелесе (штат Калифорния, США).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-avstriya-2-iyulya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2436034/"
     }
   ],
   "odds": [
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-07-02T15:58:36.813337Z"
+  "results_updated": "2026-07-02T17:43:29.633394Z"
 }
