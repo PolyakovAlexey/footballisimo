@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "2 июля 2026",
+      "t": "Источник: Мбаппе пытается убедить Олисе перейти в «Реал»",
+      "text": "Нападающий «Реала» Килиан Мбаппе пытается убедить партнера по сборной Франции Майкла Олисе присоединиться к «сливочным», сообщает ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/napadayuschiy-kilian-mbappe-pytaetsya-ubedit-partnera-po-sbornoy-francii-maykla-olise-pereyti-v-real-2436110/"
+    },
+    {
+      "d": "2 июля 2026",
+      "t": "Семин — о матче Испания — Австрия на ЧМ-2026: «Испанцы не очень я...",
+      "text": "Бывший главный тренер «Локомотива» Юрий Семин поделился с «СЭ» ожиданиями от матча Испании против Австрии в 1/16 финала чемпионата...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/yuriy-semin-kommentariy-o-matche-ispaniya-avstriya-v-1-16-finala-chm-2026-2436105/"
+    },
+    {
+      "d": "2 июля 2026",
+      "t": "Газзаев считает, что европейские сборные недооценивают соперников...",
+      "text": "Бывший главный тренер сборной России Валерий Газзаев в разговоре с «СЭ» поделился мнением о выступлении европейских сборных на чем...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/valeriy-gazzaev-schitaet-chto-evropeyskie-sbornye-nedoocenivayut-sopernikov-na-chm-2026-2436096/"
+    },
+    {
+      "d": "2 июля 2026",
       "t": "Испания — Австрия: прямая трансляция матча ЧМ-2026 по футболу",
       "text": "Игра состоится на стадионе «Соу-Фай» в Лос-Анджелесе (штат Калифорния, США).",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший главный тренер сборной Камеруна Валерий Непомнящий поделился с «СЭ» мнением о выступлении африканских сборных на чемпионате...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/valeriy-nepomnyaschiy-podelilsya-mneniem-o-vystuplenii-afrikanskih-sbornyh-na-chempionate-mira-po-futbolu-2026-2436062/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "Экс-футболист сборной Португалии Канейра: «Мартинес не знает, как...",
-      "text": "Экс-футболист сборной Португалии Марку Канейра в разговоре с «СЭ» поделился мнением о роли нападающего Криштиану Роналду в команде...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/marku-kaneyra-podelilsya-mneniem-o-roli-krishtianu-ronaldu-v-sbornoy-portugalii-2436059/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "Непомнящий доказал силу соперников сборной России: «В Африке умею...",
-      "text": "Бывший главный тренер сборной Камеруна Валерий Непомнящий в разговоре с «СЭ» сравнил уровень соперников сборной России и участнико...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/valeriy-nepomnyaschiy-sravnil-uroven-sopernikov-sbornoy-rossii-s-uchastnikami-chempionata-mira-2026-2436056/"
-    },
-    {
-      "d": "2 июля 2026",
-      "t": "Абаскаль назвал главную проблему сборной России",
-      "text": "Бывший тренер «Спартака» Гильермо Абаскаль в интервью «СЭ» высказался об отстранении сборной России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/abaskal-nazval-glavnuyu-problemu-sbornoy-rossii-2436035/"
     }
   ],
   "odds": [
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-07-02T12:10:11.541756Z"
+  "results_updated": "2026-07-02T13:43:21.902604Z"
 }
