@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "3 июля 2026",
+      "t": "Австралия — Египет: Ашур вывел египтян вперед в матче ЧМ-2026",
+      "text": "Сборная Египта открыла счет в матче против Австралии в 1/16 финала ЧМ-2026 — 1:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/avstraliya-egipet-ashur-vyvel-egiptyan-vpered-v-matche-chm-2026-2436494/"
+    },
+    {
+      "d": "3 июля 2026",
       "t": "Нападающий сборной Португалии Леау о ЧМ-2026: «Хотим выиграть тро...",
       "text": "Вингер сборной Португалии Рафаэл Леау прокомментировал выход своей команды в следующий раунд плей-офф чемпионата мира по футболу.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший тренер «Спартака» Рауль Рианчо в разговоре с «СЭ» поделился мнением о победе сборной Испании над Австрией (3:0) в 1/16 фина...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-trener-spartaka-raul-riancho-podelilsya-mneniem-o-pobede-sbornoy-ispanii-nad-avstriey-v-1-16-finala-chm-2026-2436433/"
-    },
-    {
-      "d": "3 июля 2026",
-      "t": "Не менее 8 футболистов сборной Туниса провалили допинг-тесты во в...",
-      "text": "Не менее восьми футболистов сборной Туниса провалили допинг-тесты во время чемпионата мира по футболу 202 года, сообщило издание D...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ne-menee-8-futbolistov-sbornoy-tunisa-provalili-doping-testy-vo-vremya-chm-2026-2436427/"
     }
   ],
   "odds": [
@@ -940,11 +940,11 @@
     {
       "t1": "Австралия",
       "t2": "Египет",
-      "score1": null,
-      "score2": null,
-      "status": "TIMED",
+      "score1": 0,
+      "score2": 1,
+      "status": "IN_PLAY",
       "utcDate": "2026-07-03T18:00:00Z",
-      "winner": null
+      "winner": "AWAY_TEAM"
     },
     {
       "t1": "Аргентина",
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-07-03T17:21:52.727429Z"
+  "results_updated": "2026-07-03T18:43:33.490719Z"
 }
