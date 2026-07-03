@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "3 июля 2026",
+      "t": "Нападающий сборной Португалии Леау о ЧМ-2026: «Хотим выиграть тро...",
+      "text": "Вингер сборной Португалии Рафаэл Леау прокомментировал выход своей команды в следующий раунд плей-офф чемпионата мира по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vinger-sbornoy-portugalii-rafael-leau-prokommentiroval-vyhod-svoey-komandy-v-sleduyuschiy-raund-pley-off-chm-2026-2436478/"
+    },
+    {
+      "d": "3 июля 2026",
+      "t": "Австралия — Египет: Салах и Мармуш сыграют в старте в матче 1/16 ...",
+      "text": "Стали известны стартовые составы на матч между сборными Австралии и Египта в 1/16 финала ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/avstraliya-egipet-startovye-sostavy-na-match-1-16-finala-chm-2026-3-iyulya-2436476/"
+    },
+    {
+      "d": "3 июля 2026",
       "t": "Колумбия — Гана: прямая трансляция матча ЧМ 2026 по футболу, виде...",
       "text": "Колумбия и Гана встретятся в матче 1/16 финала чемпионата мира по футболу в ночь на субботу, 4 июля.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Не менее восьми футболистов сборной Туниса провалили допинг-тесты во время чемпионата мира по футболу 202 года, сообщило издание D...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ne-menee-8-futbolistov-sbornoy-tunisa-provalili-doping-testy-vo-vremya-chm-2026-2436427/"
-    },
-    {
-      "d": "3 июля 2026",
-      "t": "Аргентина — Кабо-Верде: прямая трансляция матча ЧМ 2026 по футбол...",
-      "text": "Аргентина и Кабо-Верде сыграют в матче 1/16 финала ЧМ 4 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/argentina-kabo-verde-4-iyulya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2436302/"
-    },
-    {
-      "d": "3 июля 2026",
-      "t": "Мостовой об увольнении Нагельсманна из сборной Германии: «Обделал...",
-      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой в разговоре с «СЭ» отреагировал на увольнение главного тренера сборно...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-poluzaschitnik-sbornyh-sssr-i-rossii-aleksandr-mostovoy-otreagiroval-na-uvolnenie-glavnogo-trenera-sbornoy-germanii-yuliana-nagelsmanna-2436413/"
     }
   ],
   "odds": [
@@ -1110,5 +1110,5 @@
     }
   ],
   "odds_updated": "2026-06-28T17:05:54.596268Z",
-  "results_updated": "2026-07-03T15:47:26.960376Z"
+  "results_updated": "2026-07-03T17:21:52.727429Z"
 }
