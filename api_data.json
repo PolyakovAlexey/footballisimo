@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "7 июля 2026",
+      "t": "Мостовой заступился за Роналду: «Почему не критикуют других? Одни...",
+      "text": "Бывший футболист сборных СССР и России Александр Мостовой поделился с «СЭ» мнением о последнем чемпионате мира нападающего сборной...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-mostovoy-zastupilsya-za-krishtianu-ronaldu-posle-vyleta-sbornoy-portugalii-s-chm-2026-2437465/"
+    },
+    {
+      "d": "7 июля 2026",
+      "t": "Первая лига сезон-2026/2027: где смотреть трансляции ФНЛ",
+      "text": "Первая лига сезона-2026/2027 стартует 11 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_d1/news/pervaya-liga-sezon-2026-2027-gde-smotret-translyacii-fnl-2437377/"
+    },
+    {
+      "d": "7 июля 2026",
+      "t": "Мостовой: «Португальцы смотрелись интереснее до травмы Мендеша. У...",
+      "text": "Бывший футболист сборных СССР и России Александр Мостовой в разговоре с «СЭ» подвел итоги матча 1/8 финала чемпионата мира-2026 ме...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-mostovoy-schitaet-chto-sbornaya-portugalii-smotrelas-interesnee-ispanii-v-1-8-finala-chm-2026-2437460/"
+    },
+    {
+      "d": "7 июля 2026",
+      "t": "Первая лига сезон-2026/2027: полный список участников ФНЛ",
+      "text": "Первая лига сезона-2026/2027 стартует 11 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_d1/news/pervaya-liga-sezon-2026-2027-polnyy-spisok-uchastnikov-fnl-2437376/"
+    },
+    {
+      "d": "7 июля 2026",
       "t": "Сенатор из Парагвая Амарилья пригрозила подать в суд на Мбаппе за...",
       "text": "Парагвайский сенатор Селеста Амарилья потребовала от нападающего сборной Франции Килиана Мбаппе отозвать слова в ее адрес и принес...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Полузащитник сборной Бельгии Амаду Онана получил тяжелую травму в матче со сборной США (4:1) в 1/8 финала чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/havbek-sbornoy-belgii-amadu-onana-poluchil-razryv-krestoobraznyh-svyazok-v-matche-s-ssha-na-chm-2026-2437431/"
-    },
-    {
-      "d": "7 июля 2026",
-      "t": "Колыванов — о Роналду: «Он старается, человеку 41 год!»",
-      "text": "Бывший футболист сборной России Игорь Колыванов в разговоре с «СЭ» подвел итоги матча 1/8 финала чемпионата мира-2026 между Португ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/portugaliya-ispaniya-kommentariy-igorya-kolyvanova-o-matche-1-8-finala-chm-2026-7-iyulya-2437428/"
-    },
-    {
-      "d": "7 июля 2026",
-      "t": "Первая лига: основная информация сезона-2026/27",
-      "text": "Первая лига сезона-2026/2027 стартует 11 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/pervaya-liga-sezon-2026-2027-osnovnaya-informaciya-daty-kolichestvo-uchastnikov-gde-smotret-fnl-2437375/"
-    },
-    {
-      "d": "7 июля 2026",
-      "t": "Швейцария — Колумбия: прогноз, ставка и коэффициенты на матч 1/8 ...",
-      "text": "Швейцария и Колумбия встретятся в 1/8 финала чемпионата мира во вторник, 7 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/shveycariya-kolumbiya-7-iyulya-2026-prognoz-stavka-i-koefficienty-na-match-1-8-finala-chm-2026-po-futbolu-kto-pobedit-2437414/"
-    },
-    {
-      "d": "7 июля 2026",
-      "t": "ЧМ-2026, расписание и результаты матчей 1/8 финала: Аргентина — Е...",
-      "text": "Полное расписание матчей 1/8 финала ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chm-po-futbolu-2026-matchi-1-8-finala-raspisanie-i-rezultaty-igr-4-7-iyulya-setka-pley-off-chempionata-mira-2436597/"
     }
   ],
   "odds": [
@@ -62,36 +62,36 @@
       "t1": "Аргентина",
       "t2": "Египет",
       "k1": 1.34,
-      "kDraw": 4.88,
-      "k2": 11.38
+      "kDraw": 4.9,
+      "k2": 11.5
     },
     {
       "t1": "Швейцария",
       "t2": "Колумбия",
-      "k1": 3.62,
+      "k1": 3.67,
       "kDraw": 3.08,
-      "k2": 2.29
+      "k2": 2.26
     },
     {
       "t1": "Франция",
       "t2": "Марокко",
-      "k1": 1.6,
-      "kDraw": 3.77,
-      "k2": 6.4
+      "k1": 1.58,
+      "kDraw": 3.88,
+      "k2": 6.28
     },
     {
       "t1": "Испания",
       "t2": "Бельгия",
-      "k1": 1.61,
-      "kDraw": 3.93,
-      "k2": 5.87
+      "k1": 1.62,
+      "kDraw": 3.91,
+      "k2": 5.67
     },
     {
       "t1": "Норвегия",
       "t2": "Англия",
       "k1": 4.18,
-      "kDraw": 3.58,
-      "k2": 1.9
+      "kDraw": 3.63,
+      "k2": 1.88
     }
   ],
   "results": [
@@ -1032,6 +1032,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-07T10:51:54.199214Z",
-  "results_updated": "2026-07-07T10:51:54.962627Z"
+  "odds_updated": "2026-07-07T12:28:52.045024Z",
+  "results_updated": "2026-07-07T12:28:52.887852Z"
 }
