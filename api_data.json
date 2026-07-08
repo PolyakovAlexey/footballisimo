@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "8 июля 2026",
+      "t": "СМИ: Неймар может завершить карьеру",
+      "text": "Нападающий «Сантоса» Неймар после вылета сборной Бразилии с чемпионата мира-2026 может принять решение о завершении профессиональн...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/smi-neymar-mozhet-zavershit-kareru-2437922/"
+    },
+    {
+      "d": "8 июля 2026",
+      "t": "В Европарламенте добиваются расследования в отношении Инфантино и...",
+      "text": "Десятки европейских парламентариев собирают поддержку для проведения расследования в отношении главы Международной федерации футбо...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/v-evroparlamente-dobivayutsya-rassledovaniya-v-otnoshenii-infantino-iz-za-situacii-s-balogunom-2437917/"
+    },
+    {
+      "d": "8 июля 2026",
       "t": "В Парагвае сожгли чучело Мбаппе на празднике Сан-Хуан",
       "text": "Во время празднования фестиваля Сан-Хуан в Парагвае участники мероприятия повесили на дерево чучело нападающего сборной Франции Ки...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Полузащитник сборной Англии Джордан Хендерсон перенес операцию в Канзас-Сити, после того как сломал руку во время празднования поб...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/poluzaschitniku-sbornoy-anglii-hendersonu-sdelali-operaciyu-posle-nelepoy-travmy-na-chm-po-futbolu-2026-2437907/"
-    },
-    {
-      "d": "8 июля 2026",
-      "t": "Нигматуллин: «С выводами по поводу Месси я поторопился. Зато с Кр...",
-      "text": "Бывший вратарь сборной России Руслан Нигматуллин в своей колонке для «СЭ» оценил игру Лионеля Месси и Криштиану Роналду на ЧМ-2026...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/eks-vratar-sbornoy-rossii-nigmatullin-ocenil-igru-lionelya-messi-i-krishtianu-ronaldu-na-chm-po-futbolu-2026-2437904/"
-    },
-    {
-      "d": "8 июля 2026",
-      "t": "Сын диктатора Заира поддержал Мбаппе в конфликте с сенаторкой Пар...",
-      "text": "Старший сын президента и диктатора Заира Мобуту Сесе Секо Мобуту Нзанга Нгбангаве в социальных сетях поддержал форврада сборной Фр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/syn-diktatora-zaira-podderzhal-mbappe-v-konflikte-s-senatorkoy-paragvaya-2437903/"
     }
   ],
   "odds": [
@@ -69,8 +69,8 @@
       "t1": "Испания",
       "t2": "Бельгия",
       "k1": 1.62,
-      "kDraw": 3.92,
-      "k2": 5.72
+      "kDraw": 3.91,
+      "k2": 5.74
     },
     {
       "t1": "Норвегия",
@@ -1025,6 +1025,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-08T22:37:57.205605Z",
-  "results_updated": "2026-07-08T22:37:57.967160Z"
+  "odds_updated": "2026-07-08T23:42:51.458892Z",
+  "results_updated": "2026-07-08T23:42:52.276673Z"
 }
