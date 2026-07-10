@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "10 июля 2026",
+      "t": "Испания — Бельгия: началась прямая трансляция матча 1/4 финала ЧМ...",
+      "text": "Испания и Бельгия сыграют в 1/4 финала ЧМ по футболу 10 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-belgiya-nachalas-pryamaya-translyaciya-matcha-1-4-finala-chm-2026-po-futbolu-2438262/"
+    },
+    {
+      "d": "10 июля 2026",
+      "t": "Испания — Бельгия: Тилеманс получил травму на разминке, в старте ...",
+      "text": "Полузащитник сборной Бельгии Юри Тилеманс получил травму на предматчевой разминке и не сможет выйти на поле.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-belgiya-tilemans-poluchil-travmu-pered-matchem-1-4-finala-chm-2026-2438424/"
+    },
+    {
+      "d": "10 июля 2026",
       "t": "Полузащитник сборной Швейцарии Манзамби не сыграет с Аргентиной н...",
       "text": "Полузащитник сборной Швейцарии Жоан Манзамби пропустит матч 1/4 финала чемпионата мира с Аргентиной из-за травмы.",
       "src": "Спорт-Экспресс",
@@ -41,43 +55,29 @@
       "text": "Футболист сборной Испании Ламин Ямаль поделился мнением о нападающем сборной Португалии Криштиану Роналду.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/futbolist-sbornoy-ispanii-lamin-yamal-podelilsya-mneniem-o-napadayuschem-sbornoy-portugalii-krishtianu-ronaldu-2438398/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Тренер сборной Португалии Жезуш: «Роналду никогда не будет пробле...",
-      "text": "Главный тренер сборной Португалии Жорже Жезуш поделился мнением о нападающем Криштиану Роналду.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-portugalii-zhorzhe-zhezush-podelilsya-mneniem-o-napadayuschem-krishtianu-ronaldu-2438397/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Нигматуллин считает коррупцией приостановку дисквалификации Балог...",
-      "text": "Бывший вратарь сборной России Руслан Нигматуллин назвал коррупцией приостановку дисквалификации нападающего сборной США Фоларина Б...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/nigmatullin-schitaet-korrupciey-priostanovku-diskvalifikacii-baloguna-na-chm-2026-2438384/"
     }
   ],
   "odds": [
     {
       "t1": "Испания",
       "t2": "Бельгия",
-      "k1": 1.62,
-      "kDraw": 3.92,
-      "k2": 5.96
+      "k1": 1.65,
+      "kDraw": 3.88,
+      "k2": 5.4
     },
     {
       "t1": "Норвегия",
       "t2": "Англия",
-      "k1": 4.08,
-      "kDraw": 3.61,
+      "k1": 4.1,
+      "kDraw": 3.62,
       "k2": 1.9
     },
     {
       "t1": "Аргентина",
       "t2": "Швейцария",
       "k1": 1.67,
-      "kDraw": 3.58,
-      "k2": 5.84
+      "kDraw": 3.6,
+      "k2": 5.94
     }
   ],
   "results": [
@@ -957,11 +957,11 @@
     {
       "t1": "Испания",
       "t2": "Бельгия",
-      "score1": null,
-      "score2": null,
-      "status": "TIMED",
+      "score1": 0,
+      "score2": 0,
+      "status": "IN_PLAY",
       "utcDate": "2026-07-10T19:00:00Z",
-      "winner": null
+      "winner": "DRAW"
     },
     {
       "t1": "Норвегия",
@@ -1018,6 +1018,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-10T17:45:00.285170Z",
-  "results_updated": "2026-07-10T17:45:01.903088Z"
+  "odds_updated": "2026-07-10T19:09:23.227991Z",
+  "results_updated": "2026-07-10T19:09:23.993276Z"
 }
