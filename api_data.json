@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "10 июля 2026",
+      "t": "Ямаль: «Если Франции и стоит кого-то опасаться, то только Испании...",
+      "text": "Нападающий сборной Испании Ламин Ямаль прокомментировал победу над сборной Бельгии (2:1) в 1/4 финала чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/lamin-yamal-zayavil-chto-sbornoy-francii-stoit-opasatsya-ispanii-pered-matchem-1-2-finala-chm-2026-2438468/"
+    },
+    {
+      "d": "10 июля 2026",
+      "t": "Куртуа хочет приостановить карьеру в сборной Бельгии",
+      "text": "Голкипер сборной Бельгии Тибо Куртуа после поражения от Испании (1:2) в матче 1/4 финала чемпионата мира-2026 отметил, что хочет о...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kurtua-hochet-priostanovit-kareru-v-sbornoy-belgii-2438465/"
+    },
+    {
+      "d": "10 июля 2026",
+      "t": "Куртуа — о травме в матче с Испанией: «У меня не было проблем с т...",
+      "text": "Вратарь сборной Бельгии Тибо Куртуа прокомментировал свою травму в матче со сборной Испании (1:2) в четвертьфинале ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vratar-sbornoy-belgii-tibo-kurtua-zayavil-chto-nesmotrya-na-travmu-gotov-byl-prodolzhat-match-s-ispaniey-na-chm-2026-2438464/"
+    },
+    {
+      "d": "10 июля 2026",
       "t": "Де ла Фуэнте: «Испания может победить Францию»",
       "text": "Главный тренер сборной Испании Луис де ла Фуэнте прокомментировал победу над сборной Бельгии (2:1) в матче 1/4 финала чемпионата м...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "На чемпионате мира-2026 в плей-офф стартовали 32 сборные.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chempionat-mira-po-futbolu-2026-setka-pley-off-chm-vse-pary-matchi-1-16-1-8-1-4-1-2-finala-final-onlayn-2434993/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Испания — Бельгия: видео голов матча 1/4 финала ЧМ-2026",
-      "text": "Сборная Испании переиграла сборную Бельгии в матче 1/4 финала ЧМ-2026 — 2:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-belgiya-video-golov-matcha-1-4-finala-matcha-chempionata-mira-10-iyulya-2026-goda-2438455/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Мерино забил второй победный гол подряд в концовке матча ЧМ-2026",
-      "text": "Полузащитник сборной Испании Микель Мерино забил второй победный гол подряд в концовке матча чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/havbek-sbornoy-ispanii-mikel-merino-zabil-vtoroy-pobednyy-gol-podryad-v-koncovke-matcha-chm-2026-2438454/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "ЧМ-2026, расписание и результаты матчей 1/4 финала: Норвегия — Ан...",
-      "text": "Полное расписание матчей 1/4 финала ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chm-po-futbolu-2026-matchi-1-4-finala-raspisanie-i-rezultaty-igr-9-12-iyulya-setka-pley-off-chempionata-mira-2437970/"
     }
   ],
   "odds": [
@@ -70,14 +70,14 @@
       "t2": "Швейцария",
       "k1": 1.67,
       "kDraw": 3.58,
-      "k2": 5.94
+      "k2": 5.99
     },
     {
       "t1": "Франция",
       "t2": "Испания",
-      "k1": 2.36,
-      "kDraw": 3.25,
-      "k2": 3.19
+      "k1": 2.32,
+      "kDraw": 3.31,
+      "k2": 3.21
     }
   ],
   "results": [
@@ -1018,6 +1018,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-10T21:42:14.266500Z",
-  "results_updated": "2026-07-10T21:42:14.909134Z"
+  "odds_updated": "2026-07-10T22:41:31.189510Z",
+  "results_updated": "2026-07-10T22:41:31.826684Z"
 }
