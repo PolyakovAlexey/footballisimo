@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "10 июля 2026",
+      "t": "Жезуш назначен главным тренером сборной Португалии после вылета к...",
+      "text": "Бывший тренер «Аль-Насра» Жорже Жезуш возглавил сборную Португалии, сообщила Португальская федерация футбола (FPF).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zhezush-naznachen-glavnym-trenerom-sbornoy-portugalii-posle-vyleta-komandy-s-chm-2026-2438357/"
+    },
+    {
+      "d": "10 июля 2026",
+      "t": "Тен Хаг отказался от поста главного тренера сборной Нидерландов",
+      "text": "Бывший тренер «Манчестер Юнайтед» и «Байера» Эрик тен Хаг не возглавит сборную Нидерландов в ближайшее время.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ten-hag-otkazalsya-ot-posta-glavnogo-trenera-sbornoy-niderlandov-2438347/"
+    },
+    {
+      "d": "10 июля 2026",
+      "t": "Непомнящий считает, что игра сборной Испании зависит от Ямаля: «К...",
+      "text": "Бывший главный тренер сборной Камеруна Валерий Непомнящий поделился с «СЭ» ожиданиями от матча 1/4 финала чемпионата мира-2026 меж...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-belgiya-prognoz-valeriya-nepomnyaschego-na-match-1-4-finala-chm-2026-10-iyulya-2438341/"
+    },
+    {
+      "d": "10 июля 2026",
+      "t": "Булыкин считает, что в матче 1/4 финала ЧМ-2026 между Испанией и ...",
+      "text": "Бывший нападающий сборной России Дмитрий Булыкин в комментарии для «СЭ» поделился мнением о матче 1/4 финала чемпионата мира-2026 ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-belgiya-prognoz-dmitriya-bulykina-na-match-1-4-finala-chm-2026-10-iyulya-2438340/"
+    },
+    {
+      "d": "10 июля 2026",
       "t": "Салах пообещал болельщикам «новое начало» для египетского футбола...",
       "text": "Капитан сборной Египта Мохамед Салах обратился к болельщикам после вылета с чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
@@ -27,49 +55,21 @@
       "text": "Нападающий сборной Норвегии Эрлинг Холанн ответил на вопрос о шансах команды выиграть чемпионат мира-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-erling-holann-nazval-nizkimi-shansy-sbornoy-norvegii-vyigrat-chempionat-mira-2026-2438319/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "В «Краснодаре» назвали великолепным выступление Ленини на ЧМ-2026...",
-      "text": "Руководитель селекционной службы «Краснодара» Максим Бузникин в разговоре с «СЭ» прокомментировал выступление полузащитника Кевина...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/v-krasnodare-nazvali-velikolepnym-vystuplenie-lenini-na-chm-2026-za-kabo-verde-2438318/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Садио Мане объявил о завершении карьеры в сборной Сенегала",
-      "text": "Нападающий Садио Мане сообщил, что завершил выступления за сборную Сенегала.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/napadayuschiy-sadio-mane-obyavil-o-zavershenii-karery-v-sbornoy-senegala-2438317/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Источник: большинство членов Совета ФИФА готовы поддержать возвра...",
-      "text": "Большинство членов Совета ФИФА в настоящее время готовы поддержать возвращение российских сборных и клубов на международную арену,...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/istochnik-bolshinstvo-chlenov-soveta-fifa-gotovy-podderzhat-vozvraschenie-rossii-2438315/"
-    },
-    {
-      "d": "10 июля 2026",
-      "t": "Испания — Бельгия: прямая трансляция матча ЧМ 2026 по футболу",
-      "text": "Испания и Бельгия сыграют в 1/4 финала ЧМ по футболу 10 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-belgiya-10-iyulya-2026-pryamaya-translyaciya-matcha-chm-2026-po-futbolu-video-onlayn-2438255/"
     }
   ],
   "odds": [
     {
       "t1": "Испания",
       "t2": "Бельгия",
-      "k1": 1.61,
-      "kDraw": 4.0,
-      "k2": 5.89
+      "k1": 1.62,
+      "kDraw": 3.96,
+      "k2": 5.75
     },
     {
       "t1": "Норвегия",
       "t2": "Англия",
       "k1": 4.23,
-      "kDraw": 3.66,
+      "kDraw": 3.65,
       "k2": 1.87
     },
     {
@@ -1018,6 +1018,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-10T12:26:48.770242Z",
-  "results_updated": "2026-07-10T12:26:49.312848Z"
+  "odds_updated": "2026-07-10T14:05:36.614908Z",
+  "results_updated": "2026-07-10T14:05:37.549461Z"
 }
