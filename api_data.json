@@ -2,6 +2,41 @@
   "news": [
     {
       "d": "11 июля 2026",
+      "t": "Норвегия — Англия: Тюрпен отменил пенальти в ворота норвежцев в д...",
+      "text": "Главный судья матча 1/4 финала ЧМ-2026 Норвегия — Англия Клеман Тюрпен отменил пенальти в ворота норвежцев, назначенный на 99-й ми...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-sudya-tyurpen-otmenil-penalti-v-vorota-norvezhcev-v-dopolnitelnoe-vremya-2438716/"
+    },
+    {
+      "d": "11 июля 2026",
+      "t": "Норвегия — Англия: Беллингем сделал дубль и вывел англичан вперед",
+      "text": "Полузащитник сборной Англии Джуд Беллингем сделал дубль в матче 1/4 финала ЧМ-2026 против Норвегии — 2:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-bellingem-sdelal-dubl-v-matche-1-4-finala-chm-2026-po-futbolu-12-iyulya-2026-2438715/"
+    },
+    {
+      "d": "11 июля 2026",
+      "t": "Норвегия — Англия: основное время матча завершилось вничью",
+      "text": "Основное время матча 1/4 финала ЧМ-2026 Норвегия — Англия завершилось вничью — 1:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-v-matche-1-4-finala-chm-2026-budet-dopolnitelnoe-vremya-2438714/"
+    },
+    {
+      "d": "11 июля 2026",
+      "t": "Норвегия — Англия: видео голов матча",
+      "text": "Сборные Норвегии и Англии играют вничью в матче 1/4 финала ЧМ-2026 — 1:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-video-golov-matcha-1-4-finala-chempionata-mira-po-futbolu-2026-12-iyulya-2026-2438705/"
+    },
+    {
+      "d": "11 июля 2026",
+      "t": "Норвегия — Англия: британцам помог кабель камеры — гол Беллингема...",
+      "text": "На 45+1-й минуте четвертьфинального матча ЧМ-2026 Норвегия — Англия произошел необычный эпизод, когда за британцев сыграл кабель к...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-gol-bellingema-mogli-otmenit-myach-popal-v-kabel-kamery-nad-gazonom-2438713/"
+    },
+    {
+      "d": "11 июля 2026",
       "t": "Норвегия — Англия: гол защитника скандинавов Хеггема отменили из-...",
       "text": "Главный судья матча 1/4 финала ЧМ-2026 Норвегия — Англия Клеман Тюрпен отменил гол защитника скандинавов Торбьорна Хеггема на 55-й...",
       "src": "Спорт-Экспресс",
@@ -16,68 +51,33 @@
     },
     {
       "d": "11 июля 2026",
-      "t": "Норвегия — Англия: видео голов матча",
-      "text": "Сборные Норвегии и Англии играют вничью в матче 1/4 финала ЧМ-2026 — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-video-golov-matcha-1-4-finala-chempionata-mira-po-futbolu-2026-12-iyulya-2026-2438705/"
-    },
-    {
-      "d": "11 июля 2026",
       "t": "Гол Кейна в ворота сборной Норвегии отменили из-за офсайда",
       "text": "Сборная Англии играет со сборной Норвегии в четвертьфинале чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gol-keyna-v-vorota-sbornoy-norvegii-na-chm-po-futbolu-2026-otmenili-iz-za-ofsayda-2438704/"
-    },
-    {
-      "d": "11 июля 2026",
-      "t": "Норвегия — Англия: ничья после первого тайма",
-      "text": "Первый тайм матча 1/4 финала ЧМ-2026 Норвегия — Англия завершился вничью — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-nichya-posle-pervogo-tayma-v-matche-1-4-finala-chm-2026-2438703/"
-    },
-    {
-      "d": "11 июля 2026",
-      "t": "Норвегия — Англия: Беллингем сравнял счет в конце первого тайма",
-      "text": "Полузащитник сборной Англии Джуд Беллингем сравнял счет в матче 1/4 финала ЧМ-2026 против Норвегии — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-bellingem-sravnyal-schet-v-konce-pervogo-tayma-2438702/"
-    },
-    {
-      "d": "11 июля 2026",
-      "t": "Норвегия — Англия: Шельдеруп открыл счет ударом в девятку",
-      "text": "Вингер сборной Норвегии Андреас Шельдеруп открыл счет в матче 1/4 финала ЧМ-2026 — 1:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvegiya-angliya-shelderup-otkryl-schet-udarom-v-devyatku-2438698/"
-    },
-    {
-      "d": "11 июля 2026",
-      "t": "Скончался бывший футболист сборной Аргентины Антонио Раттин",
-      "text": "На 90-м году ушел из жизни экс-футболист сборной Аргентины Антонио Раттин, сообщила Ассоциация футбола Аргентины. В организации не...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/skonchalsya-byvshiy-futbolist-sbornoy-argentiny-antonio-rattin-2438694/"
     }
   ],
   "odds": [
     {
       "t1": "Норвегия",
       "t2": "Англия",
-      "k1": 4.83,
-      "kDraw": 2.47,
-      "k2": 2.29
+      "k1": 15.21,
+      "kDraw": 2.74,
+      "k2": 3.51
     },
     {
       "t1": "Аргентина",
       "t2": "Швейцария",
-      "k1": 1.7,
-      "kDraw": 3.53,
-      "k2": 6.0
+      "k1": 1.72,
+      "kDraw": 3.46,
+      "k2": 5.79
     },
     {
       "t1": "Франция",
       "t2": "Испания",
-      "k1": 2.33,
+      "k1": 2.31,
       "kDraw": 3.25,
-      "k2": 3.27
+      "k2": 3.29
     }
   ],
   "results": [
@@ -966,11 +966,11 @@
     {
       "t1": "Норвегия",
       "t2": "Англия",
-      "score1": 2,
-      "score2": 1,
+      "score1": 1,
+      "score2": 2,
       "status": "IN_PLAY",
       "utcDate": "2026-07-11T21:00:00Z",
-      "winner": "HOME_TEAM"
+      "winner": "AWAY_TEAM"
     },
     {
       "t1": "Аргентина",
@@ -1018,6 +1018,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-11T22:24:46.598699Z",
-  "results_updated": "2026-07-11T22:24:47.195031Z"
+  "odds_updated": "2026-07-11T23:24:54.992162Z",
+  "results_updated": "2026-07-11T23:24:55.760349Z"
 }
