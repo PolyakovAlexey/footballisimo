@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "12 июля 2026",
+      "t": "Форлан временно назначен на пост главного тренера сборной Уругвая",
+      "text": "Бывший нападающий сборной Уругвая Диего Форлан временно возглавит национальную команду, сообщает Marca со ссылкой на главу Уругвай...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/forlan-vremenno-naznachen-na-post-glavnogo-trenera-sbornoy-urugvaya-2438948/"
+    },
+    {
+      "d": "12 июля 2026",
       "t": "Трезеге о Месси на ЧМ-2026: «Лео в невероятной форме, он доказыва...",
       "text": "Бывший нападающий сборной Франции Давид Трезеге оценил игру форварда сборной Аргентины Лионеля Месси на ЧМ-2026.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший тренер «Милана», «Реала» и сборной России Фабио Капелло поделился мнением о назначении экс-игрока сборной Италии Паоло Маль...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/byvshiy-trener-sbornoy-rossii-fabio-kapello-podelilsya-mneniem-o-naznachenii-eks-igroka-sbornoy-italii-paolo-maldini-na-dolzhnost-tehnicheskogo-direktora-federacii-futbola-italii-2438907/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Конате о словах Ямаля: «Он может говорить все, что хочет, Франция...",
-      "text": "Защитник сборной Франции Ибраима Конате отреагировал на слова нападающего сборной Испании Ламина Ямаля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-francii-ibraima-konate-otreagiroval-na-slova-napadayuschego-sbornoy-ispanii-lamina-yamalya-na-chm-2026-2438905/"
     }
   ],
   "odds": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-12T19:09:07.304856Z",
-  "results_updated": "2026-07-12T19:09:08.108023Z"
+  "odds_updated": "2026-07-12T20:09:23.614105Z",
+  "results_updated": "2026-07-12T20:09:24.288112Z"
 }
