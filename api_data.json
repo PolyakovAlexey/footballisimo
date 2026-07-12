@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "12 июля 2026",
+      "t": "Нигматуллин — об удалении Эмболо: «Даже Соболев ныряет правдоподо...",
+      "text": "Бывший вратарь сборной России Руслан Нигматуллин в своей колонке для «СЭ» прокомментировал удаление нападающего сборной Швейцарии ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ruslan-nigmatullin-prokommentiroval-udalenie-napadayuschego-sbornoy-shveycarii-embolo-v-matche-1-4-finala-chm-po-futbolu-2026-s-argentinoy-2438953/"
+    },
+    {
+      "d": "12 июля 2026",
+      "t": "The Times: решение об отмене дисквалификации Балогуна на ЧМ-2026 ...",
+      "text": "Решение об отмене дисквалификации нападающего сборной США Фоларина Балогуна единолично принял председатель дисциплинарного комитет...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/the-times-reshenie-ob-otmene-diskvalifikacii-baloguna-na-chm-2026-bylo-prinyato-odnim-chelovekom-2438958/"
+    },
+    {
+      "d": "12 июля 2026",
+      "t": "Газизов заявил, что бюджет махачкалинского «Динамо» на сезон-2026...",
+      "text": "Генеральный директор махачкалинского «Динамо» Шамиль Газизов назвал бюджет клуба на сезон-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/gazizov-zayavil-chto-byudzhet-mahachkalinskogo-dinamo-na-sezon-2026-27-sostavit-okolo-1-8-milliarda-rubley-2438957/"
+    },
+    {
+      "d": "12 июля 2026",
       "t": "Форлан временно назначен на пост главного тренера сборной Уругвая",
       "text": "Бывший нападающий сборной Уругвая Диего Форлан временно возглавит национальную команду, сообщает Marca со ссылкой на главу Уругвай...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "«Ньюкасл» встретится с полузащитником «Фрайбурга» и сборной Швейцарии Жоаном Манзамби и его представителями для согласования услов...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/nyukasl-svyazhetsya-s-manzambi-dlya-soglasovaniya-usloviy-lichnogo-kontrakta-2438915/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Лакруа о словах Ямаля перед матчем ЧМ-2026 Франция — Испания: «Мы...",
-      "text": "Защитник сборной Франции Максенс Лакруа отреагировал на слова нападающего сборной Испании Ламина Ямаля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-francii-maksens-lakrua-otreagiroval-na-slova-napadayuschego-sbornoy-ispanii-lamina-yamalya-pered-polufinalom-chm-2026-2438910/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Руни — о победе над Норвегией: «Я говорил, что наступит матч, ког...",
-      "text": "Бывший нападающий сборной Англии Уэйн Руни оценил вклад полузащитника Джуда Беллингема в победу над Норвегией (2:1 д.в.) в четверт...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/runi-vysoko-ocenil-vklad-bellingema-v-pobedu-anglii-nad-norvegiey-na-chm-2026-2438908/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Капелло о назначении Мальдини техдиректором Федерации футбола Ита...",
-      "text": "Бывший тренер «Милана», «Реала» и сборной России Фабио Капелло поделился мнением о назначении экс-игрока сборной Италии Паоло Маль...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/byvshiy-trener-sbornoy-rossii-fabio-kapello-podelilsya-mneniem-o-naznachenii-eks-igroka-sbornoy-italii-paolo-maldini-na-dolzhnost-tehnicheskogo-direktora-federacii-futbola-italii-2438907/"
     }
   ],
   "odds": [
@@ -70,7 +70,7 @@
       "t2": "Аргентина",
       "k1": 2.62,
       "kDraw": 2.92,
-      "k2": 3.12
+      "k2": 3.15
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-12T20:09:23.614105Z",
-  "results_updated": "2026-07-12T20:09:24.288112Z"
+  "odds_updated": "2026-07-12T21:05:25.374424Z",
+  "results_updated": "2026-07-12T21:05:25.996124Z"
 }
