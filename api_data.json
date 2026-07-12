@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "12 июля 2026",
+      "t": "Газзаев: «Месси — феномен, невероятный лидер»",
+      "text": "Бывший главный тренер сборной России Валерий Газзаев поделился с «СЭ» впечатлениями от победы сборной Аргентины над Швейцарией (3:...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gazzaev-ocenil-vklad-messi-v-uspeh-sbornoy-argentiny-na-chm-2026-2438929/"
+    },
+    {
+      "d": "12 июля 2026",
+      "t": "Тренер сборной Египта Хассан: «Слово «Месси» может пугать некотор...",
+      "text": "Главный тренер сборной Египта Хоссам Хассан рассказал, как избегал упоминания имени аргентинского нападающего Лионеля Месси перед ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-sbornoy-egipta-hassan-slovo-messi-mozhet-pugat-nekotoryh-futbolistov-2438918/"
+    },
+    {
+      "d": "12 июля 2026",
       "t": "«Ньюкасл» свяжется с Манзамби для согласования условий личного ко...",
       "text": "«Ньюкасл» встретится с полузащитником «Фрайбурга» и сборной Швейцарии Жоаном Манзамби и его представителями для согласования услов...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "«Реал» с сезона-2026/27 сменит тренера вратарей, сообщает Marca.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/istochnik-real-smenit-trenera-vratarey-s-sezona-2026-27-2438903/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Защитник сборной Аргентины Ромеро: «Без страданий мы не можем поб...",
-      "text": "Защитник сборной Аргентины Кристиан Ромеро поделился эмоциями от победы над Швейцарией (3:1 в дополнительное время) и ожиданиями о...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-argentiny-kristian-romero-podelilsya-emociyami-ot-pobedy-nad-shveycariey-i-ozhidaniyami-ot-matcha-s-angliey-na-chm-2026-2438900/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Эшли Янг о победе Англии над Норвегией на ЧМ-2026: «Мы показали х...",
-      "text": "Бывший игрок сборной Англии Эшли Янг поделился впечатлениями от победы национальной команды над Норвегией (2:1 в дополнительное вр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-igrok-sbornoy-anglii-eshli-yang-podelilsya-vpechatleniyami-ot-pobedy-nacionalnoy-komandy-nad-norvegiey-v-chetvertfinale-chm-2026-2438898/"
     }
   ],
   "odds": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-12T16:55:47.090603Z",
-  "results_updated": "2026-07-12T16:55:48.032578Z"
+  "odds_updated": "2026-07-12T17:57:36.831827Z",
+  "results_updated": "2026-07-12T17:57:37.632014Z"
 }
