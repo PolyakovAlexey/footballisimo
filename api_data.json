@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "12 июля 2026",
+      "t": "Трезеге о Месси на ЧМ-2026: «Лео в невероятной форме, он доказыва...",
+      "text": "Бывший нападающий сборной Франции Давид Трезеге оценил игру форварда сборной Аргентины Лионеля Месси на ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-napadayuschiy-sbornoy-francii-trezege-ocenil-igru-messi-na-chm-2026-2438935/"
+    },
+    {
+      "d": "12 июля 2026",
       "t": "Газзаев: «Месси — феномен, невероятный лидер»",
       "text": "Бывший главный тренер сборной России Валерий Газзаев поделился с «СЭ» впечатлениями от победы сборной Аргентины над Швейцарией (3:...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Защитник сборной Франции Ибраима Конате отреагировал на слова нападающего сборной Испании Ламина Ямаля.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-francii-ibraima-konate-otreagiroval-na-slova-napadayuschego-sbornoy-ispanii-lamina-yamalya-na-chm-2026-2438905/"
-    },
-    {
-      "d": "12 июля 2026",
-      "t": "Источник: «Реал» сменит тренера вратарей с сезона-2026/27",
-      "text": "«Реал» с сезона-2026/27 сменит тренера вратарей, сообщает Marca.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/istochnik-real-smenit-trenera-vratarey-s-sezona-2026-27-2438903/"
     }
   ],
   "odds": [
@@ -68,9 +68,9 @@
     {
       "t1": "Англия",
       "t2": "Аргентина",
-      "k1": 2.65,
+      "k1": 2.62,
       "kDraw": 2.92,
-      "k2": 3.08
+      "k2": 3.12
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-12T17:57:36.831827Z",
-  "results_updated": "2026-07-12T17:57:37.632014Z"
+  "odds_updated": "2026-07-12T19:09:07.304856Z",
+  "results_updated": "2026-07-12T19:09:08.108023Z"
 }
