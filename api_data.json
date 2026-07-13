@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "13 июля 2026",
+      "t": "Овечкин планирует посетить финал чемпионата мира-2026 по футболу",
+      "text": "Нападающий и капитан «Вашингтона» Александр Овечкин планирует посетить финал чемпионата мира по футболу, сообщил ТАСС со ссылкой н...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ovechkin-planiruet-posetit-final-chempionata-mira-2026-po-futbolu-2439152/"
+    },
+    {
+      "d": "13 июля 2026",
       "t": "Рианчо: «Жду победы сборной Испании. Но Франция очень сложный соп...",
       "text": "Бывший тренер «Спартака» Рауль Рианчо в разговоре с «СЭ» поделился ожиданиями от матча Франция — Испания в полуфинале чемпионата м...",
       "src": "Спорт-Экспресс",
@@ -48,22 +55,15 @@
       "text": "Франция и Испания сыграют в матче 1/2 финала ЧМ 14 июля.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-ispaniya-14-iyulya-2026-data-i-vremya-nachala-matcha-1-2-finala-chm-po-futbolu-2026-kogda-match-i-v-kakom-gorode-proydet-2439055/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Орлов: «Звонок Трампа в ФИФА настроил весь мир против сборной США...",
-      "text": "Комментатор Геннадий Орлов в развговоре с «СЭ» рассказал о том, что ему не понравилось во время ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kommentator-gennadiy-orlov-rasskazal-o-tom-chto-emu-ne-ponravilos-vo-vremya-chm-2026-2439086/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Испания",
-      "k1": 2.34,
-      "kDraw": 3.22,
-      "k2": 3.24
+      "k1": 2.36,
+      "kDraw": 3.21,
+      "k2": 3.21
     },
     {
       "t1": "Англия",
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-13T16:19:16.248014Z",
-  "results_updated": "2026-07-13T16:19:16.913937Z"
+  "odds_updated": "2026-07-13T17:52:14.604894Z",
+  "results_updated": "2026-07-13T17:52:15.364498Z"
 }
