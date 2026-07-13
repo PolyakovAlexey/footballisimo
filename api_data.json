@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "13 июля 2026",
+      "t": "Gazzetta dello Sport: Гвардиола является основным претендентом на...",
+      "text": "Бывший главный тренер «Манчестер Сити» Хосеп Гвардиола является главным кандидатом на пост тренера сборной Италии, сообщает Gazzet...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/gazzetta-dello-sport-gvardiola-yavlyaetsya-osnovnym-pretendentom-na-post-glavnogo-trenera-sbornoy-italii-2439167/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "Непомнящий — о возможном расширении числа участников ЧМ: «Наберут...",
+      "text": "Бывший главный тренер сборной Камеруна Валерий Непомнящий поделился с «СЭ» мнением о возможном расширении числа участников чемпион...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/nepomnyaschiy-schitaet-chto-pri-rasshirenii-chempionata-mira-naberutsya-sbornye-kotorye-umeyut-igrat-2439166/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "Круговой: «Главный тренер женщина — это уже перебор, возглавлять ...",
+      "text": "Защитник ЦСКА и сборной России Данил Круговой рассказал, как бы отреагировал на назначение женщины главным тренером в его команде.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/krugovoy-zayavil-chto-ne-hotel-by-rabotat-pod-rukovodstvom-zhenschiny-trenera-2439165/"
+    },
+    {
+      "d": "13 июля 2026",
       "t": "Овечкин планирует посетить финал чемпионата мира-2026 по футболу",
       "text": "Нападающий и капитан «Вашингтона» Александр Овечкин планирует посетить финал чемпионата мира по футболу, сообщил ТАСС со ссылкой н...",
       "src": "Спорт-Экспресс",
@@ -34,36 +55,15 @@
       "text": "Нидерландский арбитр Роб Диперинк ушел из жизни спустя несколько недель после того, как был отстранен от работы на чемпионате мира...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/otstranennyy-pered-startom-chm-2026-arbitr-rob-diperink-umer-v-38-let-2439118/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "МИД Испании отреагировал на слова экс-премьера о сборной Франции ...",
-      "text": "Министр иностранных дел Испании Хосе Мануэль Альбарес раскритиковал бывшего премьера страны Мариано Рахоя за его высказывания о сб...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mid-ispanii-otreagiroval-na-slova-eks-premera-o-sbornoy-francii-na-chm-2026-2439101/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Кубарси о полуфинале ЧМ-2026: «Я не боюсь Мбаппе, он уникален, ка...",
-      "text": "Защитник сборной Испании Пау Кубарси поделился ожиданиями от полуфинала чемпионата мира по футболу, в котором его команда встретит...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-ispanii-pau-kubarsi-podelilsya-ozhidaniyami-ot-polufinala-chm-2026-2439098/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Франция — Испания: дата и время начала матча 1/2 финала ЧМ по фут...",
-      "text": "Франция и Испания сыграют в матче 1/2 финала ЧМ 14 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-ispaniya-14-iyulya-2026-data-i-vremya-nachala-matcha-1-2-finala-chm-po-futbolu-2026-kogda-match-i-v-kakom-gorode-proydet-2439055/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Испания",
-      "k1": 2.36,
-      "kDraw": 3.21,
-      "k2": 3.21
+      "k1": 2.41,
+      "kDraw": 3.19,
+      "k2": 3.17
     },
     {
       "t1": "Англия",
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-13T17:52:14.604894Z",
-  "results_updated": "2026-07-13T17:52:15.364498Z"
+  "odds_updated": "2026-07-13T19:08:44.117212Z",
+  "results_updated": "2026-07-13T19:08:45.084379Z"
 }
