@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "13 июля 2026",
+      "t": "Главным арбитром полуфинала ЧМ-2026 Франция — Испания назначили с...",
+      "text": "Стали известны судьи, которые будут работать на полуфинальном матче чемпионата мира-2026 между Францией и Испанией 14 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnym-arbitrom-polufinala-chm-po-futbolu-2026-franciya-ispaniya-naznachili-salvadorca-bartona-2438982/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "«Лидс» сделал устное предложение о трансфере защитника Мухаремови...",
+      "text": "«Лидс» заинтересован в подписании защитника «Сассуоло» и сборной Боснии и Герцеговины Тарика Мухаремовича, сообщил журналист Фабри...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/lids-sdelal-ustnoe-predlozhenie-o-transfere-zaschitnika-muharemovicha-2438979/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "Вратарь сборной Шотландии Ганн перешел в «Сан-Хосе»",
+      "text": "«Сан-Хосе» подписал контракт с вратарем Ангусом Ганном. Соглашение рассчитано до 30 июня 2030 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/vratar-sbornoy-shotlandii-gann-pereshel-v-san-hose-2438974/"
+    },
+    {
+      "d": "13 июля 2026",
       "t": "Лапорта: «Месси проводит сенсационный чемпионат мира, поздравляю ...",
       "text": "Президент «Барселоны» Жоан Лапорта прокомментировал игру бывшего футболиста команды нападающего Лионеля Месси на чемпионате мира-2...",
       "src": "Спорт-Экспресс",
@@ -34,41 +55,20 @@
       "text": "Решение об отмене дисквалификации нападающего сборной США Фоларина Балогуна единолично принял председатель дисциплинарного комитет...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/the-times-reshenie-ob-otmene-diskvalifikacii-baloguna-na-chm-2026-bylo-prinyato-odnim-chelovekom-2438958/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Газизов заявил, что бюджет махачкалинского «Динамо» на сезон-2026...",
-      "text": "Генеральный директор махачкалинского «Динамо» Шамиль Газизов назвал бюджет клуба на сезон-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/gazizov-zayavil-chto-byudzhet-mahachkalinskogo-dinamo-na-sezon-2026-27-sostavit-okolo-1-8-milliarda-rubley-2438957/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Форлан временно назначен на пост главного тренера сборной Уругвая",
-      "text": "Бывший нападающий сборной Уругвая Диего Форлан временно возглавит национальную команду, сообщает Marca со ссылкой на главу Уругвай...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/forlan-vremenno-naznachen-na-post-glavnogo-trenera-sbornoy-urugvaya-2438948/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Трезеге о Месси на ЧМ-2026: «Лео в невероятной форме, он доказыва...",
-      "text": "Бывший нападающий сборной Франции Давид Трезеге оценил игру форварда сборной Аргентины Лионеля Месси на ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-napadayuschiy-sbornoy-francii-trezege-ocenil-igru-messi-na-chm-2026-2438935/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Испания",
-      "k1": 2.34,
+      "k1": 2.35,
       "kDraw": 3.17,
-      "k2": 3.3
+      "k2": 3.28
     },
     {
       "t1": "Англия",
       "t2": "Аргентина",
-      "k1": 2.66,
+      "k1": 2.65,
       "kDraw": 2.92,
       "k2": 3.06
     }
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-13T00:05:23.859057Z",
-  "results_updated": "2026-07-13T00:05:24.729538Z"
+  "odds_updated": "2026-07-13T03:16:04.447442Z",
+  "results_updated": "2026-07-13T03:16:05.167133Z"
 }
