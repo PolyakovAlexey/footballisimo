@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "13 июля 2026",
+      "t": "Полузащитник «Астон Виллы» Тилеманс перешел в «Манчестер Юнайтед»",
+      "text": "«Манчестер Юнайтед» подписал контракт с полузащитником «Астон Виллы» и сборной Нидерландов Юри Тилемансом, сообщил журналист Фабри...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/manchester-yunayted-nameren-podpisat-poluzaschitnika-aston-villy-tilemansa-2439047/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "Лукас Вера не верит, что его могут вызвать в сборную Аргентины",
+      "text": "Полузащитник «Локомотива» Лукас Вера ответил на вопрос «СЭ» о возможном вызове в сборную Аргентины.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/lukas-vera-ne-verit-chto-ego-mogut-vyzvat-v-sbornuyu-argentiny-2439038/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "«ПСЖ» может подписать вратаря сборной Японии Судзуки",
+      "text": "«ПСЖ» начал переговоры с вратарем «Пармы» и сборной Японии Дзионом Судзуки, сообщает La Gazzetta dello Sport.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/pszh-mozhet-podpisat-vratarya-sbornoy-yaponii-sudzuki-2439034/"
+    },
+    {
+      "d": "13 июля 2026",
+      "t": "Кубарси — о ЧМ-2026: «Это уникальный турнир, мы с Ямалем должны б...",
+      "text": "Защитник сборной Испании Пау Кубарси поделился впечатлениями от игры на чемпионате мира-2026 и рассказал, как пообщался с победите...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-ispanii-pau-kubarsi-podelilsya-vpechatleniyami-ot-igry-na-chm-2026-2439028/"
+    },
+    {
+      "d": "13 июля 2026",
       "t": "Аргентина сыграет с Англией в синей форме в память о матче ЧМ-198...",
       "text": "Сборная Аргентины получила разрешение сыграть в полуфинале чемпионата мира-2026 против команды Англии в запасной синей форме, сооб...",
       "src": "Спорт-Экспресс",
@@ -9,68 +37,40 @@
     },
     {
       "d": "13 июля 2026",
-      "t": "Канчельскис о полуфиналах ЧМ-2026: «Мы видим доминацию европейско...",
+      "t": "Канчельскис — о полуфиналах ЧМ-2026: «Мы видим доминацию европейс...",
       "text": "Бывший полузащитник «Манчестер Юнайтед» Андрей Канчельскис в разговоре с «СЭ» отметил превосходство европейских сборных на чемпион...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-poluzaschitnik-manchester-yunayted-andrey-kanchelskis-otmetil-prevoshodstvo-evropeyskih-sbornyh-na-chm-2026-2439027/"
     },
     {
       "d": "13 июля 2026",
-      "t": "Родри о Ямале на ЧМ-2026: «Тренер сказал, что ему нужно быть хлад...",
-      "text": "Полузащитник сборной Испании Родри поделился мнением об игре своего партнера по команде Ламина Ямаля на чемпионате мира-2026.",
+      "t": "Родри — о Ямале на ЧМ-2026: «Тренер сказал, что ему нужно быть хл...",
+      "text": "Полузащитник сборной Испании Родри поделился мнением об игре партнера по команде Ламина Ямаля на чемпионате мира-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/poluzaschitnik-sbornoy-ispanii-rodri-podelilsya-mneniem-ob-igre-svoego-partnera-po-komande-lamina-yamalya-na-chm-2026-2439025/"
     },
     {
       "d": "13 июля 2026",
-      "t": "Конате о «Реале»: «Это величайший клуб мира, перейти в него — меч...",
+      "t": "Конате — о «Реале»: «Это величайший клуб мира, перейти в него — м...",
       "text": "Защитник сборной Франции Ибраима Конате поделился мнением о переходе в мадридский «Реал».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/zaschitnik-sbornoy-francii-ibraima-konate-podelilsya-mneniem-o-perehode-v-madridskiy-real-2439021/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Более 3 миллионов человек подписали петицию с требованием исключи...",
-      "text": "В сети появилась петиция с требованием исключить сборную Аргентины с чемпионата мира-2026. По данным создателей сайта, ее уже подп...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/bolee-3-millionov-chelovek-podpisali-peticiyu-s-trebovaniem-isklyuchit-argentinu-s-chm-2026-2439020/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Порро о Ямале на ЧМ-2026: «В первых матчах было сложнее, сейчас у...",
-      "text": "Защитник сборной Испании Педро Порро поделился мнением о взаимодействии с вингером Ламином Ямалем на чемпионате мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-sbornoy-ispanii-pedro-porro-podelilsya-mneniem-o-vzaimodeystvii-s-vingerom-laminom-yamalem-na-chm-2026-2439013/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Нико Уильямс: «Мбаппе — отличный игрок, но у сборной Испании есть...",
-      "text": "Нападающий сборной Испании Нико Уильямс поделился мнением о форварде сборной Франции Килиане Мбаппе и своем партнере по команде Ла...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-sbornoy-ispanii-niko-uilyams-podelilsya-mneniem-o-forvarde-sbornoy-francii-kiliane-mbappe-i-svoem-partnere-po-komande-lamine-yamale-2439010/"
-    },
-    {
-      "d": "13 июля 2026",
-      "t": "Нигматуллин — о полуфинале ЧМ-2026: «Англия обыграет Аргентину по...",
-      "text": "Бывший вратарь сборной России Руслан Нигматуллин в своей колонке для «СЭ» дал прогноз на матч полуфинала ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-vratar-sbornoy-rossii-ruslan-nigmatullin-dal-prognoz-na-match-polufinala-chm-2026-2439007/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Испания",
-      "k1": 2.34,
-      "kDraw": 3.22,
-      "k2": 3.25
+      "k1": 2.33,
+      "kDraw": 3.2,
+      "k2": 3.28
     },
     {
       "t1": "Англия",
       "t2": "Аргентина",
-      "k1": 2.63,
-      "kDraw": 2.98,
-      "k2": 3.06
+      "k1": 2.67,
+      "kDraw": 2.91,
+      "k2": 3.05
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-13T08:41:38.483688Z",
-  "results_updated": "2026-07-13T08:41:39.265731Z"
+  "odds_updated": "2026-07-13T10:56:15.434623Z",
+  "results_updated": "2026-07-13T10:56:16.053824Z"
 }
