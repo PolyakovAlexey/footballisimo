@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "15 июля 2026",
+      "t": "Англия — Аргентина: прямая трансляция полуфинала ЧМ-2026 по футбо...",
+      "text": "Игра пройдет на стадионе «Мерседес-Бенц Стэдиум» в Атланте (штат Джорджия, США).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/angliya-argentina-pryamaya-translyaciya-smotret-onlayn-polufinal-chm-2026-po-futbolu-2439565/"
+    },
+    {
+      "d": "15 июля 2026",
+      "t": "Ибрагимович о полуфинале ЧМ-2026: «Англия уже видела руку Бога, а...",
+      "text": "Бывший нападающий сборной Швеции Златан Ибрагимович сделал прогноз перед матчем между Англией и Аргентиной в полуфинале ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ibragimovich-vspomnil-o-ruke-boga-maradony-pered-matchem-anglii-s-argentinoy-v-polufinale-chm-2026-2439710/"
+    },
+    {
+      "d": "15 июля 2026",
+      "t": "Англия — Аргентина: Райс, Кейн, Месси и Альварес выйдут на поле с...",
+      "text": "Сборные Англии и Аргентины объявили составы на матч 1/2 финала ЧМ-2026 по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/angliya-argentina-startovye-sostavy-sbornyh-na-polufinal-chm-2026-po-futbolu-15-iyulya-2026-goda-2439705/"
+    },
+    {
+      "d": "15 июля 2026",
+      "t": "Мостовой назвал бредом петицию за исключение сборной Аргентины с ...",
+      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой поделился с «СЭ» мнением о создании петиции за исключение сборной Арг...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mostovoy-nazval-bredom-peticiyu-za-isklyuchenie-sbornoy-argentiny-s-chm-2026-2439704/"
+    },
+    {
+      "d": "15 июля 2026",
       "t": "Король Испании вместе с семьей посетит финал чемпионата мира-2026",
       "text": "Король Испании Фелипе VI посетит финал чемпионата мира-2026, сообщает ABC.es.",
       "src": "Спорт-Экспресс",
@@ -27,43 +55,15 @@
       "text": "Встреча пройдет на стадионе «Мерседес-Бенц Стэдиум» в Атланте (штат Джорджия, США).",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/angliya-argentina-pryamaya-translyaciya-smotret-besplatno-polufinal-chm-2026-po-futbolu-2439576/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "Foot Mercato: Олисе хочет перейти из «Баварии» в «Реал»",
-      "text": "Полузащитник «Баварии» и сборной Франции Майкл Олисе намерен продолжить карьеру в «Реале», сообщает Foot Mercato.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/foot-mercato-olise-hochet-pereyti-iz-bavarii-v-real-2439670/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "Непомнящий считает Аргентину фаворитом в полуфинале ЧМ-2026 проти...",
-      "text": "Бывший главный тренер сборной Камеруна Валерий Непомнящий в разговоре с «СЭ» поделился ожиданиями от матча Англия — Аргентина в по...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/angliya-argentina-prognoz-valeriya-nepomnyaschego-na-match-chm-2026-15-iyulya-2439654/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "Первая лига сезон-2026/2027: расписание 2-го тура ФНЛ",
-      "text": "Опубликовано расписание второго тура Первой лиги-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/raspisanie-matchey-2-go-tura-pervoy-ligi-sezona-2026-27-s-19-po-20-iyulya-kalendar-igr-2439592/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "Газзаев считает, что нельзя расширять ЧМ до 64 сборных: «У футбол...",
-      "text": "Бывший главный тренер сборной России Валерий Газзаев в разговоре с «СЭ\"поделился мнением о возможном расширении чемпионата мира до...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gazzaev-schitaet-chto-nelzya-rasshiryat-chm-do-64-sbornyh-2439642/"
     }
   ],
   "odds": [
     {
       "t1": "Англия",
       "t2": "Аргентина",
-      "k1": 2.68,
-      "kDraw": 2.87,
-      "k2": 3.1
+      "k1": 2.71,
+      "kDraw": 2.98,
+      "k2": 3.13
     }
   ],
   "results": [
@@ -1004,6 +1004,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-15T17:14:08.663465Z",
-  "results_updated": "2026-07-15T17:14:09.322393Z"
+  "odds_updated": "2026-07-15T18:33:00.689475Z",
+  "results_updated": "2026-07-15T18:33:01.438742Z"
 }
