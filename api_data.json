@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "15 июля 2026",
+      "t": "Король Испании вместе с семьей посетит финал чемпионата мира-2026",
+      "text": "Король Испании Фелипе VI посетит финал чемпионата мира-2026, сообщает ABC.es.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/korol-ispanii-vmeste-s-semey-posetit-final-chempionata-mira-2026-2439695/"
+    },
+    {
+      "d": "15 июля 2026",
+      "t": "Post Malone выступит на церемонии закрытия ЧМ-2026",
+      "text": "Американский рэпер Post Malone станет хедлайнером церемонии закрытия ЧМ-2026, сообщает пресс-служба турнира.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/post-malone-vystupit-na-ceremonii-zakrytiya-chm-2026-2439694/"
+    },
+    {
+      "d": "15 июля 2026",
+      "t": "Петиция за исключение сборной Аргентины с ЧМ-2026 набрала более 1...",
+      "text": "Петиция с требованием исключить сборную Аргентины с чемпионата мира 2026 года набрала более 10 миллионов подписей. Она размещена н...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/peticiya-za-isklyuchenie-sbornoy-argentiny-s-chm-2026-nabrala-bolee-10-millionov-podpisey-2439676/"
+    },
+    {
+      "d": "15 июля 2026",
       "t": "Англия — Аргентина: где смотреть прямую трансляцию полуфинала ЧМ-...",
       "text": "Встреча пройдет на стадионе «Мерседес-Бенц Стэдиум» в Атланте (штат Джорджия, США).",
       "src": "Спорт-Экспресс",
@@ -34,36 +55,15 @@
       "text": "Бывший главный тренер сборной России Валерий Газзаев в разговоре с «СЭ\"поделился мнением о возможном расширении чемпионата мира до...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gazzaev-schitaet-chto-nelzya-rasshiryat-chm-do-64-sbornyh-2439642/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "Церемония закрытия ЧМ-2026: дата и время, где пройдет шоу, програ...",
-      "text": "Церемония закрытия чемпионата мира по футболу 2026 года будет проводиться в воскресенье, 19 июля.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ceremoniya-zakrytiya-chm-2026-data-i-vremya-gde-proydet-shou-programma-19-iyulya-2439624/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "В ФБР назвали матч Аргентина — Англия на ЧМ-2026 встречей повышен...",
-      "text": "Международная федерация футбола (ФИФА) и Федеральное бюро расследований (ФБР) признали полуфинальный матч чемпионата мира-2026 меж...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/v-fbr-nazvali-match-argentina-angliya-na-chm-2026-vstrechey-povyshennogo-riska-2439632/"
-    },
-    {
-      "d": "15 июля 2026",
-      "t": "Мажич о работе инструктором ФИФА на ЧМ-2026: «Обсуждали каждый ту...",
-      "text": "Руководитель департамента судейства и инспектирования РФС Милорад Мажич в разговоре с «СЭ» ответил на вопрос о работе инструктором...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/rukovoditel-departamenta-sudeystva-i-inspektirovaniya-rfs-milorad-mazhich-rasskazal-o-rabote-instruktorom-fifa-na-chm-2026-2439629/"
     }
   ],
   "odds": [
     {
       "t1": "Англия",
       "t2": "Аргентина",
-      "k1": 2.7,
-      "kDraw": 2.9,
-      "k2": 3.05
+      "k1": 2.68,
+      "kDraw": 2.87,
+      "k2": 3.1
     }
   ],
   "results": [
@@ -1004,6 +1004,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-15T15:16:15.486135Z",
-  "results_updated": "2026-07-15T15:16:16.284481Z"
+  "odds_updated": "2026-07-15T17:14:08.663465Z",
+  "results_updated": "2026-07-15T17:14:09.322393Z"
 }
