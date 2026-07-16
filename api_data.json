@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "16 июля 2026",
+      "t": "Стример IShowSpeed призвал Ямаля обыграть Месси в финале ЧМ-2026:...",
+      "text": "Популярный стример Даррен Джейсон Уоткинс-младший, более известный как IShowSpeed, обратился к вингеру сборной Испании Ламину Ямал...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/strimer-i-fanat-ronaldu-ishowspeed-prizval-yamalya-obygrat-messi-v-finale-chm-2026-2440007/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "Тухель о матче с Аргентиной на ЧМ-2026: «Никакая схема нам бы не ...",
+      "text": "Главный тренер сборной Англии Томас Тухель поделился впечатлениями от игры своей команды с Аргентиной (1:2) в полуфинале чемпионат...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-anglii-tomas-tuhel-podelilsya-vpechatleniyami-ot-igry-svoey-komandy-s-argentinoy-v-polufinale-chm-2026-2440005/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "Ибрагимович об Англии на ЧМ-2026: «Сборная показала характер, но ...",
+      "text": "Бывший нападающий сборной Швеции Златан Ибрагимович раскритиковал сборную Англии после поражения от Аргентины (1:2) в полуфинале ч...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-napadayuschiy-sbornoy-shvecii-zlatan-ibragimovich-raskritikoval-angliyu-posle-porazheniya-ot-argentiny-v-polufinale-chm-2026-2440004/"
+    },
+    {
+      "d": "16 июля 2026",
       "t": "Челик подписал контракт с «Ювентусом»",
       "text": "Защитник «Ромы» и сборной Турции Зеки Челик подписал контракт с «Ювентусом», сообщила пресс-служба туринского клуба.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Дисциплинарный комитет Международной федерации футбола (ФИФА) начал разбирательство из-за демонстрации политического баннера игрок...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/disciplinarnyy-komitet-fifa-nachal-razbiratelstvo-iz-za-politicheskogo-bannera-na-matche-chm-angliya-argentina-2439988/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Президент Аргентины Милей о победе над Англией на ЧМ-2026: «Был у...",
-      "text": "Президент Аргентины Хавьер Милей поделился эмоциями от победы национальной команды над сборной Англии (1:2) в полуфинале чемпионат...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-argentiny-haver-miley-podelilsya-emociyami-ot-pobedy-nacionalnoy-sbornoy-nad-angliey-v-polufinale-chm-2026-2439987/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Стоимость самого дешевого билета на финал ЧМ-2026 превысила 8,7 т...",
-      "text": "Стоимость самого дешевого билета на финал чемпионата мира-2026 между сборными Аргентины и Испании превысила 8,7 тысячи долларов (о...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/stoimost-samogo-deshevogo-bileta-na-final-chm-2026-prevysila-8-7-tysyachi-dollarov-2439986/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Чемпионат мира по футболу 2030: когда и где пройдет следующий Куб...",
-      "text": "Следующий чемпионат мира по футболу состоится в 2030 году.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/chempionat-mira-po-futbolu-2030-kogda-i-gde-proydet-sleduyuschiy-kubok-mira-daty-i-strany-2439968/"
     }
   ],
   "odds": [
@@ -62,15 +62,15 @@
       "t1": "Франция",
       "t2": "Англия",
       "k1": 1.9,
-      "kDraw": 3.89,
+      "kDraw": 3.88,
       "k2": 3.83
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.26,
-      "kDraw": 3.02,
-      "k2": 3.68
+      "k1": 2.27,
+      "kDraw": 3.01,
+      "k2": 3.67
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-16T20:32:25.531893Z",
-  "results_updated": "2026-07-16T20:32:26.102796Z"
+  "odds_updated": "2026-07-16T21:39:18.172175Z",
+  "results_updated": "2026-07-16T21:39:18.994808Z"
 }
