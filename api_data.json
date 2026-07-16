@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "16 июля 2026",
+      "t": "Испания — Аргентина: прогноз на финал ЧМ по футболу — 2026",
+      "text": "Сборные Испании и Аргентины сыграют в финале чемпионата мира по футболу — 2026 19 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-argentina-19-iyulya-2026-prognoz-i-stavka-na-match-finala-chm-po-futbolu-kto-pobedit-2439864/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "Колосков: «Помыл шею, сижу жду, а мне вместо полуфинала ЧМ Франци...",
+      "text": "Почетный президент Российского футбольного союза (РФС) Вячеслав Колосков возмущен тем, что полуфинал чемпионата мира-2026 Франция ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/eks-glava-rfs-vyacheslav-koloskov-vozmuschen-otsutstviem-pokaza-po-tv-polufinala-chm-2026-franciya-ispaniya-2439885/"
+    },
+    {
+      "d": "16 июля 2026",
       "t": "Экс-защитник сборной Англии Уокер: «Месси — величайший игрок, ког...",
       "text": "Бывший защитник сборной Англии Кайл Уокер оценил игру нападающего сборной Аргентины Лионеля Месси в полуфинале чемпионата мира 202...",
       "src": "Спорт-Экспресс",
@@ -41,36 +55,22 @@
       "text": "Главный тренер сборной Англии Томас Тухель прокомментировал матч за третье место на чемпионате мира-2026 против сборной Франции.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-anglii-tomas-tuhel-zayavil-chto-ne-hochet-igrat-match-za-bronzu-chm-2026-protiv-sbornoy-francii-2439857/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Паредес — о баннере в честь Мальвинских островов: «Мы знали, что ...",
-      "text": "Полузащитник сборной Аргентины Леандро Паредес прокомментировал появление баннера, посвященного Мальвинским островам, после победы...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/paredes-prokommentiroval-banner-o-malvinskih-ostrovah-posle-pobedy-nad-angliey-na-chm-2026-2439845/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "«Краснодар» представил форму на сезон-2026/27",
-      "text": "«Краснодар» представил домашний и выездной комплекты форм на сезон-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/krasnodar-predstavil-formu-na-sezon-2026-27-2439841/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Англия",
-      "k1": 1.88,
-      "kDraw": 3.85,
-      "k2": 3.94
+      "k1": 1.91,
+      "kDraw": 3.83,
+      "k2": 3.83
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.3,
-      "kDraw": 2.96,
-      "k2": 3.67
+      "k1": 2.33,
+      "kDraw": 2.94,
+      "k2": 3.65
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-16T10:04:27.965162Z",
-  "results_updated": "2026-07-16T10:04:28.611144Z"
+  "odds_updated": "2026-07-16T11:42:06.856616Z",
+  "results_updated": "2026-07-16T11:42:07.591905Z"
 }
