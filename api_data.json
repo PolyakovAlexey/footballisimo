@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "16 июля 2026",
+      "t": "AS: Барко дважды провоцировал Беллингема перед конфликтом после п...",
+      "text": "Полузащитник сборной Аргентины Валентин Барко дважды спровоцировал Джуда Беллингема перед конфликтом, который произошел после полу...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/as-barko-dvazhdy-provociroval-bellingema-pered-konfliktom-posle-polufinala-chm-2026-2439970/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "Ямаль тренировался перед финалом ЧМ-2026 со специальной повязкой ...",
+      "text": "Нападающий сборной Испании Ламин Ямаль готовится к финалу чемпионата мира-2026 с дискомфортом в левом бедре, сообщает AS.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/yamal-trenirovalsya-pered-finalom-chm-2026-so-specialnoy-povyazkoy-iz-za-diskomforta-v-bedre-2439969/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "ЦСКА представил форму в честь десятилетия домашнего стадиона",
+      "text": "ЦСКА показал новую домашнюю форму на сезон-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/cska-predstavil-formu-v-chest-desyatiletiya-domashnego-stadiona-2439965/"
+    },
+    {
+      "d": "16 июля 2026",
       "t": "Финалы чемпионатов мира по футболу: полный список чемпионов и фин...",
       "text": "Чемпионат мира по футболу 2026 года является 23-м по счету.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Сборные Франции и Англии сыграют в матче за 3-е место чемпионата мира по футболу 19 июля.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-angliya-19-iyulya-2026-prognoz-i-stavka-na-match-za-3-e-mesto-chm-po-futbolu-kto-pobedit-2439879/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Губерниев о «Золотом мяче»: «Месси — претендент номер один, но да...",
-      "text": "Известный комментатор Дмитрий Губерниев в разговоре с «СЭ» поделился мнением о претендентах на «Золотой мяч» 2026 года.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/dmitriy-guberniev-podelilsya-mneniem-o-pretendentah-na-zolotoy-myach-2026-goda-2439922/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Мостовой: «Когда Месси закончит играть — мы будем плакать!»",
-      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой поделился с «СЭ» мнением об игре нападающего сборной Аргентины Лионел...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-mostovoy-podelilsya-mneniem-ob-igre-napadayuschego-sbornoy-argentiny-lionelya-messi-na-chempionate-mira-2026-2439916/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "«Матч ТВ» назначил комментаторов Генича и Нагучева на финал ЧМ-20...",
-      "text": "Финал чемпионата мира 2026 года между Испанией и Аргентиной будут комментировать Константин Генич и Роман Нагучев, сообщил генерал...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/match-tv-naznachil-kommentatorov-konstantina-genicha-i-romana-nagucheva-na-final-chm-2026-ispaniya-argentina-2439913/"
     }
   ],
   "odds": [
@@ -62,15 +62,15 @@
       "t1": "Франция",
       "t2": "Англия",
       "k1": 1.9,
-      "kDraw": 3.85,
-      "k2": 3.85
+      "kDraw": 3.88,
+      "k2": 3.81
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.3,
-      "kDraw": 2.97,
-      "k2": 3.66
+      "k1": 2.29,
+      "kDraw": 3.0,
+      "k2": 3.65
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-16T15:24:05.680959Z",
-  "results_updated": "2026-07-16T15:24:06.712441Z"
+  "odds_updated": "2026-07-16T17:11:36.486151Z",
+  "results_updated": "2026-07-16T17:11:37.254675Z"
 }
