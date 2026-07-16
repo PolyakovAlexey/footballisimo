@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "16 июля 2026",
+      "t": "Финалы чемпионатов мира по футболу: полный список чемпионов и фин...",
+      "text": "Чемпионат мира по футболу 2026 года является 23-м по счету.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/finaly-chempionatov-mira-po-futbolu-polnyy-spisok-chempionov-i-finalistov-obschaya-statistika-pobediteley-i-prizerov-2439935/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "Cope: ФИФА не станет наказывать сборную Аргентины за политический...",
+      "text": "ФИФА не будет применять санкции к сборной Аргентины за политический баннер до завершения чемпионата мира, сообщает радиостанция Co...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/cope-fifa-ne-stanet-nakazyvat-sbornuyu-argentiny-za-politicheskiy-banner-do-okonchaniya-chm-2026-2439947/"
+    },
+    {
+      "d": "16 июля 2026",
+      "t": "Чемпионат мира по футболу — 2026: где пройдет финал Кубка мира",
+      "text": "Сборные Испании и Аргентины сыграют в финале чемпионата мира по футболу — 2026 19 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chempionat-mira-po-futbolu-2026-gde-proydet-final-kubka-mira-gorod-stadion-2439874/"
+    },
+    {
+      "d": "16 июля 2026",
       "t": "Мостовой не видит вины Тухеля в поражении сборной Англии в полуфи...",
       "text": "Александр Мостовой в разговоре с «СЭ» отреагировал на критику в адрес главного тренера сборной Англии Томаса Тухеля.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Финал чемпионата мира 2026 года между Испанией и Аргентиной будут комментировать Константин Генич и Роман Нагучев, сообщил генерал...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/match-tv-naznachil-kommentatorov-konstantina-genicha-i-romana-nagucheva-na-final-chm-2026-ispaniya-argentina-2439913/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Мостовой назвал правильным возможное назначение Зидана в сборную ...",
-      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой в разговоре с «СЭ» отреагировал на информацию о возможном назначении ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mostovoy-nazval-pravilnym-vozmozhnoe-naznachenie-zidana-v-sbornuyu-francii-vmesto-deshama-2439908/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Франция — Англия: где смотреть матч за 3-е место ЧМ-2026 по футбо...",
-      "text": "Игра пройдет на стадионе «Хард Рок» в Майами (штат Флорида, США).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/pokazhet-li-match-tv-match-za-3-e-mesto-franciya-angliya-na-kakom-kanale-posmotret-translyaciyu-chm-2439882/"
-    },
-    {
-      "d": "16 июля 2026",
-      "t": "Тюкавин и Баринов рассказали, за кого будут болеть в финале ЧМ-20...",
-      "text": "Форвард «Динамо» Константин Тюкавин, полузащитник ЦСКА Дмитрий Баринов и главный тренер армейцев Дмитрий Игдисамов назвали фаворит...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/forvard-dinamo-konstantin-tyukavin-i-havbek-cska-dmitriy-barinov-rasskazali-za-kogo-budut-bolet-v-finale-chm-2026-2439900/"
     }
   ],
   "odds": [
@@ -62,15 +62,15 @@
       "t1": "Франция",
       "t2": "Англия",
       "k1": 1.9,
-      "kDraw": 3.83,
-      "k2": 3.87
+      "kDraw": 3.85,
+      "k2": 3.85
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.31,
-      "kDraw": 2.96,
-      "k2": 3.64
+      "k1": 2.3,
+      "kDraw": 2.97,
+      "k2": 3.66
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-16T13:27:21.334897Z",
-  "results_updated": "2026-07-16T13:27:21.992118Z"
+  "odds_updated": "2026-07-16T15:24:05.680959Z",
+  "results_updated": "2026-07-16T15:24:06.712441Z"
 }
