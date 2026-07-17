@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "17 июля 2026",
+      "t": "Премьер Испании Педро Санчес посетит финал ЧМ-2026 в Нью-Йорке",
+      "text": "Премьер-министр Испании Педро Санчес в воскресенье отправится в Нью-Йорк на финал чемпионата мира между сборными Испании и Аргенти...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/premer-ispanii-pedro-sanches-posetit-final-chm-2026-v-nyu-yorke-2440242/"
+    },
+    {
+      "d": "17 июля 2026",
+      "t": "ФИФА и Белый дом планируют обсудить риски проведения финала ЧМ-20...",
+      "text": "Сотрудники Белого дома встретятся с главой Международной федерации футбола (ФИФА) Джанни Инфантино для обсуждения потенциальной оп...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-i-belyy-dom-planiruyut-obsudit-riski-provedeniya-finala-chm-2026-iz-za-lesnyh-pozharov-2440241/"
+    },
+    {
+      "d": "17 июля 2026",
+      "t": "Источник: Ямаль и Порро возобновили тренировки в общей группе сбо...",
+      "text": "Полузащитник Ламин Ямаль и защитник Педро Порро вернулись к тренировкам в общей группе сборной Испании после дискомфорта в мышцах,...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/istochnik-yamal-i-porro-vozobnovili-trenirovki-v-obschey-gruppe-sbornoy-ispanii-pered-finalom-chm-2026-2440239/"
+    },
+    {
+      "d": "17 июля 2026",
       "t": "Жоан Манзамби перешел в «Астон Виллу»",
       "text": "Полузащитник «Фрайбурга» и сборной Швейцарии Жоан Манзамби стал игроком «Астон Виллы», сообщила пресс-служба английского клуба.",
       "src": "Спорт-Экспресс",
@@ -34,42 +55,21 @@
       "text": "Бывший главный тренер «Реала» Зинедин Зидан возглавит сборную Франции, сообщает инсайдер Фабрицио Романо.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/romano-zinedin-zidan-vozglavil-sbornuyu-francii-2440205/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Акинфеев о финале ЧМ-2026: «Буду болеть за красивые сейвы голкипе...",
-      "text": "Вратарь ЦСКА Игорь Акинфеев поделился ожиданиями от финала чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vratar-cska-igor-akinfeev-podelilsya-ozhidaniyami-ot-finala-chempionata-mira-2026-2440204/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Абаскаль считает Испанию и Аргентину лучшими сборными на ЧМ-2026:...",
-      "text": "Бывший главный тренер «Спартака» Гильермо Абаскаль в разговоре с «СЭ» поделился мнением о финале чемпионате мира-2026 между Испани...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/eks-trener-spartaka-gilermo-abaskal-schitaet-ispaniyu-i-argentinu-luchshimi-sbornymi-na-chm-2026-2440201/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "ФИФА впервые продаст билеты на пресс-конференцию перед финалом ЧМ...",
-      "text": "Международная федерация футбола (ФИФА) впервые в истории будет продавать билеты на пресс-конференцию перед финалом чемпионата мира...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-vpervye-prodast-bilety-na-press-konferenciyu-pered-finalom-chm-2026-2440189/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Англия",
-      "k1": 1.92,
-      "kDraw": 3.86,
-      "k2": 3.79
+      "k1": 1.9,
+      "kDraw": 3.88,
+      "k2": 3.82
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.29,
-      "kDraw": 3.03,
+      "k1": 2.3,
+      "kDraw": 3.02,
       "k2": 3.58
     }
   ],
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-17T18:15:59.181763Z",
-  "results_updated": "2026-07-17T18:15:59.886986Z"
+  "odds_updated": "2026-07-17T19:35:37.609382Z",
+  "results_updated": "2026-07-17T19:35:38.326845Z"
 }
