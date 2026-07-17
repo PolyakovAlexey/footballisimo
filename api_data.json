@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "17 июля 2026",
+      "t": "Премьер Испании Педро Санчес посетит финал ЧМ-2026",
+      "text": "Премьер-министр Испании Педро Санчес собирается посетить финал чемпионата мира 2026 года, сообщает EFE.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/premer-ispanii-pedro-sanches-posetit-final-chm-2026-2440084/"
+    },
+    {
+      "d": "17 июля 2026",
+      "t": "Хэмилтон — о вылете Англии с ЧМ-2026: «Смотрел матч с болью, мне ...",
+      "text": "Семикратный чемпион «Формулы-1» британец Льюис Хэмилтон отреагировал на вылет сборной Англии с чемпионата мира по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/semikratnyy-chempion-formuly-1-lyuis-hemilton-kommentariy-o-vylete-sbornoy-anglii-s-chm-2026-2440069/"
+    },
+    {
+      "d": "17 июля 2026",
+      "t": "Осипов: «Судейские ошибки на ЧМ более вопиющие, чем те, из-за кот...",
+      "text": "Президент Медиалиги Николай Осипов в интервью «СЭ» высказался о судействе на чемпионате мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-medialigi-nikolay-osipov-kommentariy-o-sudeystve-na-chempionate-mira-2026-2440062/"
+    },
+    {
+      "d": "17 июля 2026",
+      "t": "ЦСКА презентовал новую гостевую форму на сезон-2026/27",
+      "text": "ЦСКА представил гостевой комплект формы на сезон-2026/27, который отсылает к 115-летию московского клуба.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/cska-prezentoval-novuyu-gostevuyu-formu-na-sezon-2026-27-2440064/"
+    },
+    {
+      "d": "17 июля 2026",
       "t": "Гвардиола рассказал, что может стать ключом к победе Испании в фи...",
       "text": "Бывший главный тренер «Манчестер Сити» испанец Хосеп Гвардиола не стал выбирать фаворита финала чемпионата мира-2026 между сборным...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Двукратный чемпион мира бразилец Роналдо оценил выступление нападающего сборной Португалии Криштиану Роналду на чемпионате мира 20...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ronaldo-schitaet-chto-krishtianu-ronaldu-uzhe-slozhno-igrat-na-urovne-chempionata-mira-2440050/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Вратарь Кабо-Верде Возинья — о популярности после ЧМ-2026: «Это б...",
-      "text": "Вратарь сборной Кабо-Верде Возинья рассказал об эмоциях от обрушившейся на него популярности после выступления на чемпионате мира-...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vratar-sbornoy-kabo-verde-vozinya-kommentariy-o-populyarnosti-posle-vystupleniya-na-chempionate-mira-2026-2440048/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Креспо стал главным тренером мексиканского «Атласа»",
-      "text": "Бывший нападающий сборной Аргентины Эрнан Креспо назначен главным тренером «Атласа», сообщила пресс-служба мексиканского клуба.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/krespo-stal-glavnym-trenerom-meksikanskogo-atlasa-2440047/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Президент Аргентины Милей — об игре Месси в полуфинале ЧМ-2026: «...",
-      "text": "Президент Аргентины Хавьер Милей поделился впечатлениями от игры нападающего сборной страны Лионеля Месси.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-argentiny-haver-miley-kommentariy-ob-igre-lionelya-messi-v-polufinale-chm-2026-2440046/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Ole: финал ЧМ-2026 могут перенести из-за лесных пожаров",
-      "text": "За три дня до финала чемпионата мира-2026 между Испанией и Аргентиной появились опасения, связанные с дымом от масштабных лесных п...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ole-final-chm-2026-mogut-perenesti-iz-za-lesnyh-pozharov-2440043/"
     }
   ],
   "odds": [
@@ -63,7 +63,7 @@
       "t2": "Англия",
       "k1": 1.92,
       "kDraw": 3.82,
-      "k2": 3.84
+      "k2": 3.83
     },
     {
       "t1": "Испания",
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-17T07:48:27.836658Z",
-  "results_updated": "2026-07-17T07:48:28.413564Z"
+  "odds_updated": "2026-07-17T09:53:06.986661Z",
+  "results_updated": "2026-07-17T09:53:07.592370Z"
 }
