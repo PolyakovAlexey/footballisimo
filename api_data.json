@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "17 июля 2026",
+      "t": "«Это самая сильная сборная своей страны всех времен». Игнашевич н...",
+      "text": "Спорный выбор экс-игрока сборной России.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/eto-samaya-silnaya-sbornaya-svoey-strany-vseh-vremen-ignashevich-nazval-luchshego-trenera-chm-2026-2440256/"
+    },
+    {
+      "d": "17 июля 2026",
+      "t": "Родри: «Когда против тебя играет такой футболист, как Месси, нужн...",
+      "text": "Капитан сборной Испании Родри перед финалом чемпионата мира-2026 против Аргентины рассказал, как команда собирается противостоять ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/rodri-kommentariy-po-igre-protiv-lionelya-messi-v-finale-chm-2026-2440258/"
+    },
+    {
+      "d": "17 июля 2026",
       "t": "Франция — Англия: прогноз и коэффициенты на матч финала ЧМ по фут...",
       "text": "Сборные Франции и Англии встретятся в матче за 3-е место на ЧМ по футболу в ночь на 19 июля.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "«Лидс» объявил о переходе защитника «Сассуоло» Тарика Мухаремовича.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/transfers/news/zaschitnik-sassuolo-i-uchastnik-chm-2026-tarik-muharemovich-pereshel-v-lids-2440219/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "Самедов не верит в совместный заговор ФИФА и Аргентины на ЧМ-2026...",
-      "text": "Бывший полузащитник сборной России Александр Самедов в разговоре с «СЭ» поделился мнением о предвзятом отношении Международной фед...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-samedov-prokommentiroval-vozmozhnyy-sovmestnyy-zagovor-fifa-i-argentiny-na-chm-2026-2440209/"
-    },
-    {
-      "d": "17 июля 2026",
-      "t": "ФИФА сообщила, что перерыв в финале ЧМ-2026 продлится 17 минут",
-      "text": "Международная федерация футбола (ФИФА) сообщила участникам финала чемпионата мира о том, что перерыв между первым и вторым таймом ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-soobschila-chto-pereryv-v-finale-chm-2026-prodlitsya-17-minut-2440206/"
     }
   ],
   "odds": [
@@ -68,9 +68,9 @@
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.29,
+      "k1": 2.28,
       "kDraw": 3.02,
-      "k2": 3.58
+      "k2": 3.61
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-17T21:24:08.267829Z",
-  "results_updated": "2026-07-17T21:24:08.828684Z"
+  "odds_updated": "2026-07-17T22:12:31.343683Z",
+  "results_updated": "2026-07-17T22:12:32.101792Z"
 }
