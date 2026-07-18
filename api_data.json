@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "18 июля 2026",
+      "t": "Франция — Англия: Мбаппе, Олисе, Сака и Рэшфорд — в старте, Дембе...",
+      "text": "Сборные Франции и Англии объявили стартовые составы на матч за третье место чемпионата мира-2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/match-za-trete-mesto-chm-2026-franciya-angliya-startovye-sostavy-sbornyh-18-iyulya-2440500/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "Пике о финале ЧМ-2026: «Считаю Ямаля особенным, но если Месси выи...",
+      "text": "Бывший защитник «Барселоны» и сборной Испании Жерар Пике поделился ожиданиями от финала чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-zaschitnik-barselony-i-sbornoy-ispanii-zherar-pike-podelilsya-ozhidaniyami-ot-finala-chm-2026-2440499/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "Испания — Аргентина: прогноз и ставка на финал ЧМ по футболу",
+      "text": "Сборные Испании и Аргентины сыграют в финале чемпионата мира по футболу — 2026 19 июля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ispaniya-argentina-prognoz-koefficienty-i-stavka-na-match-finala-chm-po-futbolu-19-iyulya-2026-kto-vyigraet-2440373/"
+    },
+    {
+      "d": "18 июля 2026",
       "t": "Ягудин о матче за третье место на ЧМ-2026: «Я на стороне сборной ...",
       "text": "Олимпийский чемпион по фигурному катанию Алексей Ягудин рассказал, за кого будет болеть в матче за третье место на чемпионате мира...",
       "src": "Спорт-Экспресс",
@@ -34,43 +55,22 @@
       "text": "Сборная Испании не смогла провести утреннюю тренировку перед финалом чемпионата мира-2026 из-за неблагоприятных погодных условий, ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/sbornaya-ispanii-otmenila-trenirovku-pered-finalom-chm-2026-iz-za-grozovogo-fronta-2440463/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Форвард «Спортинга» и сборной Португалии Тринкау стал одноклубник...",
-      "text": "«Спортинг» объявил о переходе нападающего Франсишку Тринкау в «Аль-Ахли».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/forvard-sportinga-i-sbornoy-portugalii-fransishku-trinkau-stal-odnoklubnikom-spercyana-v-al-ahli-2440449/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Тренировка сборной Испании перед финалом ЧМ-2026 была перенесена ...",
-      "text": "Утренняя тренировка сборной Испании перед финальным матчем чемпионата мира-2026 с Аргентиной была перенесена из-за грозового фронт...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trenirovka-sbornoy-ispanii-pered-finalom-chm-2026-byla-perenesena-iz-za-neblagopriyatnyh-pogodnyh-usloviy-2440450/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Франция — Англия: где смотреть матч за 3-е место ЧМ-2026 по футбо...",
-      "text": "Игра состоится на стадионе «Хард Рок Стэдиум» в Майами (штат Флорида, США).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-angliya-pryamaya-translyaciya-smotret-besplatno-match-za-3-e-mesto-chm-2026-po-futbolu-2440350/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Англия",
-      "k1": 1.83,
-      "kDraw": 4.03,
-      "k2": 4.0
+      "k1": 1.78,
+      "kDraw": 4.1,
+      "k2": 4.17
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.29,
+      "k1": 2.27,
       "kDraw": 3.0,
-      "k2": 3.66
+      "k2": 3.7
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-18T18:39:57.253344Z",
-  "results_updated": "2026-07-18T18:39:57.819561Z"
+  "odds_updated": "2026-07-18T19:50:23.562983Z",
+  "results_updated": "2026-07-18T19:50:24.344671Z"
 }
