@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "18 июля 2026",
+      "t": "Ширер раскритиковал ФИФА за проведение матча за третье место на Ч...",
+      "text": "Бывший форвард сборной Англии Алан Ширер раскритиковал Международную федерацию футбола (ФИФА) из-за проведения матча за третье мес...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/alan-shirer-raskritikoval-fifa-za-provedenie-matcha-za-trete-mesto-ta-chm-2026-2440422/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "L'Equipe: Зидан приступит к работе в сборной Франции с 1 сентября",
+      "text": "Бывший главный тренер «Реала» Зинедин Зидан приступит к работе в сборной Франции с 1 сентября, сообщает L'Equipe.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/lequipe-zinedin-zidan-pristupit-k-rabote-v-sbornoy-francii-s-1-sentyabrya-2440421/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "Франция — Англия: где смотреть прямую трансляцию матча за 3-е мес...",
+      "text": "Стартовый свисток прозвучит в 00.00 по московскому времени.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gde-posmotret-match-franciya-angliya-besplatno-2440330/"
+    },
+    {
+      "d": "18 июля 2026",
       "t": "Возинья: «Для меня Месси лучший в мире. Играть против него было о...",
       "text": "Голкипер сборной Кабо-Верде Возинья вспомнил матч против сборной Аргентины (2:3 д.в.) в 1/16 финала чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
@@ -34,43 +55,22 @@
       "text": "Губернатор Джакарты Прамоно Анунг разрешил государственным служащим столицы Индонезии не спать ночью ради просмотра финала чемпион...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gubernator-dzhakarty-pramono-anung-razreshil-gossluzhaschim-ne-spat-radi-finala-chm-2026-ispaniya-argentina-2440399/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Шеф-редактор испанского топ-издания: «Аргентина — фаворит в финал...",
-      "text": "Ведущий футбольный журналист Испании, шеф-редактор главного национального спортивного издания Marca Хуан Кастро в интервью «СЭ» по...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/shef-redaktor-ispanskogo-izdaniya-marca-nazval-argentinu-favoritom-finala-chm-2026-2440397/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Надаль поддержал сборную Испании перед финалом ЧМ-2026",
-      "text": "22-кратный чемпион турниров «Большого шлема» испанец Рафаэль Надаль опубликовал в своих соцсетях пост в преддверии финала чемпиона...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/tennisist-rafael-nadal-podderzhal-sbornuyu-ispanii-pered-finalom-chm-2026-protiv-sbornoy-argentiny-2440396/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Иньеста: «Полностью закрыть Месси невозможно. Испания должна навр...",
-      "text": "Чемпион мира 2010 года в составе сборной Испании Андрес Иньеста поделился мнением о том, как испанцам остановить аргентинского фор...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/chempion-mira-2010-goda-andres-inesta-kommentariy-v-preddverii-finala-chm-2026-2440390/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Англия",
-      "k1": 1.88,
-      "kDraw": 4.0,
-      "k2": 3.85
+      "k1": 1.85,
+      "kDraw": 4.08,
+      "k2": 3.88
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.3,
-      "kDraw": 2.97,
-      "k2": 3.65
+      "k1": 2.26,
+      "kDraw": 3.02,
+      "k2": 3.67
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-18T12:57:54.694786Z",
-  "results_updated": "2026-07-18T12:57:55.634965Z"
+  "odds_updated": "2026-07-18T14:42:53.372856Z",
+  "results_updated": "2026-07-18T14:42:53.958560Z"
 }
