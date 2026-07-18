@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "18 июля 2026",
+      "t": "Инфантино за время ЧМ-2026 пролетел 91 тысячу км и посетил почти ...",
+      "text": "Президент ФИФА Джанни Инфантино пролетел около 91,7 тысячи км между тремя принимающими чемпионат мира странами за время турнира, с...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glava-fifa-dzhanni-infantino-za-vremya-chm-2026-proletel-91-tysyachu-km-i-posetil-pochti-polovinu-matchey-2440465/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "Сборная Испании отменила тренировку перед финалом ЧМ-2026 из-за г...",
+      "text": "Сборная Испании не смогла провести утреннюю тренировку перед финалом чемпионата мира-2026 из-за неблагоприятных погодных условий, ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/sbornaya-ispanii-otmenila-trenirovku-pered-finalom-chm-2026-iz-za-grozovogo-fronta-2440463/"
+    },
+    {
+      "d": "18 июля 2026",
       "t": "Форвард «Спортинга» и сборной Португалии Тринкау стал одноклубник...",
       "text": "«Спортинг» объявил о переходе нападающего Франсишку Тринкау в «Аль-Ахли».",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший форвард сборной Англии Алан Ширер раскритиковал Международную федерацию футбола (ФИФА) из-за проведения матча за третье мес...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/alan-shirer-raskritikoval-fifa-za-provedenie-matcha-za-trete-mesto-ta-chm-2026-2440422/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "L'Equipe: Зидан приступит к работе в сборной Франции с 1 сентября",
-      "text": "Бывший главный тренер «Реала» Зинедин Зидан приступит к работе в сборной Франции с 1 сентября, сообщает L'Equipe.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/lequipe-zinedin-zidan-pristupit-k-rabote-v-sbornoy-francii-s-1-sentyabrya-2440421/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Франция — Англия: где смотреть прямую трансляцию матча за 3-е мес...",
-      "text": "Стартовый свисток прозвучит в 00.00 по московскому времени.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gde-posmotret-match-franciya-angliya-besplatno-2440330/"
     }
   ],
   "odds": [
@@ -62,15 +62,15 @@
       "t1": "Франция",
       "t2": "Англия",
       "k1": 1.85,
-      "kDraw": 4.03,
-      "k2": 3.96
+      "kDraw": 4.04,
+      "k2": 3.95
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.26,
+      "k1": 2.28,
       "kDraw": 3.02,
-      "k2": 3.67
+      "k2": 3.65
     }
   ],
   "results": [
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-18T16:53:44.530810Z",
-  "results_updated": "2026-07-18T16:53:45.326723Z"
+  "odds_updated": "2026-07-18T17:50:29.568953Z",
+  "results_updated": "2026-07-18T17:50:30.441436Z"
 }
