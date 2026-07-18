@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "18 июля 2026",
+      "t": "Франция — Англия: Конса забил второй гол в ворота французов на 18...",
+      "text": "Сборная Англии играет со сборной Франции в матче за третье место на чемпионате мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-angliya-chm-2026-gol-video-konsa-smotret-match-19-iyulya-2440529/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "Мбаппе опередил Марадонну по числу матчей на чемпионатах мира",
+      "text": "Нападающий сборной Франции Килиан Мбаппе вышел на поле в стартовом составе в матче за третье место на чемпионате мира-2026 со сбор...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kilian-mbappe-operedil-diego-maradonnu-po-chislu-matchey-na-chempionatah-mira-po-futbolu-2440527/"
+    },
+    {
+      "d": "18 июля 2026",
+      "t": "Франция — Англия: Райс открыл счет на 3-й минуте",
+      "text": "Сборная Англии играет со сборной Франции в матче за третье место чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-angliya-rays-otkryl-schet-na-3-y-minute-matcha-chm-po-futbolu-2026-2440522/"
+    },
+    {
+      "d": "18 июля 2026",
       "t": "Франция — Англия: Мбаппе, Олисе, Сака и Рэшфорд — в старте, Дембе...",
       "text": "Сборные Франции и Англии объявили стартовые составы на матч за третье место чемпионата мира-2026",
       "src": "Спорт-Экспресс",
@@ -34,43 +55,22 @@
       "text": "Капитан сборной Франции Килиан Мбаппе написал обращение к главному тренеру Дидье Дешаму перед его последним матчем в национальной ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mbappe-obratilsya-k-deshamu-pered-ego-poslednim-matchem-vo-glave-sbornoy-francii-2440479/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Франция — Англия: прямая трансляция матча за 3-е место ЧМ-2026 по...",
-      "text": "Игра состоится на стадионе «Хард Рок Стэдиум» в Майами (штат Флорида, США).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/franciya-angliya-pryamaya-translyaciya-smotret-besplatno-match-za-3-e-mesto-chm-2026-po-futbolu-2440358/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Инфантино за время ЧМ-2026 пролетел 91 тысячу км и посетил почти ...",
-      "text": "Президент ФИФА Джанни Инфантино пролетел около 91,7 тысячи км между тремя принимающими чемпионат мира странами за время турнира, с...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glava-fifa-dzhanni-infantino-za-vremya-chm-2026-proletel-91-tysyachu-km-i-posetil-pochti-polovinu-matchey-2440465/"
-    },
-    {
-      "d": "18 июля 2026",
-      "t": "Сборная Испании отменила тренировку перед финалом ЧМ-2026 из-за г...",
-      "text": "Сборная Испании не смогла провести утреннюю тренировку перед финалом чемпионата мира-2026 из-за неблагоприятных погодных условий, ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/sbornaya-ispanii-otmenila-trenirovku-pered-finalom-chm-2026-iz-za-grozovogo-fronta-2440463/"
     }
   ],
   "odds": [
     {
       "t1": "Франция",
       "t2": "Англия",
-      "k1": 1.75,
-      "kDraw": 4.12,
-      "k2": 4.39
+      "k1": 6.0,
+      "kDraw": 4.77,
+      "k2": 1.46
     },
     {
       "t1": "Испания",
       "t2": "Аргентина",
-      "k1": 2.27,
-      "kDraw": 3.0,
-      "k2": 3.7
+      "k1": 2.26,
+      "kDraw": 3.02,
+      "k2": 3.68
     }
   ],
   "results": [
@@ -995,11 +995,11 @@
     {
       "t1": "Франция",
       "t2": "Англия",
-      "score1": null,
-      "score2": null,
-      "status": "TIMED",
+      "score1": 0,
+      "score2": 2,
+      "status": "IN_PLAY",
       "utcDate": "2026-07-18T21:00:00Z",
-      "winner": null
+      "winner": "AWAY_TEAM"
     },
     {
       "t1": "Испания",
@@ -1011,6 +1011,6 @@
       "winner": null
     }
   ],
-  "odds_updated": "2026-07-18T20:33:45.435910Z",
-  "results_updated": "2026-07-18T20:33:46.183468Z"
+  "odds_updated": "2026-07-18T21:29:30.924836Z",
+  "results_updated": "2026-07-18T21:29:31.896297Z"
 }
