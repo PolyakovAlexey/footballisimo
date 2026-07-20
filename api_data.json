@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "20 июля 2026",
+      "t": "Бывший полузащитник «Рубина» Хван Ин Бом стал игроком «Порту»",
+      "text": "Полузащитник сборной Кореи Хван Ин Бом перешел в «Порту» из «Фейеноорда», сообщает пресс-служба португальского клуба.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/byvshiy-poluzaschitnik-rubina-hvan-in-bom-stal-igrokom-portu-2441082/"
+    },
+    {
+      "d": "20 июля 2026",
+      "t": "ФИФА начала расследование инцидентов в финале ЧМ-2026",
+      "text": "Международная федерация футбола (ФИФА) объявила о начале расследования возможных нарушений дисциплинарного регламента после финаль...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-nachala-rassledovanie-incidentov-v-finale-chm-2026-2441079/"
+    },
+    {
+      "d": "20 июля 2026",
+      "t": "Роналду поставил лайк под видео, в котором ФИФА обвинили в помощи...",
+      "text": "Нападающий сборной Португалии Криштиану Роналду в социальных сетях поставил лайк под публикацией, в которой заявлялось, что ФИФА о...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ronaldu-postavil-layk-pod-video-v-kotorom-fifa-obvinili-v-pomoschi-sbornoy-argentiny-na-chm-2026-2441078/"
+    },
+    {
+      "d": "20 июля 2026",
       "t": "Около миллиона человек встретили сборную Испании в Мадриде после ...",
       "text": "Около миллиона болельщиков вышли на улицы Мадрида, чтобы встретить сборную Испании после победы на чемпионате мира, сообщает ТАСС.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Известный комментатор Дмитрий Губерниев поделился с «СЭ» мнением о возможном расширении числа участников чемпионата мира до 64 сбо...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kommentator-dmitriy-guberniev-podelilsya-mneniem-o-vozmozhnom-rasshirenii-chisla-uchastnikov-chempionata-mira-do-64-sbornyh-2441062/"
-    },
-    {
-      "d": "20 июля 2026",
-      "t": "Месси: «Сейчас трудно оценить это по достоинству, но Аргентина до...",
-      "text": "Нападающий сборной Аргентины Лионель Месси обратился к болельщикам национальной команды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/messi-obratilsya-k-bolelschikam-sbornoy-argentiny-i-pozdravil-ispaniyu-s-pobedoy-na-chm-2026-2441061/"
-    },
-    {
-      "d": "20 июля 2026",
-      "t": "Паредес отыграл три матча ЧМ-2026 с трещиной в ребре",
-      "text": "Полузащитник сборной Аргентины Леандро Паредес играл в трех последних матчах чемпионата мира по футболу с трещиной в ребре, сообща...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/paredes-otygral-tri-matcha-chm-2026-s-treschinoy-v-rebre-2441059/"
-    },
-    {
-      "d": "20 июля 2026",
-      "t": "Глава КОНМЕБОЛ Домингес заявил, что на ЧМ-2030 сыграют 64 сборные",
-      "text": "Президент Южноамериканской конфедерации футбола (КОНМЕБОЛ) Алехандро Домингес заявил, что в следующем чемпионате мира по футболу п...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/glava-konmebol-dominges-zayavil-chto-na-chm-2030-sygrayut-64-sbornye-2441058/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-20T19:48:03.817544Z"
+  "results_updated": "2026-07-20T20:55:14.890214Z"
 }
