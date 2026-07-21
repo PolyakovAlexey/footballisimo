@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "21 июля 2026",
+      "t": "Финал ЧМ-2026 стал самой просматриваемой футбольной телетрансляци...",
+      "text": "Телеканал FOX Sports на официальном сайте объявил, что финал чемпионата мира-2026 между сборными Испании и Аргентины (1:0 д.в.) со...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/final-chm-2026-stal-samoy-prosmatrivaemoy-futbolnoy-teletranslyaciey-v-istorii-ssha-2441313/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Месси после ЧМ-2026 приехал в Росарио, чтобы провести время с отц...",
+      "text": "Нападающий сборной Аргентины и «Интер Майами» Лионель Месси приехал в свой родной город Росарио, где проведет отпуск в кругу семьи...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/messi-posle-chm-2026-priehal-v-rosario-chtoby-provesti-vremya-s-otcom-2441310/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Черчесов: «Симон — топ-вратарь. Но разве лучший на ЧМ? Мартинес п...",
+      "text": "Главный тренер «Ахмата» Станислав Черчесов в авторской колонке для «СЭ» оценил признание вратаря Унаи Симона лучшим на чемпионате ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/stanislav-cherchesov-ocenil-priznanie-vratarya-unai-simona-luchshim-na-chempionate-mira-po-futbolu-2026-2441300/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Источник: «Реал» может подписать Родри этим летом",
+      "text": "«Реал» может подписать полузащитника сборной Испании и «Манчестер Сити» Родри в это трансферное окно, сообщил в соцсети X журналис...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/istochnik-real-mozhet-podpisat-rodri-etim-letom-2441309/"
+    },
+    {
+      "d": "21 июля 2026",
       "t": "Роджерс объяснил причины перехода в «Челси»",
       "text": "Полузащитник сборной Англии Морган Роджерс прокомментировал свой переход из «Астон Виллы» в «Челси».",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Российский хоккеист Александр Овечкин прокомментировал результат финала ЧМ-2026 по футболу.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-ovechkin-ocenil-itogi-finala-chm-po-futbolu-2026-ispaniya-argentina-i-porazhenie-komandy-lionelya-messi-2441291/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Батраков оценил новую форму «Локомотива»: «Клуб радует»",
-      "text": "Полузащитник «Локомотива» Алексей Батраков в разговоре с «СЭ» оценил новую форму команды на сезон-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/aleksey-batrakov-ocenil-novuyu-formu-lokomotiva-2441293/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Инфантино обратился к сборной Аргентины после завершения ЧМ-2026",
-      "text": "Президент ФИФА Джанни Инфантино выступил с обращением к сборной Аргентины после окончания ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/infantino-obratilsya-k-sbornoy-argentiny-posle-zaversheniya-chm-2026-2441289/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Симеоне или Гальярдо могут сменить Скалони на посту главного трен...",
-      "text": "Главный тренер «Атлетико» Диего Симеоне или экс-тренер «Ривер Плейт» Марсело Гальярдо могут возглавить сборную Аргентины, сообщает...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/simeone-ili-galyardo-mogut-smenit-skaloni-na-postu-glavnogo-trenera-sbornoy-argentiny-2441285/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "МИД РФ заявил о нарушениях прав человека на ЧМ-2026",
-      "text": "Прошедший в США чемпионат мира по футболу сопровождался многочисленными нарушениями прав человека. Об этом заявил директор департа...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mid-rf-zayavil-o-narusheniyah-prav-cheloveka-na-chm-2026-2441284/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-21T21:22:51.820100Z"
+  "results_updated": "2026-07-21T22:25:00.587976Z"
 }
