@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "21 июля 2026",
+      "t": "Роджерс объяснил причины перехода в «Челси»",
+      "text": "Полузащитник сборной Англии Морган Роджерс прокомментировал свой переход из «Астон Виллы» в «Челси».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/rodzhers-obyasnil-prichiny-perehoda-v-chelsi-2441307/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Черчесов о победе Испании на ЧМ-2026: «Высочайший уровень футбола...",
+      "text": "Главный тренер «Ахмата» Станислав Черчесов в авторской колонке для «СЭ» оценил победу сборной Испании на чемпионате мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/stanislav-cherchesov-ocenil-pobedu-sbornoy-ispanii-na-chempionate-mira-po-futbolu-2026-2441297/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "«Челси» подписал полузащитника «Астон Виллы» и сборной Англии Род...",
+      "text": "Полузащитник сборной Англии Морган Роджерс перешел в «Челси» из «Астон Виллы», сообщается на сайте лондонского клуба.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/chelsi-podpisal-poluzaschitnika-aston-villy-i-sbornoy-anglii-rodzhersa-za-117-millionov-funtov-2441304/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Овечкин о финале ЧМ-2026: «Рад за Испанию, но за Месси обидно»",
+      "text": "Российский хоккеист Александр Овечкин прокомментировал результат финала ЧМ-2026 по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-ovechkin-ocenil-itogi-finala-chm-po-futbolu-2026-ispaniya-argentina-i-porazhenie-komandy-lionelya-messi-2441291/"
+    },
+    {
+      "d": "21 июля 2026",
       "t": "Батраков оценил новую форму «Локомотива»: «Клуб радует»",
       "text": "Полузащитник «Локомотива» Алексей Батраков в разговоре с «СЭ» оценил новую форму команды на сезон-2026/27.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Прошедший в США чемпионат мира по футболу сопровождался многочисленными нарушениями прав человека. Об этом заявил директор департа...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mid-rf-zayavil-o-narusheniyah-prav-cheloveka-na-chm-2026-2441284/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "«Локомотив» представил два комплекта формы на сезон-2026/27",
-      "text": "«Локомотив» показал два комплекта игровой формы на сезон-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/lokomotiv-predstavil-dva-komplekta-formy-na-sezon-2026-27-2441283/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Экс-глава ФИФА Блаттер: «По пути к финалу ЧМ потерял свою репутац...",
-      "text": "Бывший президент ФИФА Йозеф Блаттер выступил с критикой в адрес нынешнего главы организации Джанни Инфантино и подвел итоги ЧМ-202...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-prezident-fifa-blatter-raskritikoval-infantino-posle-chm-2026-2441282/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Овечкин оценил ЧМ-2026 и сравнил Аршавина с Бекхэмом",
-      "text": "Российский хоккеист Александр Овечкин рассказал о впечатлениях от проведения ЧМ-2026 по футболу в США, Канаде и Мексике.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ovechkin-ocenil-chm-2026-i-sravnil-arshavina-s-bekhemom-2441279/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Ибрагимович о Паредесе в финале ЧМ-2026: «Если бы я был на поле, ...",
-      "text": "Бывший капитан сборной Швеции Златан Ибрагимович раскритиковал поведение полузащитника команды Аргентины Леандро Паредеса в финале...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/ibragimovich-zayavil-chto-udaril-by-paredesa-golovoy-v-finale-chm-2026-2441278/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-21T20:05:42.688137Z"
+  "results_updated": "2026-07-21T21:22:51.820100Z"
 }
