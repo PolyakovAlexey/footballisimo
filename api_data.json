@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "21 июля 2026",
+      "t": "Александр Плющенко: «Разочаровало, что сокомандники Роналду по сб...",
+      "text": "Фигурист и футболист медиакоманды «Союз чемпионов» Александр Плющенко в колонке для «СЭ» назвал главное разочарование чемпионата м...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-plyuschenko-nazval-glavnoe-razocharovanie-chempionata-mira-2026-2441194/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Александр Плющенко: «Много споров вокруг звания лучшего игрока ЧМ...",
+      "text": "Александр Плющенко в колонке для «СЭ» заявил, что полузащитник сборной Испании Родри заслуженно получил награду лучшему игроку чем...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/aleksandr-plyuschenko-zayavil-chto-rodri-zasluzhenno-poluchil-nagradu-luchshemu-igroku-chempionata-mira-2026-2441191/"
+    },
+    {
+      "d": "21 июля 2026",
+      "t": "Французский журналист — о возможном назначении Зидана тренером сб...",
+      "text": "Бывший заместитель главного редактора L'Equipe Жан-Филип Леклер в разговоре с «СЭ» поделился мнением о возможном назначении Зинеди...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/zhan-filip-lekler-podelilsya-mneniem-o-vozmozhnom-naznachenii-zinedina-zidana-glavnym-trenerom-sbornoy-francii-2441198/"
+    },
+    {
+      "d": "21 июля 2026",
       "t": "Александр Плющенко: «Финал ЧМ-2026 был ужасным, скучным. Половину...",
       "text": "Фигурист и футболист медиакоманды «Союз чемпионов» Александр Плющенко в колонке для «СЭ» поделился мнением о финальном матче ЧМ-20...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нападающий сборной Испании и «Барселоны» Ферран Торрес интересен «Реалу», сообщает L'Equipe.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/real-zainteresovan-v-forvarde-barselony-ferrane-torrese-2441161/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Курникова показала фото своих детей в футболках сборной Испании",
-      "text": "Бывшая первая ракетка мира в парном разряде россиянка Анна Курникова опубликовала в соцсетях фото своих детей в футболках сборной ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/tennisistka-anna-kurnikova-pokazala-foto-svoih-detey-v-futbolkah-sbornoy-ispanii-2441159/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "ФИФА пояснила ситуацию с дракой Паредеса: игрок не был удален пос...",
-      "text": "В ФИФА сообщили, что к полузащитнику сборной Аргентины Леандро Паредесу не было применено никакого наказания на поле за драку посл...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-podtverdila-chto-poluzaschitnik-sbornoy-argentiny-paredes-ne-byl-nakazan-za-draku-posle-okonchaniya-finala-chm-2026-2441153/"
-    },
-    {
-      "d": "21 июля 2026",
-      "t": "Portal Leo Dias: Винисиус сделал операцию по коррекции подбородка",
-      "text": "Нападающий сборной Бразилии и «Реала» Винисиус Жуниор сделал операцию по коррекции подбородка, сообщает Portal Leo Dias.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/napadayuschiy-reala-vinisius-zhunior-sdelal-operaciyu-po-korrekcii-podborodka-posle-vyleta-s-chm-2026-2441147/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-21T11:48:16.739817Z"
+  "results_updated": "2026-07-21T13:22:01.182356Z"
 }
