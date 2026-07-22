@@ -2,8 +2,22 @@
   "news": [
     {
       "d": "22 июля 2026",
+      "t": "Дегтярев заявил, что ФИФА выступает за возвращение российских ком...",
+      "text": "Министр спорта РФ и глава Олимпийского комитета России Михаил Дегтярев заявил, что руководство Международной федерации футбола (ФИ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/degtyarev-zayavil-chto-fifa-vystupaet-za-vozvraschenie-rossiyskih-komand-2441461/"
+    },
+    {
+      "d": "22 июля 2026",
+      "t": "Сергачев — о чемпионате мира-2026 по футболу: «Теперь я болельщик...",
+      "text": "Защитник «Юты» Михаил Сергачев рассказал «СЭ», за кого болел на чемпионате мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/zaschitnik-yuty-sergachev-priznalsya-chto-boleet-za-sbornuyu-anglii-posle-chm-2026-2441450/"
+    },
+    {
+      "d": "22 июля 2026",
       "t": "L'Equipe: Салиба не понадобится операция на позвоночнике",
-      "text": "Защитник «Арсенала» и сборной Франции Вильям Салиба избежал операции на позвоночник, сообщает L'Equipe.",
+      "text": "Защитник «Арсенала» и сборной Франции Вильям Салиба избежал операции на позвоночнике, сообщает L'Equipe.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/lequipe-zaschitniku-arsenala-vilyamu-saliba-ne-ponadobitsya-operaciya-na-pozvonochnike-2441439/"
     },
@@ -31,7 +45,7 @@
     {
       "d": "22 июля 2026",
       "t": "«Динамо» представило комплект формы на сезон-2026/27",
-      "text": "Московское «Динамо» представило комплект игровой формы в сезоне-2026/27.",
+      "text": "Московское «Динамо» представило комплект игровой формы на сезон-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/dinamo-predstavilo-komplekt-formy-na-sezon-2026-27-2441431/"
     },
@@ -41,20 +55,6 @@
       "text": "Нападающий «Сантоса» и сборной Бразилии Неймар не полетел с командой в Каракас на выездной матч 1/16 финала Южномериканского кубка...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/braziliya/news/neymar-igral-v-poker-v-den-matcha-santosa-v-yuzhnoamerikanskom-kubke-2441404/"
-    },
-    {
-      "d": "22 июля 2026",
-      "t": "В махачкалинском «Динамо» сообщили, что Мастури прибыл в располож...",
-      "text": "Генеральный директор «Динамо» Махачкала Шамиль Газизов в разговоре с «СЭ» рассказал, что нападающий Хазем Мастури прибыл в располо...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/v-mahachkalinskom-dinamo-soobschili-chto-masturi-pribyl-v-raspolozhenie-kluba-posle-vystupleniya-na-chm-2026-2441403/"
-    },
-    {
-      "d": "22 июля 2026",
-      "t": "Романо: защитник Ромеро точно покинет «Тоттенхэм» летом 2026 года",
-      "text": "Защитник «Тоттенхэма» Кристиан Ромеро в летнее трансферное окно точно сменит команду, сообщил инсайдер Фабрицио Романо.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/romano-zaschitnik-romero-tochno-pokinet-tottenhem-letom-2026-goda-2441391/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-22T13:26:20.227604Z"
+  "results_updated": "2026-07-22T15:24:52.120756Z"
 }
