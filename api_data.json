@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "22 июля 2026",
+      "t": "Bild: Мбаппе сообщил Пересу, что убедил Олисе перейти из «Баварии...",
+      "text": "Нападающий «Реала» Килиан Мбаппе убедил партнера по сборной Франции Майла Олисе перейти в мадридский клуб из «Баварии», сообщает B...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/bild-mbappe-soobschil-peresu-chto-ubedil-olise-pereyti-iz-bavarii-v-real-2441527/"
+    },
+    {
+      "d": "22 июля 2026",
       "t": "Тюкавин назвал скучным финал ЧМ-2026 между Испанией и Аргентиной",
       "text": "Нападающий «Динамо» Константин Тюкавин поделился мнением о финале чемпионата мира-2026 между сборными Испании и Аргентины.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Портал Transfermarkt опубликовал список самых подорожавших игроков после чемпионата мира-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/havbek-sbornoy-anglii-elliott-anderson-stal-samym-podorozhavshim-igrokom-posle-chm-2026-2441483/"
-    },
-    {
-      "d": "22 июля 2026",
-      "t": "ФИФА включила Возинью, Месси и Мбаппе в символическую сборную ЧМ-...",
-      "text": "ФИФА опубликовала символическую сборную ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-vklyuchila-vozinyu-messi-i-mbappe-v-simvolicheskuyu-sbornuyu-chm-2026-2441482/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-22T19:55:10.066177Z"
+  "results_updated": "2026-07-22T21:02:27.571742Z"
 }
