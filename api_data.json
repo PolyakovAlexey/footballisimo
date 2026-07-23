@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "23 июля 2026",
+      "t": "Мальдини — о тренере сборной Италии: «Мы вели диалог с Анчелотти ...",
+      "text": "Паоло Мальдини, занимающий пост технического директора Итальянской федерации футбола (FIGC), подтвердил факт переговоров с Хосепом...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/paolo-maldini-podtverdil-peregovory-s-hosepom-gvardioloy-na-post-glavnogo-trenera-sbornoy-italii-2441680/"
+    },
+    {
+      "d": "23 июля 2026",
+      "t": "Норвежская ассоциация готовит жалобу в этический комитет ФИФА по ...",
+      "text": "Норвежская футбольная ассоциация намерена подать жалобу в этический комитет Международной федерации футбола (ФИФА) из-за вмешатель...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/norvezhskaya-associaciya-gotovit-zhalobu-v-eticheskiy-komitet-fifa-po-delu-baloguna-2441675/"
+    },
+    {
+      "d": "23 июля 2026",
+      "t": "SBC News: ФИФА не выявила договорных матчей на ЧМ-2026, но найден...",
+      "text": "Международная федерация футбола (ФИФА) не выявила договорных матчей на завершившемся чемпионате мира 2026 года, сообщает SBC News.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/sbc-news-fifa-ne-vyyavila-dogovornyh-matchey-na-chempionate-mira-2026-no-naydeny-sem-podozritelnyh-epizodov-2441667/"
+    },
+    {
+      "d": "23 июля 2026",
       "t": "Ещенко рассказал, что нужно исправить «Спартаку», чтобы стать чем...",
       "text": "Бывший защитник «Спартака» Андрей Ещенко в разговоре с «СЭ» поделился ожиданиями от выступления московского клуба в сезоне-2026/27...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Чемпионат мира по футболу стал самым популярным спортивным событием в истории спортивного раздела на «Кинопоиске».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/auditoriya-chempionata-mira-po-futbolu-fifa-2026-na-kinopoiske-prevysila-8-7-mln-podpischikov-yandeks-plyusa-2441598/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Родри согласовал контракт с «Реалом» до 2030 года",
-      "text": "Полузащитник «Манчестер Сити» и сборной Испании Родри достиг принципиальной договоренности о контракте с «Реалом», сообщает журнал...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/rodri-soglasoval-kontrakt-s-realom-do-2030-goda-2441599/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "В июне 2026 года допинг-контроль в РУСАДА прошли четверо российск...",
-      "text": "В июне 2026 года Российское антидопинговое агентство (РУСАДА) провело допинг-тестирование четырех российских футболистов, сообщает...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/v-iyune-2026-goda-doping-kontrol-v-rusada-proshli-chetvero-rossiyskih-futbolistov-2441590/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Футбольная ассоциация Аргентины опровергла информацию о задержани...",
-      "text": "Футбольная ассоциация Аргентины (AFA) прокомментировала информацию о задержании своего президента Клаудио Тапиа и казначея Пабло Т...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/futbolnaya-associaciya-argentiny-oprovergla-informaciyu-o-zaderzhanii-svoego-glavy-v-ssha-2441588/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-23T11:51:41.295113Z"
+  "results_updated": "2026-07-23T13:39:08.186322Z"
 }
