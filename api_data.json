@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "23 июля 2026",
+      "t": "«Ростов» представил домашнюю форму на сезон-2026/27",
+      "text": "«Ростов» представил комплект домашней игровой формы на сезон-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/rostov-predstavil-domashnyuyu-formu-na-sezon-2026-27-2441707/"
+    },
+    {
+      "d": "23 июля 2026",
       "t": "Мальдини — о тренере сборной Италии: «Мы вели диалог с Анчелотти ...",
       "text": "Паоло Мальдини, занимающий пост технического директора Итальянской федерации футбола (FIGC), подтвердил факт переговоров с Хосепом...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Петиция «Аргентина, вон!» с требованием исключить сборную Аргентины с чемпионата мира 2026 года, собрала в общей сложности около 2...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/peticiya-za-isklyuchenie-sbornoy-argentiny-s-chm-2026-nabrala-v-itoge-bolee-23-millionov-podpisey-2441604/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Аудитория чемпионата мира по футболу FIFA 2026 на «Кинопоиске» пр...",
-      "text": "Чемпионат мира по футболу стал самым популярным спортивным событием в истории спортивного раздела на «Кинопоиске».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/auditoriya-chempionata-mira-po-futbolu-fifa-2026-na-kinopoiske-prevysila-8-7-mln-podpischikov-yandeks-plyusa-2441598/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-23T13:39:08.186322Z"
+  "results_updated": "2026-07-23T15:46:21.430333Z"
 }
