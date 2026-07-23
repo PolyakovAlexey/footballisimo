@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "23 июля 2026",
+      "t": "Манди завершил карьеру в сборной Алжира",
+      "text": "Капитан сборной Алжира Аисса Манди сообщил о завершении международной карьеры.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mandi-zavershil-kareru-v-sbornoy-alzhira-2441566/"
+    },
+    {
+      "d": "23 июля 2026",
+      "t": "Барко станет игроком «Челси»",
+      "text": "Полузащитник сборной Аргентины Валентин Барко перейдет из «Страсбура» в «Челси», сообщил в соцсети X инсайдер Фабрицио Романо.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/barko-stanet-igrokom-chelsi-2441565/"
+    },
+    {
+      "d": "23 июля 2026",
       "t": "«Челси» хочет подписать защитника сборной Франции Лакруа",
       "text": "«Челси» ведет переговоры с «Кристал Пэлас» по трансферу защитника сборной Франции Максенса Лакруа.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Федеральное бюро расследований (ФБР) США задержало президента Аргентинской ассоциации футбола (AFA) Клаудио Тапиа в аэропорту Нью-...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavu-argentinskoy-associacii-futbola-klaudio-tapia-zaderzhali-pri-vylete-iz-ssha-posle-chm-2026-2441511/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "L'Equipe: о назначении Зидана главным тренером сборной Франции об...",
-      "text": "Федерация футбола Франции (ФФФ) объявит о назначении Зинедина Зидана главным тренером сборной Франции во вторник, 28 июля, сообщае...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/lequipe-o-naznachenii-zidana-zidana-glavnym-trenerom-sbornoy-francii-obyavyat-28-iyulya-2441500/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Айяла — об ударе Ольмо после финала ЧМ-2026: «Извинюсь перед ним....",
-      "text": "Тренер сборной Аргентины Роберто Айяла заявил, что сожалеет о потасовке после финального свистка в матче со сборной Испании (0:1 п...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-sbornoy-argentiny-roberto-ayyala-izvinilsya-za-to-chto-udaril-ispanca-dani-olmo-posle-finala-chm-2026-2441494/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-23T02:55:35.835942Z"
+  "results_updated": "2026-07-23T05:57:42.396203Z"
 }
