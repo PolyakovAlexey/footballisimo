@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "23 июля 2026",
+      "t": "«Челси» хочет подписать защитника сборной Франции Лакруа",
+      "text": "«Челси» ведет переговоры с «Кристал Пэлас» по трансферу защитника сборной Франции Максенса Лакруа.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/chelsi-hochet-podpisat-zaschitnika-sbornoy-francii-lakrua-2441554/"
+    },
+    {
+      "d": "23 июля 2026",
       "t": "«ПСЖ» хочет продлить контракт с Дембеле",
       "text": "«Аль-Хиляль» хочет заполучить нападающего «ПСЖ» и сборной Франции Усмана Дембеле.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Тренер сборной Аргентины Роберто Айяла заявил, что сожалеет о потасовке после финального свистка в матче со сборной Испании (0:1 п...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-sbornoy-argentiny-roberto-ayyala-izvinilsya-za-to-chto-udaril-ispanca-dani-olmo-posle-finala-chm-2026-2441494/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Каземиро — о переходе в «Интер Майами»: «Меня мотивирует желание ...",
-      "text": "Полузащитник сборной Бразилии Каземиро прокомментировал свой переход в «Интер Майами».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/kazemiro-obyasnil-pochemu-pereshel-v-inter-mayami-2441491/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-23T00:15:29.710314Z"
+  "results_updated": "2026-07-23T02:55:35.835942Z"
 }
