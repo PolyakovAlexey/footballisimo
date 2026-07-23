@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "23 июля 2026",
+      "t": "Брат Возиньи: «Он никогда не употреблял алкоголь»",
+      "text": "Брат голкипера сборной Кабо-Верде Возиньи Дельмиро Насименто в разговоре с «СЭ» рассказал, что его родственник никогда не употребл...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/brat-golkipera-sbornoy-kabo-verde-vozini-delmiro-nasimento-rasskazal-chto-ego-rodstvennik-nikogda-ne-upotreblyal-alkogol-2441755/"
+    },
+    {
+      "d": "23 июля 2026",
+      "t": "Брат Возиньи: «За него ни разу не платили, он всегда переходил св...",
+      "text": "Брат голкипера сборной Кабо-Верде Возиньи Дельмиро Насименто в разговоре с «СЭ» объяснил, почему его родственник всегда переходил ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/brat-golkipera-sbornoy-kabo-verde-vozini-delmiro-nasimento-obyasnil-pochemu-kluby-ni-razu-ne-platili-za-ego-rodstvennika-2441748/"
+    },
+    {
+      "d": "23 июля 2026",
       "t": "20-летний хавбек «Партизана» и сборной Сербии Драгоевич перешел в...",
       "text": "«Рейнджерс» объявили о переходе полузащитника «Партизана» Вани Драгоевича.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Международная федерация футбола (ФИФА) не выявила договорных матчей на завершившемся чемпионате мира 2026 года, сообщает SBC News.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/sbc-news-fifa-ne-vyyavila-dogovornyh-matchey-na-chempionate-mira-2026-no-naydeny-sem-podozritelnyh-epizodov-2441667/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Ещенко рассказал, что нужно исправить «Спартаку», чтобы стать чем...",
-      "text": "Бывший защитник «Спартака» Андрей Ещенко в разговоре с «СЭ» поделился ожиданиями от выступления московского клуба в сезоне-2026/27...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/eschenko-rasskazal-chto-nuzhno-ispravit-spartaku-chtoby-stat-chempionom-2441652/"
-    },
-    {
-      "d": "23 июля 2026",
-      "t": "Mirror: Бекхэм заработал в ходе ЧМ-2026 25 миллионов долларов, Ша...",
-      "text": "Экс-капитан сборной Англии Дэвид Бекхэм заработал на рекламе в рамках чемпионата мира 2026 года около 25 миллионов долларов, сообщ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/mirror-bekhem-zarabotal-v-hode-chm-2026-25-millionov-dollarov-shakira-20-biber-16-2441632/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-23T17:17:37.551414Z"
+  "results_updated": "2026-07-23T18:40:16.045309Z"
 }
