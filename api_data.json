@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "24 июля 2026",
+      "t": "Хаит: «Триумф Испании в очередной раз доказывает, что команда важ...",
+      "text": "Страстный футбольный болельщик Ростислав Хаит в интервью «СЭ» оценил победу сборной Испании на ЧМ-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/akter-rostislav-hait-ocenil-pobedu-sbornoy-ispanii-na-chm-2026-2441819/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "Боатенг выставит на продажу виллу, которую арендовал Олисе",
+      "text": "Полузащитник «Баварии» и сборной Франции Микаэль Олисе готовится к переезду.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/boateng-vystavit-na-prodazhu-villu-kotoruyu-arendoval-olise-2441812/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "«Ливерпуль» лидирует в борьбе за Барколя",
+      "text": "«Ливерпуль» является главным претендентом на подписание нападающего «Пари Сен-Жермен» и сборной Франции Брэдли Барколя.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/liverpul-lidiruet-v-borbe-za-barkolya-2441813/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "Патрик Виейра может возглавить сборную Сенегала",
+      "text": "Бывший капитан сборной Франции Патрик Виейра может стать новым главным тренером сборной Сенегала.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/patrik-vieyra-mozhet-vozglavit-sbornuyu-senegala-2441811/"
+    },
+    {
+      "d": "24 июля 2026",
       "t": "«Фенербахче» предложил 50 миллионов евро за Леау",
       "text": "«Фенербахче» предложил «Милану» 50 миллионов евро за игрока сборной Португалии Рафаэла Леау.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Вице-президент федерации футбола Франции (ФФФ) Жан-Мишель Олас остался недоволен организацией процесса вокруг назначения Зинедина ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/olas-raskritikoval-rukovodstvo-federacii-futbola-francii-iz-za-situacii-s-zidanom-2441795/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Арбитр Бартон ответил Дешаму на критику после полуфинала ЧМ-2026 ...",
-      "text": "Сальвадорский арбитр Иван Бартон прокомментировал слова главного тренера сборной Франции Дидье Дешама, который после поражения от ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/arbitr-barton-otvetil-deshamu-na-kritiku-posle-polufinala-chm-2026-franciya-ispaniya-2441794/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Отаменди обратился к болельщикам после завершения карьеры в сборн...",
-      "text": "Защитник Николас Отаменди на своей странице в социальной сети попрощался со сборной Аргентины и опубликовал эмоциональное обращени...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/otamendi-obratilsya-k-bolelschikam-posle-zaversheniya-karery-v-sbornoy-argentiny-2441791/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Хаит — о Месси: «Скалони слепил команду под него. Объединил идеей...",
-      "text": "Один из основателей театра «Квартет И», актер, сценарист и страстный футбольный болельщик Ростислав Хаит в интервью «СЭ» объяснил ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/rostislav-hait-kommentariy-po-igre-lionelya-messi-za-sbornuyu-argentiny-2441785/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Дефо покинул пост главного тренера «Уокинга» спустя 116 дней посл...",
-      "text": "«Уокинг» на официальном сайте объявил об уходе экс-форварда сборной Англии Джермейна Дефо с поста главного тренера.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/defo-pokinul-post-glavnogo-trenera-uokinga-spustya-116-dney-posle-naznacheniya-2441789/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-24T02:50:13.209087Z"
+  "results_updated": "2026-07-24T05:39:38.119291Z"
 }
