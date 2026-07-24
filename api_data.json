@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "24 июля 2026",
+      "t": "Паредес не исключил, что завершит карьеру в сборной Аргентины",
+      "text": "Полузащитник сборной Аргентины Леандро Паредес после чемпионата мира-2026 признался, что раздумывает о завершении карьеры в национ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/poluzaschitnik-leandro-paredes-ne-isklyuchil-chto-zavershit-kareru-v-sbornoy-argentiny-2441963/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "«Чайка» и «Иркутск» не примут участия в розыгрыше Кубка России в ...",
+      "text": "«Чайка» и «Иркутск» снялись с розыгрыша FONBET Кубка России в сезоне-2026/27, сообщила пресс-служба РФС.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/chayka-i-irkutsk-ne-primut-uchastiya-v-rozygryshe-kubka-rossii-v-sezone-2026-27-2441947/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "Gazzetta: Пирло возглавит сборную Италии после отказа Гвардиолы",
+      "text": "Андреа Пирло станет новым главным тренером сборной Италии, сообщает Gazzetta dello Sport.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/andrea-pirlo-vozglavit-sbornuyu-italii-posle-otkaza-gvardioly-2441935/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "Быстров — об интересе европейских топ-клубов к россиянам: «Не вер...",
+      "text": "Бывший полузащитник сборной России Владимир Быстров в комментарии для «СЭ» скептически высказался об интересе европейских клубов к...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/byvshiy-futbolist-vladimir-bystrov-kommentariy-ob-interese-evropeyskih-top-klubov-k-rossiyanam-2441931/"
+    },
+    {
+      "d": "24 июля 2026",
       "t": "Марк ван Боммел возглавил сборную Бельгии",
       "text": "Марк ван Боммел станет главным тренером сборной Бельгии, сообщает пресс-служба Королевской бельгийской футбольной ассоциации (RBFA...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "10-летняя российская танцовщица Есения Михеева стала одной из участниц шоу-программы во время финала чемпионата мира 2026 года. Юн...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/10-letnyaya-rossiyanka-miheeva-rasskazala-o-vystuplenii-s-shakiroy-v-finale-chm-2026-2441899/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Клопп: «После сборной Германии у меня не будет никакой карьеры. В...",
-      "text": "Новый главный тренер сборной Германии Юрген Клопп признался, что не планирует продолжать тренерскую карьеру после работы с национа...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/klopp-zayavil-chto-planiruet-zavershit-trenerskuyu-kareru-posle-raboty-so-sbornoy-germanii-2441893/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Клопп — о сборной Германии: «Уйду без компенсации, если завтра бо...",
-      "text": "Новый главный тренер сборной Германии Юрген Клопп поделился эмоциями после назначения.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/klopp-prokommentiroval-naznachenie-na-post-glavnogo-trenera-sbornoy-germanii-2441888/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Гвардиола отказался возглавить сборную Италии: «Спасибо, но сейча...",
-      "text": "Хосеп Гвардиола ответил отказом на предложение Итальянской федерации футбола (FIGC) занять пост главного тренера сборной страны, с...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/hosep-gvardiola-otkazalsya-vozglavit-sbornuyu-italii-2441863/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Клопп назначен главным тренером сборной Германии",
-      "text": "Немецкий футбольный союз (DFB) объявил о назначении Юргена Клоппа главным тренером сборной Германии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/yurgen-klopp-naznachen-glavnym-trenerom-sbornoy-germanii-2441856/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-24T13:22:06.907185Z"
+  "results_updated": "2026-07-24T15:19:10.656187Z"
 }
