@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "24 июля 2026",
+      "t": "Гвардиола отказался возглавить сборную Италии: «Спасибо, но сейча...",
+      "text": "Хосеп Гвардиола ответил отказом на предложение Итальянской федерации футбола (FIGC) занять пост главного тренера сборной страны, с...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/hosep-gvardiola-otkazalsya-vozglavit-sbornuyu-italii-2441863/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "Клопп назначен главным тренером сборной Германии",
+      "text": "Немецкий футбольный союз (DFB) объявил о назначении Юргена Клоппа главным тренером сборной Германии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/yurgen-klopp-naznachen-glavnym-trenerom-sbornoy-germanii-2441856/"
+    },
+    {
+      "d": "24 июля 2026",
+      "t": "Агбонлахор: «Хвича должен получить «Золотой мяч». Он был лучше Ям...",
+      "text": "Бывший нападающий сборной Англии Габриэль Агбонлахор объяснил, почему считает, что полузащитник «ПСЖ» и сборной Грузии Хвича Квара...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/agbonlahor-schitaet-chto-hvicha-kvaracheliya-dolzhen-poluchit-zolotoy-myach-v-2026-godu-2441851/"
+    },
+    {
+      "d": "24 июля 2026",
       "t": "Хаит: «Испанию можно обыграть, если провести матч жизни и включит...",
       "text": "Страстный футбольный болельщик Ростислав Хаит в интервью «СЭ» предположил, за счет чего можно победить чемпиона мира-2026 сборную ...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший главный тренер «Ливерпуля» Юрген Клопп подписал контракт с Немецким футбольным союзом (DFB), сообщает инсайдер Фабрицио Ром...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/germany/news/klopp-podpisal-kontrakt-s-dfb-o-ego-naznachenii-v-sbornuyu-germanii-obyavyat-v-pyatnicu-2441825/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Глава Футбольной ассоциации Аргентины Тапиа: «Испания была сильне...",
-      "text": "Президент Футбольной ассоциации Аргентины (AFA) Клаудио Тапиа обратился к болельщикам сборной Аргентины после завершения ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-afa-tapia-obratilsya-k-bolelschikam-sbornoy-argentiny-i-nazval-zasluzhennoy-pobedu-ispanii-v-finale-chm-2026-2441823/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Хаит: «На больших турнирах побеждают тренеры, которые ничего не б...",
-      "text": "Актер, сценарист и страстный футбольный болельщик Ростислав Хаит в интервью «СЭ» высказал мнение о главном тренере сборной Англии ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/rostislav-hait-vyskazal-mnenie-o-glavnom-trenere-sbornoy-anglii-tomase-tuhele-2441822/"
-    },
-    {
-      "d": "24 июля 2026",
-      "t": "Хаит: «Триумф Испании в очередной раз доказывает, что команда важ...",
-      "text": "Страстный футбольный болельщик Ростислав Хаит в интервью «СЭ» оценил победу сборной Испании на ЧМ-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/akter-rostislav-hait-ocenil-pobedu-sbornoy-ispanii-na-chm-2026-2441819/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-24T08:03:19.634219Z"
+  "results_updated": "2026-07-24T10:12:47.981178Z"
 }
