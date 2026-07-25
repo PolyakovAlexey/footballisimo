@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "25 июля 2026",
+      "t": "Хау — о возможном трансфере Гимарайнса: «Я не знаю, что произойде...",
+      "text": "Главный тренер «Ньюкасла» Эдди Хау рассказал, что не уверен, останется ли полузащитник Бруно Гимарайнс в команде на сезон-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/trener-nyukasla-hau-prokommentiroval-informaciyu-o-vozmozhnom-transfere-poluzaschitnika-gimaraynsa-2442305/"
+    },
+    {
+      "d": "25 июля 2026",
       "t": "Неймар забил в первом матче за «Сантос» после ЧМ-2026",
       "text": "«Сантос» принимает «Шапекоэнсе» в матче 20-го тура чемпионата Бразилии.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Губернатор Самарской области Вячеслав Федорищев оценил матч «Крыльев Советов» с московским «Динамо» в 1-м туре чемпионата России-2...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/gubernator-samarskoy-oblasti-vyacheslav-fedorischev-kommentariy-o-nichey-krylev-sovetov-s-moskovskim-dinamo-v-rpl-2442255/"
-    },
-    {
-      "d": "25 июля 2026",
-      "t": "Махачкалинское «Динамо» на 79-й минуте вырвало победу над «Факело...",
-      "text": "Махачкалинское «Динамо» на выезде обыграло «Факел» в матче 1-го тура чемпионата России-2026/27 — 2:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/fakel-dinamo-mahachkala-1-2-rezultat-matcha-1-go-tura-rpl-25-iyulya-2026-goda-2442253/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-25T22:53:06.756447Z"
+  "results_updated": "2026-07-25T23:52:01.054355Z"
 }
