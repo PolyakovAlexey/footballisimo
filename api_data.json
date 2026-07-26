@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "26 июля 2026",
+      "t": "Галактионов признался, что забыл рецепт победы над де ла Фуэнте",
+      "text": "Главный тренер «Локомотива» Михаил Галактионов ответил на вопрос о том, как победить сборную Испании под руководством Луиса де ла ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/glavnyy-trener-lokomotiva-mihail-galaktionov-kommentariy-o-vozglavlyayuschem-sbornuyu-ispanii-luise-de-la-fuente-2442498/"
+    },
+    {
+      "d": "26 июля 2026",
       "t": "Источник: «Барселона» интересуется защитником «Динамо» Касересом",
       "text": "«Барселона» внимательно следит за защитником сборной Парагвая и московского «Динамо» Хуаном Касересом, сообщает Toro Futbolero.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Назначение Андреа Пирло на пост главного тренера сборной Италии вызвало споры из-за контракта с российской букмекерской компанией,...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/potencialnoe-naznachenie-andrea-pirlo-v-sbornuyu-italii-vyzvalo-spory-iz-za-kontrakta-s-rossiyskim-bukmekerom-2442379/"
-    },
-    {
-      "d": "26 июля 2026",
-      "t": "Монтес вернулся в «Локомотив» после ЧМ-2026",
-      "text": "Защитник сборной Мексики Сесар Монтес вернулся в расположение «Локомотива» после выступления на чемпионате мира 2026 года, сообщае...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/zaschitnik-sesar-montes-vernulsya-v-raspolozhenie-lokomotiva-posle-chm-2026-2442377/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-26T19:21:26.058105Z"
+  "results_updated": "2026-07-26T20:27:24.422852Z"
 }
