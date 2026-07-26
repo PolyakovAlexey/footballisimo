@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "26 июля 2026",
+      "t": "Месси подарил игрокам Аргентины наборы для приготовления мате пос...",
+      "text": "Английская футболистка Келси-Роуз Бауэрс, девушка защитника сборной Аргентины Маркоса Сенеси, показала в соцсетях подарок, который...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-lionel-messi-podaril-igrokam-argentiny-nabory-dlya-prigotovleniya-mate-posle-chempionata-mira-2442407/"
+    },
+    {
+      "d": "26 июля 2026",
       "t": "Нападающий Джеко согласился подписать новый контракт с «Шальке»",
       "text": "Нападающий сборной Боснии и Герцеговины Эдин Джеко согласился подписать новый контракт с «Шальке-04», сообщил журналист Фабрицио Р...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Генеральный директор московского «Динамо» Павел Пивоваров назвал цели бело-голубых в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/generalnyy-direktor-moskovskogo-dinamo-pavel-pivovarov-nazval-celi-belo-golubyh-v-sezone-2026-27-2442348/"
-    },
-    {
-      "d": "26 июля 2026",
-      "t": "Тренер «Ювентуса» Спаллетти: «Мартинес хочет сменить клуб, а нам ...",
-      "text": "Главный тренер «Ювентуса» Лучано Спаллетти прокомментировал возможный трансфер вратаря «Астон Виллы» и сборной Аргентины Эмилиано ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/glavnyy-trener-yuventusa-luchano-spalletti-prokommentiroval-vozmozhnyy-transfer-vratarya-aston-villy-emiliano-martinesa-2442340/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-26T13:03:54.116792Z"
+  "results_updated": "2026-07-26T14:55:12.975689Z"
 }
