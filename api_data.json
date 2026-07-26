@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "26 июля 2026",
+      "t": "Главный тренер сборной России Карпин о ЧМ-2026: «По игре финал по...",
+      "text": "Главный тренер сборной России Валерий Карпин поделился впечатлениями от чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-rossii-valeriy-karpin-podelilsya-vpechatleniyami-ot-chm-2026-2442353/"
+    },
+    {
+      "d": "26 июля 2026",
+      "t": "Полузащитник «Динамо» Фомин о ЧМ-2026: «В целом турнир прошел хор...",
+      "text": "Полузащитник московского «Динамо» Даниил Фомин поделился впечатлениями от чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/poluzaschitnik-moskovskogo-dinamo-daniil-fomin-podelilsya-vpechatleniyami-ot-chm-2026-2442352/"
+    },
+    {
+      "d": "26 июля 2026",
+      "t": "«Аль-Хиляль» заинтересован в трансфере Диаса из «Баварии»",
+      "text": "«Аль-Хиляль» может подписать вингера «Баварии» и сборной Колумбии Луиса Диаса, сообщает журналист Саша Тавольери.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/al-hilyal-zainteresovan-v-transfere-diasa-iz-bavarii-2442351/"
+    },
+    {
+      "d": "26 июля 2026",
       "t": "Генеральный директор «Динамо» Пивоваров: «Наша задача — бороться ...",
       "text": "Генеральный директор московского «Динамо» Павел Пивоваров назвал цели бело-голубых в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "«Сантос» принимает «Шапекоэнсе» в матче 20-го тура чемпионата Бразилии.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/braziliya/news/santos-shapekoense-neymar-otkryl-schet-na-36-y-minute-2442301/"
-    },
-    {
-      "d": "26 июля 2026",
-      "t": "Овечкин назвал скучным финал ЧМ-2026 по футболу",
-      "text": "Нападающий «Вашингтона» Александр Овечкин заявил, что игра финала чемпионата мира по футболу 2026 года получилась скучной.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-vashingtona-aleksandr-ovechkin-nazval-skuchnym-final-chm-2026-po-futbolu-2442282/"
-    },
-    {
-      "d": "26 июля 2026",
-      "t": "«Спартак» дома одержал крупную победу над «Родиной»",
-      "text": "«Спартак» на своем поле обыграл «Родину» в матче 1-го тура чемпионата России-2026/27 — 3:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/spartak-rodina-schet-i-rezultat-matcha-1-go-tura-rpl-25-iyulya-2026-goda-2442278/"
-    },
-    {
-      "d": "26 июля 2026",
-      "t": "Инфантино: «Выступление Аргентины сделало ЧМ-2026 исключительным ...",
-      "text": "Президент ФИФА Джанни Инфантино направил поздравительное письмо главе Ассоциации футбола Аргентины Клаудио Тапии, в котором отмети...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-fifa-dzhanni-infantino-v-pisme-glave-argentinskoy-federacii-poblagodaril-sbornuyu-za-chm-2026-2442272/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-26T08:03:13.512004Z"
+  "results_updated": "2026-07-26T09:56:45.902443Z"
 }
