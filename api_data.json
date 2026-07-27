@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "27 июля 2026",
+      "t": "Источник: Тиагу Мотта стал основным кандидатом на пост главного т...",
+      "text": "Тиагу Мотта рассматривается на пост главного тренера сборной Италии, сообщает La Gazzetta dello Sport.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/tiagu-motta-stal-osnovnym-kandidatom-na-post-glavnogo-trenera-sbornoy-italii-2442655/"
+    },
+    {
+      "d": "27 июля 2026",
+      "t": "Глушаков о росте волос: «Пересадку не делал. Самогонкой подтер, о...",
+      "text": "Бывший футболист сборной России Денис Глушаков рассказал «СЭ» о секрете роста волос.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/glushakov-zayavil-chto-otkazalsya-ot-peresadki-volos-v-polzu-samogona-2442653/"
+    },
+    {
+      "d": "27 июля 2026",
+      "t": "Гол Кабрала в ворота сборной Аргентины признан лучшим на чемпиона...",
+      "text": "Болельщики признали гол защитника сборной Кабо-Верде Сидни Лопеша Кабрала в матче 1/16 финала чемпионата мира-2026 против сборной ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gol-sidni-lopesha-kabrala-v-vorota-sbornoy-argentiny-priznan-luchshim-na-chempionate-mira-2026-2442645/"
+    },
+    {
+      "d": "27 июля 2026",
       "t": "Мостовой об отказе сборной Италии от Пирло: «Заключайте контракт ...",
       "text": "Александр Мостовой в разговоре с «СЭ» поделился мнением о решении Итальянской футбольной федерации (FIGC) не назначать Андреа Пирл...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "25 и 26 июля состоялись матчи 16-го тура сезона-2026 Юношеской футбольной лиги-2.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/yflrussia/news/yufl-2-raspisanie-i-rezultaty-matchey-16-go-tura-25-i-26-iyulya-2026-goda-2442607/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Карпин о ЧМ-2026: «Отмечу Испанию, которая сделала ставку на кома...",
-      "text": "Главный тренер сборной России Валерий Карпин поделился впечатлениями от чемпионата мира по футболу 2026 года.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-rossii-valeriy-karpin-podelilsya-vpechatleniyami-ot-chm-2026-po-futbolu-2442611/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "МФЛ, результаты 16-го тура: «Родина» разгромила «Краснодар» и дру...",
-      "text": "17 и 24 июля состоялись матчи 16-го тура сезона-2026 Молодежной футбольной лиги.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/yflrussia/news/mfl-2026-raspisanie-i-rezultaty-matchey-16-go-tura-17-i-24-iyulya-2026-goda-2442600/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Егоров рассудит матч 2Drots — «Орел» и другие назначения на игры ...",
-      "text": "Стали известны судейские назначения на матчи 1-го раунда Пути регионов FONBET Кубка России сезона 2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/egorov-rassudit-match-2drots-orel-i-drugie-naznacheniya-na-igry-pervogo-raunda-puti-regionov-kubka-rossii-2442597/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-27T14:15:03.679803Z"
+  "results_updated": "2026-07-27T16:05:50.904115Z"
 }
