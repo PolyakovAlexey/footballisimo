@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "27 июля 2026",
+      "t": "Тебас — Инфантино: «Сильные институты не дискредитируют тех, кто ...",
+      "text": "Президент Ла лиги Хавьер Тебас прокомментировал пост главы Международной федерации футбола (ФИФА) Джанни Инфантино, в котором он о...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-la-ligi-tebas-prokommentiroval-post-glavy-fifa-infantino-2442716/"
+    },
+    {
+      "d": "27 июля 2026",
       "t": "Источник: Роналду снимется в сериале про футбольного агента",
       "text": "Нападающий сборной Португалии и «Аль-Насра» Криштиану Роналду работает с режиссером Kingsman Мэттью Воном над сериалом о футбольно...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Тиагу Мотта рассматривается на пост главного тренера сборной Италии, сообщает La Gazzetta dello Sport.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/tiagu-motta-stal-osnovnym-kandidatom-na-post-glavnogo-trenera-sbornoy-italii-2442655/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Глушаков о росте волос: «Пересадку не делал. Самогонкой подтер, о...",
-      "text": "Бывший футболист сборной России Денис Глушаков рассказал «СЭ» о секрете роста волос.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/glushakov-zayavil-chto-otkazalsya-ot-peresadki-volos-v-polzu-samogona-2442653/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-27T22:44:21.497781Z"
+  "results_updated": "2026-07-27T23:47:21.140180Z"
 }
