@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "27 июля 2026",
+      "t": "Источник: Роналду снимется в сериале про футбольного агента",
+      "text": "Нападающий сборной Португалии и «Аль-Насра» Криштиану Роналду работает с режиссером Kingsman Мэттью Воном над сериалом о футбольно...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/istochnik-napadayuschiy-sbornoy-portugalii-krishtianu-ronaldu-snimetsya-v-seriale-pro-futbolnogo-agenta-2442713/"
+    },
+    {
+      "d": "27 июля 2026",
       "t": "В Англии введут экспериментальное правило против симуляции травм ...",
       "text": "В английском футболе в сезоне-2026/27 опробуют новую меру, призванную искоренить тактические паузы после оказания помощи голкипера...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший футболист сборной России Денис Глушаков рассказал «СЭ» о секрете роста волос.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/glushakov-zayavil-chto-otkazalsya-ot-peresadki-volos-v-polzu-samogona-2442653/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Гол Кабрала в ворота сборной Аргентины признан лучшим на чемпиона...",
-      "text": "Болельщики признали гол защитника сборной Кабо-Верде Сидни Лопеша Кабрала в матче 1/16 финала чемпионата мира-2026 против сборной ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/gol-sidni-lopesha-kabrala-v-vorota-sbornoy-argentiny-priznan-luchshim-na-chempionate-mira-2026-2442645/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-27T21:46:45.475095Z"
+  "results_updated": "2026-07-27T22:44:21.497781Z"
 }
