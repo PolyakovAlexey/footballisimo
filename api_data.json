@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "27 июля 2026",
+      "t": "В FONBET сожалеют о вмешательстве политики в назначение Пирло тре...",
+      "text": "В пресс-службе FONBET ответили на запрос «СЭ» на новость о неназначении Андреа Пирло главным тренером национальной команды Италии ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/v-fonbet-sozhaleyut-o-vmeshatelstve-politiki-v-naznachenie-pirlo-trenerom-sbornoy-italii-2442588/"
+    },
+    {
+      "d": "27 июля 2026",
+      "t": "Макаров сравнил себя с Арьеном Роббеном",
+      "text": "Полузащитник «Крыльев Советов» Денис Макаров ответил на вопрос «СЭ» о сходстве с футболистом сборной Нидерландов Арьеном Роббеном.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/makarov-sravnil-sebya-s-arenom-robbenom-2442585/"
+    },
+    {
+      "d": "27 июля 2026",
+      "t": "Мбаппе обратился к болельщикам после ЧМ-2026: «Мы вернулись без т...",
+      "text": "Нападающий сборной Франции Килиан Мбаппе написал открытое письмо фанатам после завершения чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-sbornoy-francii-kilian-mbappe-obratilsya-k-bolelschikam-posle-chetvertogo-mesta-na-chm-2026-2442586/"
+    },
+    {
+      "d": "27 июля 2026",
       "t": "Тренер «Челси» Алонсо о трансфере Роджерса: «У меня есть план, ка...",
       "text": "Главный тренер «Челси» Хаби Алонсо поделился впечатлениями от трансфера полузащитника «Астон Виллы» и сборной Англии Моргана Родже...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "«Манчестер Сити» продолжает работать над трансфером полузащитника «Лилля» и сборной Марокко Айюба Буадди, сообщил журналист Фабриц...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/romano-manchester-siti-prodolzhaet-peregovory-s-lillem-po-transferu-buaddi-2442557/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Камоцци о неназначении Пирло тренером сборной Италии: «С этим пси...",
-      "text": "Франко Камоцци прокомментировал «СЭ» новость о неназначении Андреа Пирло главным тренером национальной команды Италии из-за сотруд...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/franko-kamocci-prokommentiroval-novost-o-nenaznachenii-andrea-pirlo-glavnym-trenerom-nacionalnoy-komandy-italii-2442550/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Главный арбитр финала ЧМ-2026 Винчич завершил карьеру в возрасте ...",
-      "text": "Словенский футбольный судья Славко Винчич, который работал на финале чемпионата мира-2026, завершил карьеру, сообщила пресс-служба...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-arbitr-finala-chm-2026-vinchich-zavershil-kareru-v-vozraste-46-let-2442542/"
-    },
-    {
-      "d": "27 июля 2026",
-      "t": "Валерий Баринов о ничьей «Локомотива» с «Ахматом»: «Могло быть ху...",
-      "text": "Народный артист РФ и болельщик «Локомотива» Валерий Баринов прокомментировал ничью с «Ахматом» (1:1) в матче 1-го тура чемпионата ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/bolelschik-lokomotiva-valeriy-barinov-prokommentiroval-nichyu-s-ahmatom-v-matche-rpl-26-iyulya-2026-2442526/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-27T09:22:11.783668Z"
+  "results_updated": "2026-07-27T11:15:27.885852Z"
 }
