@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 июля 2026",
+      "t": "Зидан: «Не нужно говорить, что у меня большие амбиции в сборной Ф...",
+      "text": "Трехкратный победитель Лиги чемпионов в качестве главного тренера «Реала» Зинедин Зидан прокомментировал свое назначение в сборную...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/trehkratnyy-pobeditel-ligi-chempionov-zinedin-zidan-prokommentiroval-svoe-naznachenie-v-sbornuyu-francii-2442796/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Зидан: «Буду делать, что умею, но сохраню преемственность, чтобы ...",
+      "text": "Новый главный тренер сборной Франции Зинедин Зидан прокомментировал свое назначение.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/novyy-glavnyy-trener-sbornoy-francii-zinedin-zidan-prokommentiroval-svoe-naznachenie-v-nacionalnuyu-komandu-2442790/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Зидан стал главным тренером сборной Франции",
+      "text": "Зинедин Зидан назначен на пост главного тренера сборной Франции.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/zidan-stal-glavnym-trenerom-sbornoy-francii-2442786/"
+    },
+    {
+      "d": "28 июля 2026",
       "t": "Феллер о сборной Германии после ЧМ-2026: «Критика в адрес Нагельс...",
       "text": "Спортивный директор сборной Германии Руди Феллер прокомментировал изменения в тренерском штабе национальной команды.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Ведущими кандидатами на пост главного тренера сборной Италии на данный момент являются Роберто Манчини и Антонио Конте, сообщает S...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/istochnik-na-post-trenera-sbornoy-italii-pretenduyut-manchini-i-konte-2442727/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Тебас — Инфантино: «Сильные институты не дискредитируют тех, кто ...",
-      "text": "Президент Ла лиги Хавьер Тебас прокомментировал пост главы Международной федерации футбола (ФИФА) Джанни Инфантино, в котором он о...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-la-ligi-tebas-prokommentiroval-post-glavy-fifa-infantino-2442716/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Источник: Роналду снимется в сериале про футбольного агента",
-      "text": "Нападающий сборной Португалии и «Аль-Насра» Криштиану Роналду работает с режиссером Kingsman Мэттью Воном над сериалом о футбольно...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/istochnik-napadayuschiy-sbornoy-portugalii-krishtianu-ronaldu-snimetsya-v-seriale-pro-futbolnogo-agenta-2442713/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "В Англии введут экспериментальное правило против симуляции травм ...",
-      "text": "В английском футболе в сезоне-2026/27 опробуют новую меру, призванную искоренить тактические паузы после оказания помощи голкипера...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/v-anglii-vvedut-eksperimentalnoe-pravilo-protiv-simulyacii-travm-vrataryami-2442699/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-28T08:09:57.173985Z"
+  "results_updated": "2026-07-28T10:30:31.773493Z"
 }
