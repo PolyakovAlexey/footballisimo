@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 июля 2026",
+      "t": "Кукурелья сделал тату с лицом главного тренера сборной Испании де...",
+      "text": "Защитник «Реала» и сборной Испании Марк Кукурелья сделал тату на левой руке с лицом главного тренера испанской национальной команд...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/kukurelya-sdelal-tatu-s-licom-glavnogo-trenera-sbornoy-ispanii-de-la-fuente-posle-pobedy-na-chm-2026-2442870/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Семин считает, что ФИФА признала лучшим гол Кабрала из Кабо-Верде...",
+      "text": "Заслуженный тренер России Юрий Семин отреагировал на то, что гол защитника сборной Кабо-Верде Сидни Кабрала был признан лучшим на ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-yuriy-semin-schitaet-chto-fifa-priznala-luchshim-gol-chm-2026-sidni-kabrala-iz-kabo-verde-v-kachestve-pooschreniya-2442861/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Мбаппе отреагировал на назначение Зидана в сборную Франции",
+      "text": "Капитан сборной Франции Килиан Мбаппе отреагировал на назначение Зинедина Зидана на пост главного тренера национальной команды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/napadayuschiy-kilian-mbappe-otreagiroval-na-naznachenie-zinedina-zidana-v-sbornuyu-francii-2442858/"
+    },
+    {
+      "d": "28 июля 2026",
       "t": "Адиев может вновь стать главным тренером сборной Казахстана",
       "text": "Российский тренер Магомед Адиев может вернуться в сборную Казахстана, сообщает ASnews.kz.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший тренер ЦСКА и сборной России Александр Тарханов покинул женскую команду «Енисея», чтобы занять пост главного тренера второй...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_d1/news/byvshiy-trener-cska-i-sbornoy-rossii-aleksandr-tarhanov-vozglavil-enisey-2-2442806/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Зидан: «Не нужно говорить, что у меня большие амбиции в сборной Ф...",
-      "text": "Трехкратный победитель Лиги чемпионов в качестве главного тренера «Реала» Зинедин Зидан прокомментировал свое назначение в сборную...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/trehkratnyy-pobeditel-ligi-chempionov-zinedin-zidan-prokommentiroval-svoe-naznachenie-v-sbornuyu-francii-2442796/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Зидан: «Буду делать, что умею, но сохраню преемственность, чтобы ...",
-      "text": "Новый главный тренер сборной Франции Зинедин Зидан прокомментировал свое назначение.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/novyy-glavnyy-trener-sbornoy-francii-zinedin-zidan-prokommentiroval-svoe-naznachenie-v-nacionalnuyu-komandu-2442790/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Зидан стал главным тренером сборной Франции",
-      "text": "Зинедин Зидан назначен на пост главного тренера сборной Франции.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/zidan-stal-glavnym-trenerom-sbornoy-francii-2442786/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-28T13:46:49.873570Z"
+  "results_updated": "2026-07-28T15:57:07.132878Z"
 }
