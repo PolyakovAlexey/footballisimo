@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 июля 2026",
+      "t": "Источник: «Ливерпуль» согласовал условия контракта с нападающим «...",
+      "text": "«Ливерпуль» согласовал условия личного контракта с вингером «ПСЖ» и сборной Франции Брэдли Барколя, сообщил журналист Николо Скира...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/istochnik-liverpul-soglasoval-usloviya-kontrakta-s-napadayuschim-pszh-barkolya-2442744/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Скалони обратился к болельщикам после ЧМ-2026: «Простите, что не ...",
+      "text": "Главный тренер сборной Аргентины Лионель Скалони обратился к болельщикам после чемпионата мира по футболу.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-argentiny-lionel-skaloni-obratilsya-k-bolelschikam-posle-chm-2026-2442740/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "В Англии будут временно удалять полевого игрока при оказании меди...",
+      "text": "Футбольная ассоциация Англии подтвердила, что в сезоне-2026/27 будет введено новое правило в случае оказания медицинской помощи вр...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/v-anglii-budut-vremenno-udalyat-polevogo-igroka-pri-okazanii-medicinskoy-pomoschi-vrataryu-2442735/"
+    },
+    {
+      "d": "28 июля 2026",
       "t": "Источник: на пост тренера сборной Италии претендуют Манчини и Кон...",
       "text": "Ведущими кандидатами на пост главного тренера сборной Италии на данный момент являются Роберто Манчини и Антонио Конте, сообщает S...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "«Ротор» на выезде победил «КАМАЗ» в матче 3-го тура Первой лиги сезона-2026/27 — 2:0.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_d1/news/kamaz-rotor-schet-i-rezultat-matcha-3-go-tura-fnl-27-iyulya-2026-goda-2442691/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Мальдини покинул пост спортивного директора сборной Италии спустя...",
-      "text": "Паоло Мальдини покинул пост спортивного директора сборной Италии спустя две недели после назначения на пост, сообщает инсайдер Джа...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/maldini-pokinul-post-sportivnogo-direktora-sbornoy-italii-spustya-dve-nedeli-posle-naznacheniya-2442684/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Быстров о «Локомотиве»: «Им нужно ставить более серьезные задачи....",
-      "text": "Бывший полузащитник сборной России Владимир Быстров в интервью «СЭ» ответил на вопрос о перспективах «Локомотива» в сезоне 2026/27...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/bystrov-schitaet-chto-lokomotiv-ploho-usililsya-pered-nachalom-sezona-2026-27-2442673/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Инфантино о спорных решениях арбитров на ЧМ-2026: «Это обычное де...",
-      "text": "Президент ФИФА Джанни Инфантино ответил на обвинения в спорном судействе на чемпионате мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-fifa-dzhanni-infantino-kommentariy-o-spornyh-sudeyskih-resheniyah-na-chm-2026-2442674/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-28T02:41:39.307786Z"
+  "results_updated": "2026-07-28T05:34:17.126345Z"
 }
