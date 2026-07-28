@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "28 июля 2026",
+      "t": "Хаби Алонсо после матча с «Вестерн Сидней Уондерерс»: «Были момен...",
+      "text": "Главный тренер «Челси» Хаби Алонсо после победы над в товарищеском матче над «Вестерн Сидней Уондерерс» (6:4) признал, что его ком...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/glavnyy-trener-chelsi-habi-alonso-rasskazal-o-problemah-komandy-v-hode-predsezonnoy-podgotovki-2442930/"
+    },
+    {
+      "d": "28 июля 2026",
       "t": "Блаттер — о плане Инфантино продать долю прав на ЧМ: «Никто не им...",
       "text": "Бывший президент ФИФА Йозеф Блаттер раскритиковал инициативу нынешней главы организации Джанни Инфантино по продаже доли прав на ч...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Заслуженный тренер России Юрий Семин отреагировал на то, что гол защитника сборной Кабо-Верде Сидни Кабрала был признан лучшим на ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/trener-yuriy-semin-schitaet-chto-fifa-priznala-luchshim-gol-chm-2026-sidni-kabrala-iz-kabo-verde-v-kachestve-pooschreniya-2442861/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Мбаппе отреагировал на назначение Зидана в сборную Франции",
-      "text": "Капитан сборной Франции Килиан Мбаппе отреагировал на назначение Зинедина Зидана на пост главного тренера национальной команды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/napadayuschiy-kilian-mbappe-otreagiroval-na-naznachenie-zinedina-zidana-v-sbornuyu-francii-2442858/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-28T21:29:41.366882Z"
+  "results_updated": "2026-07-28T22:36:07.635450Z"
 }
