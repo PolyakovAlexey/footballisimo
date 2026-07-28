@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 июля 2026",
+      "t": "Адиев может вновь стать главным тренером сборной Казахстана",
+      "text": "Российский тренер Магомед Адиев может вернуться в сборную Казахстана, сообщает ASnews.kz.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/kazakhstan/football/news/adiev-mozhet-vnov-stat-glavnym-trenerom-sbornoy-kazahstana-2442835/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Защитник Гвардиол продлил контракт с «Манчестер Сити» до 2031 год...",
+      "text": "Защитник «Манчестер Сити» и сборной Хорватии Йошко Гвардиол продлил контракт с клубом, сообщила пресс-служба горожан.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/zaschitnik-gvardiol-prodlil-kontrakt-s-manchester-siti-do-2031-goda-2442832/"
+    },
+    {
+      "d": "28 июля 2026",
+      "t": "Мостовой назвал отличным назначение Манчини в сборную Италии: «Эт...",
+      "text": "Александр Мостовой в разговоре с «СЭ» оценил возможное назначение Роберто Манчини на пост главного тренера сборной Италии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/aleksandr-mostovoy-ocenil-vozmozhnoe-naznachenie-roberto-manchini-na-post-glavnogo-trenera-sbornoy-italii-2442830/"
+    },
+    {
+      "d": "28 июля 2026",
       "t": "В УЕФА поддержали правила для ускорения игры, которые использовал...",
       "text": "Офицеры по судейству Союза европейских футбольных ассоциаций (УЕФА) и 55 национальных ассоциаций выступили в поддержку поправки пр...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Зинедин Зидан назначен на пост главного тренера сборной Франции.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/zidan-stal-glavnym-trenerom-sbornoy-francii-2442786/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Феллер о сборной Германии после ЧМ-2026: «Критика в адрес Нагельс...",
-      "text": "Спортивный директор сборной Германии Руди Феллер прокомментировал изменения в тренерском штабе национальной команды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/sportdir-sbornoy-germanii-rudi-feller-prokommentiroval-izmeneniya-v-trenerskom-shtabe-nacionalnoy-komandy-2442768/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Источник: «Ливерпуль» согласовал условия контракта с нападающим «...",
-      "text": "«Ливерпуль» согласовал условия личного контракта с вингером «ПСЖ» и сборной Франции Брэдли Барколя, сообщил журналист Николо Скира...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/istochnik-liverpul-soglasoval-usloviya-kontrakta-s-napadayuschim-pszh-barkolya-2442744/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Скалони обратился к болельщикам после ЧМ-2026: «Простите, что не ...",
-      "text": "Главный тренер сборной Аргентины Лионель Скалони обратился к болельщикам после чемпионата мира по футболу.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/glavnyy-trener-sbornoy-argentiny-lionel-skaloni-obratilsya-k-bolelschikam-posle-chm-2026-2442740/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-28T11:59:14.875317Z"
+  "results_updated": "2026-07-28T13:46:49.873570Z"
 }
