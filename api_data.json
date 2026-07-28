@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "28 июля 2026",
+      "t": "Источник: на пост тренера сборной Италии претендуют Манчини и Кон...",
+      "text": "Ведущими кандидатами на пост главного тренера сборной Италии на данный момент являются Роберто Манчини и Антонио Конте, сообщает S...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/istochnik-na-post-trenera-sbornoy-italii-pretenduyut-manchini-i-konte-2442727/"
+    },
+    {
+      "d": "28 июля 2026",
       "t": "Тебас — Инфантино: «Сильные институты не дискредитируют тех, кто ...",
       "text": "Президент Ла лиги Хавьер Тебас прокомментировал пост главы Международной федерации футбола (ФИФА) Джанни Инфантино, в котором он о...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Президент ФИФА Джанни Инфантино ответил на обвинения в спорном судействе на чемпионате мира-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/prezident-fifa-dzhanni-infantino-kommentariy-o-spornyh-sudeyskih-resheniyah-na-chm-2026-2442674/"
-    },
-    {
-      "d": "28 июля 2026",
-      "t": "Источник: Тиагу Мотта стал основным кандидатом на пост главного т...",
-      "text": "Тиагу Мотта рассматривается на пост главного тренера сборной Италии, сообщает La Gazzetta dello Sport.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/tiagu-motta-stal-osnovnym-kandidatom-na-post-glavnogo-trenera-sbornoy-italii-2442655/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-28T01:09:12.870598Z"
+  "results_updated": "2026-07-28T02:41:39.307786Z"
 }
