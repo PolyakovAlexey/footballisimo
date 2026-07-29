@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "29 июля 2026",
+      "t": "Федерация футбола Франции обновила эмблему сборной после назначен...",
+      "text": "Федерация футбола Франции (FFF) представила новую эмблему, которая станет единой для всех национальных сборных.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/federaciya-futbola-francii-obnovila-emblemu-sbornoy-posle-naznacheniya-zinedina-zidana-glavnym-trenerom-2443133/"
+    },
+    {
+      "d": "29 июля 2026",
+      "t": "Манчини: «Я здесь, чтобы вернуть Италию на вершину»",
+      "text": "Главный тренер сборной Италии Роберто Манчини прокомментировал назначение на должность.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/roberto-manchini-prokommentiroval-svoe-vozvraschenie-na-post-glavnogo-trenera-sbornoy-italii-2443130/"
+    },
+    {
+      "d": "29 июля 2026",
+      "t": "ФИФА открыла дело из-за политического баннера сборной Аргентины и...",
+      "text": "ФИФА открыла дисциплинарное производство против Ассоциации футбола Аргентины за демонстрацию игроками национальной команды баннера...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-otkryla-delo-iz-za-politicheskogo-bannera-sbornoy-argentiny-i-povedeniya-igrokov-posle-finala-chm-2026-po-futbolu-2443126/"
+    },
+    {
+      "d": "29 июля 2026",
       "t": "The Athletic: Почеттино близок к продлению контракта со сборной С...",
       "text": "Аргентинский специалист Маурисио Почеттино продолжит работу на посту главного тренера сборной США, сообщает The Athletic.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Почетный президент РФС Вячеслав Колосков в комментарии для «СЭ» отреагировал на новость о том, что глава ФИФА Джанни Инфантино хоч...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/vyacheslav-koloskov-ne-podderzhivaet-zhelanie-dzhanni-infantino-prodat-dolyu-prav-na-chempionat-mira-po-futbolu-2443082/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Кайрат — Омония, 29 июля 2026: где смотреть онлайн трансляцию мат...",
-      "text": "Матч пройдет на стадионе «Центральный» в Алма-Ате (Казахстан).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/kayrat-omoniya-29-iyulya-2026-gde-smotret-onlayn-translyaciyu-matcha-ligi-chempionov-2442998/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Ассоциация европейских клубов обеспокоена планами ФИФА",
-      "text": "Ассоциация европейских футбольных клубов (EFC) сделала заявление на фоне новостей о планах президента ФИФА Джанни Инфантино продат...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/associaciya-evropeyskih-klubov-obespokoena-planami-fifa-2443072/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Касерес и Чавес приступили к тренировкам с «Динамо» после возвращ...",
-      "text": "Вернувшиеся с чемпионата мира защитник Хуан Касерес и полузащитник Луис Чавес приступили к тренировкам с «Динамо», сообщает пресс-...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/zaschitnik-huan-kaseres-i-poluzaschitnik-luis-chaves-pristupili-k-trenirovkam-s-dinamo-posle-vozvrascheniya-s-chm-2026-2443045/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-29T17:11:51.914384Z"
+  "results_updated": "2026-07-29T18:14:50.249717Z"
 }
