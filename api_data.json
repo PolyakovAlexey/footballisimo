@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "29 июля 2026",
+      "t": "Касерес и Чавес приступили к тренировкам с «Динамо» после возвращ...",
+      "text": "Вернувшиеся с чемпионата мира защитник Хуан Касерес и полузащитник Луис Чавес приступили к тренировкам с «Динамо», сообщает пресс-...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/zaschitnik-huan-kaseres-i-poluzaschitnik-luis-chaves-pristupili-k-trenirovkam-s-dinamo-posle-vozvrascheniya-s-chm-2026-2443045/"
+    },
+    {
+      "d": "29 июля 2026",
       "t": "Кругового рассмешило высказывание Леау про девушек и конец ЧМ-202...",
       "text": "Защитник ЦСКА Данил Круговой поделился с «СЭ» мнением о девушках в футболе.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший защитник сборной России Федор Кудряшов в разговоре с «СЭ» высказался о своей профессиональной карьере.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/kudryashov-priznalsya-chto-emu-do-sih-por-pripominayut-avtogol-s-horvatiey-2442993/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "ФИФА отреагировала на заявление IFAB об удалении Эмболо в матче Ч...",
-      "text": "ФИФА выступила с заявлением после того, как Международный совет футбольных ассоциаций (IFAB) признал ошибочным удаление нападающег...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/fifa-otreagirovala-na-zayavlenie-ifab-ob-udalenii-embolo-v-matche-chm-2026-s-argentinoy-2442991/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-29T10:34:41.649248Z"
+  "results_updated": "2026-07-29T12:02:48.544095Z"
 }
