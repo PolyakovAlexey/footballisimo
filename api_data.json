@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "29 июля 2026",
+      "t": "Совет европейских лиг назвал безрассудным план Инфантино продать ...",
+      "text": "Совет европейских лиг выступил с заявлением после того, как в СМИ появилась информация о планах президента ФИФА Джанни Инфантино п...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/sovet-evropeyskih-lig-nazval-bezrassudnym-plan-glavy-fifa-dzhanni-infantino-prodat-dolyu-prav-na-chempionat-mira-2443149/"
+    },
+    {
+      "d": "29 июля 2026",
       "t": "Федерация футбола Франции обновила эмблему сборной после назначен...",
       "text": "Федерация футбола Франции (FFF) представила новую эмблему, которая станет единой для всех национальных сборных.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Российский саблист Павел Граудынь, ставший победителем чемпионата мира по фехтованию в Гонконге, и вся его семья болеют за сборную...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/fencing/news/rossiyskiy-sablist-pavel-graudyn-bolel-za-sbornuyu-argentiny-na-chm-2026-po-futbolu-2443094/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Колосков — о желании Инфантино продать долю прав на ЧМ: «Футболом...",
-      "text": "Почетный президент РФС Вячеслав Колосков в комментарии для «СЭ» отреагировал на новость о том, что глава ФИФА Джанни Инфантино хоч...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/vyacheslav-koloskov-ne-podderzhivaet-zhelanie-dzhanni-infantino-prodat-dolyu-prav-na-chempionat-mira-po-futbolu-2443082/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-29T18:14:50.249717Z"
+  "results_updated": "2026-07-29T19:46:48.512927Z"
 }
