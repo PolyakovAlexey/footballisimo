@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "29 июля 2026",
+      "t": "Колосков — о желании Инфантино продать долю прав на ЧМ: «Футболом...",
+      "text": "Почетный президент РФС Вячеслав Колосков в комментарии для «СЭ» отреагировал на новость о том, что глава ФИФА Джанни Инфантино хоч...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/vyacheslav-koloskov-ne-podderzhivaet-zhelanie-dzhanni-infantino-prodat-dolyu-prav-na-chempionat-mira-po-futbolu-2443082/"
+    },
+    {
+      "d": "29 июля 2026",
+      "t": "Кайрат — Омония, 29 июля 2026: где смотреть онлайн трансляцию мат...",
+      "text": "Матч пройдет на стадионе «Центральный» в Алма-Ате (Казахстан).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/kayrat-omoniya-29-iyulya-2026-gde-smotret-onlayn-translyaciyu-matcha-ligi-chempionov-2442998/"
+    },
+    {
+      "d": "29 июля 2026",
+      "t": "Ассоциация европейских клубов обеспокоена планами ФИФА",
+      "text": "Ассоциация европейских футбольных клубов (EFC) сделала заявление на фоне новостей о планах президента ФИФА Джанни Инфантино продат...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/associaciya-evropeyskih-klubov-obespokoena-planami-fifa-2443072/"
+    },
+    {
+      "d": "29 июля 2026",
       "t": "Касерес и Чавес приступили к тренировкам с «Динамо» после возвращ...",
       "text": "Вернувшиеся с чемпионата мира защитник Хуан Касерес и полузащитник Луис Чавес приступили к тренировкам с «Динамо», сообщает пресс-...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший защитник сборной России Федор Кудряшов в разговоре с «СЭ» поделился мнением о последней игре в карьере.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_cup/news/kudryashov-priznalsya-chto-perezhival-za-svoe-fizicheskoe-sostoyanie-pered-poslednim-matchem-v-karere-2443005/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Кудряшов назвал три самых ярких воспоминания из профессиональной ...",
-      "text": "Бывший защитник сборной России Федор Кудряшов в разговоре с «СЭ» рассказал о самых ярких воспоминаниях профессиональной карьеры.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kudryashov-nazval-tri-samyh-yarkih-vospominaniya-iz-professionalnoy-karery-2443001/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Кудряшов о планах после завершения карьеры: «Наслаждаюсь взрослен...",
-      "text": "Бывший защитник сборной России Федор Кудряшов в разговоре с «СЭ» рассказал о планах после завершения карьеры.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kudryashov-priznalsya-chto-hochet-otdohnut-ot-futbola-posle-zaversheniya-karery-2442995/"
-    },
-    {
-      "d": "29 июля 2026",
-      "t": "Кудряшов о своей карьере: «Прошло 5 лет, а мне до сих пор припоми...",
-      "text": "Бывший защитник сборной России Федор Кудряшов в разговоре с «СЭ» высказался о своей профессиональной карьере.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kudryashov-priznalsya-chto-emu-do-sih-por-pripominayut-avtogol-s-horvatiey-2442993/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-29T12:02:48.544095Z"
+  "results_updated": "2026-07-29T13:51:58.073480Z"
 }
