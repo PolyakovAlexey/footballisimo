@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "30 июля 2026",
+      "t": "КОНКАКАФ отвергла предложение Инфантино о продаже доли чемпионата...",
+      "text": "Члены Конфедерации футбола Северной и Центральной Америки и стран Карибского бассейна (КОНКАКАФ) отклонили предложение президента ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/konkakaf-otvergla-predlozhenie-glavy-fifa-dzhanni-infantino-o-prodazhe-doli-chempionata-mira-2443429/"
+    },
+    {
+      "d": "30 июля 2026",
       "t": "КОНКАКАФ проведет экстренное совещание из-за планов Инфантино про...",
       "text": "Члены Конфедерации футбола Северной и Центральной Америки и стран Карибского бассейна (КОНКАКАФ) проведут экстренное совещание из-...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший тренер «Спартака» Олег Романцев в разговоре с «СЭ» рассказал, что сборная России могла бы достойно выступить на чемпионате ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-trener-spartaka-oleg-romancev-schitaet-chto-sbornaya-rossii-mogla-by-dostoyno-vystupit-na-chm-2026-2443345/"
-    },
-    {
-      "d": "30 июля 2026",
-      "t": "Романцев: «Испания на ЧМ напомнила мне мой «Спартак»",
-      "text": "Бывший тренер «Спартака» Олег Романцев в разговоре с «СЭ» сравнил выступление сборной Испании на ЧМ-2026 с красно-белыми под его р...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/byvshiy-trener-spartaka-oleg-romancev-sravnil-vystuplenie-sbornoy-ispanii-na-chm-2026-s-igroy-krasno-belyh-2443338/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-30T18:52:32.113323Z"
+  "results_updated": "2026-07-30T20:10:45.600685Z"
 }
