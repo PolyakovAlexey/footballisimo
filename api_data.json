@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "31 июля 2026",
+      "t": "Анчелотти: «Три товарищеских матча станут началом нового цикла дл...",
+      "text": "Главный тренер сборной Бразилии Карло Анчелотти поделился ожиданиями от предстоящих товарищеских матчей команды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/glavnyy-trener-sbornoy-brazilii-anchelotti-podelilsya-ozhidaniyami-ot-predstoyaschih-tovarischeskih-matchey-komandy-2443466/"
+    },
+    {
+      "d": "31 июля 2026",
       "t": "Защитник «Ливерпуля» Гомес пропустит начало сезона-2026/27 из-за ...",
       "text": "Главный тренер «Ливерпуля» Андони Ираола подтвердил, что защитник Джо Гомес пропустит начало сезона-2026/27 из-за мышечной травмы,...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Почетный президент РФС Вячеслав Колосков в комментарии для «СЭ» отреагировал на новость о том, что все 55 членов УЕФА единогласно ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/koloskov-otreagiroval-na-zayavlenie-uefa-o-vozmozhnom-boykote-chm-2030-2443380/"
-    },
-    {
-      "d": "31 июля 2026",
-      "t": "«Боруссия» из Менхенгладбаха арендовала защитника «Славии» и сбор...",
-      "text": "Менхенгладбахская «Боруссия» объявила об аренде защитника «Славии» Дайки Хасиоки.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/borussiya-iz-menhengladbaha-arendovala-zaschitnika-slavii-i-sbornoy-yaponii-dayki-hasioku-2443379/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-31T01:13:22.741188Z"
+  "results_updated": "2026-07-31T03:14:00.041194Z"
 }
