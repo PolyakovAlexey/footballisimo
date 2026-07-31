@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "31 июля 2026",
+      "t": "Медиалига присоединилась к бойкоту чемпионата мира-2030 из-за Инф...",
+      "text": "Президент медиафутбольного клуба «Амкал» Герман Попков заявил «СЭ», что Медиалига будет бойкотировать чемпионат мира-2030.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/media-football-league/news/medialiga-prisoedinilas-k-boykotu-chempionata-mira-2030-iz-za-infantino-2443630/"
+    },
+    {
+      "d": "31 июля 2026",
+      "t": "Трамп утверждает, что не вел диалога с Инфантино о продаже доли п...",
+      "text": "Президент США Дональд Трамп заявил, что не общался с главой Международной федерации футбола (ФИФА) Джанни Инфантино по поводу прод...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/tramp-utverzhdaet-chto-ne-vel-dialoga-s-infantino-o-prodazhe-doli-prav-na-chempionat-mira-2443628/"
+    },
+    {
+      "d": "31 июля 2026",
+      "t": "Сантьяго Дения стал главным тренером сборной Чехии",
+      "text": "Новым главным тренером сборной Чехии по футболу назначен испанский специалист Сантьяго Дения Санчес, сообщает пресс-служба Футболь...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/santyago-deniya-stal-glavnym-trenerom-sbornoy-chehii-po-futbolu-2443622/"
+    },
+    {
+      "d": "31 июля 2026",
       "t": "Нападающий «Краснодара» Мозес перешел в «Левадиакос» на правах ар...",
       "text": "Вингер «Краснодара» Дэвид Кобнан Мозес проведет сезон-2026/27 в аренде в «Левадиакосе», сообщила пресс-служба греческого клуба.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Главный тренер «Краснодара» Мурад Мусаев рассказал, когда нападающий Джон Кордоба присоединится к команде после травмы, полученной...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/trener-krasnodara-musaev-rasskazal-kogda-napadayuschiy-kordoba-vernetsya-v-komandu-posle-travmy-2443566/"
-    },
-    {
-      "d": "31 июля 2026",
-      "t": "Источник: полузащитник «Ньюкасла» Гимарайнс перейдет в «Арсенал» ...",
-      "text": "«Арсенал» договорился о трансфере полузащитника «Ньюкасла» и сборной Бразилии Бруну Гимарайнса, сообщает L'Equipe.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/istochnik-poluzaschitnik-nyukasla-gimarayns-pereydet-v-arsenal-za-90-millionov-evro-2443557/"
-    },
-    {
-      "d": "31 июля 2026",
-      "t": "Тюкавин назвал классным чемпионат мира-2026",
-      "text": "Нападающий московского «Динамо» Константин Тюкавин поделился эмоциями от чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/tyukavin-nazval-klassnym-chempionat-mira-2026-2443554/"
-    },
-    {
-      "d": "31 июля 2026",
-      "t": "Мальдини обратился к Барези: «Ты был величайшим футболистом, с ко...",
-      "text": "Бывший защитник «Милана» и сборной Италии Пауло Мальдини опубликовал открытое письмо к ушедшему из жизни в возрасте 66 лет чемпион...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/byvshiy-zaschitnik-milana-paulo-maldini-vyrazil-soboleznovaniya-po-povodu-smerti-franko-barezi-2443553/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-31T15:52:04.457037Z"
+  "results_updated": "2026-07-31T17:25:59.551233Z"
 }
