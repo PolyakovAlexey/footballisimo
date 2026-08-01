@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "1 августа 2026",
+      "t": "Голы Арройо и Даку принесли «Рубину» победу над «Акроном»",
+      "text": "«Рубин» обыграл «Акрон» в гостевом матче 2-го тура чемпионата России-2026/27 — 2:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/akron-rubin-schet-i-rezultat-matcha-2-tura-rpl-1-avgusta-2026-2443823/"
+    },
+    {
+      "d": "1 августа 2026",
+      "t": "Мостовой назвал ожидаемым решение Инфантино отказаться от продажи...",
+      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой в разговоре с «СЭ» отреагировал на решение президента ФИФА Джанни Инф...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/aleksandr-mostovoy-nazval-ozhidaemym-reshenie-glavy-fifa-dzhanni-infantino-otkazatsya-ot-prodazhi-prav-na-chm-2443820/"
+    },
+    {
+      "d": "1 августа 2026",
+      "t": "«Акрон» — «Рубин»: казанцы ведут в счете после первого тайма",
+      "text": "«Рубин» обыгрывает «Акрон» по итогам первого тайма матча 2-го тура чемпионата России-2026/27 — 2:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/akron-rubin-kazancy-vedut-v-schete-posle-pervogo-tayma-2443812/"
+    },
+    {
+      "d": "1 августа 2026",
       "t": "УЕФА предложит новую схему распределения средств ФИФА: «Нам не ну...",
       "text": "УЕФА сделал заявление, в котором поприветствовал решение ФИФА отозвать план по продаже доли в коммерческих правах на турниры, вклю...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Президент Азиатской конфедерации футбола (АФК) шейх Салман бин Ибрагим Аль-Халифа положительно воспринял решение ФИФА отказаться о...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/prezident-afk-sheyh-salman-bin-ibragim-al-halifa-poprivetstvoval-otkaz-fifa-ot-prodazhi-doli-prav-na-chm-2443735/"
-    },
-    {
-      "d": "1 августа 2026",
-      "t": "Боярский: «Месси — король футбола, а Роналду справедливо критиков...",
-      "text": "Народный артист России Михаил Боярский в комментарии «СЭ» поделился впечатлениями от чемпионата мира-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/narodnyy-artist-rossii-mihail-boyarskiy-kommentariy-o-chempionate-mira-2026-2443729/"
-    },
-    {
-      "d": "1 августа 2026",
-      "t": "Брос покинул пост главного тренера сборной ЮАР",
-      "text": "Бельгийский специалист Уго Брос не стал продлевать контракт в качестве главного тренера сборной ЮАР, сообщила футбольная ассоциаци...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/bros-pokinul-post-glavnogo-trenera-sbornoy-yuar-2443713/"
-    },
-    {
-      "d": "1 августа 2026",
-      "t": "Инфантино: «Предложение о создании компании FFE не получит дальне...",
-      "text": "Президент Международной федерации футбола Джанни Инфантино выпустил заявление по поводу намерения создать компанию FIFA Forward En...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/prezident-fifa-infantino-vypustil-zayavlenie-po-povodu-namereniya-sozdat-kompaniyu-ffe-2443699/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-01T11:18:06.529181Z"
+  "results_updated": "2026-08-01T13:02:33.713176Z"
 }
