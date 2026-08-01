@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
+      "t": "Инфантино: «Предложение о создании компании FFE не получит дальне...",
+      "text": "Президент Международной федерации футбола Джанни Инфантино выпустил заявление по поводу намерения создать компанию FIFA Forward En...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/prezident-fifa-infantino-vypustil-zayavlenie-po-povodu-namereniya-sozdat-kompaniyu-ffe-2443699/"
+    },
+    {
+      "d": "1 августа 2026",
       "t": "Глава ФИФА Инфантино назвал ЧМ-2030 в Марокко «лучшим в истории»",
       "text": "Президент Международной федерации футбола (ФИФА) Джанни Инфантино считает, что чемпионат мира по футболу 2030 года в Марокко стане...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/glava-fifa-infantino-nazval-chm-2030-v-marokko-luchshim-v-istorii-2443652/"
     },
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
       "t": "Трамп утверждает, что не вел диалога с Инфантино о продаже доли п...",
       "text": "Президент США Дональд Трамп заявил, что не общался с главой Международной федерации футбола (ФИФА) Джанни Инфантино по поводу прод...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/tramp-utverzhdaet-chto-ne-vel-dialoga-s-infantino-o-prodazhe-doli-prav-na-chempionat-mira-2443628/"
     },
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
       "t": "Сантьяго Дения стал главным тренером сборной Чехии",
       "text": "Новым главным тренером сборной Чехии по футболу назначен испанский специалист Сантьяго Дения Санчес, сообщает пресс-служба Футболь...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/santyago-deniya-stal-glavnym-trenerom-sbornoy-chehii-po-futbolu-2443622/"
     },
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
       "t": "Нападающий «Краснодара» Мозес перешел в «Левадиакос» на правах ар...",
       "text": "Вингер «Краснодара» Дэвид Кобнан Мозес проведет сезон-2026/27 в аренде в «Левадиакосе», сообщила пресс-служба греческого клуба.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-krasnodara-mozes-pereshel-v-levadiakos-na-pravah-arendy-2443583/"
     },
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
       "t": "Защитник «Бенфики» и сборной Португалии Антониу Силва переходит в...",
       "text": "«Борнмут» договорился о переходе защитника «Бенфики» Антониу Силвы, сообщает инсайдер Фабрицио Романо.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/transfers/news/zaschitnik-benfiki-i-sbornoy-portugalii-antoniu-silva-perehodit-v-bornmut-za-25-millionov-evro-2443582/"
     },
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
       "t": "Источник: ФИФА рассмотрит вариант расширения чемпионата мира до 6...",
       "text": "Международная федерация футбола (ФИФА) соберет независимую комиссию, которая изучит возможность расширения чемпионата мира до 64 н...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/istochnik-fifa-rassmotrit-variant-rasshireniya-chempionata-mira-do-64-komand-v-avguste-2443573/"
     },
     {
-      "d": "31 июля 2026",
+      "d": "1 августа 2026",
       "t": "Палмер: «Алонсо написал мне, когда я не попал в заявку сборной на...",
       "text": "Полузащитник «Челси» Коул Палмер рассказал о работе с главным тренером команды Хаби Алонсо.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/palmer-rasskazal-o-rabote-s-habi-alonso-v-chelsi-2443567/"
-    },
-    {
-      "d": "31 июля 2026",
-      "t": "Тренер «Краснодара» Мусаев рассказал, когда нападающий Кордоба ве...",
-      "text": "Главный тренер «Краснодара» Мурад Мусаев рассказал, когда нападающий Джон Кордоба присоединится к команде после травмы, полученной...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/trener-krasnodara-musaev-rasskazal-kogda-napadayuschiy-kordoba-vernetsya-v-komandu-posle-travmy-2443566/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-07-31T23:37:38.665736Z"
+  "results_updated": "2026-08-01T01:11:09.419074Z"
 }
