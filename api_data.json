@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "1 августа 2026",
+      "t": "Боярский считает, что сборная России не смогла бы удачно выступит...",
+      "text": "Народный артист России Михаил Боярский в комментарии «СЭ» предположил, как сборная России могла бы выступить на чемпионате мира-20...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/narodnyy-artist-rossii-mihail-boyarskiy-schitaet-chto-sbornaya-rossii-ne-smogla-by-udachno-vystupit-na-chm-2026-2443730/"
+    },
+    {
+      "d": "1 августа 2026",
+      "t": "Президент АФК Аль-Халифа поддержал отказ ФИФА от планов продажи д...",
+      "text": "Президент Азиатской конфедерации футбола (АФК) шейх Салман бин Ибрагим Аль-Халифа положительно воспринял решение ФИФА отказаться о...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/prezident-afk-sheyh-salman-bin-ibragim-al-halifa-poprivetstvoval-otkaz-fifa-ot-prodazhi-doli-prav-na-chm-2443735/"
+    },
+    {
+      "d": "1 августа 2026",
+      "t": "Боярский: «Месси — король футбола, а Роналду справедливо критиков...",
+      "text": "Народный артист России Михаил Боярский в комментарии «СЭ» поделился впечатлениями от чемпионата мира-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/narodnyy-artist-rossii-mihail-boyarskiy-kommentariy-o-chempionate-mira-2026-2443729/"
+    },
+    {
+      "d": "1 августа 2026",
       "t": "Брос покинул пост главного тренера сборной ЮАР",
       "text": "Бельгийский специалист Уго Брос не стал продлевать контракт в качестве главного тренера сборной ЮАР, сообщила футбольная ассоциаци...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Новым главным тренером сборной Чехии по футболу назначен испанский специалист Сантьяго Дения Санчес, сообщает пресс-служба Футболь...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/santyago-deniya-stal-glavnym-trenerom-sbornoy-chehii-po-futbolu-2443622/"
-    },
-    {
-      "d": "1 августа 2026",
-      "t": "Нападающий «Краснодара» Мозес перешел в «Левадиакос» на правах ар...",
-      "text": "Вингер «Краснодара» Дэвид Кобнан Мозес проведет сезон-2026/27 в аренде в «Левадиакосе», сообщила пресс-служба греческого клуба.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-krasnodara-mozes-pereshel-v-levadiakos-na-pravah-arendy-2443583/"
-    },
-    {
-      "d": "1 августа 2026",
-      "t": "Защитник «Бенфики» и сборной Португалии Антониу Силва переходит в...",
-      "text": "«Борнмут» договорился о переходе защитника «Бенфики» Антониу Силвы, сообщает инсайдер Фабрицио Романо.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/zaschitnik-benfiki-i-sbornoy-portugalii-antoniu-silva-perehodit-v-bornmut-za-25-millionov-evro-2443582/"
-    },
-    {
-      "d": "1 августа 2026",
-      "t": "Источник: ФИФА рассмотрит вариант расширения чемпионата мира до 6...",
-      "text": "Международная федерация футбола (ФИФА) соберет независимую комиссию, которая изучит возможность расширения чемпионата мира до 64 н...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/istochnik-fifa-rassmotrit-variant-rasshireniya-chempionata-mira-do-64-komand-v-avguste-2443573/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-01T06:10:06.959294Z"
+  "results_updated": "2026-08-01T07:57:53.170876Z"
 }
