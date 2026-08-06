@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "6 августа 2026",
+      "t": "Ла Лига сезона-2026/2027: даты проведения чемпионата Испании",
+      "text": "В чемпионате Испании примут участие 20 команд.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/la-liga-sezona-2026-2027-daty-provedeniya-chempionata-ispanii-kogda-nachalo-2444981/"
+    },
+    {
+      "d": "6 августа 2026",
+      "t": "Корейская футбольная ассоциация организовывала сексуальные услуги...",
+      "text": "В 2011 году Корейская футбольная ассоциация неоднократно предоставляла иностранным арбитрам услуги сексуального характера перед ма...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/koreyskaya-futbolnaya-associaciya-organizovyvala-seksualnye-uslugi-inostrannym-sudyam-2444988/"
+    },
+    {
+      "d": "6 августа 2026",
+      "t": "Серия А сезона-2026/2027: даты проведения чемпионата Италии",
+      "text": "В чемпионате Италии примут участие 20 команд.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/seriya-a-sezona-2026-2027-daty-provedeniya-chempionata-italii-kogda-nachalo-2444980/"
+    },
+    {
+      "d": "6 августа 2026",
       "t": "Каннаваро: «Возможно, в сборной Узбекистана на ЧМ была «крыса» — ...",
       "text": "Главный тренер сборной Узбекистана Фабио Каннаваро пожаловался на большое количество недостоверной информации вокруг команды на ЧМ...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Полузащитник сборной Дании Кристиан Нергор перешел из «Арсенала» в «Эвертон».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/nergor-pereshel-iz-arsenala-v-everton-2444912/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Вратарь «Олимпиакоса» и сборной Греции Цолакис перешел в «Халл Си...",
-      "text": "«Халл Сити» объявил о переходе вратаря Константиноса Цолакиса.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/vratar-olimpiakosa-i-sbornoy-grecii-konstantinos-colakis-pereshel-v-hall-siti-2444906/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Премьер-министр Канады Карни заявил об утрате доверия к Инфантино",
-      "text": "Премьер-министр Канады Марк Карни отреагировал на попытку президента ФИФА Джанни Инфантино продать часть прав на чемпионат мира ча...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/premer-ministr-kanady-mark-karni-zayavil-ob-utrate-doveriya-k-glave-fifa-dzhanni-infantino-2444896/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Вратарю сборной Кабо-Верде разрешили играть в чемпионате Чили под...",
-      "text": "Чилийский «Коло-Коло» получил специальное разрешение от футбольных властей страны, чтобы вратарь сборной Кабо-Верде Жозимар Жозе Э...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/vrataryu-sbornoy-kabo-verde-razreshili-igrat-v-chempionate-chili-pod-prozvischem-vozinya-2444829/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-06T08:10:58.453369Z"
+  "results_updated": "2026-08-06T10:34:31.622606Z"
 }
