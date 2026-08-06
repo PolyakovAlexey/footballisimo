@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "6 августа 2026",
+      "t": "Лига 1 сезона-2026/2027: даты проведения чемпионата Франции",
+      "text": "В чемпионате Франции сезона-2026/2027 примут участие 18 команд.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/liga-1-sezona-2026-2027-daty-provedeniya-chempionata-francii-kogda-nachalo-2445005/"
+    },
+    {
+      "d": "6 августа 2026",
+      "t": "Бундеслига сезона-2026/2027: даты проведения чемпионата Германии",
+      "text": "В чемпионате Германии сезона-2026/2027 примут участие 18 команд.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/bundesliga-sezona-2026-2027-daty-provedeniya-chempionata-germanii-kogda-nachalo-2444997/"
+    },
+    {
+      "d": "6 августа 2026",
+      "t": "Новичок «Спартака» Даку: «Хочу выиграть чемпионат и Кубок России»",
+      "text": "Нападающий Мирлинд Даку поделился ожиданиями от сезона-2026/27 после перехода в «Спартак» из «Рубина».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-mirlind-daku-podelilsya-ozhidaniyami-ot-sezona-2026-27-posle-perehoda-v-spartak-iz-rubina-2445006/"
+    },
+    {
+      "d": "6 августа 2026",
       "t": "Ла Лига сезона-2026/2027: даты проведения чемпионата Испании",
       "text": "В чемпионате Испании примут участие 20 команд.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший главный тренер сборной Франции Дидье Дешам провел переговоры с «Аль-Ахли».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/desham-provel-peregovory-s-al-ahli-2444931/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Капитан сборной ДР Конго Мбемба продолжит карьеру в Саудовской Ар...",
-      "text": "Защитник сборной ДР Конго Шансель Мбемба, который покинул «Лилль» свободным агентом, продолжит карьеру в Саудовской Аравии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/kapitan-sbornoy-dr-kongo-mbemba-prodolzhit-kareru-v-saudovskoy-aravii-2444923/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Какута: «99,9 процента футболистов несчастны»",
-      "text": "Бывший полузащитник сборной ДР Конго Гаэль Какута считает, что почти все профессиональные футболисты скрывают свои настоящие чувст...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/gael-kakuta-rasskazal-chto-professionalnye-futbolisty-skryvayut-svoi-chuvstva-2444920/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Нергор перешел из «Арсенала» в «Эвертон»",
-      "text": "Полузащитник сборной Дании Кристиан Нергор перешел из «Арсенала» в «Эвертон».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/nergor-pereshel-iz-arsenala-v-everton-2444912/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-06T10:34:31.622606Z"
+  "results_updated": "2026-08-06T12:03:58.943747Z"
 }
