@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "6 августа 2026",
+      "t": "УЕФА продолжит бойкот чемпионата мира, несмотря на извинения Инфа...",
+      "text": "Союз европейских футбольных ассоциаций (УЕФА) не прекратит бойкот турниров ФИФА, несмотря на то, что глава Международной федерации...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/uefa-prodolzhit-boykot-chempionata-mira-nesmotrya-na-izvineniya-prezidenta-fifa-dzhanni-infantino-2445072/"
+    },
+    {
+      "d": "6 августа 2026",
+      "t": "Источник: Родри отказал «Реалу» и согласовал условия контракта с ...",
+      "text": "Полузащитник «Манчестер Сити» и сборной Испании Родри близок к переходу в «Барселону», сообщил журналист Фабрицио Романо.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/poluzaschitnik-manchester-siti-rodri-soglasilsya-na-peregovory-o-perehode-v-barselonu-2445055/"
+    },
+    {
+      "d": "6 августа 2026",
       "t": "УЕФА проведет независимую экспертизу по вопросу о продаже доли пр...",
       "text": "УЕФА намерен провести независимую экспертизу по инициативе главы ФИФА Джанни Инфантино о продаже части прав на чемпионат мира част...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Нападающий Мирлинд Даку поделился ожиданиями от сезона-2026/27 после перехода в «Спартак» из «Рубина».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-mirlind-daku-podelilsya-ozhidaniyami-ot-sezona-2026-27-posle-perehoda-v-spartak-iz-rubina-2445006/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Ла Лига сезона-2026/2027: даты проведения чемпионата Испании",
-      "text": "В чемпионате Испании примут участие 20 команд.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/la-liga-sezona-2026-2027-daty-provedeniya-chempionata-ispanii-kogda-nachalo-2444981/"
-    },
-    {
-      "d": "6 августа 2026",
-      "t": "Корейская футбольная ассоциация организовывала сексуальные услуги...",
-      "text": "В 2011 году Корейская футбольная ассоциация неоднократно предоставляла иностранным арбитрам услуги сексуального характера перед ма...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/koreyskaya-futbolnaya-associaciya-organizovyvala-seksualnye-uslugi-inostrannym-sudyam-2444988/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-06T13:46:58.566128Z"
+  "results_updated": "2026-08-06T16:01:13.655353Z"
 }
