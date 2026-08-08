@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "8 августа 2026",
+      "t": "Гендиректор ЦСКА Бабаев: «Мы будем бороться за чемпионство. Но ме...",
+      "text": "Гендиректор ЦСКА Роман Бабаев назвал борьбу за чемпионство целью команды на сезон 2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/gendirektor-cska-babaev-nazval-borbu-za-chempionstvo-celyu-komandy-na-sezon-2026-27-2445632/"
+    },
+    {
+      "d": "8 августа 2026",
       "t": "Галактионов оценил старт «Локомотива»: «Нецензурное слово нельзя ...",
       "text": "Главный тренер «Локомотива» Михаил Галактионов ответил на вопрос об игре команды на старте сезона-2026/27.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Корейская футбольная ассоциация (КФА) принесла публичные извинения на фоне расследования нарушений и провального выступления нацио...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/koreyskaya-futbolnaya-associaciya-izvinilas-za-seriyu-skandalov-s-uchastiem-inostrannyh-sudey-2445466/"
-    },
-    {
-      "d": "8 августа 2026",
-      "t": "Чичарито о Кейне: «У него есть все, словно смешали Гаскойна и Рун...",
-      "text": "Мексиканский нападающий Хавьер Эрнандес (Чичарито) поделился впечатлениями от игры форварда «Баварии» и сборной Англии Харри Кейна...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/meksikanskiy-napadayuschiy-chicharito-podelilsya-vpechatleniyami-ot-igry-forvarda-bavarii-i-sbornoy-anglii-harri-keyna-2445421/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-08T21:14:25.973705Z"
+  "results_updated": "2026-08-08T21:47:51.352379Z"
 }
