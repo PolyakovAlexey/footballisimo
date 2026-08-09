@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "9 августа 2026",
+      "t": "Мальдини: «Гвардиола был очень близок к назначению в сборную Итал...",
+      "text": "Бывший технический директор Итальянской федерации футбола Паоло Мальдини рассказал, что испанский специалист Хосеп Гвардиола мог с...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/byvshiy-tehnicheskiy-direktor-italyanskoy-federacii-futbola-paolo-maldini-podelilsya-podrobnostyami-peregovorov-s-hosepom-gvardioloy-2445816/"
+    },
+    {
+      "d": "9 августа 2026",
       "t": "Источник: «Тоттенхэм» отказался отпускать Ромеро в «Арсенал»",
       "text": "«Тоттенхэм» не продаст защитника сборной Аргентины Кристиана Ромеро в «Арсенал», сообщает The Sun.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Полузащитник «Интер Майами» и сборной Аргентины Родриго де Пауль забил гол в ворота «Монтеррея» в матче групповой стадии Кубка лиг...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/poluzaschitnik-rodrigo-de-paul-posvyatil-gol-za-inter-mayami-seme-napadayuschego-lionelya-messi-2445670/"
-    },
-    {
-      "d": "9 августа 2026",
-      "t": "Источник: Неймар может перейти в «Интер Майами» в январе 2027 год...",
-      "text": "«Интер Майами» заинтересован в подписании нападающего «Сантоса» Неймара, сообщает LIBERTA DEPRE со ссылкой на экс-полузащитника сб...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/istochnik-neymar-mozhet-pereyti-v-inter-mayami-v-yanvare-2027-goda-2445668/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-09T14:22:37.277690Z"
+  "results_updated": "2026-08-09T16:30:14.408254Z"
 }
