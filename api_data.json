@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "9 августа 2026",
+      "t": "Мальдини — о кандидатуре Пирло в сборную Италии: «Мы хотели атаку...",
+      "text": "Бывший технический директор Итальянской федерации футбола (FIGC) Паоло Мальдини объяснил, почему хотел видеть Андреа Пирло на пост...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/byvshiy-tehnicheskiy-direktor-figc-paolo-maldini-obyasnil-zhelanie-videt-andrea-pirlo-glavnym-trenerom-sbornoy-italii-2445736/"
+    },
+    {
+      "d": "9 августа 2026",
       "t": "Надаль выразил соболезнования Месси в связи со смертью отца",
       "text": "22-кратный чемпион турниров «Большого шлема» испанец Рафаэль Надаль принес соболезнования нападающему сборной Аргентины и «Интер М...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Гендиректор ЦСКА Роман Бабаев назвал борьбу за чемпионство целью команды на сезон 2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/gendirektor-cska-babaev-nazval-borbu-za-chempionstvo-celyu-komandy-na-sezon-2026-27-2445632/"
-    },
-    {
-      "d": "9 августа 2026",
-      "t": "Галактионов оценил старт «Локомотива»: «Нецензурное слово нельзя ...",
-      "text": "Главный тренер «Локомотива» Михаил Галактионов ответил на вопрос об игре команды на старте сезона-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/galaktionov-ocenil-start-lokomotiva-v-sezone-2026-27-posle-chetyreh-matchey-bez-pobed-2445604/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-09T08:36:20.882826Z"
+  "results_updated": "2026-08-09T10:36:58.049875Z"
 }
