@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "10 августа 2026",
+      "t": "Слуцкий стал главным тренером сборной медиафутбола России",
+      "text": "Бывший главный тренер «Шанхай Шэньхуа» Леонид Слуцкий возглавил сборную медиафутбола России, сообщается в Telegram-канале Медиалиг...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/media-football-league/news/sluckiy-stal-glavnym-trenerom-sbornoy-mediafutbola-rossii-2446123/"
+    },
+    {
+      "d": "10 августа 2026",
       "t": "Варди может перейти в «Вест Хэм»",
       "text": "«Вест Хэм» заинтересован в подписании бывшего нападающего «Лестер Сити» и сборной Англии Джейми Варди, сообщает Sky Sports.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Туристические туры на лодках стали водить возле яхты нападающего «Манчестер Сити» и сборной Норвегии Эрлина Холанна.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/vozle-yahty-forvarda-manchester-siti-erlina-holanna-nachali-vodit-turisticheskie-tury-2445940/"
-    },
-    {
-      "d": "10 августа 2026",
-      "t": "Президент Итальянской федерации футбола Малаго — о ситуации с Пир...",
-      "text": "Президент Итальянской федерации футбола (FIGC) Джованни Малаго считает, что принял правильное решение, остановив назначение Андреа...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/prezident-italyanskoy-federacii-futbola-malago-prokommentiroval-otkaz-ot-raboty-s-trenerom-pirlo-2445933/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-10T18:32:42.952139Z"
+  "results_updated": "2026-08-10T19:35:51.528766Z"
 }
