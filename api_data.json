@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "10 августа 2026",
+      "t": "Полузащитник «Лилля» Буадди согласовал контракт с «Манчестер Сити...",
+      "text": "Полузащитник «Лилля» и сборной Марокко Айюб Буадди согласовал условия личного контракта с «Манчестер Сити», сообщил журналист Фабр...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/poluzaschitnik-lillya-buaddi-soglasoval-kontrakt-s-manchester-siti-2445963/"
+    },
+    {
+      "d": "10 августа 2026",
       "t": "Возле яхты Холанна начали водить туристические туры: «Не видел ни...",
       "text": "Туристические туры на лодках стали водить возле яхты нападающего «Манчестер Сити» и сборной Норвегии Эрлина Холанна.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший полузащитник сборной Марокко Хишам Харджа, ныне занимающий пост регионального директора ФИФА по Ближнему Востоку и Северной...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/byvshiy-futbolist-sbornoy-marokko-hisham-hardzha-podderzhal-glavu-fifa-dzhanni-infantino-na-fone-kritiki-2445769/"
-    },
-    {
-      "d": "10 августа 2026",
-      "t": "Мальдини — о кандидатуре Пирло в сборную Италии: «Мы хотели атаку...",
-      "text": "Бывший технический директор Итальянской федерации футбола (FIGC) Паоло Мальдини объяснил, почему хотел видеть Андреа Пирло на пост...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/byvshiy-tehnicheskiy-direktor-figc-paolo-maldini-obyasnil-zhelanie-videt-andrea-pirlo-glavnym-trenerom-sbornoy-italii-2445736/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-10T07:03:55.361506Z"
+  "results_updated": "2026-08-10T09:14:35.108569Z"
 }
