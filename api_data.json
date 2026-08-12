@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "12 августа 2026",
+      "t": "Доку поддержал журналистку, которая критиковала футболиста во вре...",
+      "text": "Нападающий сборной Бельгии и «Манчестер Сити» Жереми Доку ответил французской журналистке Франс Пьеррон, которая раскритиковала фу...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/doku-podderzhal-zhurnalistku-kotoraya-kritikovala-futbolista-vo-vremya-chm-2026-2446413/"
+    },
+    {
+      "d": "12 августа 2026",
+      "t": "Энрике отказался комментировать уход Барколя из «ПСЖ»",
+      "text": "Главный тренер «ПСЖ» Луис Энрике прокомментировал информацию о том, что нападающий сборной Франции Брэдли Барколя согласовал услов...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/enrike-otkazalsya-kommentirovat-uhod-barkolya-iz-pszh-2446409/"
+    },
+    {
+      "d": "12 августа 2026",
       "t": "Витинья считает, что игрок «ПСЖ» должен выиграть «Золотой мяч»",
       "text": "полузащитник «ПСЖ» Витинья считает, что «Золотой мяч» в 2026 году должен выиграть футболист парижского клуба.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Президент медиалиги Николай Осипов поделился с «СЭ» мнением о возможном выступлении голкипера сборной Кабо-Верде Возиньи в российс...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/media-football-league/news/v-medialige-zhdut-vozinyu-posle-zaversheniya-professionalnoy-karery-2446299/"
-    },
-    {
-      "d": "12 августа 2026",
-      "t": "Президент медиалиги Осипов о Заболотном: «Его решение играть у на...",
-      "text": "Президент медиалиги Николай Осипов поделился с «СЭ» мнением о переходе бывшего нападающего сборной России Антона Заболотного в «СК...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/media-football-league/news/prezident-medialigi-nikolay-osipov-podelilsya-mneniem-o-perehode-byvshego-napadayuschego-sbornoy-rossii-antona-zabolotnogo-v-ska-rostov-2446300/"
-    },
-    {
-      "d": "12 августа 2026",
-      "t": "Азамат Мусагалиев: «В этом году «Спартак» станет чемпионом»",
-      "text": "Известный шоумен и болельщик «Спартака» Азамат Мусагалиев заявил «СЭ», что ожидает чемпионства красно-белых в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/shoumen-musagaliev-schitaet-chto-spartak-stanet-chempionom-v-sezone-2026-27-2446286/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-12T02:06:03.258547Z"
+  "results_updated": "2026-08-12T04:16:08.056752Z"
 }
