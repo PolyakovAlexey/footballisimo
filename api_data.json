@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "13 августа 2026",
+      "t": "Кэррик — о Рашфорде: «Он игрок «Манчестер Юнайтед»",
+      "text": "Главный тренер «Манчестер Юнайтед» Майкл Кэррик дал понять, что будет использовать нападающего Маркуса Рашфорда в сезоне-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/glavnyy-trener-manchester-yunayted-kerrik-dal-ponyat-chto-budet-ispolzovat-napadayuschego-rashforda-v-sezone-2026-27-2446788/"
+    },
+    {
+      "d": "13 августа 2026",
+      "t": "Семин считает, что Кварацхелия должен получить «Золотой мяч» 2026",
+      "text": "Бывший тренер «Локомотива» Юрий Семин в разговоре с «СЭ» оценил шансы грузинского нападающего «ПСЖ» Хвичи Кварацхелии выиграть «Зо...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/eks-trener-lokomotiva-semin-schitaet-chto-napadayuschiy-pszh-kvaracheliya-dolzhen-poluchit-zolotoy-myach-2026-2446764/"
+    },
+    {
+      "d": "13 августа 2026",
       "t": "Бартез вошел в тренерский штаб Зидана в сборной Франции",
       "text": "Федерация футбола Франции объявила полный состав штаба Зинедина Зидана в сборной Франции.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Российский вратарь «ПСЖ» Матвей Сафонов в интервью «СЭ» рассказал о том, как воспринял победу в Суперкубке УЕФА-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/uefa-supercup/news/rossiyskiy-vratar-pszh-safonov-rasskazal-o-svoey-reakcii-na-pobedu-v-superkubke-uefa-2026-2446701/"
-    },
-    {
-      "d": "13 августа 2026",
-      "t": "Лукаку: «Для меня честь и привилегия присоединиться к «Фенербахче...",
-      "text": "Нападающий сборной Бельгии Ромелу Лукаку прокомментировал свой переход из «Наполи» в «Фенербахче».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/turkey/news/romelu-lukaku-kommentariy-po-perehodu-iz-napoli-v-fenerbahche-2446673/"
-    },
-    {
-      "d": "13 августа 2026",
-      "t": "Дэвис и Кулушич войдут в тренерский штаб Билича в сборной Хорвати...",
-      "text": "Новый главный тренер сборной Хорватии Славен Билич продолжает формировать свой тренерский штаб.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/devis-i-kulushich-voydut-v-trenerskiy-shtab-bilicha-v-sbornoy-horvatii-2446672/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-13T11:01:49.035180Z"
+  "results_updated": "2026-08-13T12:53:10.128311Z"
 }
