@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "14 августа 2026",
+      "t": "«Челси» объявил о переходе Сатпаева в «Бернли» на правах аренды",
+      "text": "«Челси» сообщил, что казахстанский нападающий Дастан Сатпаев проведет сезон-2026/27 на правах аренды в «Бернли».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/chelsi-obyavil-o-perehode-kazahstanskogo-napadayuschego-dastana-satpaeva-v-bernli-na-pravah-arendy-2447194/"
+    },
+    {
+      "d": "14 августа 2026",
       "t": "«Аль-Хиляль» победил «Аль-Файсали», Малком забил гол, Невеш дважд...",
       "text": "«Аль-Хиляль» обыграл «Аль-Файсали» в домашнем матче 1-го тура чемпионата Саудовской Аравии-2026/27 — 4:2.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Старший тренер юниорской сборной России Елена Медведь прокомментировала победу над сверстницами из Белоруссии в первом туре турнир...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/yflrussia/news/trener-yuniorskoy-sbornoy-rossii-elena-medvedev-kommentariy-o-pobede-nad-belorussiey-v-turnire-razvitiya-uefa-2447072/"
-    },
-    {
-      "d": "14 августа 2026",
-      "t": "Автор септа-трика Микаелян в ворота Азербайджана: «Уже забивала д...",
-      "text": "Игрок женской юниорской сборной России U-15 Николь Микаелян рассказала «СЭ» о победе над Азербайджаном (13:0) на Турнире развития ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/women/news/igrok-zhenskoy-sbornoy-rossii-u-15-nikol-mikaelyan-rasskazala-o-pobede-nad-azerbaydzhanom-na-turnire-razvitiya-uefa-2447054/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-14T20:05:43.984752Z"
+  "results_updated": "2026-08-14T20:41:15.723869Z"
 }
