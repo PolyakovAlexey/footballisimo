@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "14 августа 2026",
+      "t": "Первая лига 2026/2027: расписание матчей 6-го тура",
+      "text": "Матчи 6-го тура PARI Первой лиги пройдут с 14 по 17 августа.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_d1/news/pervaya-liga-2026-2027-raspisanie-matchey-6-go-tura-fnl-2447001/"
+    },
+    {
+      "d": "14 августа 2026",
+      "t": "Кэррик считает, что «Манчестер Юнайтед» нужно усилить состав за с...",
+      "text": "Главный тренер «Манчестер Юнайтед» Майкл Кэррик заявил, что команде нужны новички перед сезоном-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/kerrik-schitaet-chto-manchester-yunayted-nuzhno-usilit-sostav-za-schet-novichkov-2446985/"
+    },
+    {
+      "d": "14 августа 2026",
       "t": "Ла Лига сезона-2026/2027: расписание матчей 1-го тура чемпионата ...",
       "text": "Ла Лига сезона-2026/2027 пройдет с 15 августа по 30 мая.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "На упаковках с наркотиками, конфискованных полицией Эквадора, было обнаружено изображение нападающего «Манчестер Сити» и сборной Н...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/v-ekvadore-izyali-partiyu-narkotikov-s-izobrazheniem-lionelya-messi-i-erlina-holanna-2446799/"
-    },
-    {
-      "d": "14 августа 2026",
-      "t": "Кэррик — о Рашфорде: «Он игрок «Манчестер Юнайтед»",
-      "text": "Главный тренер «Манчестер Юнайтед» Майкл Кэррик дал понять, что будет использовать нападающего Маркуса Рашфорда в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/glavnyy-trener-manchester-yunayted-kerrik-dal-ponyat-chto-budet-ispolzovat-napadayuschego-rashforda-v-sezone-2026-27-2446788/"
-    },
-    {
-      "d": "14 августа 2026",
-      "t": "Семин считает, что Кварацхелия должен получить «Золотой мяч» 2026",
-      "text": "Бывший тренер «Локомотива» Юрий Семин в разговоре с «СЭ» оценил шансы грузинского нападающего «ПСЖ» Хвичи Кварацхелии выиграть «Зо...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/eks-trener-lokomotiva-semin-schitaet-chto-napadayuschiy-pszh-kvaracheliya-dolzhen-poluchit-zolotoy-myach-2026-2446764/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-14T07:03:18.996274Z"
+  "results_updated": "2026-08-14T09:03:33.598778Z"
 }
