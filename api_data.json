@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "14 августа 2026",
+      "t": "Ла Лига сезона-2026/2027: расписание матчей 1-го тура чемпионата ...",
+      "text": "Ла Лига сезона-2026/2027 пройдет с 15 августа по 30 мая.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/la-liga-2026-2027-raspisanie-matchey-1-go-tura-chempionata-ispanii-2446747/"
+    },
+    {
+      "d": "14 августа 2026",
+      "t": "Вратарь сборной Норвегии Сельвик перешел в «Брест»",
+      "text": "Голкипер «Уотфорда» и сборной Норвегии Эгиль Сельвик продолжит карьеру в «Бресте».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/vratar-sbornoy-norvegii-selvik-pereshel-v-brest-2446953/"
+    },
+    {
+      "d": "14 августа 2026",
       "t": "Нападающий сборной Грузии Цитаишвили перешел в «Райо Вальекано»",
       "text": "«Райо Вальекано» объявил о подписании нападающего сборной Грузии Георгия Цитаишвили.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший тренер «Локомотива» Юрий Семин в разговоре с «СЭ» оценил шансы грузинского нападающего «ПСЖ» Хвичи Кварацхелии выиграть «Зо...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/eks-trener-lokomotiva-semin-schitaet-chto-napadayuschiy-pszh-kvaracheliya-dolzhen-poluchit-zolotoy-myach-2026-2446764/"
-    },
-    {
-      "d": "14 августа 2026",
-      "t": "Бартез вошел в тренерский штаб Зидана в сборной Франции",
-      "text": "Федерация футбола Франции объявила полный состав штаба Зинедина Зидана в сборной Франции.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/bartez-voshel-v-trenerskiy-shtab-zidana-v-sbornoy-francii-2446759/"
-    },
-    {
-      "d": "14 августа 2026",
-      "t": "Тренер сборной России U15 рассказала об участии в Турнире развити...",
-      "text": "Главный тренер женской сборной России U15 Елена Медведь ответила на вопрос «СЭ» об участии в турнире развития УЕФА в Казахстане.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/women/news/trener-sbornoy-rossii-u15-rasskazala-ob-uchastii-v-turnire-razvitiya-uefa-2446755/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-14T04:17:20.964518Z"
+  "results_updated": "2026-08-14T07:03:18.996274Z"
 }
