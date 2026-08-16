@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "16 августа 2026",
+      "t": "Романо: вратарь Судзуки перейдет в «Астон Виллу» из «Пармы» за 35...",
+      "text": "Вратарь «Пармы» и сборной Японии Дзион Судзуки станет игроком «Астон Виллы» в ближайшее время, сообщил журналист Фабрицио Романо.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/romano-vratar-sudzuki-pereydet-v-aston-villu-iz-parmy-za-35-millionov-evro-2447638/"
+    },
+    {
+      "d": "16 августа 2026",
       "t": "«Спортинг» подписал полузащитника сборной Австралии Иранкунду",
       "text": "Состав «Спортинга» пополнил полузащитник Нестори Иранкунда. Соглашение рассчитано до 30 июня 2031 года.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший полузащитник сборной Нидерландов Руд Гуллит поделился мнением о возвращении нападающего Маркуса Рэшфорда в «Манчестер Юнайт...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/eks-igrok-sbornoy-niderlandov-rud-gullit-podelilsya-mneniem-o-vozvraschenii-napadayuschego-markusa-reshforda-v-manchester-yunayted-2447304/"
-    },
-    {
-      "d": "16 августа 2026",
-      "t": "Нападающий «Реала» Мбаппе: «Наша цель на этот сезон — побеждать»",
-      "text": "27-летний форвард «Реала» Килиан Мбаппе обозначил цели команды на сезон-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/napadayuschiy-reala-kilian-mbappe-oboznachil-celi-komandy-na-sezon-2026-27-2447264/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-16T10:24:57.203727Z"
+  "results_updated": "2026-08-16T12:23:26.292065Z"
 }
