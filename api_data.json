@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "17 августа 2026",
+      "t": "Газзаев: «Считаю возможный переход Батракова в «Галатасарай» прав...",
+      "text": "Бывший главный тренер сборной России Валерий Газзаев поделился с «СЭ» мнением о возможном переходе полузащитника «Локомотива» Алек...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/slova-eks-trenera-sbornoy-rossii-valeriya-gazzaeva-o-vozmozhnom-transfere-poluzaschitnika-lokomotiva-alekseya-batrakova-v-galatasaray-2447916/"
+    },
+    {
+      "d": "17 августа 2026",
+      "t": "Романо: полузащитник Морейра перейдет в «Милан» из «Страсбура»",
+      "text": "Полузащитник «Страсбура» и сборной Бельгии Диегу Морейра станет игроком «Милана», сообщает журналист Фабрицио Романо.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/romano-poluzaschitnik-moreyra-pereydet-v-milan-iz-strasbura-2447906/"
+    },
+    {
+      "d": "17 августа 2026",
       "t": "Тренер «Ланса» Топпмеллер после победы над «ПСЖ»: «Мы никого не б...",
       "text": "Главный тренер «Ланса» Дино Топпмеллер обратился к игрокам после победы над «ПСЖ» (1:0) в матче за Суперкубок Франции-2026.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Защитник «ПСЖ» Ашраф Хакими прокомментировал поражение от «Ланса» (0:1) в матче за Суперкубок Франции-2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/zaschitnik-pszh-hakimi-prokommentiroval-porazhenie-ot-lansa-v-matche-za-superkubok-francii-2026-2447773/"
-    },
-    {
-      "d": "17 августа 2026",
-      "t": "«ПСЖ» с Сафоновым проиграл «Лансу» в матче за Суперкубок Франции",
-      "text": "«ПСЖ» уступил «Лансу» в матче за Суперкубок Франции-2026 — 0:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/lans-pszh-schet-i-rezultat-matcha-za-superkubok-francii-16-avgusta-2026-2447759/"
-    },
-    {
-      "d": "17 августа 2026",
-      "t": "Журнал Vogue раскрыл детали и опубликовал первые фото скромной св...",
-      "text": "Журнал Vogue опубликовал подробности и первые фотографии свадьбы нападающего «Аль-Насра» и сборной Португалии Криштиану Роналду и ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/zhurnal-vogue-raskryl-detali-i-opublikoval-pervye-foto-skromnoy-svadby-krishtianu-ronaldu-i-dzhordzhiny-rodriges-2447711/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-17T12:27:42.726620Z"
+  "results_updated": "2026-08-17T14:15:49.927305Z"
 }
