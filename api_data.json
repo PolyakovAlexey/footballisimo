@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "17 августа 2026",
+      "t": "Тренер сборной России рассказала о победе на турнире развития УЕФ...",
+      "text": "Старший тренер женской юниорской сборной России U-15 Елена Медведь рассказала «СЭ» о победе команды на турнире развития УЕФА в Каз...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/trener-sbornoy-rossii-rasskazala-o-pobede-na-turnire-razvitiya-uefa-2447951/"
+    },
+    {
+      "d": "17 августа 2026",
+      "t": "«Боруссия» подписала полузащитника сборной Греции Константелиаса",
+      "text": "Полузащитник сборной Греции Иоаннис Константелиас перешел в «Боруссию» из ПАОК, сообщает пресс-служба дортмундцев.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/poluzaschitnik-sbornoy-grecii-konstantelias-pereshel-iz-paoka-v-dortmundskuyu-borussiyu-2447934/"
+    },
+    {
+      "d": "17 августа 2026",
+      "t": "Экс-тренер «Монако» Поконьоли возглавил сборную Шотландии",
+      "text": "Шотландская футбольная ассоциация объявила о назначении Себастьяна Поконьоли новым главным тренером сборной Шотландии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/byvshiy-trener-monako-sebastyan-pokonoli-stal-glavnym-trenerom-sbornoy-shotlandii-2447922/"
+    },
+    {
+      "d": "17 августа 2026",
+      "t": "Российские футболистки до 15 лет выиграли турнир развития УЕФА",
+      "text": "Юниорская сборная России среди футболисток до 15 лет стала победителем турнира развития УЕФА в Шымкенте.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/women/news/rossiyskie-futbolistki-do-15-let-vyigrali-turnir-razvitiya-uefa-2447918/"
+    },
+    {
+      "d": "17 августа 2026",
       "t": "Газзаев: «Считаю возможный переход Батракова в «Галатасарай» прав...",
       "text": "Бывший главный тренер сборной России Валерий Газзаев поделился с «СЭ» мнением о возможном переходе полузащитника «Локомотива» Алек...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Издание Le Parisien оценило игру российского вратаря «ПСЖ» Матвея Сафонова в матче за Суперкубок Франции-2026 с «Лансом» (0:1).",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/v-le-parisien-ocenili-igru-vratarya-matveya-safonova-v-matche-za-superkubok-francii-2026-lans-pszh-2447785/"
-    },
-    {
-      "d": "17 августа 2026",
-      "t": "Луис Энрике после поражения в матче за Суперкубок Франции: «Мы за...",
-      "text": "Главный тренер «ПСЖ» Луис Энрике прокомментировал поражение от «Ланса» (0:1) в матче за Суперкубок Франции-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/glavnyy-trener-pszh-luis-enrike-prokommentiroval-porazhenie-ot-lansa-v-matche-za-superkubok-francii-2026-2447783/"
-    },
-    {
-      "d": "17 августа 2026",
-      "t": "Полузащитник «Арсенала» Эдегор: «Мы хотим выиграть все»",
-      "text": "Полузащитник «Арсенала» Мартин Эдегор прокомментировал победу над «Манчестер Сити» (3:0) в матче за Суперкубок Англии-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/poluzaschitnik-arsenala-edegor-prokommentiroval-pobedu-nad-manchester-siti-v-matche-za-superkubok-anglii-2026-2447780/"
-    },
-    {
-      "d": "17 августа 2026",
-      "t": "Мареска после поражения «Манчестер Сити» в матче за Суперкубок Ан...",
-      "text": "Главный тренер «Манчестер Сити» Энцо Мареска прокомментировал поражение от «Челси» (0:3) в матче за Суперкубок Англии-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/glavnyy-trener-manchester-siti-mareska-prokommentiroval-porazhenie-ot-chelsi-v-matche-za-superkubok-anglii-2026-2447776/"
-    },
-    {
-      "d": "17 августа 2026",
-      "t": "Защитник «ПСЖ» Хакими после поражения в матче за Суперкубок Франц...",
-      "text": "Защитник «ПСЖ» Ашраф Хакими прокомментировал поражение от «Ланса» (0:1) в матче за Суперкубок Франции-2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/zaschitnik-pszh-hakimi-prokommentiroval-porazhenie-ot-lansa-v-matche-za-superkubok-francii-2026-2447773/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-17T14:15:49.927305Z"
+  "results_updated": "2026-08-17T16:22:11.539263Z"
 }
