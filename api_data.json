@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "18 августа 2026",
+      "t": "«Ахмат» — «Факел»: прямая трансляция, смотреть онлайн",
+      "text": "«Ахмат» — «Факел»: прямая трансляция, смотреть онлайн матча Кубка России 18 августа 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/ahmat-fakel-pryamaya-translyaciya-smotret-onlayn-matcha-kubka-rossii-18-avgusta-2026-2447977/"
+    },
+    {
+      "d": "18 августа 2026",
+      "t": "«Ростов» — «Локомотив»: прямая трансляция, смотреть онлайн",
+      "text": "«Ростов» — «Локомотив»: прямая трансляция, смотреть онлайн матча Кубка России 18 августа 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/rostov-lokomotiv-pryamaya-translyaciya-smotret-onlayn-matcha-kubka-rossii-18-avgusta-2026-2447974/"
+    },
+    {
+      "d": "18 августа 2026",
       "t": "Полузащитник сборной Казахстана Чесноков перешел в «Крылья Совето...",
       "text": "«Крылья Советов» объявили о переходе полузащитника «Тобола» Ислама Чеснокова на правах аренды.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной Египта Хоссам Хассан упал в обморок во время потасовки между его бывшей и нынешней женами в одном из кафе, ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/trener-sbornoy-egipta-po-futbolu-hassan-hossam-poteryal-soznanie-vo-vremya-draki-mezhdu-byvshey-i-nyneshney-zhenami-2448167/"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "Верман стал игроком дортмундской «Боруссии»",
-      "text": "Полузащитник сборной Нидерландов Йоуи Верман перешел из ПСВ в дортмундскую «Боруссию», сообщает пресс-служба немецкого клуба.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/poluzaschitnik-sbornoy-niderlandov-youi-verman-stal-igrokom-dortmundskoy-borussii-2448164/"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "Источник: сборные России и Узбекистана могут провести товарищески...",
-      "text": "Сборная России может сыграть товарищеский матч со сборной Узбекистана в сентябре, сообщает Sport24.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/istochnik-sbornye-rossii-i-uzbekistana-mogut-provesti-tovarischeskiy-match-v-nizhnem-novgorode-25-sentyabrya-2448151/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-18T16:26:45.243325Z"
+  "results_updated": "2026-08-18T16:58:13.798555Z"
 }
