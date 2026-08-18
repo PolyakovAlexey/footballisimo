@@ -2,8 +2,15 @@
   "news": [
     {
       "d": "18 августа 2026",
+      "t": "Лукаку — о ничьей с «Лионом»: «Это большое разочарование»",
+      "text": "Нападающий «Фенербахче» Ромелу Лукаку прокомментировал ничью с «Лионом» (1:1) в первом матче раунда плей-офф квалификации Лиги чем...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/romelu-lukaku-kommentariy-po-nichey-fenerbahche-s-lionom-v-kvalifikacii-ligi-chempionov-2448274/"
+    },
+    {
+      "d": "18 августа 2026",
       "t": "Опенда — о ничьей с «Фенербахче»: «Во Франции все будет по-другом...",
-      "text": "Нападающий «Лиона» Лоис Опенда прокомментировал ничью с «Фенербахче» (1:1) в первом матче раунда плей-офф квалификации Лиги Европы...",
+      "text": "Нападающий «Лиона» Лоис Опенда прокомментировал ничью с «Фенербахче» (1:1) в первом матче раунда плей-офф квалификации Лиги чемпио...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/lois-openda-kommentariy-po-nichey-liona-s-fenerbahche-v-lige-chempionov-2448269/"
     },
@@ -48,13 +55,6 @@
       "text": "«Ростов» — «Локомотив»: прямая трансляция, смотреть онлайн матч Кубка России 18 августа 2026.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_cup/news/rostov-lokomotiv-pryamaya-translyaciya-smotret-onlayn-matcha-kubka-rossii-18-avgusta-2026-2447974/"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "Полузащитник сборной Казахстана Чесноков перешел в «Крылья Совето...",
-      "text": "«Крылья Советов» объявили о переходе полузащитника «Тобола» Ислама Чеснокова на правах аренды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/poluzaschitnik-tobola-i-sbornoy-kazahstana-chesnokov-pereshel-v-krylya-sovetov-2448196/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-18T22:44:20.313441Z"
+  "results_updated": "2026-08-18T23:02:27.724459Z"
 }
