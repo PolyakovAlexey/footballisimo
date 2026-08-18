@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "18 августа 2026",
+      "t": "Barcelona sign Rodri from Man City in £65m deal",
+      "text": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years wit...",
+      "src": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "d": "18 августа 2026",
+      "t": "Fifa sacking 'deeply troubling' - Uefa executive",
+      "text": "Fifa's decision to dismiss senior executive Kevin Lamour following his criticism of president Gianni Infantino sends a \"deeply tro...",
+      "src": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlxwnz71qgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "d": "18 августа 2026",
       "t": "Vieira named new Senegal head coach",
       "text": "Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team.",
       "src": "BBC Sport",
@@ -13,13 +27,6 @@
       "text": "Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
       "src": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/videos/c4g3vg077vpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "Top Fifa official sacked after Infantino plan criticism",
-      "text": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni In...",
-      "src": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
     },
     {
       "d": "18 августа 2026",
@@ -48,13 +55,6 @@
       "text": "BBC Sport looks at the big stories in Europe heading into the 2026-27 season.",
       "src": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cly92pr6ej8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "How to follow the new football season on BBC Sport",
-      "text": "When the World Cup ends we'll still have loads of great content every day as we build up to the new football season.",
-      "src": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w2zr9wzj1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-18T17:31:04.883468Z"
+  "results_updated": "2026-08-18T17:56:37.615936Z"
 }
