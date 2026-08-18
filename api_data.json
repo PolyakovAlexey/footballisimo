@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "18 августа 2026",
+      "t": "Источник: сборные России и Узбекистана могут провести товарищески...",
+      "text": "Сборная России может сыграть товарищеский матч со сборной Узбекистана в сентябре, сообщает Sport24.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/istochnik-sbornye-rossii-i-uzbekistana-mogut-provesti-tovarischeskiy-match-v-nizhnem-novgorode-25-sentyabrya-2448151/"
+    },
+    {
+      "d": "18 августа 2026",
+      "t": "Кобелев — о «Динамо»: «В команде только пять игроков могут бороть...",
+      "text": "Бывший главный тренер «Динамо» Андрей Кобелев в интервью «СЭ» оценил перспективы бело-голубых в сезоне-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/trener-andrey-kobelev-schitaet-chto-v-dinamo-tolko-pyat-igrokov-mogut-borotsya-za-chempionstvo-2448139/"
+    },
+    {
+      "d": "18 августа 2026",
       "t": "Газзаев о распродаже «Локомотива» этим летом: «Галактионов сразу ...",
       "text": "Бывший главный тренер сборной России Валерий Газзаев в разговоре с «СЭ» поделился мнением о результатах «Локомотива» на старте сез...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Английская премьер-лига объявила, какие из новых правил не будут использоваться в чемпионате страны-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/videoarbitry-ne-budut-proveryat-uglovye-v-chempionate-anglii-2447964/"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "Тренер сборной России рассказала о победе на турнире развития УЕФ...",
-      "text": "Старший тренер женской юниорской сборной России U-15 Елена Медведь рассказала «СЭ» о победе команды на турнире развития УЕФА в Каз...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/women/news/trener-sbornoy-rossii-rasskazala-o-pobede-na-turnire-razvitiya-uefa-2447951/"
-    },
-    {
-      "d": "18 августа 2026",
-      "t": "«Боруссия» подписала полузащитника сборной Греции Константелиаса",
-      "text": "Полузащитник сборной Греции Иоаннис Константелиас перешел в «Боруссию» из ПАОК, сообщает пресс-служба дортмундцев.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/poluzaschitnik-sbornoy-grecii-konstantelias-pereshel-iz-paoka-v-dortmundskuyu-borussiyu-2447934/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-18T10:30:22.860667Z"
+  "results_updated": "2026-08-18T12:29:57.760218Z"
 }
