@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "19 августа 2026",
+      "t": "«Буде-Глимт» победил «Неймеген» в первом матче раунда плей-офф кв...",
+      "text": "«Буде-Глимт» на выезде победил «НЕК Неймеген» в первом матче раунда плей-офф квалификации Лиги чемпионов — 3:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/nek-neymegen-bude-glimt-seltik-lask-rezultaty-pervyh-matchey-raunda-pley-off-kvalifikacii-lch-19-avgusta-2026-2448534/"
+    },
+    {
+      "d": "19 августа 2026",
       "t": "Тарасов считает, что Дзюба помог бы «Родине»: «Он точно даст резу...",
       "text": "Бывший футболист сборной России Дмитрий Тарасов поделился с «СЭ» мнением о возможном переходе Артема Дзюбы в «Родину».",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Рубин — Спартак, 19 августа 2026: прогноз, коэффициент и ставка на матч Кубка России — кто победит",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_cup/news/rubin-spartak-19-avgusta-2026-prognoz-koefficient-i-stavka-na-match-kubka-rossii-kto-pobedit-2448154/"
-    },
-    {
-      "d": "19 августа 2026",
-      "t": "«Динамо» — «Краснодар»: во сколько начало матча FONBET Кубка Росс...",
-      "text": "«Динамо» — «Краснодар»: во сколько начало матча Кубка России, где смотреть трансляцию 19 августа 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/dinamo-krasnodar-vo-skolko-nachalo-matcha-kubka-rossii-gde-smotret-translyaciyu-19-avgusta-2026-2447987/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-19T20:37:42.645237Z"
+  "results_updated": "2026-08-19T20:59:30.950352Z"
 }
