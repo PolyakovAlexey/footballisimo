@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "21 августа 2026",
+      "t": "Сарри после ничьей «Аталанты» и «Хапоэля»: «Я доволен игрой»",
+      "text": "Главный тренер «Аталанты» Маурицио Сарри прокомментировал ничью с «Хапоэлем» из Тель-Авива (0:0) в первом матче плей-офф отборочно...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/liga-konferencij/news/glavnyy-trener-atalanty-sarri-prokommentiroval-nichyu-s-hapoelem-v-otborochnom-raunde-ligi-konferenciy-20-avgusta-2026-2448900/"
+    },
+    {
+      "d": "21 августа 2026",
+      "t": "Главный тренер «Ньюкасла» Яйссле — о критике: «Мне все равно»",
+      "text": "Главный тренер «Ньюкасла» Маттиас Яйссле ответил на волну критики команды перед стартом сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/glavnyy-trener-nyukasla-yayssle-otvetil-na-volnu-kritiki-komandy-pered-startom-sezona-2026-27-2448894/"
+    },
+    {
+      "d": "21 августа 2026",
       "t": "Эндрик принял решение остаться в «Реале»",
       "text": "«Ливерпуль» заинтересован в подписании нападающего «Реала» и сборной Бразлии Эндрика, однако сам футболист отказался от обсуждения...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Экс-футболист сборной Бразилии Роналдиньо прилетел в Италию, чтобы подписать контракт с «Равенной», сообщает пресс-служба клуба из...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/ronaldino-priletel-v-italiyu-gde-budet-igrat-za-ravennu-2448829/"
-    },
-    {
-      "d": "21 августа 2026",
-      "t": "Филипе Луис объяснил, как «Монако» обыграл «Гурник»",
-      "text": "Главный тренер «Монако» Филипе Луис прокомментировал победу над «Гурником» (3:2) в первом матче раунда плей-офф квалификации Лиги ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/liga-konferencij/news/filipe-luis-kommentariy-po-pobede-monako-nad-gurnikom-v-lige-konferenciy-2448823/"
-    },
-    {
-      "d": "21 августа 2026",
-      "t": "Сборная России пожелала Батракову удачи в «Галатасарае»",
-      "text": "Пресс-служба сборной России опубликовала пост после перехода Алексея Батракова из «Локомотива» в «Галатасарай».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-otreagirovala-na-perehod-batrakova-iz-lokomotiva-v-galatasaray-2448808/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-21T06:22:45.544196Z"
+  "results_updated": "2026-08-21T08:35:08.013170Z"
 }
