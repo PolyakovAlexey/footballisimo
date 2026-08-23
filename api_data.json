@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "23 августа 2026",
+      "t": "Нападающий Кейн о продлении контракта с «Баварией»: «Мы никуда не...",
+      "text": "Форвард сборной Англии и «Баварии» Гарри Кейн поделился подробностями о будущем в мюнхенском клубе.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/napadayuschiy-sbornoy-anglii-i-bavarii-garri-keyn-podelilsya-podrobnostyami-o-buduschem-v-myunhenskom-klube-2449327/"
+    },
+    {
+      "d": "23 августа 2026",
+      "t": "The Athletic: Инфантино разрабатывал проект юношеского чемпионата...",
+      "text": "Президент ФИФА Джанни Инфантино участвовал в разработке проекта юношеского чемпионата мира среди игроков до 15 лет, в котором долж...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/glava-fifa-dzhanni-infantino-razrabatyval-proekt-yunosheskogo-chempionata-mira-s-uchastiem-211-stran-2449323/"
+    },
+    {
+      "d": "23 августа 2026",
       "t": "Де Брейне: «Надеюсь на сезон без травм»",
       "text": "Нападающий «Наполи» Кевин Де Брейне поделился ожиданиями от сезона-2026/27.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший защитник сборной Англии Гари Невилл прокомментировал победу «Арсенала» над «Ковентри» (3:0) в 1-м туре чемпионата Англии.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/gari-nevill-kommentariy-po-pobede-arsenala-nad-koventri-v-matche-apl-2449067/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Райт: «У «Арсенала» было очень много свободного пространства в ма...",
-      "text": "Бывший нападающий сборной Англии Иан Райт прокомментировал победу «Арсенала» над «Ковентри Сити» (3:0) в 1-м туре чемпионата Англи...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/ian-rayt-kommentariy-po-pobede-arsenala-nad-koventri-siti-v-apl-2449065/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Тренер «Наполи» Аллегри — о борьбе за чемпионство: «Фаворит — «Ин...",
-      "text": "Главный тренер «Наполи» Массимилиано Аллегри поделился мнением о том, кто из команд будет бороться за чемпионский титул в Серии А ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/glavnyy-trener-napoli-massimiliano-allegri-podelilsya-mneniem-o-pretendentah-na-chempionstvo-v-italii-2449013/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-23T04:22:07.266482Z"
+  "results_updated": "2026-08-23T06:19:13.940429Z"
 }
