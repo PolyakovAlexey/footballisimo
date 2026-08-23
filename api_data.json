@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "23 августа 2026",
+      "t": "Де Брейне: «Надеюсь на сезон без травм»",
+      "text": "Нападающий «Наполи» Кевин Де Брейне поделился ожиданиями от сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/napadayuschiy-napoli-kevin-de-breyne-podelilsya-ozhidaniyami-ot-sezona-2026-27-2449308/"
+    },
+    {
+      "d": "23 августа 2026",
       "t": "«Бавария» победила «Боруссию» и выиграла Суперкубок Германии",
       "text": "«Бавария» переиграла дортмундскую «Боруссию» в матче за Суперкубок Германии-2026 — 2:1.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер «Наполи» Массимилиано Аллегри поделился мнением о том, кто из команд будет бороться за чемпионский титул в Серии А ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/glavnyy-trener-napoli-massimiliano-allegri-podelilsya-mneniem-o-pretendentah-na-chempionstvo-v-italii-2449013/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "«Шахтер» проведет домашние матчи Лиги чемпионов на стадионе «Челс...",
-      "text": "«Шахтер» будет проводить домашние матчи Лиги чемпионов в сезоне-2026/27 на стадионе «Стэмфорд Бридж», сообщила пресс-служба «Челси...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/shahter-provedet-domashnie-matchi-ligi-chempionov-na-stadione-chelsi-2449005/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-23T01:26:39.274288Z"
+  "results_updated": "2026-08-23T02:47:05.786639Z"
 }
