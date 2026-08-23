@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "23 августа 2026",
+      "t": "Нападающий «Манчестер Сити» Холанн кардинально изменил имидж",
+      "text": "Нападающий «Манчестер Сити» и сборной Норвегии Эрлинг Холанн избавился от длинных волос.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/napadayuschiy-manchester-siti-holann-kardinalno-izmenil-imidzh-2449375/"
+    },
+    {
+      "d": "23 августа 2026",
+      "t": "«Акрон» — «Крылья Советов»: прямая трансляция, смотреть онлайн",
+      "text": "Акрон — Крылья Советов: прямая трансляция, смотреть онлайн  23 августа 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/akron-krylya-sovetov-pryamaya-translyaciya-smotret-onlayn-23-avgusta-2026-2449351/"
+    },
+    {
+      "d": "23 августа 2026",
+      "t": "«Эльче» — «Барселона»: во сколько начало матча Ла Лиги, где смотр...",
+      "text": "Эльче — Барселона: во сколько начало матча Ла Лиги, где смотреть трансляцию 23 августа 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/elche-barselona-vo-skolko-nachalo-matcha-la-ligi-gde-smotret-translyaciyu-23-avgusta-2026-2449361/"
+    },
+    {
+      "d": "23 августа 2026",
       "t": "Вратарь «Баварии» Нойер: «Этот сезон вполне может стать последним...",
       "text": "Голкипер «Баварии» Мануэль Нойер поделился мнением о возможном завершении карьеры после окончания сезона-2026/27.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "«Бавария» переиграла дортмундскую «Боруссию» в матче за Суперкубок Германии-2026 — 2:1.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/germany/news/borussiya-d-bavariya-schet-i-rezultat-matcha-za-superkubok-germanii-22-avgusta-2026-2449272/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Sky News: Инфантино попросили не посещать юношеский турнир КОНКАК...",
-      "text": "Президента ФИФА Джанни Инфантино попросили воздержаться от посещения юношеского турнира в Доминиканской Республике после скандала ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/glavu-fifa-dzhanni-infantino-poprosili-vozderzhatsya-ot-posescheniya-turnira-konkakaf-2449180/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Мостовой поздравил Дзюбу с днем рождения: «Если я «Спартак» возгл...",
-      "text": "Бывший футболист сборных СССР и России, а также «Спартака» Александр Мостовой обратился к нападающему Артему Дзюбе, с которым в од...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/byvshiy-futbolist-sbornyh-sssr-i-rossii-aleksandr-mostovoy-pozdravil-napadayuschego-artema-dzyubu-s-dnem-rozhdeniya-2449145/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Дзюба поздравил Мостового с днем рождения: «Примите поздравление ...",
-      "text": "Российский нападающий Артем Дзюба поздравил бывшего футболиста сборных СССР и России, а также «Спартака» Александра Мостового с дн...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-artem-dzyuba-pozdravil-byvshego-futbolista-sbornyh-sssr-i-rossii-aleksandra-mostovogo-s-dnem-rozhdeniya-2449140/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-23T08:23:36.580520Z"
+  "results_updated": "2026-08-23T10:26:29.677900Z"
 }
