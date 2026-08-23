@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "23 августа 2026",
+      "t": "Вратарь «Баварии» Нойер: «Этот сезон вполне может стать последним...",
+      "text": "Голкипер «Баварии» Мануэль Нойер поделился мнением о возможном завершении карьеры после окончания сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/golkiper-bavarii-manuel-noyer-podelilsya-mneniem-o-vozmozhnom-zavershenii-karery-posle-okonchaniya-sezona-2449332/"
+    },
+    {
+      "d": "23 августа 2026",
       "t": "Нападающий Кейн о продлении контракта с «Баварией»: «Мы никуда не...",
       "text": "Форвард сборной Англии и «Баварии» Гарри Кейн поделился подробностями о будущем в мюнхенском клубе.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Российский нападающий Артем Дзюба поздравил бывшего футболиста сборных СССР и России, а также «Спартака» Александра Мостового с дн...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-artem-dzyuba-pozdravil-byvshego-futbolista-sbornyh-sssr-i-rossii-aleksandra-mostovogo-s-dnem-rozhdeniya-2449140/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Невилл: «Не считаю, что для «Ковентри» это был плохой результат: ...",
-      "text": "Бывший защитник сборной Англии Гари Невилл прокомментировал победу «Арсенала» над «Ковентри» (3:0) в 1-м туре чемпионата Англии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/gari-nevill-kommentariy-po-pobede-arsenala-nad-koventri-v-matche-apl-2449067/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-23T06:19:13.940429Z"
+  "results_updated": "2026-08-23T08:23:36.580520Z"
 }
