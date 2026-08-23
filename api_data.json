@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "23 августа 2026",
+      "t": "Холанн опубликовал реакцию Ибрагимовича на смену имиджа: «Теперь ...",
+      "text": "Форвард «Манчестер Сити» Эрлин Холанн опубликовал реакцию экс-нападающего сборной Швеции Златана Ибрагимовича на резкую смену имид...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/forvard-manchester-siti-erlin-holann-holann-opublikoval-reakciyu-zlatana-ibragimovicha-na-smenu-imidzha-2449447/"
+    },
+    {
+      "d": "23 августа 2026",
       "t": "«Динамо» Махачкала — «Краснодар»: прямая трансляция, смотреть онл...",
       "text": "Динамо Махачкала — Краснодар: прямая трансляция, смотреть онлайн 23 августа 2026",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Эльче — Барселона: во сколько начало матча Ла Лиги, где смотреть трансляцию 23 августа 2026",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/elche-barselona-vo-skolko-nachalo-matcha-la-ligi-gde-smotret-translyaciyu-23-avgusta-2026-2449361/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Вратарь «Баварии» Нойер: «Этот сезон вполне может стать последним...",
-      "text": "Голкипер «Баварии» Мануэль Нойер поделился мнением о возможном завершении карьеры после окончания сезона-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/golkiper-bavarii-manuel-noyer-podelilsya-mneniem-o-vozmozhnom-zavershenii-karery-posle-okonchaniya-sezona-2449332/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-23T14:12:02.965014Z"
+  "results_updated": "2026-08-23T16:20:14.282264Z"
 }
