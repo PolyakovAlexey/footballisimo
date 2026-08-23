@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "23 августа 2026",
+      "t": "Мостовой разочарован прической Холанна: «Длинные волосы — отвлека...",
+      "text": "Бывший футболист сборных СССР и России Александр Мостовой в разговоре с «СЭ» отреагировал на смену стиля нападающего «Манчестер Си...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/aleksandr-mostovoy-otreagiroval-na-smenu-stilya-napadayuschego-manchester-siti-erlinga-holanna-2449403/"
+    },
+    {
+      "d": "23 августа 2026",
+      "t": "«Динамо» — «Родина»: прямая трансляция, смотреть онлайн",
+      "text": "Динамо  - Родина: прямая трансляция, смотреть онлайн 23 августа 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/dinamo-rodina-pryamaya-translyaciya-smotret-onlayn-23-avgusta-2026-2449352/"
+    },
+    {
+      "d": "23 августа 2026",
+      "t": "ЮФЛ U-16, результаты 20-го тура: «Локомотив» и «Динамо» сыграли в...",
+      "text": "22 и 23 августа состоялись матчи 20-го тура сезона-2026 Юношеской футбольной лиги U-16.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/yflrussia/news/yufl-u-16-schet-i-rezultaty-matchey-20-tura-yunosheskoy-futbolnoy-ligi-23-avgusta-2026-2449393/"
+    },
+    {
+      "d": "23 августа 2026",
       "t": "Нападающий «Манчестер Сити» Холанн кардинально изменил имидж",
       "text": "Нападающий «Манчестер Сити» и сборной Норвегии Эрлинг Холанн избавился от длинных волос.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Форвард сборной Англии и «Баварии» Гарри Кейн поделился подробностями о будущем в мюнхенском клубе.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/germany/news/napadayuschiy-sbornoy-anglii-i-bavarii-garri-keyn-podelilsya-podrobnostyami-o-buduschem-v-myunhenskom-klube-2449327/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "The Athletic: Инфантино разрабатывал проект юношеского чемпионата...",
-      "text": "Президент ФИФА Джанни Инфантино участвовал в разработке проекта юношеского чемпионата мира среди игроков до 15 лет, в котором долж...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/glava-fifa-dzhanni-infantino-razrabatyval-proekt-yunosheskogo-chempionata-mira-s-uchastiem-211-stran-2449323/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "Де Брейне: «Надеюсь на сезон без травм»",
-      "text": "Нападающий «Наполи» Кевин Де Брейне поделился ожиданиями от сезона-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/napadayuschiy-napoli-kevin-de-breyne-podelilsya-ozhidaniyami-ot-sezona-2026-27-2449308/"
-    },
-    {
-      "d": "23 августа 2026",
-      "t": "«Бавария» победила «Боруссию» и выиграла Суперкубок Германии",
-      "text": "«Бавария» переиграла дортмундскую «Боруссию» в матче за Суперкубок Германии-2026 — 2:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/borussiya-d-bavariya-schet-i-rezultat-matcha-za-superkubok-germanii-22-avgusta-2026-2449272/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-23T10:26:29.677900Z"
+  "results_updated": "2026-08-23T12:23:56.089321Z"
 }
