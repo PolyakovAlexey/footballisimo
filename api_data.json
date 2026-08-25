@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "25 августа 2026",
+      "t": "«Буде-Глимт» разгромил НЕК и вышел в общий этап Лиги чемпионов",
+      "text": "«Буде-Глимт» дома разгромил НЕК в ответном матче раунда плей-офф отборочного турнира Лиги чемпионов — 3:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/bude-glimt-nek-schet-i-rezultat-matcha-raunda-pley-off-otborochnogo-turnira-ligi-chempionov-25-avgusta-2026-2450014/"
+    },
+    {
+      "d": "25 августа 2026",
       "t": "«Сабах» победил «Хапоэль» из Беэр-Шевы и впервые в истории вышел ...",
       "text": "«Сабах» дома обыграл «Хапоэль» из Беэр-Шевы (5:2 д.в.) в ответном матче раунда плей-офф отборочного турнира Лиги чемпионов.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Бывший нападающий сборной России Дмитрий Сычев в подкасте Ксении Шойгу «Гибкий ЗОЖ» на сайте «Спорт-Экспресса» рассказал о первых ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/byvshiy-napadayuschiy-sbornoy-rossii-dmitriy-sychev-vspomnil-chempionat-mira-po-futbolu-2002-2449935/"
-    },
-    {
-      "d": "25 августа 2026",
-      "t": "Сычев рассказал о своем подходе к алкоголю: «Это яд, но вопрос сп...",
-      "text": "Бывший нападающий сборной России Дмитрий Сычев в подкасте Ксении Шойгу «Гибкий ЗОЖ» на сайте «Спорт-Экспресса» рассказал о своем о...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/byvshiy-napadayuschiy-sbornoy-rossii-dmitriy-sychev-rasskazal-o-svoem-otnoshenii-k-alkogolyu-i-zdorovomu-obrazu-zhizni-2449918/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-25T20:50:33.227890Z"
+  "results_updated": "2026-08-25T21:13:22.882641Z"
 }
