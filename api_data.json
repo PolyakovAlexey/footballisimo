@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "26 августа 2026",
+      "t": "Роберто Мартинес может стать главным тренером сборной Алжира",
+      "text": "Бывший главный тренер сборной Португалии Роберто Мартинес может возглавить сборную Алжира, сообщает FootMercato.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/roberto-martines-mozhet-stat-glavnym-trenerom-sbornoy-alzhira-2450218/"
+    },
+    {
+      "d": "26 августа 2026",
       "t": "ФИФА отреагировала на отказ УЕФА бойкотировать женский чемпионат ...",
       "text": "Международная федерация футбола (ФИФА) прокомментировала решение стран-членов Союза европейских футбольных ассоциаций (УЕФА) отказ...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Полузащитник «Краснодара» и сборной Кабо-Верде Кевин Ленини в интервью «СЭ» поделился мнением о популярности голкипера Возиньи пос...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/poluzaschitnik-sbornoy-kabo-verde-lenini-podelilsya-mneniem-o-populyarnosti-golkipera-vozini-posle-chm-po-futbolu-2026-2450059/"
-    },
-    {
-      "d": "26 августа 2026",
-      "t": "Ленини рассказал о прошлом Возиньи: «Известность, которую он полу...",
-      "text": "Полузащитник «Краснодара» и сборной Кабо-Верде Кевин Ленини в интервью «СЭ» рассказал о том, кем работал голкипер команды Возинья....",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/poluzaschitnik-krasnodara-i-sbornoy-kabo-verde-lenini-rasskazal-o-tom-kem-rabotal-golkiper-komandy-vozinya-2450057/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-26T18:27:06.892921Z"
+  "results_updated": "2026-08-26T20:35:16.331507Z"
 }
