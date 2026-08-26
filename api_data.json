@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "26 августа 2026",
+      "t": "ФИФА отреагировала на отказ УЕФА бойкотировать женский чемпионат ...",
+      "text": "Международная федерация футбола (ФИФА) прокомментировала решение стран-членов Союза европейских футбольных ассоциаций (УЕФА) отказ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/fifa-otreagirovala-na-otkaz-uefa-boykotirovat-zhenskiy-chempionat-mira-u-20-2450209/"
+    },
+    {
+      "d": "26 августа 2026",
       "t": "Вратарь «Родины» Волков — об Артеме Максименко: «За одну хорошую ...",
       "text": "Голкипер «Родины» Сергей Волков поделился мнением о нападающем команды Артеме Максименко.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Полузащитник «Краснодара» и сборной Кабо-Верде Кевин Ленини в интервью «СЭ» рассказал о том, кем работал голкипер команды Возинья....",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/poluzaschitnik-krasnodara-i-sbornoy-kabo-verde-lenini-rasskazal-o-tom-kem-rabotal-golkiper-komandy-vozinya-2450057/"
-    },
-    {
-      "d": "26 августа 2026",
-      "t": "Ленини — о Месси: «Находится в отдельной вселенной»",
-      "text": "Полузащитник «Краснодара» и сборной Кабо-Верде Кевин Ленини в интервью «СЭ» поделился мнением о капитане сборной Аргентины Лионеле...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/poluzaschitnik-krasnodara-i-sbornoy-kabo-verde-lenini-podelilsya-mneniem-o-kapitane-sbornoy-argentiny-messi-2450055/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-26T16:45:24.772701Z"
+  "results_updated": "2026-08-26T18:27:06.892921Z"
 }
