@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "26 августа 2026",
+      "t": "Вратарь «Родины» Волков — об Артеме Максименко: «За одну хорошую ...",
+      "text": "Голкипер «Родины» Сергей Волков поделился мнением о нападающем команды Артеме Максименко.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/golkiper-rodiny-volkov-podelilsya-mneniem-o-napadayuschem-komandy-arteme-maksimenko-2450128/"
+    },
+    {
+      "d": "26 августа 2026",
+      "t": "Хуан Диас: «Родина» веселая команда в атаке, но нам не хватает в ...",
+      "text": "Главный тренер «Родины» Хуан Диас рассказал о старте сезона-2026/27 для своей команды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/glavnyy-trener-rodiny-huan-dias-rasskazal-o-starte-sezona-2026-27-dlya-svoey-komandy-2450122/"
+    },
+    {
+      "d": "26 августа 2026",
       "t": "«Реал Мадрид» — «Реал Сосьедад»: во сколько начало матча Ла лиги",
       "text": "Реал Мадрид — Реал Сосьедад: во сколько начало матча Ла лиги, где смотреть трансляцию 26 августа 2026.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Полузащитник «Краснодара» и сборной Кабо-Верде Кевин Ленини в интервью «СЭ» поделился мнением о капитане сборной Аргентины Лионеле...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/world/news/poluzaschitnik-krasnodara-i-sbornoy-kabo-verde-lenini-podelilsya-mneniem-o-kapitane-sbornoy-argentiny-messi-2450055/"
-    },
-    {
-      "d": "26 августа 2026",
-      "t": "Ленини — о ЧМ-2026: «Горжусь, что весь мир узнал о Кабо-Верде»",
-      "text": "Полузащитник «Краснодара» и сборной Кабо-Верде Кевин Ленини в интервью «СЭ» поделился впечатлениями от чемпионата мира-2026, в ход...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/poluzaschitnik-krasnodara-i-sbornoy-kabo-verde-lenini-podelilsya-vpechatleniyami-ot-chm-po-futbolu-2026-2450053/"
-    },
-    {
-      "d": "26 августа 2026",
-      "t": "Опенда: «В противостоянии с «Фенербахче» шансы равны — 50 на 50»",
-      "text": "Нападающий «Лиона» Лоис Опенда поделился ожиданиями от ответного матча раунда плей-офф квалификации Лиги чемпионов с «Фенербахче».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/lois-openda-ozhidaniya-ot-otvetnogo-matcha-kvalifikacii-ligi-chempionov-s-fenerbahche-2450052/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-26T10:37:13.952361Z"
+  "results_updated": "2026-08-26T12:36:18.826833Z"
 }
