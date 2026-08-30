@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "30 августа 2026",
+      "t": "«Реал» — «Малага»: во сколько начало матча Ла Лиги",
+      "text": "Реал Мадрид — Малага: во сколько начало матча Ла Лиги, где смотреть трансляцию 30 августа 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/real-madrid-malaga-vo-skolko-nachalo-matcha-la-ligi-gde-smotret-translyaciyu-30-avgusta-2026-2451063/"
+    },
+    {
+      "d": "30 августа 2026",
       "t": "«Нижний Новгород» — «Волга»: прямая трансляция матча ФНЛ",
       "text": "Нижний Новгород — Волга: прямая трансляция матча ФНЛ, где смотреть онлайн видео 30 августа 2026",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Енисей — Шинник: прямая трансляция матча ФНЛ, где смотреть онлайн видео 30 августа 2026",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_d1/news/enisey-shinnik-pryamaya-translyaciya-matcha-fnl-gde-smotret-onlayn-video-30-avgusta-2026-2451066/"
-    },
-    {
-      "d": "30 августа 2026",
-      "t": "«СКА-Хабаровск» — «Торпедо»: прямая трансляция матча ФНЛ",
-      "text": "СКА-Хабаровск — Торпедо: прямая трансляция матча ФНЛ, где смотреть онлайн видео 30 августа 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/ska-habarovsk-torpedo-pryamaya-translyaciya-matcha-fnl-gde-smotret-onlayn-video-30-avgusta-2026-2451065/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-08-30T10:48:52.924859Z"
+  "results_updated": "2026-08-30T13:29:17.655494Z"
 }
