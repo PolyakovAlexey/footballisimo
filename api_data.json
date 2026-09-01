@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "1 сентября 2026",
+      "t": "«Барселона» отреагировала на решение Месси уйти из сборной Аргент...",
+      "text": "В «Барселоне» прокомментировали решение нападающего Лионеля Месси завершить карьеру в сборной Аргентины.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/barselona-otreagirovala-na-reshenie-messi-uyti-iz-sbornoy-argentiny-2451538/"
+    },
+    {
+      "d": "1 сентября 2026",
+      "t": "«Рома» впервые забила 8 голов и не пропустила ни одного в первых ...",
+      "text": "«Рома» разгромила «Лечче» (4:0) в гостевом матче 2-го тура чемпионата Италии сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/roma-vpervye-zabila-8-golov-i-ne-propustila-ni-odnogo-v-pervyh-2-matchah-serii-a-2451534/"
+    },
+    {
+      "d": "1 сентября 2026",
+      "t": "Артур Мело пополнил состав «Сантоса»",
+      "text": "«Сантос» подписал контракт со свободным агентом полузащитником Артуром Мело. Соглашение рассчитано до 31 декабря 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/artur-melo-popolnil-sostav-santosa-2451533/"
+    },
+    {
+      "d": "1 сентября 2026",
       "t": "Пост Месси об уходе из сборной Аргентины набрал почти 4 миллиона ...",
       "text": "Пост форварда Лионеля Месси о завершении карьеры в сборной Аргентины собрал 3,8 миллиона лайков за два часа.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник «Оренбурга» Данила Ведерников в комментарии для «СЭ» назвал задачи клуба в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/vedernikov-orenburg-mozhet-pretendovat-na-chempionstvo-nasha-zadacha-pobezhdat-v-kazhdoy-igre-2451432/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "«Челси» рассматривает Ману Коне из «Ромы» в качестве возможной за...",
-      "text": "«Челси» интересуется полузащитником «Ромы» и сборной Франции Ману Коне, сообщает журналист The Guardian Джейкоб Стейнберг.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/manu-kone-iz-romy-mozhet-zamenit-enco-fernandesa-v-chelsi-2451418/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Защитник «Кристал Пэлас» Муньос перешел в «Ноттингем Форест»",
-      "text": "«Ноттингем Форест» объявил о трансфере защитника сборной Колумбии Даниэля Муньоса из «Кристал Пэлас».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/perehod-danielya-munosa-iz-kristal-pelas-v-nottingem-forest-usloviya-transfera-2451416/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Сборная России U-15 заняла второе место на турнире памяти Морозов...",
-      "text": "Юношеская сборная России U-15 заняла второе место на XIX Международном турнире памяти Юрия Морозова в Санкт-Петербурге.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-u-15-zanyala-vtoroe-mesto-na-turnire-pamyati-morozova-2451412/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-01T00:40:08.767763Z"
+  "results_updated": "2026-09-01T04:08:28.318903Z"
 }
