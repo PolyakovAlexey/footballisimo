@@ -2,14 +2,28 @@
   "news": [
     {
       "d": "1 сентября 2026",
+      "t": "Защитник Антонио Рюдигер объявил о завершении карьеры в сборной Г...",
+      "text": "Защитник «Реала» Антонио Рюдигер объявил о завершении карьеры в сборной Германии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/zaschitnik-antonio-ryudiger-obyavil-o-zavershenii-karery-v-sbornoy-germanii-2451699/"
+    },
+    {
+      "d": "1 сентября 2026",
+      "t": "Экс-вратарь сборной России Гильерме — об Агкацеве: «Чувствуется, ...",
+      "text": "Бывший вратарь сборной России Маринато Гильерме поделился мнением об игре голкипера «Краснодара» Станислава Агкацева.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/eks-vratar-sbornoy-rossii-marinato-gilerme-o-stanislave-agkaceve-chuvstvuetsya-chto-igroki-krasnodara-emu-doveryayut-2451689/"
+    },
+    {
+      "d": "1 сентября 2026",
       "t": "Слуцкий заявил, что не приглашал Дзюбу в медиафутбольную сборную ...",
-      "text": "Леонид Слуцкий рассказал, как относится к своей работе на посту главного тренера медиафутбольной сборной России и ответил на вопро...",
+      "text": "Леонид Слуцкий рассказал, как относится к своей работе на посту главного тренера медиафутбольной сборной России, и ответил на вопр...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/media-football-league/news/sluckiy-zayavil-chto-ne-priglashal-dzyubu-v-mediafutbolnuyu-sbornuyu-rossii-2451681/"
     },
     {
       "d": "1 сентября 2026",
-      "t": "Экс-вратарь сборной России Гильерме о Сафонове: «Сразу было видно...",
+      "t": "Экс-вратарь сборной России Гильерме — о Сафонове: «Сразу было вид...",
       "text": "Бывший вратарь сборной России Маринато Гильерме поделился мнением об игре голкипера «ПСЖ» Матвея Сафонова.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/byvshiy-vratar-sbornoy-rossii-marinato-gilerme-o-matvee-safonove-srazu-bylo-vidno-chto-rastet-bolshoy-master-2451671/"
@@ -41,20 +55,6 @@
       "text": "Председатель совета директоров и президент Альфа-Банка (титульный спонсор Российской премьер-лиги) Олег Сысуев рассказал, что прин...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/byvshiy-vice-premer-rf-sysuev-priznalsya-vo-vliyanii-na-naznachenie-byshovca-v-sbornuyu-rossii-2451637/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Онугха не думает о потенциальном вызове в сборную России: «Сейчас...",
-      "text": "Нападающий «Родины» Герман Онугха в разговоре с «СЭ» высказался о возможном вызове в сборную России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/onugha-ne-dumaet-o-potencialnom-vyzove-v-sbornuyu-rossii-seychas-moi-mysli-o-sleduyuschey-igre-rodiny-2451633/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Жена Месси: «Наши дети видели, как их отец не сдавался и поднял К...",
-      "text": "Антонелла Рокуццо, жена нападающего Лионеля Месси, отреагировала на решение футболиста завершить карьеру в сборной Аргентины. 31 а...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/zhena-lionelya-messi-antonella-rokucco-otreagirovala-na-zavershenie-ego-karery-v-sbornoy-argentiny-2451614/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-01T14:36:28.349352Z"
+  "results_updated": "2026-09-01T15:51:42.422636Z"
 }
