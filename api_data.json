@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "d": "1 сентября 2026",
+      "d": "2 сентября 2026",
+      "t": "Хименес отправился в аренду из «Атлетико» в «Депортиво»",
+      "text": "Защитник сборной Уругвая Хосе Мария Хименес перешел на правах аренды из «Атлетико» в «Депортиво».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/himenes-otpravilsya-v-arendu-iz-atletiko-v-deportivo-2451806/"
+    },
+    {
+      "d": "2 сентября 2026",
+      "t": "Мбайе — о переходе из «ПСЖ» в «Астон Виллу»: «Рад начать новую гл...",
+      "text": "Нападающий сборной Сенегала Ибраим Мбайе прокомментировал переход из «ПСЖ» в «Астон Виллу».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/ibraim-mbaye-kommentariy-po-perehodu-iz-pszh-v-aston-villu-2451801/"
+    },
+    {
+      "d": "2 сентября 2026",
+      "t": "Фофана за 30 миллионов евро перешел из «Лиона» в «Сандерленд»",
+      "text": "«Сандерленд» объявил на официальном сайте о переходе из «Лиона» вингера сборной Бельгии Малика Фофана.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/fofana-pereshel-iz-liona-v-sanderlend-2451799/"
+    },
+    {
+      "d": "2 сентября 2026",
       "t": "Энцо Фернандес: «Манчестер Сити» — самый успешный клуб в Англии»",
       "text": "Полузащитник сборной Аргентины Энцо Фернандес прокомментировал переход из «Челси» в «Манчестер Сити».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/enco-fernandes-kommentariy-po-perehodu-iz-chelsi-v-manchester-siti-2451795/"
     },
     {
-      "d": "1 сентября 2026",
+      "d": "2 сентября 2026",
       "t": "«Манчестер Сити» объявил о переходе Энцо из «Челси»",
       "text": "«Манчестер Сити» на официальном сайте объявил о переходе из «Челси» полузащитника сборной Аргентинцы Энцо Ферндеса.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/manchester-siti-obyavil-o-perehode-enco-iz-chelsi-2451794/"
     },
     {
-      "d": "1 сентября 2026",
+      "d": "2 сентября 2026",
       "t": "Защитник Кевин Дансо перешел в «Сандерленд» из «Тоттенхэма» на пр...",
       "text": "«Сандерленд» арендовал защитника «Тоттенхэма» и сборной Австрии Кевина Дансо, сообщила пресс-служба «черных котов».",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/zaschitnik-kevin-danso-pereshel-v-sanderlend-iz-tottenhema-na-pravah-arendy-2451758/"
     },
     {
-      "d": "1 сентября 2026",
+      "d": "2 сентября 2026",
       "t": "«Лейпциг» арендовал полузащитника «Ромы» Эль-Энауи",
       "text": "Полузащитник сборной Марокко Нель Эль-Энауи перешел в «Лейпциг» из «Ромы» на правах аренды, сообщила пресс-служба немецкого клуба.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/germany/news/leypcig-arendoval-poluzaschitnika-romy-el-enaui-2451747/"
     },
     {
-      "d": "1 сентября 2026",
+      "d": "2 сентября 2026",
       "t": "Полузащитник Эллиот перешел в «Валенсию» из «Ливерпуля» на правах...",
       "text": "Полузащитник «Ливерпуля» и сборной Англии Харви Эллиотт перешел в «Валенсию» на правах аренды, сообщила пресс-служба испанского кл...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/poluzaschitnik-elliot-pereshel-v-valensiyu-iz-liverpulya-na-pravah-arendy-2451719/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Защитник Антонио Рюдигер объявил о завершении карьеры в сборной Г...",
-      "text": "Защитник «Реала» Антонио Рюдигер объявил о завершении карьеры в сборной Германии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/zaschitnik-antonio-ryudiger-obyavil-o-zavershenii-karery-v-sbornoy-germanii-2451699/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Экс-вратарь сборной России Гильерме — об Агкацеве: «Чувствуется, ...",
-      "text": "Бывший вратарь сборной России Маринато Гильерме поделился мнением об игре голкипера «Краснодара» Станислава Агкацева.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/eks-vratar-sbornoy-rossii-marinato-gilerme-o-stanislave-agkaceve-chuvstvuetsya-chto-igroki-krasnodara-emu-doveryayut-2451689/"
-    },
-    {
-      "d": "1 сентября 2026",
-      "t": "Слуцкий заявил, что не приглашал Дзюбу в медиафутбольную сборную ...",
-      "text": "Леонид Слуцкий рассказал, как относится к своей работе на посту главного тренера медиафутбольной сборной России, и ответил на вопр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/media-football-league/news/sluckiy-zayavil-chto-ne-priglashal-dzyubu-v-mediafutbolnuyu-sbornuyu-rossii-2451681/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-01T23:34:56.468825Z"
+  "results_updated": "2026-09-02T01:21:36.198684Z"
 }
