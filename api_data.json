@@ -2,7 +2,14 @@
   "news": [
     {
       "d": "3 сентября 2026",
-      "t": "Аршавин о тренерском дуэте со Слуцким в сборной России по медиафу...",
+      "t": "Луис Энрике: «Я считаю, что «Золотой мяч» должен выиграть футболи...",
+      "text": "Главный тренер «ПСЖ» Луис Энрике заявил, что «Золотой мяч» — 2026 должен получить один из футболистов парижского клуба.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/luis-enrike-schitaet-chto-zolotoy-myach-dolzhen-vyigrat-futbolist-pszh-2452316/"
+    },
+    {
+      "d": "3 сентября 2026",
+      "t": "Аршавин — о тренерском дуэте со Слуцким в сборной России по медиа...",
       "text": "Бывший футболист «Арсенала» Андрей Аршавин в разговоре с «СЭ» рассказал о назначении тренером в сборную России по медиафутболу.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/media-football-league/news/arshavin-podelilsya-vpechatleniyami-ot-trenerskogo-dueta-so-sluckim-v-sbornoy-rossii-po-mediafutbolu-2452280/"
@@ -16,7 +23,7 @@
     },
     {
       "d": "3 сентября 2026",
-      "t": "Медведева о Холанне: «Я люблю людей, которые заставляют меня улыб...",
+      "t": "Медведева — о Холанне: «Я люблю людей, которые заставляют меня ул...",
       "text": "Двукратный серебряный призер Олимпийских игр фигуристка Евгения Медведева призналась, что лайкала видеозаписи с нападающим «Манчес...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/figure-skating/news/medvedeva-o-holanne-ya-lyublyu-lyudey-kotorye-zastavlyayut-menya-ulybatsya-2452274/"
@@ -48,13 +55,6 @@
       "text": "Бывший футболист сборной России Андрей Аршавин ответил на вопрос «СЭ» о приглашении в сборную России по медиафутболу.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/media-football-league/news/andrey-arshavin-otvetil-na-vopros-o-priglashenii-v-sbornuyu-rossii-po-mediafutbolu-2452229/"
-    },
-    {
-      "d": "3 сентября 2026",
-      "t": "Моуринью — о Месси: «Это игрок, по которому мы будем скучать»",
-      "text": "Главный тренер «Реала» Жозе Моуринью прокомментировал решение нападающего Лионеля Месси завершить карьеру в сборной Аргентины.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/mourinyu-o-messi-eto-igrok-po-kotoromu-my-budem-skuchat-2452186/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-03T15:34:24.523945Z"
+  "results_updated": "2026-09-03T17:21:26.037452Z"
 }
