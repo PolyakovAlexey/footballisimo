@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "3 сентября 2026",
+      "t": "Форвард сборной Венесуэлы Келси стал игроком «Рейнджерс»",
+      "text": "«Рейнджерс» объявили о переходе нападающего «Портленда» Кевина Келси.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/transfers/news/forvard-portlenda-i-sbornoy-venesuely-kevin-kelsi-stal-igrokom-reyndzhers-2452368/"
+    },
+    {
+      "d": "3 сентября 2026",
+      "t": "Кьеза не включен в заявку «Ливерпуля» на общий этап Лиги чемпионо...",
+      "text": "Итальянский нападающий Федерико Кьеза и японский полузащитник Ватару Эндо не вошли в заявку «Ливерпуля» из 25 игроков на общий эта...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/keza-ne-vklyuchen-v-zayavku-liverpulya-na-obschiy-etap-ligi-chempionov-2452367/"
+    },
+    {
+      "d": "3 сентября 2026",
       "t": "Маркос Льоренте завершил карьеру в сборной Испании в 31 год",
       "text": "Полузащитник «Атлетико» Маркос Льоренте объявил о завершении карьеры в сборной Испании.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной России по медиафутболу Леонид Слуцкий ответил на вопрос о возможном предложении возглавить сборную Таджикис...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/leonid-sluckiy-gotov-rassmotret-predlozhenie-vozglavit-sbornuyu-tadzhikistana-2452275/"
-    },
-    {
-      "d": "3 сентября 2026",
-      "t": "Молодежная сборная России сыграет с Северной Македонией и Сербией",
-      "text": "Молодежная сборная России проведет товарищеские матчи с командами Северной Македонии и Сербии, сообщает журналист Иван Карпов.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/molodezhnaya-sbornaya-rossii-sygraet-s-severnoy-makedoniey-i-serbiey-2452260/"
-    },
-    {
-      "d": "3 сентября 2026",
-      "t": "Сорокин заявил о готовности сыграть за сборную России. Футболист ...",
-      "text": "Защитник «Чэнду Жунчэн» Егор Сорокин в интервью «СЭ» поделился мнением о возможном выступлении за сборную России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/china/news/sorokin-zayavil-o-gotovnosti-sygrat-za-sbornuyu-rossii-futbolist-vystupaet-v-kitae-2452242/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-03T21:40:07.599946Z"
+  "results_updated": "2026-09-03T23:31:31.715072Z"
 }
