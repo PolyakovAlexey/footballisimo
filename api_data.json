@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "4 сентября 2026",
+      "t": "Дзагоев — о матче сборной медийной сборной России против Таджикис...",
+      "text": "Алан Дзагоев в разговоре с «СЭ» поделился мнением о матче сборной России по медиафутболу против медийной команды Таджикистана.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/media-football-league/news/alan-dzagoev-podelilsya-mneniem-o-matche-sbornoy-rossii-po-mediafutbolu-protiv-mediynoy-komandy-tadzhikistana-2452533/"
+    },
+    {
+      "d": "4 сентября 2026",
+      "t": "Юношеская сборная России U-14 сыграет с Сербией, Турцией и Казахс...",
+      "text": "Юношеская сборная России U-14 примет участие в Турнире развития УЕФА, сообщила пресс-служба Российского футбольного союза (РФС).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/turnir-razvitiya-uefa-raspisanie-i-soperniki-sbornoy-rossii-u-14-na-sorevnovanii-s-13-po-19-sentyabrya-2026-2452529/"
+    },
+    {
+      "d": "4 сентября 2026",
       "t": "Арбелоа: «У «Фулхэма» очень хороший состав»",
       "text": "Главный тренер «Фулхэма» Альвало Арбелоа прокомментировал неудачный старт команды в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер «Ювентуса» Лучано Спаллетти прокомментировал игру нападающего «Ромы» Дониэлла Малена. В 2 матчах на старте сезона-2...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/italy/news/spalletti-o-malene-on-bezuslovno-igrok-kotoryy-vyzval-bolshoy-interes-2452404/"
-    },
-    {
-      "d": "4 сентября 2026",
-      "t": "Рикардо Родригес вернулся в «Торино»",
-      "text": "«Торино» объявил о подписании контракта с защитником сборной Швейцарии Рикардо Родригесом.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/transfers/news/rikardo-rodriges-vernulsya-v-torino-2452399/"
-    },
-    {
-      "d": "4 сентября 2026",
-      "t": "Анчелотти: «Моуринью проделает в «Реале» отличную работу, я в это...",
-      "text": "Главный тренер сборной Бразилии Карло Анчелотти прокомментировал возвращение Жозе Моуринью на пост главного тренера в мадридском к...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/karlo-anchelotti-kommentariy-po-vozvrascheniyu-zhoze-mourinyu-v-real-2452394/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-04T14:04:23.966986Z"
+  "results_updated": "2026-09-04T15:32:39.662048Z"
 }
