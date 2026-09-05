@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "5 сентября 2026",
+      "t": "Лука Модрич сыграет за сборную Хорватии в осенних матчах Лиги нац...",
+      "text": "Полузащитник «Милана» Лука Модрич будет вызван в сборную Хорватии на осенние матчи Лиги наций, сообщила пресс-служба Хорватского ф...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/luka-modrich-sygraet-za-sbornuyu-horvatii-v-osennih-matchah-ligi-naciy-2452703/"
+    },
+    {
+      "d": "5 сентября 2026",
+      "t": "Гутьеррес прошел медосмотр в «Динамо»",
+      "text": "Как стало известно «СЭ», 22-летний полузащитник «Индепендьенте» и сборной Чили Максимилиано Гутьеррес успешно прошел в Москве медо...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/maksimiliano-guterres-proshel-medosmotr-pered-zaversheniem-transfera-v-dinamo-2452700/"
+    },
+    {
+      "d": "5 сентября 2026",
       "t": "Ираола: «Барколя хорошо провел отведенное ему время на поле»",
       "text": "Главный тренер «Ливерпуля» Андони Ираола после победы над «Ипсвичем» (2:0) в матче 3-го тура чемпионата Англии оценил дебют игрока...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Алан Дзагоев в разговоре с «СЭ» поделился мнением о матче сборной России по медиафутболу против медийной команды Таджикистана.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/media-football-league/news/alan-dzagoev-podelilsya-mneniem-o-matche-sbornoy-rossii-po-mediafutbolu-protiv-mediynoy-komandy-tadzhikistana-2452533/"
-    },
-    {
-      "d": "5 сентября 2026",
-      "t": "Юношеская сборная России U-14 сыграет с Сербией, Турцией и Казахс...",
-      "text": "Юношеская сборная России U-14 примет участие в Турнире развития УЕФА, сообщила пресс-служба Российского футбольного союза (РФС).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/turnir-razvitiya-uefa-raspisanie-i-soperniki-sbornoy-rossii-u-14-na-sorevnovanii-s-13-po-19-sentyabrya-2026-2452529/"
-    },
-    {
-      "d": "5 сентября 2026",
-      "t": "Арбелоа: «У «Фулхэма» очень хороший состав»",
-      "text": "Главный тренер «Фулхэма» Альвало Арбелоа прокомментировал неудачный старт команды в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/arbeloa-u-fulhema-ochen-horoshiy-sostav-2452515/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-05T07:50:37.483966Z"
+  "results_updated": "2026-09-05T09:32:28.645837Z"
 }
