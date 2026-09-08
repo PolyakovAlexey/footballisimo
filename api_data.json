@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "8 сентября 2026",
+      "t": "Стали известны все 30 номинантов на «Золотой мяч»-2026",
+      "text": "Журнал France Football объявил список номинантов на «Золотой мяч»-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/zolotoy-myach-2026-spisok-vseh-30-nominantov-na-priz-luchshemu-igroku-goda-2453555/"
+    },
+    {
+      "d": "8 сентября 2026",
+      "t": "Кузнецов — о ЦСКА: «Игры совершенно нет, но есть результат»",
+      "text": "Бывший футболист ЦСКА Дмитрий Кузнецов поделился мнением об игре армейцев в сезоне-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/dmitriy-kuznecov-schitaet-chto-u-cska-sovershenno-net-igry-2453549/"
+    },
+    {
+      "d": "8 сентября 2026",
+      "t": "Канчельскис: «На данный момент Сафонов — вратарь года!»",
+      "text": "Бывший полузащитник «Манчестер Юнайтед» Андрей Канчельскис в разговоре с «СЭ» поделился мнением о номинировании вратаря «ПСЖ» и сб...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/byvshiy-poluzaschitnik-manchester-yunayted-andrey-kanchelskis-schitaet-safonova-vratarem-goda-2453552/"
+    },
+    {
+      "d": "8 сентября 2026",
+      "t": "Кварацхелия вошел в список номинантов на «Золотой мяч»-2026",
+      "text": "Полузащитник ПСЖ Хвича Кварацхелия попал в список номинантов на «Золотой мяч»-2026, сообщает пресс-служба награды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/zolotoy-myach-2026-poluzaschitnik-pszh-i-sbornoy-gruzii-hvicha-kvaracheliya-voshel-v-chislo-nominantov-2453550/"
+    },
+    {
+      "d": "8 сентября 2026",
       "t": "Ямаль, Кубарси и Диоманде номинированы на звание лучшего молодого...",
       "text": "France Football опубликовал список из десяти номинантов на приз лучшему молодому футболисту 2026 года.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Депутат Госдумы РФ Светлана Журова в разговоре с «СЭ» поделилась мнением о номинировании вратаря «ПСЖ» и сборной России Матвея Саф...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/zhurova-o-safonove-glavnoe-chtoby-on-ne-poymal-zvezdu-pust-luchshe-lovit-myachi-2453526/"
-    },
-    {
-      "d": "8 сентября 2026",
-      "t": "Роднина о Сафонове: «Здорово, когда так ярко представляют Россию ...",
-      "text": "Депутат Госдумы РФ Ирина Роднина в разговоре с «СЭ» поделилась мнением о номинировании вратаря «ПСЖ» и сборной России Матвея Сафон...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/rodnina-o-safonove-zdorovo-kogda-tak-yarko-predstavlyayut-rossiyu-i-ee-narod-2453519/"
-    },
-    {
-      "d": "8 сентября 2026",
-      "t": "Губерниев считает Сафонова преемником Яшина: «Не удивлюсь, если М...",
-      "text": "Известный комментатор Дмитрий Губерниев в разговоре с «СЭ» поделился мнением о номинировании вратаря «ПСЖ» и сборной России Матвея...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/dmitriy-guberniev-schitaet-vratarya-pszh-matveya-safonova-preemnikom-lva-yashina-2453517/"
-    },
-    {
-      "d": "8 сентября 2026",
-      "t": "Россиянин Матвей Сафонов номинирован на награду имени Льва Яшина ...",
-      "text": "Вратарь «ПСЖ» и сборной России Матвей Сафонов номинирован на звание лучшего вратаря 2026 года по версии журнала France Football.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/matvey-safonov-nominirovan-na-nagradu-imeni-lva-yashina-ot-france-football-polnyy-spisok-luchshih-vratarey-2453514/"
-    },
-    {
-      "d": "8 сентября 2026",
-      "t": "Артета, де ла Фуэнте, Эмери, Компани и Энрике номинированы на зва...",
-      "text": "Французский журнал France Football объявил номинантов на звание лучшего тренера 2026 года.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/arteta-de-la-fuente-emeri-kompani-i-enrike-budut-pretendovat-na-zvanie-luchshego-trenera-2026-goda-2453498/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-08T14:13:55.879604Z"
+  "results_updated": "2026-09-08T15:46:16.098036Z"
 }
