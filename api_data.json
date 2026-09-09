@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "9 сентября 2026",
+      "t": "«Барселона» разгромила «Фейеноорд», у Рафиньи дубль, у Ямаля гол ...",
+      "text": "«Барселона» на своем поле обыграла «Фейеноорд» в матче 1-го тура общего этапа Лиги чемпионов-2026/27 — 5:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/barselona-feyenoord-schet-i-rezultat-matcha-1-tura-ligi-chempionov-9-sentyabrya-2026-2453923/"
+    },
+    {
+      "d": "9 сентября 2026",
+      "t": "Источник: Скалони хочет покинуть пост главного тренера сборной Ар...",
+      "text": "Главный тренер сборной Аргентины Лионель Скалони заявил президенту Аргентинской ассоциации футбола (AFA) Клаудио Тапиа о желании п...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/lionel-skaloni-zayavil-chto-hochet-pokinut-post-glavnogo-trenera-sbornoy-argentiny-2453909/"
+    },
+    {
+      "d": "9 сентября 2026",
+      "t": "Ямаль обошел Мбаппе и стал самым результативным подростком в исто...",
+      "text": "Нападающий «Барселоны» Ламин Ямаль отметился голевой передачей в матче 1-го тура общего этапа Лиги чемпионов-2026/27 против «Фейен...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/lamin-yamal-oboshel-kiliana-mbappe-i-stal-samym-rezultativnym-podrostkom-v-istorii-ligi-chempionov-2453904/"
+    },
+    {
+      "d": "9 сентября 2026",
       "t": "«Волга» в серии пенальти обыграла «Волгарь» в кубковом матче",
       "text": "«Волга» из Ульяновска победила «Волгарь» в матче 4-го раунда пути регионов FONBET Кубка России-2026/27 — 0:0, пенальти 5:4.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Стал известен расширенный состав молодежной сборной России на ближайший сбор и товарищеские матчи.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/kondakov-lukin-mukailov-i-terehovskiy-popali-v-rasshirennyy-sostav-molodezhnoy-sbornoy-rossii-2453855/"
-    },
-    {
-      "d": "9 сентября 2026",
-      "t": "Дик Адвокат продлил контракт со сборной Кюрасао",
-      "text": "Нидерландский 78-летний специалист Дик Адвокат продлил соглашение со сборной Кюрасао, сообщила пресс-служба Федерации футбола Кюра...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/dik-advokat-prodlil-kontrakt-so-sbornoy-kyurasao-2453849/"
-    },
-    {
-      "d": "9 сентября 2026",
-      "t": "Защитник Ромеро станет новым капитаном сборной Аргентины после ух...",
-      "text": "Защитник «Атлетико» Кристиан Ромеро получит капитанскую повязку в сборной Аргентины, сообщает TyC Sports.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/zaschitnik-romero-stanet-novym-kapitanom-sbornoy-argentiny-posle-uhoda-messi-2453839/"
-    },
-    {
-      "d": "9 сентября 2026",
-      "t": "Анри о претендентах на «Золотой мяч»: «Я бы выбрал Мбаппе, но Оли...",
-      "text": "Бывший футболист сборной Франции Тьерри Анри поделился мнением о том, кого считает фаворитами в борьбе за «Золотой мяч».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/anri-o-pretendentah-na-zolotoy-myach-ya-by-vybral-mbappe-no-olise-tozhe-blizok-2453833/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-09T17:23:38.153490Z"
+  "results_updated": "2026-09-09T19:02:32.410439Z"
 }
