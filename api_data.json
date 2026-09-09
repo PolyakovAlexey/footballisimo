@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "9 сентября 2026",
+      "t": "«СКА-Хабаровск» разгромил «Красное Знамя» в кубковом матче",
+      "text": "«СКА-Хабаровск» победил команду «Красное Знамя СиндЕкат» в матче 4-го раунда пути регионов FONBET Кубка России-2026/27 — 4:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/krasnoe-znamya-sindekat-ska-habarovsk-rezultat-matcha-4-raunda-puti-regionov-kubka-rossii-9-sentyabrya-2026-2453856/"
+    },
+    {
+      "d": "9 сентября 2026",
+      "t": "Кондаков, Лукин, Мукаилов и Тереховский попали в расширенный сост...",
+      "text": "Стал известен расширенный состав молодежной сборной России на ближайший сбор и товарищеские матчи.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/kondakov-lukin-mukailov-i-terehovskiy-popali-v-rasshirennyy-sostav-molodezhnoy-sbornoy-rossii-2453855/"
+    },
+    {
+      "d": "9 сентября 2026",
+      "t": "Дик Адвокат продлил контракт со сборной Кюрасао",
+      "text": "Нидерландский 78-летний специалист Дик Адвокат продлил соглашение со сборной Кюрасао, сообщила пресс-служба Федерации футбола Кюра...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/dik-advokat-prodlil-kontrakt-so-sbornoy-kyurasao-2453849/"
+    },
+    {
+      "d": "9 сентября 2026",
       "t": "Защитник Ромеро станет новым капитаном сборной Аргентины после ух...",
       "text": "Защитник «Атлетико» Кристиан Ромеро получит капитанскую повязку в сборной Аргентины, сообщает TyC Sports.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Польский «Пяст Гливице» подписал арендное соглашение с защитником «Осера» и сборной Чили Франсиско Сьерральтой. Соглашение рассчит...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/transfers/news/oser-otdal-serraltu-v-arendu-v-pyast-glivice-2453791/"
-    },
-    {
-      "d": "9 сентября 2026",
-      "t": "Участника ЧМ-2026 Вольпато оштрафовали за вождение в состоянии на...",
-      "text": "Полузащитник «Сассуоло» и сборной Австралии Кристиан Вольпато был оштрафован полицией Нового Южного Уэльса за вождение в состоянии...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/uchastnika-chm-2026-kristiana-volpato-oshtrafovali-za-vozhdenie-v-sostoyanii-narkoticheskogo-opyaneniya-2453789/"
-    },
-    {
-      "d": "9 сентября 2026",
-      "t": "Слуцкий рассказал о своих планах в медиасфере",
-      "text": "Бывший тренер сборной России Леонид Слуцкий в интервью «СЭ» рассказал о своих дальнейших планах в медиаиндустрии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/media-football-league/news/sluckiy-rasskazal-o-svoih-planah-v-mediasfere-2453761/"
-    },
-    {
-      "d": "9 сентября 2026",
-      "t": "Слуцкий — о работе в сборной России по медиафутболу: «Видел у мно...",
-      "text": "Бывший тренер сборной России Леонид Слуцкий в интервью «СЭ» рассказал об опыте работы в национальной команде по медиафутболу.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/media-football-league/news/sluckiy-o-rabote-v-sbornoy-rossii-po-mediafutbolu-videl-u-mnogih-rebyat-slezy-kogda-oni-peli-gimn-2453757/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-09T14:13:57.193370Z"
+  "results_updated": "2026-09-09T15:42:07.776375Z"
 }
