@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "10 сентября 2026",
+      "t": "Клубы МЛС в 2026 году установили рекорд по трансферным тратам",
+      "text": "МЛС объявила, что установила новые рекорды как по входящим, так и по исходящим трансферным тратам. В 2026 году в общей сложности к...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/mls/news/kluby-mls-v-2026-godu-ustanovili-rekord-po-transfernym-tratam-2454032/"
+    },
+    {
+      "d": "10 сентября 2026",
+      "t": "Расписание матчей и трансляций Лиги чемпионов на 10 сентября",
+      "text": "10 сентября, продолжится 1-й тур общего этапа Лиги чемпионов сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/raspisanie-matchey-i-translyaciy-ligi-chempionov-na-10-sentyabrya-2026-2453859/"
+    },
+    {
+      "d": "10 сентября 2026",
       "t": "«Барселона» разгромила «Фейеноорд», у Рафиньи дубль, у Ямаля гол ...",
       "text": "«Барселона» на своем поле обыграла «Фейеноорд» в матче 1-го тура общего этапа Лиги чемпионов-2026/27 — 5:1.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Кировское «Динамо» дома победило «КАМАЗ» в матче 4-го раунда пути регионов FONBET Кубка России-2026/27 — 1:0.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_cup/news/dinamo-k-kamaz-kaluga-ufa-murom-veles-sokol-leningradec-rezultaty-matchey-kubka-rossii-9-sentyabrya-2026-2453878/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "«СКА-Хабаровск» разгромил «Красное Знамя» в кубковом матче",
-      "text": "«СКА-Хабаровск» победил команду «Красное Знамя СиндЕкат» в матче 4-го раунда пути регионов FONBET Кубка России-2026/27 — 4:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/krasnoe-znamya-sindekat-ska-habarovsk-rezultat-matcha-4-raunda-puti-regionov-kubka-rossii-9-sentyabrya-2026-2453856/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "Кондаков, Лукин, Мукаилов и Тереховский попали в расширенный сост...",
-      "text": "Стал известен расширенный состав молодежной сборной России на ближайший сбор и товарищеские матчи.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/kondakov-lukin-mukailov-i-terehovskiy-popali-v-rasshirennyy-sostav-molodezhnoy-sbornoy-rossii-2453855/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-10T03:40:05.930751Z"
+  "results_updated": "2026-09-10T08:24:45.790373Z"
 }
