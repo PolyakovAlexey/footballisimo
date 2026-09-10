@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "10 сентября 2026",
+      "t": "Тороп о попадании в расширенный список сборной России: «Мне очень...",
+      "text": "Вратарь ЦСКА Владислав Тороп прокомментировал свое включение в расширенный список футболистов на осенний сбор сборной России.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/torop-o-popadanii-v-rasshirennyy-spisok-sbornoy-rossii-mne-ochen-priyatno-spasibo-bolshoe-za-doverie-2454066/"
+    },
+    {
+      "d": "10 сентября 2026",
+      "t": "Луис Энрике: «Кварацхелия — топовый игрок. Он может выиграть «Зол...",
+      "text": "Главный тренер «ПСЖ» Луис Энрике оценил шансы полузащитника парижан Хвичи Кварацхелии стать обладателем «Золотого мяча»-2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/glavnyy-trener-pszh-luis-enrike-zayavil-chto-hvicha-kvaracheliya-mozhet-vyigrat-zolotoy-myach-2026-2454044/"
+    },
+    {
+      "d": "10 сентября 2026",
       "t": "Клубы МЛС в 2026 году установили рекорд по трансферным тратам",
       "text": "МЛС объявила, что установила новые рекорды как по входящим, так и по исходящим трансферным тратам. В 2026 году в общей сложности к...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "«Волга» из Ульяновска победила «Волгарь» в матче 4-го раунда пути регионов FONBET Кубка России-2026/27 — 0:0, пенальти 5:4.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_cup/news/volgar-volga-schet-i-rezultat-matcha-4-raunda-puti-regionov-kubka-rossii-9-sentyabrya-2026-2453900/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "Какими будут спортивные трансляции будущего?",
-      "text": "«Кинопоиск» в медиа выпустил большой разбор современных спортивных трансляций на примере чемпионата мира-2026 — турнира, на которо...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/kakimi-budut-sportivnye-translyacii-buduschego-2453890/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "Кировское «Динамо» обыграло «КАМАЗ» в Кубке, «Калуга» выбила «Уфу...",
-      "text": "Кировское «Динамо» дома победило «КАМАЗ» в матче 4-го раунда пути регионов FONBET Кубка России-2026/27 — 1:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/dinamo-k-kamaz-kaluga-ufa-murom-veles-sokol-leningradec-rezultaty-matchey-kubka-rossii-9-sentyabrya-2026-2453878/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-10T08:24:45.790373Z"
+  "results_updated": "2026-09-10T10:08:36.549172Z"
 }
