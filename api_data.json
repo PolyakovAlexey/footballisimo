@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "10 сентября 2026",
+      "t": "«Бавария» — «Буде-Глимт»: видеообзор матча Лиги чемпионов",
+      "text": "«Бавария» переиграла «Буде-Глимт» в матче 1-го тура общего этапа Лиги чемпионов-2026/27 — 5:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/bavariya-bude-glimt-videoobzor-matcha-ligi-chempionov-i-luchshie-momenty-igry-10-sentyabrya-2026-goda-2454245/"
+    },
+    {
+      "d": "10 сентября 2026",
+      "t": "Кэррик — о победе «Манчестер Юнайтед» над «Сабахом»: «В атаке у н...",
+      "text": "Главный тренер «Манчестер Юнайтед» Майкл Кэррик прокомментировал победу над «Сабахом» в матче 1-го тура общего этапа Лиги чемпионо...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/glavnyy-trener-manchester-yunayted-maykl-kerrik-ocenil-pobedu-nad-sabahom-v-matche-ligi-chempionov-10-sentyabrya-2454236/"
+    },
+    {
+      "d": "10 сентября 2026",
+      "t": "Кейн вошел в число четырех игроков, забивавших в восьми и более м...",
+      "text": "Нападающий «Баварии» Гарри Кейн отметился голом в матче 1-го тура общего этапа Лиги чемпионов-2026/27 против «Буде-Глимт» (5:0).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/garri-keyn-voshel-v-chislo-chetyreh-igrokov-zabivavshih-v-vosmi-i-bolee-matchah-ligi-chempionov-podryad-2454235/"
+    },
+    {
+      "d": "10 сентября 2026",
       "t": "«ПСЖ» лидирует в турнирной таблице Лиги чемпионов после 1-го тура...",
       "text": "В четверг, 10 сентября, были сыграны заключительные матчи 1-го тура общего этапа Лиги чемпионов-2026/27.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Стали известны стартовые составы «Комо» и «Лейпцига» на матч 1-го тура общего этапа Лиги чемпионов-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/komo-leypcig-startovye-sostavy-na-match-1-tura-obschego-etapa-ligi-chempionov-10-sentyabrya-2026-2454193/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "«Фенербахче» и «Рома» сыграли вничью в Лиге чемпионов",
-      "text": "Матч «Фенербахче» — «Рома» в 1-м туре общего этапа Лиги чемпионов-2026/27 завершился результативной ничьей — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/fenerbahche-roma-schet-1-1-rezultat-matcha-1-tura-obschego-etapa-ligi-chempionov-10-sentyabrya-2026-2454191/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "Мартинес и Фернандеш выйдут в старте «Манчестер Юнайтед» на матч ...",
-      "text": "Стали известны стартовые составы «Манчестер Юнайтед» и «Сабаха» на матч 1-го тура общего этапа Лиги чемпионов-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/manchester-yunayted-sabah-baku-startovye-sostavy-na-match-1-tura-obschego-etapa-ligi-chempionov-10-sentyabrya-2026-2454186/"
-    },
-    {
-      "d": "10 сентября 2026",
-      "t": "«Динамо» арендовало участника ЧМ-2026, полузащитника «Осера» Кази...",
-      "text": "Московское «Динамо» объявило об аренде полузащитника «Осера» Жозуэ Казимира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/moskovskoe-dinamo-arendovalo-poluzaschitnika-osera-zhozue-kazimira-2454171/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-10T21:21:18.635918Z"
+  "results_updated": "2026-09-10T23:15:23.786741Z"
 }
