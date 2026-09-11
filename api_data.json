@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "11 сентября 2026",
+      "t": "Мостовой — о возможном переходе Головина в «Спартак»: «Правильно ...",
+      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой в разговоре с «СЭ» поделился мнением о несостоявшемся переходе хавбек...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/mostovoy-o-vozmozhnom-perehode-golovina-v-spartak-pravilno-sdelal-chto-ostalsya-v-monako-2454372/"
+    },
+    {
+      "d": "11 сентября 2026",
+      "t": "Мостовой об уходе Хлусевича из «Спартака»: «Хороший футболист, но...",
+      "text": "Бывший полузащитник сборных СССР и России Александр Мостовой в разговоре с «СЭ» поделился мнением о расторжении контракта защитник...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/hlusevich-rastorg-kontrakt-so-spartakom-reakciya-aleksandra-mostovogo-2454371/"
+    },
+    {
+      "d": "11 сентября 2026",
       "t": "Павлюченко выступил за отъезд россиян в европейские клубы: «Послу...",
       "text": "Бывший футболист сборной России Роман Павлюченко в разговоре с «СЭ» высказался об отъезде российских футболистов в европейские клу...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "В четверг, 10 сентября, были сыграны заключительные матчи 1-го тура общего этапа Лиги чемпионов-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/liga-chempionov-2026-27-turnirnaya-tablica-obschego-etapa-posle-1-tura-polozhenie-na-11-sentyabrya-2026-goda-2454226/"
-    },
-    {
-      "d": "11 сентября 2026",
-      "t": "«Бавария» разгромила «Буде-Глимт», мюнхенцы забили все пять голов...",
-      "text": "«Бавария» на своем поле обыграла «Буде-Глимт» в матче 1-го тура общего этапа Лиги чемпионов-2026/27 — 5:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/bavariya-bude-glimt-schet-i-rezultat-matcha-1-tura-obschego-etapa-ligi-chempionov-10-sentyabrya-2026-2454224/"
-    },
-    {
-      "d": "11 сентября 2026",
-      "t": "«Манчестер Юнайтед» забил четыре безответных гола «Сабаху» в Лиге...",
-      "text": "«Манчестер Юнайтед» одержал крупную победу над «Сабахом» в матче 1-го тура общего этапа Лиги чемпионов-2026/27 — 4:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/manchester-yunayted-sabah-schet-i-rezultat-matcha-1-tura-obschego-etapa-ligi-chempionov-10-sentyabrya-2026-2454223/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-11T10:05:58.768526Z"
+  "results_updated": "2026-09-11T12:32:03.203191Z"
 }
