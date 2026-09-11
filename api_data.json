@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "11 сентября 2026",
+      "t": "Оформивший хет-трик Торрес стал лучшим игроком недели в Лиге чемп...",
+      "text": "Нападающий «ПСЖ» Ферран Торрес признан лучшим игроком 1-го тура общего этапа Лиги чемпионов-2026/27, сообщается на сайте УЕФА.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/napadayuschiy-pszh-ferran-torres-stal-luchshim-igrokom-nedeli-v-lige-chempionov-2454392/"
+    },
+    {
+      "d": "11 сентября 2026",
+      "t": "Педру Нету продлил контракт с «Челси»",
+      "text": "«Челси» объявил о продлении контракта с полузащитником сборной Португалии Педру Нету.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/pedru-netu-prodlil-kontrakt-s-chelsi-do-2032-goda-2454389/"
+    },
+    {
+      "d": "11 сентября 2026",
       "t": "Мостовой — о возможном переходе Головина в «Спартак»: «Правильно ...",
       "text": "Бывший полузащитник сборных СССР и России Александр Мостовой в разговоре с «СЭ» поделился мнением о несостоявшемся переходе хавбек...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер «Манчестер Юнайтед» Майкл Кэррик прокомментировал победу над «Сабахом» в матче 1-го тура общего этапа Лиги чемпионо...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/glavnyy-trener-manchester-yunayted-maykl-kerrik-ocenil-pobedu-nad-sabahom-v-matche-ligi-chempionov-10-sentyabrya-2454236/"
-    },
-    {
-      "d": "11 сентября 2026",
-      "t": "Кейн вошел в число четырех игроков, забивавших в восьми и более м...",
-      "text": "Нападающий «Баварии» Гарри Кейн отметился голом в матче 1-го тура общего этапа Лиги чемпионов-2026/27 против «Буде-Глимт» (5:0).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/garri-keyn-voshel-v-chislo-chetyreh-igrokov-zabivavshih-v-vosmi-i-bolee-matchah-ligi-chempionov-podryad-2454235/"
-    },
-    {
-      "d": "11 сентября 2026",
-      "t": "«ПСЖ» лидирует в турнирной таблице Лиги чемпионов после 1-го тура...",
-      "text": "В четверг, 10 сентября, были сыграны заключительные матчи 1-го тура общего этапа Лиги чемпионов-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/liga-chempionov-2026-27-turnirnaya-tablica-obschego-etapa-posle-1-tura-polozhenie-na-11-sentyabrya-2026-goda-2454226/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-11T12:32:03.203191Z"
+  "results_updated": "2026-09-11T14:07:20.741555Z"
 }
