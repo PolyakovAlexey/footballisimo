@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "12 сентября 2026",
+      "t": "Тренер «ПСЖ» Энрике: «Сразу несколько наших игроков заслуживают «...",
+      "text": "Главный тренер «ПСЖ» Луис Энрике поделился мнением о том, что одному из футболистов парижского клуба может достаться «Золотой мяч»...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/trener-pszh-enrike-srazu-neskolko-nashih-igrokov-zasluzhivayut-zolotogo-myacha-2454621/"
+    },
+    {
+      "d": "12 сентября 2026",
       "t": "Агкацев, Кисляк, Умяров, Нино и еще 8 игроков номинированы на пре...",
       "text": "«Комсомольская правда» объявила номинантов на премию «Джентльмен года» — 2026.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер сборной Бразилии Карло Анчелотти начал обновление вратарской линии в команде.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/friendly/news/anchelotti-obyasnil-pochemu-ne-vyzval-edersona-i-alissona-na-sentyabrskie-matchi-sbornoy-brazilii-2454522/"
-    },
-    {
-      "d": "12 сентября 2026",
-      "t": "Экс-полузащитник сборной Франции Сиссоко продолжит карьеру во вто...",
-      "text": "«Паниониос», выступающий во втором дивизионе Греции, ведет переговоры с экс-полузащитником сборной Франции Мусса Сиссоко, сообщает...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/greece/news/eks-poluzaschitnik-sbornoy-francii-sissoko-prodolzhit-kareru-vo-vtoroy-lige-grecii-2454509/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-12T11:56:23.598620Z"
+  "results_updated": "2026-09-12T13:24:34.507265Z"
 }
