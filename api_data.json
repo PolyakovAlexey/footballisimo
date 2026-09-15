@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "15 сентября 2026",
+      "t": "Новичка московского «Динамо» Гутьерреса вызвали в сборную Чили на...",
+      "text": "Новичка московского «Динамо» полузащитника Максимилиано Гутьерреса вызвали в сборную Чили на товарищеские матчи.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/novichka-moskovskogo-dinamo-guterresa-vyzvali-v-sbornuyu-chili-na-tovarischeskie-matchi-2455424/"
+    },
+    {
+      "d": "15 сентября 2026",
+      "t": "Месси вызвали в сборную — матч с Бенином станет для него прощальн...",
+      "text": "Нападающий «Интер Майами» Лионель Месси вошел в состав сборной Аргентины на товарищеские матчи с Боливией, Буркина-Фасо и Бенином.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/messi-vyzvan-v-sbornuyu-argentiny-na-tovarischeskie-matchi-2455416/"
+    },
+    {
+      "d": "15 сентября 2026",
+      "t": "«Реал» разработал стратегию для повышения шансов Мбаппе на «Золот...",
+      "text": "«Реал» разработал стратегию поддержки нападающего Килиана Мбаппе в борьбе за «Золотой мяч» 2026 года, сообщает L'Equipe.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/real-razrabotal-strategiyu-dlya-povysheniya-shansov-mbappe-na-zolotoy-myach-2455406/"
+    },
+    {
+      "d": "15 сентября 2026",
       "t": "Хамес Родригес объявил о завершении карьеры в сборной Колумбии",
       "text": "Полузащитник Хамес Родригес объявил о завершении выступлений за сборную Колумбии.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Тренер вратарей сборной России Виталий Кафанов объяснил выбор голкиперов на осенний учебно-тренировочный сбор национальной команды...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/kafanov-obyasnil-vybor-vratarey-na-osennie-matchi-sbornoy-rossii-2455365/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Карпин — об осенних матчах сборной: «Два достойных, сильных сопер...",
-      "text": "Главный тренер сборной России Валерий Карпин поделился ожиданиями от товарищеских матчей против Ирана, Намибии и Нигерии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-nazval-sbornye-irana-i-nigerii-silnymi-sopernikami-2455355/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Карпин — о непопадании Захаряна в окончательный состав: «Со счето...",
-      "text": "Главный тренер сборной России Валерий Карпин прокомментировал непопадание полузащитника «Реал Сосьедад» Арсена Захаряна в окончате...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-obyasnil-pochemu-zaharyan-ne-popal-v-okonchatelnyy-sostav-sbornoy-na-osennie-matchi-2455349/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Стерлинг признал вину по всем обвинениям после ДТП на спорткаре",
-      "text": "Бывший нападающий сборной Англии Рахим Стерлинг признал себя виновным по всем предъявленным ему обвинениям после ДТП, произошедшег...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/eks-forvard-sbornoy-anglii-rahim-sterling-priznal-vinu-po-vsem-obvineniyam-posle-dtp-na-sportkare-2455350/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-15T19:29:43.065526Z"
+  "results_updated": "2026-09-15T22:24:41.341222Z"
 }
