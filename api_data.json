@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "15 сентября 2026",
+      "t": "Экс-вратарь «Челси» Менди завершил карьеру в сборной Сенегала",
+      "text": "Вратарь «Аль-Ахли» Эдуар Менди объявил о завершении карьеры в сборной Сенегала.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/eks-vratar-chelsi-mendi-zavershil-kareru-v-sbornoy-senegala-2455387/"
+    },
+    {
+      "d": "15 сентября 2026",
+      "t": "Зидан планирует вызвать девять новичков в сборную Франции",
+      "text": "Главный тренер сборной Франции Зинедин Зидан планирует включить в расширенный состав национальной команды девять футболистов, кото...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/zidan-planiruet-vyzvat-devyat-novichkov-v-sbornuyu-francii-2455382/"
+    },
+    {
+      "d": "15 сентября 2026",
       "t": "Кафанов назвал большой вероятность выхода Сафонова в стартовом со...",
       "text": "Тренер вратарей сборной России Виталий Кафанов оценил шанс выхода вратаря «ПСЖ» Матвея Сафонова в стартовом составе на товарищески...",
       "src": "Спорт-Экспресс",
@@ -37,24 +51,10 @@
     },
     {
       "d": "15 сентября 2026",
-      "t": "Сафонов, Соболев и Батраков попали в состав сборной России на мат...",
+      "t": "Сафонов, Соболев и Батраков вошли в состав сборной России на матч...",
       "text": "Российский футбольный союз (РФС) опубликовал список футболистов, которые попали в окончательный состав сборной России на осенний у...",
       "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/safonov-sobolev-i-batrakov-popali-v-okonchatelnyy-sostav-sbornoy-rossii-na-osennie-matchi-2455335/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Сборная России по футболу: расписание товарищеских матчей в сентя...",
-      "text": "Национальная команда сыграет с Ираном, Намибией и Нигерией.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-po-futbolu-raspisanie-tovarischeskih-matchey-v-sentyabre-i-oktyabre-2455272/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Нападающий «Барселоны» Ямаль: «Навязчивая идея выиграть Лигу чемп...",
-      "text": "Вингер «Барселоны» Ламин Ямаль заявил, что каталонскому клубу по силам выиграть Лигу чемпионов в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/napadayuschiy-barselony-yamal-navyazchivaya-ideya-vyigrat-ligu-chempionov-eto-horosho-2455274/"
+      "url": "https://www.sport-express.ru/football/rusteam/news/sostav-sbornoy-rossii-po-futbolu-na-matchi-s-iranom-namibiey-nigeriey-v-sentyabre-i-oktyabre-2026-zayavka-komandy-2455335/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-15T15:59:58.833829Z"
+  "results_updated": "2026-09-15T17:48:11.712067Z"
 }
