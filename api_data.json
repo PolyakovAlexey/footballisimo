@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "15 сентября 2026",
+      "t": "Кафанов назвал большой вероятность выхода Сафонова в стартовом со...",
+      "text": "Тренер вратарей сборной России Виталий Кафанов оценил шанс выхода вратаря «ПСЖ» Матвея Сафонова в стартовом составе на товарищески...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/kafanov-nazval-bolshoy-veroyatnost-vyhoda-safonova-v-startovom-sostave-na-match-so-sbornoy-irana-2455366/"
+    },
+    {
+      "d": "15 сентября 2026",
+      "t": "Кафанов: «Хотим дать возможность сыграть всем вратарям из финальн...",
+      "text": "Тренер вратарей сборной России Виталий Кафанов объяснил выбор голкиперов на осенний учебно-тренировочный сбор национальной команды...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/kafanov-obyasnil-vybor-vratarey-na-osennie-matchi-sbornoy-rossii-2455365/"
+    },
+    {
+      "d": "15 сентября 2026",
       "t": "Карпин — об осенних матчах сборной: «Два достойных, сильных сопер...",
       "text": "Главный тренер сборной России Валерий Карпин поделился ожиданиями от товарищеских матчей против Ирана, Намибии и Нигерии.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Вингер «Барселоны» Ламин Ямаль заявил, что каталонскому клубу по силам выиграть Лигу чемпионов в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/napadayuschiy-barselony-yamal-navyazchivaya-ideya-vyigrat-ligu-chempionov-eto-horosho-2455274/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Моуринью: «Я доволен Винисиусом, но ему не хватает запредельного ...",
-      "text": "Главный тренер «Реала» Жозе Моуринью заявил, что доволен нападающим Винисиусом Жуниором на старте сезона-2026/27, несмотря на то, ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/glavnyy-trener-reala-zhoze-mourinyu-kommentariy-o-forme-napadayuschego-vinisiusa-zhuniora-2455270/"
-    },
-    {
-      "d": "15 сентября 2026",
-      "t": "Гудиев — о непопадании в расширенный состав сборной России: «С Ка...",
-      "text": "Вратарь «Акрона» Виталий Гудиев поделился с «СЭ» мнением о непопадании в расширенный состав сборной России на осенний сбор.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/gudiev-o-nepopadanii-v-rasshirennyy-sostav-sbornoy-rossii-s-kafanovym-ya-ne-obschalsya-esli-budu-nuzhen-gotov-2455255/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-15T14:41:32.788187Z"
+  "results_updated": "2026-09-15T15:59:58.833829Z"
 }
