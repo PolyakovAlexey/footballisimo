@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "18 сентября 2026",
+      "t": "Лучшие ВАР — Буланов и Левников. Чаще других помощь требовалась А...",
+      "text": "В девяти турах чемпионата России-2026/27 чаще всего видеоассистенты вмешивались в действия бригад, возглавляемых Иваном Абросимовы...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/luchshie-var-bulanov-i-levnikov-chasche-drugih-pomosch-trebovalas-abrosimovu-i-frolovu-2456260/"
+    },
+    {
+      "d": "18 сентября 2026",
+      "t": "Зидан объявил состав сборной Франции на матчи Лиги наций",
+      "text": "Стал известен состав сборной Франции на первые матчи под руководством нового главного тренера Зинедина Зидана.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/sostav-sbornoy-francii-na-pervye-matchi-zinedina-zidana-igry-s-turciey-italiey-i-belgiey-v-lige-naciy-2456258/"
+    },
+    {
+      "d": "18 сентября 2026",
+      "t": "ВАР работают против «Ахмата». Больше всего вмешательств в пользу ...",
+      "text": "В матчах девяти туров чемпионата России-2026/27 произошло 35 вмешательств видеоассистентов в действия арбитров, не считая отмененн...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/var-rabotayut-protiv-ahmata-bolshe-vsego-vmeshatelstv-v-polzu-cska-i-spartaka-2456241/"
+    },
+    {
+      "d": "18 сентября 2026",
       "t": "Защитника «Спартака» Джику вызвали в сборную Ганы на матчи с Кот-...",
       "text": "Защитник «Спартака» Александер Джику получил вызов в сборную Ганы на осенний сбор, сообщает пресс-служба национальной команды.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Португальская футбольная федерация опубликовала заявку национальной сборной на матчи Лиги наций, которые состоятся в сентябре и ок...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/krishtianu-ronaldu-vyzvan-v-sbornuyu-portugalii-na-matchi-ligi-naciy-2456165/"
-    },
-    {
-      "d": "18 сентября 2026",
-      "t": "Осимхен и Лукман не вошли в заявку сборной Нигерии на матч с Росс...",
-      "text": "Стал известен состав сборной Нигерии на товарищеский матч с Россией.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/rossiya-nigeriya-zayavka-sbornoy-nigerii-na-tovarischeskiy-match-18-sentyabrya-2026-2456160/"
-    },
-    {
-      "d": "18 сентября 2026",
-      "t": "Нападающий «Локомотива» Комличенко — о результатах команды: «Это ...",
-      "text": "Форвард «Локомотива» Николай Комличенко поделился мнением о результатах команды в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/napadayuschiy-lokomotiva-komlichenko-o-rezultatah-komandy-eto-nikuda-ne-goditsya-2456151/"
-    },
-    {
-      "d": "18 сентября 2026",
-      "t": "Палмер, Беллингем и Кейн попали в заявку сборной Англии на матчи ...",
-      "text": "Футбольная ассоциация Англии объявила заявку национальной сборной на сентябрьские и октябрьские матчи Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/palmer-bellingem-i-keyn-popali-v-zayavku-sbornoy-anglii-na-matchi-ligi-naciy-2456146/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-18T15:34:01.483009Z"
+  "results_updated": "2026-09-18T17:19:52.559188Z"
 }
