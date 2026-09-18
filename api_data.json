@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "18 сентября 2026",
+      "t": "Тренер сборной Португалии Жезуш: «У Роналду особый статус — пять ...",
+      "text": "Главный тренер сборной Португалии Жоржи Жезуш поделился мнением о вызове 41-летнего нападающего «Аль-Насра» Криштиану Роналду на б...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/trener-sbornoy-portugalii-zhezush-u-ronaldu-osobyy-status-pyat-zolotyh-myachey-no-eto-ne-vliyaet-na-moi-resheniya-2456192/"
+    },
+    {
+      "d": "18 сентября 2026",
       "t": "В юношескую сборную России U-15 на матчи с Таджикистаном и Северн...",
       "text": "Тренерский штаб юношеской сборной России U-15 объявил состав национальной команды на ближайшие товарищеские матчи.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Защитник «Спартака» Срджан Бабич получил вызов в сборную Сербии на предстоящие матчи Лиги наций.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/zaschitnik-spartaka-babich-vyzvan-v-sbornuyu-serbii-na-matchi-ligi-naciy-2456145/"
-    },
-    {
-      "d": "18 сентября 2026",
-      "t": "Вице-президент ФИФА Хьюитт потребовала от Инфантино объяснить при...",
-      "text": "Глава Футбольной ассоциации Англии и вице-президент Международной федерации футбола (ФИФА) Дебби Хьюитт потребовала от главы ФИФА ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/vice-prezident-fifa-hyuitt-potrebovala-ot-infantino-obyasnit-prichiny-otmeny-diskvalifikacii-baloguna-na-chm-2456072/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-18T12:39:12.597731Z"
+  "results_updated": "2026-09-18T14:12:09.683330Z"
 }
