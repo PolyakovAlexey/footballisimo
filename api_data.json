@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "19 сентября 2026",
+      "t": "Защитник сборной Ганы Сейду перешел из «Ренна» в «Ниццу»",
+      "text": "«Ницца» на официальном сайте объявила о переходе из «Ренна» защитника сборной Ганы Алиду Сейду на правах аренды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/zaschitnik-sbornoy-gany-seydu-pereshel-iz-renna-v-niccu-2456331/"
+    },
+    {
+      "d": "19 сентября 2026",
+      "t": "Рафинья уверен, что он и Педри должны быть в списке номинантов на...",
+      "text": "Нападающий «Барселоны» Рафинья прокомментировал непопадание в число пртендентов на «Золотой мяч» в 2026 году.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/rafinya-uveren-chto-on-i-pedri-dolzhny-byt-v-spiske-nominantov-na-zolotoy-myach-2026-2456328/"
+    },
+    {
+      "d": "19 сентября 2026",
       "t": "Батраков прибудет в расположение сборной России 20 сентября, Сафо...",
       "text": "Полузащитник «Галатасарая» Алексей Батраков прибудет в расположение сборной России 20 сентября для подготовки к BETBOOM товарищеск...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Защитник «Спартака» Александер Джику получил вызов в сборную Ганы на осенний сбор, сообщает пресс-служба национальной команды.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/aleksandera-dzhiku-iz-spartaka-vyzvali-v-sbornuyu-gany-na-osenniy-sbor-2456242/"
-    },
-    {
-      "d": "19 сентября 2026",
-      "t": "Тренер сборной Португалии Жезуш: «У Роналду особый статус — пять ...",
-      "text": "Главный тренер сборной Португалии Жоржи Жезуш поделился мнением о вызове 41-летнего нападающего «Аль-Насра» Криштиану Роналду на б...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/trener-sbornoy-portugalii-zhezush-u-ronaldu-osobyy-status-pyat-zolotyh-myachey-no-eto-ne-vliyaet-na-moi-resheniya-2456192/"
-    },
-    {
-      "d": "19 сентября 2026",
-      "t": "В юношескую сборную России U-15 на матчи с Таджикистаном и Северн...",
-      "text": "Тренерский штаб юношеской сборной России U-15 объявил состав национальной команды на ближайшие товарищеские матчи.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/v-yunosheskuyu-sbornuyu-rossii-u-15-na-matchi-s-tadzhikistanom-i-severnoy-makedoniey-vyzvany-22-futbolista-2456185/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-19T01:18:40.250865Z"
+  "results_updated": "2026-09-19T03:43:32.061191Z"
 }
