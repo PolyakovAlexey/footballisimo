@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "21 сентября 2026",
+      "t": "Мбаппе о Зидане в сборной Франции: «Думаю, все будет отлично, нач...",
+      "text": "Нападающий «Реала» и сборной Франции Килиан Мбаппе поделился мнением о работе с новым главным тренером национальной команды Зинеди...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/mbappe-o-zidane-v-sbornoy-francii-dumayu-vse-budet-otlichno-nachinaem-novyy-etap-2456893/"
+    },
+    {
+      "d": "21 сентября 2026",
+      "t": "Вратарь «ПСЖ» Сафонов о победе над «Марселем»: «Для наших болельщ...",
+      "text": "Голкипер «ПСЖ» и сборной России Матвей Сафонов поделился эмоциями после победы над «Марселем» (2:1) в матче 5-го тура чемпионата Ф...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/vratar-pszh-safonov-o-pobede-nad-marselem-dlya-nashih-bolelschikov-vcherashniy-match-byl-osobennym-2456892/"
+    },
+    {
+      "d": "21 сентября 2026",
+      "t": "Зайцев, Шилов, Массалыга и Фиров вызваны в сборную России U-19",
+      "text": "Стал известен состав сборной России U-19 на матчи с Белоруссией и международный турнир в Узбекистане.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/zaycev-shilov-massalyga-i-firov-vyzvany-v-sbornuyu-rossii-u-19-2456886/"
+    },
+    {
+      "d": "21 сентября 2026",
       "t": "Полузащитник «Галатасарая» Батраков о маленькой мечте: «Забить в ...",
       "text": "Полузащитник «Галатасарая» и сборной России Алексей Батраков рассказал о следующей «маленькой мечте» в сезоне.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший полузащитник «Манчестер Юнайтед» Андрей Канчельскис поделился с «СЭ» мнением об игре «красных дьяволов» в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/kanchelskis-zayavil-chto-sobiraetsya-obsudit-s-kerrikom-neudachnuyu-igru-manchester-yunayted-2456865/"
-    },
-    {
-      "d": "21 сентября 2026",
-      "t": "Батраков — о дебюте в Турции и Лиге чемпионов: «Потрясающие эмоци...",
-      "text": "Полузащитник «Галатасарая» и сборной России Алексей Батраков рассказал о самых памятных моментах после перехода в стамбульский клу...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/batrakov-o-debyutah-v-chempionate-turcii-i-lch-potryasayuschie-emocii-atmosfera-voobsche-neperedavaemaya-2456864/"
-    },
-    {
-      "d": "21 сентября 2026",
-      "t": "Джаку исключили из сборной Швейцарии за подделку справки о вакцин...",
-      "text": "Полузащитник «Сандерленда» Гранит Джака пропустит тренировочный сбор и матчи сборной Швейцарии в сентябре и октябре, сообщила прес...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/shveycarskiy-futbolnyy-soyuz-isklyuchil-dzhaku-iz-sbornoy-na-matchi-ligi-naciy-v-sentyabre-i-oktyabre-2456854/"
-    },
-    {
-      "d": "21 сентября 2026",
-      "t": "«Локомотив» сыграет с тульским «Арсеналом» и «Оренбургом» во врем...",
-      "text": "«Локомотив» проведет две товарищеские игры во время перерыва на матчи сборных, сообщила пресс-служба железнодорожников.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/lokomotiv-sygraet-s-tulskim-arsenalom-i-orenburgom-vo-vremya-pauzy-na-matchi-sbornyh-2456851/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-21T17:35:07.538773Z"
+  "results_updated": "2026-09-21T18:57:07.628745Z"
 }
