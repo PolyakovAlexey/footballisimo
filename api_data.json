@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "21 сентября 2026",
+      "t": "Батраков рассказал, какие турецкие слова успел выучить",
+      "text": "Полузащитник «Галатасарая» и сборной России Алексей Батраков ответил на вопрос по поводу изучения турецкого языка.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/turkey/news/poluzaschitnik-galatasaraya-aleksey-batrakov-rasskazal-kakie-tureckie-slova-uspel-vyuchit-2456917/"
+    },
+    {
+      "d": "21 сентября 2026",
+      "t": "Шешко из-за травмы не сыграет за сборную Словении в ближайших мат...",
+      "text": "Нападающий «Манчестер Юнайтед» Беньямин Шешко из-за травмы пропустит ближайшие матчи сборной Словении.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-benyamin-sheshko-iz-za-travmy-ne-sygraet-za-sbornuyu-slovenii-v-blizhayshih-matchah-ligi-naciy-2456914/"
+    },
+    {
+      "d": "21 сентября 2026",
+      "t": "С начала сезона-2026/27 в Серии А и Кубке Италии зафиксировали 5 ...",
+      "text": "Руководитель Национальной судейской комиссии (CAN) Италии Даниэле Орсато сообщил, что в сезоне-2026/27 было допущено 5 серьезных о...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/s-nachala-sezona-2026-27-v-serii-a-i-kubke-italii-zafiksirovali-5-sereznyh-oshibok-pri-sudeystve-2456913/"
+    },
+    {
+      "d": "21 сентября 2026",
       "t": "Британский суд лишил нападающего «Трабзонспора» Салаха водительск...",
       "text": "Суд в Уоррингтоне (Великобритания) лишил нападающего «Трабзонспора» и сборной Египта Мохамеда Салаха водительских прав сроком на ш...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Полузащитник «Галатасарая» и сборной России Алексей Батраков рассказал о следующей «маленькой мечте» в сезоне.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/poluzaschitnik-galatasaraya-batrakov-o-malenkoy-mechte-zabit-v-lige-chempionov-2456881/"
-    },
-    {
-      "d": "21 сентября 2026",
-      "t": "Полузащитник сборной России Батраков рассказал об ожиданиях от ма...",
-      "text": "Полузащитник «Галатасарая» и сборной России Алексей Батраков поделился ожиданиями от товарищеских матчей с Нигерией, Намибией и Ир...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/poluzaschitnik-sbornoy-rossii-batrakov-rasskazal-ob-ozhidaniyah-ot-matchey-s-nigeriey-namibiey-i-iranom-2456873/"
-    },
-    {
-      "d": "21 сентября 2026",
-      "t": "Канчельскис раскритиковал отсутствие паузы во Второй лиге во врем...",
-      "text": "Главный тренер брянского «Динамо» Андрей Канчельскис в комментарии для «СЭ» раскритиковал отсутствие паузы во Второй лиге во время...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d2/news/kanchelskis-raskritikoval-otsutstvie-pauzy-vo-vtoroy-lige-vo-vremya-matchey-sbornyh-2456867/"
-    },
-    {
-      "d": "21 сентября 2026",
-      "t": "Смородская — о нынешнем положении «Локомотива»: «Этой команде даж...",
-      "text": "Бывший президент «Локомотива» Ольга Смородская поделилась с «СЭ» мнением о проблемах железнодорожников в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/smorodskaya-podelilas-mneniem-o-problemah-lokomotiva-v-sezone-2026-27-2456869/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-21T20:14:58.023318Z"
+  "results_updated": "2026-09-21T23:20:00.829543Z"
 }
