@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "22 сентября 2026",
+      "t": "Сафонов: «В моем переходе в «ПСЖ» была миссия — показать, что все...",
+      "text": "Голкипер «ПСЖ» и сборной России Матвей Сафонов ответил на вопрос о влиянии его выступлений за французский клуб на интерес к россий...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/matvey-safonov-nazval-missiey-svoy-perehod-i-vystuplenie-v-pszh-2456971/"
+    },
+    {
+      "d": "22 сентября 2026",
+      "t": "Сафонов о номинации на приз имени Льва Яшина от France Football: ...",
+      "text": "Голкипер «ПСЖ» и сборной России Матвей Сафонов рассказал о своем отношении к попаданию в число номинантов на приз имени Льва Яшина...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/matvey-safonov-rasskazal-o-reakcii-na-nominaciyu-na-priz-imeni-lva-yashina-2456965/"
+    },
+    {
+      "d": "22 сентября 2026",
+      "t": "Слуцкий: «Лысый и толстый Генич говорит, что он за естественную к...",
+      "text": "Бывший главный тренер сборной России Леонид Слуцкий рассказал, что делал пересадку волос и блефаропластику, а также использовал пр...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/leonid-sluckiy-rasskazal-o-peresadke-volos-blefaroplastike-i-pohudenii-na-preparatah-2456952/"
+    },
+    {
+      "d": "22 сентября 2026",
+      "t": "Мбаппе о Дембеле: «Никакой напряженности нет. Он друг»",
+      "text": "Нападающий Килиан Мбаппе отверг разговоры о напряженности с партнером по сборной Франции форвардом Усманом Дембеле.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/mbappe-o-dembele-nikakoy-napryazhennosti-net-on-drug-2456942/"
+    },
+    {
+      "d": "22 сентября 2026",
       "t": "Израильская футбольная ассоциация обвинила тренера сборной Ирланд...",
       "text": "Израильская футбольная ассоциация (IFA) обвинила главного тренера сборной Ирландии Хеймира Хадльгримссона в «глупости, невежестве ...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Вратарь «ПСЖ» и сборной России Матвей Сафонов прилетел в Россию в преддверии BETBOOM товарищеских матчей национальной команды.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/vratar-matvey-safonov-priletel-v-rossii-v-preddverii-matchey-sbornoy-2456923/"
-    },
-    {
-      "d": "22 сентября 2026",
-      "t": "Батраков рассказал, какие турецкие слова успел выучить",
-      "text": "Полузащитник «Галатасарая» и сборной России Алексей Батраков ответил на вопрос по поводу изучения турецкого языка.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/turkey/news/poluzaschitnik-galatasaraya-aleksey-batrakov-rasskazal-kakie-tureckie-slova-uspel-vyuchit-2456917/"
-    },
-    {
-      "d": "22 сентября 2026",
-      "t": "Шешко из-за травмы не сыграет за сборную Словении в ближайших мат...",
-      "text": "Нападающий «Манчестер Юнайтед» Беньямин Шешко из-за травмы пропустит ближайшие матчи сборной Словении.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-benyamin-sheshko-iz-za-travmy-ne-sygraet-za-sbornuyu-slovenii-v-blizhayshih-matchah-ligi-naciy-2456914/"
-    },
-    {
-      "d": "22 сентября 2026",
-      "t": "С начала сезона-2026/27 в Серии А и Кубке Италии зафиксировали 5 ...",
-      "text": "Руководитель Национальной судейской комиссии (CAN) Италии Даниэле Орсато сообщил, что в сезоне-2026/27 было допущено 5 серьезных о...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/s-nachala-sezona-2026-27-v-serii-a-i-kubke-italii-zafiksirovali-5-sereznyh-oshibok-pri-sudeystve-2456913/"
-    },
-    {
-      "d": "22 сентября 2026",
-      "t": "Британский суд лишил нападающего «Трабзонспора» Салаха водительск...",
-      "text": "Суд в Уоррингтоне (Великобритания) лишил нападающего «Трабзонспора» и сборной Египта Мохамеда Салаха водительских прав сроком на ш...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/turkey/news/britanskiy-sud-lishil-napadayuschego-trabzonspora-salaha-voditelskih-prav-2456902/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-22T03:54:08.665068Z"
+  "results_updated": "2026-09-22T09:02:39.615637Z"
 }
