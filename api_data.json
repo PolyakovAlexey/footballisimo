@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "23 сентября 2026",
+      "t": "Хави: «Матч с Германией станет серьезным испытанием для сборной Н...",
+      "text": "Главный тренер сборной Нидерландов Хави перед матчем Лиги наций против Германии отметил, что вся команда с нетерпением ждет игры.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/havi-kommentariy-po-predstoyaschemu-matchu-ligi-naciy-mezhdu-niderlandami-i-germaniey-2457369/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Ван Дейк: «Очень уважаю Клоппа — он сыграл важную роль в моей кар...",
+      "text": "Капиатн сборной Нидерландов Вирджил ван Дейк перед матчем Лиги наций против Германии отметил, что с уважением относится к тренеру ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/virdzhil-van-deyk-kommentariy-po-matchu-ligi-naciy-protiv-germanii-2457370/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Круговой: «В отсутствие еврокубков и больших матчей сборной интер...",
+      "text": "Защитник ЦСКА и сборной России Данил Круговой поделился мнением, почему футболисты из РФ не развивают личный бренд и социальные се...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/krugovoy-v-otsutstvie-evrokubkov-i-bolshih-matchey-sbornoy-interes-k-futbolu-padaet-uznayut-tolko-akinfeeva-2457365/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Хави: «Месси выдал колоссальный уровень на ЧМ, но «Золотой мяч» д...",
+      "text": "Главный тренер сборной Нидерландов Хави поделился мнением о том, кому должен достаться «Золотой мяч» в 2026 году.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/havi-messi-vydal-kolossalnyy-uroven-na-chm-no-zolotoy-myach-dolzhen-vyigrat-futbolist-sbornoy-ispanii-2457363/"
+    },
+    {
+      "d": "23 сентября 2026",
       "t": "Нападающий «Баварии» Кейн допустил, что может начать карьеру в ам...",
       "text": "Нападающий «Баварии» и сборной Англии Харри Кейн не против поиграть в американский футбол в случае продолжения карьеры в МЛС.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Нападающий «Аль-Насра» и сборной Португалии Криштиану Роналду сравнил критику СМИ с выстрелами их дробовика.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-est-smi-kotorye-pytayutsya-menya-ubit-iz-drobovika-no-mne-udaetsya-uvernutsya-ot-puli-2457342/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Нападающий «Зальцбурга» Кабатов дебютирует за сборную России U-17",
-      "text": "Нападающий австрийского «Зальцбурга» Рахман Кабатов дебютирует за сборную России U-17.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/napadayuschiy-zalcburga-kabatov-debyutiruet-za-sbornuyu-rossii-u-17-2457336/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Тренер сборной Бразилии Анчелотти о Винисиусе: «Он не на пике фор...",
-      "text": "Главный тренер сборной Бразилии Карло Анчелотти поделился мнением об игре нападающего «Реала» Винисиуса Жуниора.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/trener-sbornoy-brazilii-anchelotti-o-vinisiuse-on-ne-na-pike-formy-no-ya-emu-doveryayu-2457333/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Нападающий сборной Португалии Роналду: «Это может быть мой послед...",
-      "text": "Нападающий «Аль-Насра» и сборной Португалии Криштиану Роналду рассказал о возможном завершении карьеры.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-sbornoy-portugalii-ronaldu-eto-mozhet-byt-moy-posledniy-sezon-2457330/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Форвард «Торпедо» Окоронкво: «В Нигерии с огромным уважением отно...",
-      "text": "Нападающий «Торпедо» Джонатан Окоронкво оценил предстоящий BetBoom товарищеский матч между сборными России и Нигерии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/napadayuschiy-torpedo-dzhonatan-okoronkvo-rasskazal-ob-ogromnom-uvazhenii-k-rossii-v-nigerii-2457320/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-23T19:25:15.204853Z"
+  "results_updated": "2026-09-23T22:24:34.009696Z"
 }
