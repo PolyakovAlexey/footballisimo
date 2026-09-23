@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "23 сентября 2026",
+      "t": "Де Брейне опроверг слухи о том, что хотел покинуть «Наполи»",
+      "text": "Полузащитник «Наполи» Кевин Де Брейне опроверг слухи о том, что искал новую команду в летнее трансферное окно 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/de-breyne-oproverg-sluhi-o-tom-chto-hotel-pokinut-napoli-2457205/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Защитник сборной Аргентины Балерди: «Для нас Месси — главный прим...",
+      "text": "Защитник «Ромы» и сборной Аргентины Леонардо Балерди рассказал о своих ощущениях от возможности сыграть ведущую роль в последнем м...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/zaschitnik-sbornoy-argentiny-balerdi-dlya-nas-messi-glavnyy-primer-2457173/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "«Арсенал» намерен подписать новый долгосрочный контракт с Райсом",
+      "text": "«Арсенал» намерен продлить контракт с полузащитником сборной Англии Декланом Райсом, сообщает The Guardian.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/arsenal-nameren-podpisat-novyy-dolgosrochnyy-kontrakt-s-raysom-2457166/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Витинья, Невеш, Мендеш и Рамуш получили награды «Звезды года» в П...",
+      "text": "Витинья, Жоау Невеш, Нуну Мендеш и Гонсалу Рамуш получили награды «Звезды года» на церемонии Portugal Football Globes 2026.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/vitinya-nevesh-endesh-i-ramush-poluchili-nagrady-zvezdy-goda-v-portugalii-2457156/"
+    },
+    {
+      "d": "23 сентября 2026",
       "t": "Эбнуталиб отказался от вызова в сборную Марокко после звонка Клоп...",
       "text": "Нападающий «Айнтрахта» Юнес Эбнуталиб объяснил, почему выбрал сборную Германии, а не Марокко.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Нападающий «Реала» и сборной Франции Килиан Мбаппе рассказал о футболистах, которые входят в его личный пантеон легенд футбола.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/mbappe-nazval-svoy-spisok-iz-chetyreh-legend-futbola-2457139/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Ахомаш вызван в сборную Марокко",
-      "text": "Полузащитник «Вильярреала» Ильяс Ахомаш вызван в сборную Марокко, сообщает пресс-служба национальной команды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/africa-cup/news/ahomash-vyzvan-v-sbornuyu-marokko-2457135/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "L'Equipe: Мбаппе пропустил тренировку сборной Франции",
-      "text": "Капитан и нападающий сборной Франции Килиан Мбаппе пропустил вторую тренировку национальной команды под руководством Зинедина Зида...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/napadayuschiy-kilian-mbappe-propustil-trenirovku-sbornoy-francii-2457128/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Источник: главный тренер сборной Аргентины Скалони продлит контра...",
-      "text": "Главный тренер сборной Аргентины Лионель Скалони близок к продлению контракта, сообщает Doble Amarilla.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/glavnyy-trener-sbornoy-argentiny-lionel-skaloni-prodlit-kontrakt-po-sheme-2-2-2457114/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Ромеро: «Золотой мяч» должен быть у Лионеля Месси»",
-      "text": "Защитник сборной Аргентины и «Атлетико» Кристиан Ромеро считает, что «Золотой мяч» в 2026 году должен получить его партнер по наци...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/zaschitnik-sbornoy-argentiny-kristian-romero-ubezhden-chto-zolotoy-myach-dolzhen-dostavatsya-lionelyu-messi-2457099/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-23T03:51:46.591431Z"
+  "results_updated": "2026-09-23T08:58:37.793587Z"
 }
