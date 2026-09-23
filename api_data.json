@@ -2,7 +2,14 @@
   "news": [
     {
       "d": "23 сентября 2026",
-      "t": "Ромеро: «Надеемся, что Ромеро останется в сборной Аргентины»",
+      "t": "Эбнуталиб отказался от вызова в сборную Марокко после звонка Клоп...",
+      "text": "Нападающий «Айнтрахта» Юнес Эбнуталиб объяснил, почему выбрал сборную Германии, а не Марокко.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/ebnutalib-otkazalsya-ot-vyzova-v-sbornuyu-marokko-posle-zvonka-kloppa-2457151/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Ромеро: «Надеемся, что Скалони останется в сборной Аргентины»",
       "text": "Защитник сборной Аргентины Кристиан Ромеро рассчитывает, что главный тренер команды Лионель Скалони продлит контракт.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/kristian-romero-kommentariy-po-kontraktu-lionelya-skaloni-so-sbornoy-argentiny-2457144/"
@@ -48,13 +55,6 @@
       "text": "Защитник сборной Аргентины и «Атлетико» Кристиан Ромеро считает, что «Золотой мяч» в 2026 году должен получить его партнер по наци...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/zaschitnik-sbornoy-argentiny-kristian-romero-ubezhden-chto-zolotoy-myach-dolzhen-dostavatsya-lionelyu-messi-2457099/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Ямаль рассказал, почему считает себя достойным «Золотого мяча»: «...",
-      "text": "Нападающий сборной Испании и «Барселоны» Ламин Ямаль рассказал о своем понимании «Золотого мяча».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/napadayuschiy-barselony-lamin-yamal-nazval-svoi-argumenty-pochemu-imenno-on-dolzhen-poluchit-zolotoy-myach-2457079/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-23T00:46:49.198695Z"
+  "results_updated": "2026-09-23T03:51:46.591431Z"
 }
