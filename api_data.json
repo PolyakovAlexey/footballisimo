@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "23 сентября 2026",
+      "t": "Нападающий «Баварии» Кейн допустил, что может начать карьеру в ам...",
+      "text": "Нападающий «Баварии» и сборной Англии Харри Кейн не против поиграть в американский футбол в случае продолжения карьеры в МЛС.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/napadayuschiy-bavarii-keyn-zadumyvaetsya-poprobovat-sebya-v-amerikanskom-futbole-v-sluchae-perehoda-v-mls-2457349/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Роналду: «Если сборная Португалии больше не хочет на меня полагат...",
+      "text": "Нападающий «Аль-Насра» и сборной Португалии Криштиану Роналду поделился мнением о выступлении за национальную команду.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-esli-sbornaya-portugalii-bolshe-ne-hochet-na-menya-polagatsya-ya-mogu-uyti-uzhe-segodnya-2457348/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Тренер сборной Германии Клопп о завоевании трофеев: «Я ничего не ...",
+      "text": "Главный тренер сборной Германии Юрген Клопп ответил на вопрос о том, сможет ли национальная команда завоевать трофеи под его руков...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/trener-sbornoy-germanii-klopp-o-zavoevanii-trofeev-ya-nichego-ne-budu-obeschat-2457346/"
+    },
+    {
+      "d": "23 сентября 2026",
+      "t": "Роналду: «Есть СМИ, которые пытаются меня «убить из дробовика», н...",
+      "text": "Нападающий «Аль-Насра» и сборной Португалии Криштиану Роналду сравнил критику СМИ с выстрелами их дробовика.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-est-smi-kotorye-pytayutsya-menya-ubit-iz-drobovika-no-mne-udaetsya-uvernutsya-ot-puli-2457342/"
+    },
+    {
+      "d": "23 сентября 2026",
       "t": "Нападающий «Зальцбурга» Кабатов дебютирует за сборную России U-17",
       "text": "Нападающий австрийского «Зальцбурга» Рахман Кабатов дебютирует за сборную России U-17.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Нападающий «Торпедо» Джонатан Окоронкво оценил предстоящий BetBoom товарищеский матч между сборными России и Нигерии.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/napadayuschiy-torpedo-dzhonatan-okoronkvo-rasskazal-ob-ogromnom-uvazhenii-k-rossii-v-nigerii-2457320/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Нападающий сборной Португалии Роналду выйдет в стартовом составе ...",
-      "text": "41-летний форвард «Аль-Насра» и сборной Португалии Криштиану Роналду выйдет в стартовом составе на матч против Уэльса в Лиге наций...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-sbornoy-portugalii-vyydet-v-startovom-sostave-na-match-s-uelsom-2457312/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Защитника «ПСЖ» Хакими будут судить во Франции по обвинению в изн...",
-      "text": "Защитник «ПСЖ» и капитан сборной Марокко Ашраф Хакими предстанет перед судом во Франции по обвинению в изнасиловании. Кассационный...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/zaschitnik-pszh-ashraf-hakimi-predstanet-pered-sudom-vo-francii-po-delu-ob-iznasilovanii-2457311/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Калимуллина исполнит национальный гимн перед товарищеским матчем ...",
-      "text": "Народная артистка Республики Татарстан Эльмира Калимуллина исполнит гимн РФ перед BETBOOM товарищеским матчем сборных России и Ира...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/kalimullina-ispolnit-nacionalnyy-gimn-pered-tovarischeskim-matchem-rossiya-iran-2457284/"
-    },
-    {
-      "d": "23 сентября 2026",
-      "t": "Kicker: Луис Диас пропустит 3 матча сборной Колумбии ради восстан...",
-      "text": "Нападающий «Баварии» Луис Диас не поможет сборной Колумбии в ближайших матчах, сообщает Kicker.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/kicker-luis-dias-propustit-3-matcha-sbornoy-kolumbii-radi-vosstanovleniya-formy-2457255/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-23T18:01:55.427873Z"
+  "results_updated": "2026-09-23T19:25:15.204853Z"
 }
