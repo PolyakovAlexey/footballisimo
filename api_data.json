@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "25 сентября 2026",
+      "t": "Игрок «Баварии» Мусиала пропустит около четырех недель из-за мыше...",
+      "text": "Полузащитник «Баварии» Джамал Мусиала досрочно покинул расположение сборной Германии, сообщает пресс-служба мюнхенского клуба.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/igrok-bavarii-dzhamal-musiala-propustit-okolo-chetyreh-nedel-iz-za-myshechnoy-travmy-2457777/"
+    },
+    {
+      "d": "25 сентября 2026",
+      "t": "Турция — Франция: Олисе или Шерки забьют в первом матче сборной в...",
+      "text": "25 сентября в первом туре группового этапа Лиги наций сборная Турции примет Францию.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/stavki-na-sport/prognozy/news/turciya-franciya-prognoz-na-match-ligi-naciy-po-futbolu-25-sentyabrya-2026-goda-2457769/"
+    },
+    {
+      "d": "25 сентября 2026",
+      "t": "Тухель — об отсутствии Палмера в сборной Англии: «Это упущенная в...",
+      "text": "Главный тренер сборной Англии Томас Тухель прокомментировал отсутствие полузащитника «Челси» Коула Палмера в расположении национал...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/glavnyy-trener-sbornoy-anglii-tomas-tuhel-nedovolen-situaciey-s-poluzaschitnikom-koulom-palmerom-2457764/"
+    },
+    {
+      "d": "25 сентября 2026",
       "t": "Беллингем второй раз подряд признан лучшим футболистом года в сбо...",
       "text": "Полузащитник «Реала» Джуд Беллингем признан лучшим игроком сборной Англии по итогам сезона-2025/26, сообщает пресс-служба национал...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник «Ливерпуля» и сборной Нидерландов Вирджил ван Дейк выступил с критикой календаря из-за большого количества футбольных мат...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/kapitan-sbornoy-niderlandov-van-deyk-o-bolshom-kolichestve-matchey-eto-absurd-fifa-dolzhna-peresmotret-kalendar-2457732/"
-    },
-    {
-      "d": "25 сентября 2026",
-      "t": "Кечинов: «Локомотив» — главное разочарование сезона. Надеюсь, дел...",
-      "text": "Бывший футболист сборной России Валерий Кечинов поделился с «СЭ» мнением о неудачах «Локомотива» в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kechinov-nazval-lokomotiv-glavnym-razocharovaniem-sezona-rpl-2457724/"
-    },
-    {
-      "d": "25 сентября 2026",
-      "t": "Нападающий Хаверц покинул расположение сборной Германии из-за тра...",
-      "text": "Нападающий «Арсенала» и сборной Германии Кай Хаверц покинул расположение национальной команды после получения повреждения, сообщил...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-haverc-pokinul-raspolozhenie-sbornoy-germanii-iz-za-travmy-2457712/"
-    },
-    {
-      "d": "25 сентября 2026",
-      "t": "Кечинов о «Спартаке»: «Оставляет приятное впечатление. Команда го...",
-      "text": "Бывший футболист «Спартака» Валерий Кечинов поделился с «СЭ» мнением о результатах команды в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kechinov-schitaet-chto-spartak-gotov-pretendovat-na-chempionstvo-2457706/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-25T13:13:15.718265Z"
+  "results_updated": "2026-09-25T15:03:04.635380Z"
 }
