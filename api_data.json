@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "d": "24 сентября 2026",
+      "d": "25 сентября 2026",
+      "t": "Сольбаккен: «У Дании сильная команда, но сегодня Норвегия была чу...",
+      "text": "Главный тренер сборной Норвегии Столе Сольбаккен прокомментировал победу над Данией (3:2) в матче Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/stole-solbakken-kommentariy-po-pobede-norvegii-nad-daniey-v-lige-naciy-2457637/"
+    },
+    {
+      "d": "25 сентября 2026",
+      "t": "Хейлунн: «Большую часть матча Дания хорошо боролась, но в решающи...",
+      "text": "Нападающий сборной Дании Расмус Хейлунн прокомментировал поражение от Норвегии (2:3) в матче Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/rasmus-heylunn-kommentariy-po-porazheniyu-danii-ot-norvegii-v-lige-naciy-2457634/"
+    },
+    {
+      "d": "25 сентября 2026",
+      "t": "Беллами — о поражении от Португалии: «Скажу честно: я невероятно ...",
+      "text": "Главный тренер сборной Уэльса Крейг Беллами прокомментировал поражение от Португалии (0:1) в мате Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/kreyg-bellami-kommentariy-po-porazheniyu-uelsa-ot-portugalii-v-lige-naciy-2457633/"
+    },
+    {
+      "d": "25 сентября 2026",
+      "t": "Роналду — о победе над Уэльсом: «Первый шаг сделан»",
+      "text": "Нападающий сборной Португалии Криштиану Роналду прокомментировал победу над Уэльсом (1:0) в Лиге наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/krishtianu-ronaldu-kommentariy-po-pobede-portugalii-nad-uelsom-v-lige-naciy-2457636/"
+    },
+    {
+      "d": "25 сентября 2026",
+      "t": "Жезуш: «Доволен и результатом, и игрой сборной Португалии»",
+      "text": "Главный тренер сборной Португалии Жорже Жезуш прокомментировал победу над Уэльсом (1:0) в матче Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/zhorzh-zhezush-kommentariy-po-pobede-portugalii-nad-uelsom-v-matche-ligi-naciy-2457632/"
+    },
+    {
+      "d": "25 сентября 2026",
       "t": "Эдегор: «Здорово обыграть соседей и начать турнир с победы»",
       "text": "Капитан сборной Норвегии Мартин Эдегор прокомментировал победу над Данией (3:2) в матче Лиги наций.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/martin-edegor-kommentariy-po-pobede-norvegii-nad-daniey-v-lige-naciy-2457628/"
     },
     {
-      "d": "24 сентября 2026",
+      "d": "25 сентября 2026",
       "t": "Фернандеш — о победе Португалии над Уэльсом: «Нам были нужны три ...",
       "text": "Полузащитник сборной Португалии Бруну Фернандеш прокомментировал победу над Уэльсом (1:0) в матче Лиги наций.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/brunu-fernandesh-kommentariy-po-pobede-portugalii-nad-uelsom-v-matche-ligi-naciy-2457626/"
     },
     {
-      "d": "24 сентября 2026",
+      "d": "25 сентября 2026",
       "t": "Феликс: «Первый матч при новом тренере всегда непростой»",
       "text": "Нападающий сборной Португалии Жоау Феликс прокомментировал победу над Уэльсом (1:0) в матче Лиги наций.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/zhoau-feliks-kommentariy-po-pobede-portugalii-nad-uelsom-v-matche-ligi-naciy-2457624/"
-    },
-    {
-      "d": "24 сентября 2026",
-      "t": "Ампаду: «Хотели приехать в Португалию и громко заявить о себе»",
-      "text": "Полузащитник сборной Уэльса Итан Ампаду прокомментировал поражение от Португалии (0:1) в матче Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/itan-ampadu-kommentariy-po-porazheniyu-uelsa-ot-portugalii-v-lige-naciy-2457616/"
-    },
-    {
-      "d": "24 сентября 2026",
-      "t": "Австрия дважды забила в концовке и победила Израиль в Лиге наций",
-      "text": "Сборная Австрии дома одержала победу над Израилем в 1-м туре Лиги наций — 3:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/avstriya-izrail-kosovo-irlandiya-lihtenshteyn-litva-schet-i-rezultaty-matchey-ligi-naciy-24-sentyabrya-2026-2457608/"
-    },
-    {
-      "d": "24 сентября 2026",
-      "t": "Нидерланды и Германия сыграли вничью в дебютном матче Хави и Клоп...",
-      "text": "Сборная Германии на выезде сыграла вничью с Нидерландами в матче 1-го тура Лиги наций — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/niderlandy-germaniya-serbiya-greciya-schet-i-rezultaty-matchey-ligi-naciy-24-sentyabrya-2026-2457601/"
-    },
-    {
-      "d": "24 сентября 2026",
-      "t": "Тренер сборной Франции Зидан об игре с Турцией: «Нас ждет сложный...",
-      "text": "Главный тренер сборной Франции Зинедин Зидан поделился ожиданиями от матча с Турцией в Лиге наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/trener-sbornoy-francii-zidan-ob-igre-s-turciey-nas-zhdet-slozhnyy-match-s-horoshey-komandoy-2457597/"
-    },
-    {
-      "d": "24 сентября 2026",
-      "t": "Нидерланды — Германия: немцы выигрывают после первого тайма",
-      "text": "Сборная Германии после первого тайма на выезде обыгрывает Нидерланды в матче 1-го тура Лиги наций — 1:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/niderlandy-germaniya-nemcy-vyigryvayut-posle-pervogo-tayma-v-matche-ligi-naciy-24-sentyabrya-2026-2457593/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-24T22:44:20.652141Z"
+  "results_updated": "2026-09-25T00:53:59.327610Z"
 }
