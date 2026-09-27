@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "27 сентября 2026",
+      "t": "Дания победила Уэльс в Лиге наций",
+      "text": "Сборная Дании обыграла сборную Уэльса во 2-м туре группового турнира Лиги наций — 2:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/daniya-uels-schet-i-rezultat-matcha-ligi-naciy-27-sentyabrya-2026-2458256/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Роналду не попал в стартовый состав Португалии на матч Лиги наций...",
+      "text": "Капитан и нападающий сборной Португалии Криштиану Роналду не вошел в стартовый состав национальной команды на матч 2-го тура групп...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/norvegiya-portugaliya-krishtianu-ronaldu-ne-popal-v-startovye-sostav-na-match-ligi-naciy-27-sentyabrya-2026-2458254/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Гакпо получил травму в матче с Сербией и был заменен в первом тай...",
+      "text": "Нападающий сборной Нидерландов Коди Гакпо получил повреждение в матче 2-го тура Лиги наций с Сербией.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/gakpo-poluchil-travmu-v-matche-s-serbiey-i-byl-zamenen-v-pervom-tayme-2458241/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Кварацхелия поблагодарил Саньоля за работу в сборной Грузии: «Ник...",
+      "text": "Полузащитник Хвича Кварацхелия поблагодарил Вилли Саньоля за работу на посту главного тренера сборной Грузии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/poluzaschitnik-hvicha-kvaracheliya-obratilsya-k-pokinuvshemu-post-glavnogo-trenera-sbornoy-gruzii-villi-sanolyu-2458240/"
+    },
+    {
+      "d": "27 сентября 2026",
       "t": "Ирландия заявила защитника Данна в качестве вратаря на матч Лиги ...",
       "text": "Сборная Ирландии заявила защитника Джимми Данна как третьего вратаря на матч 2-го тура Лиги наций против сборной Израиля, сообщает...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Сборная России среди футболистов не старше 15 лет сыграла вничью с Таджикистаном в товарищеском матче — 3:3.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/rossiya-tadzhikistan-sbornaya-rossii-u-15-sygrala-vnichyu-s-tadzhikistanom-v-tovarischeskom-matche-27-sentyabrya-2458200/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Тренер сборной Франции Зидан об игре Дембеле в матче с Турцией: «...",
-      "text": "Главный тренер сборной Франции Зинедин Зидан поделился впечатлениями от игры нападающего Усмана Дембеле в матче с Турцией (1:0) в ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/trener-sbornoy-francii-zidan-ob-igre-dembele-v-matche-s-turciey-on-byl-ochen-polezen-dlya-nas-2458187/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Роналду поспорил с журналистом о том, сможет ли сыграть весь матч...",
-      "text": "Нападающий сборной Португалии Криштиану Роналду поспорил с журналистом по поводу своей физической формы накануне матча с Норвегией...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-posporil-s-zhurnalistom-o-tom-smozhet-li-sygrat-ves-match-s-norvegiey-v-lige-naciy-2458183/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Ямаль после победы над Англией в Лиге наций: «Ненавидьте меня или...",
-      "text": "Нападающий сборной Испании Ламин Ямаль обратился к подписчикам в социальных сетях после победы над Англией (3:2) в 1-м туре Лиги н...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/yamal-posle-pobedy-nad-angliey-v-lige-naciy-nenavidte-menya-ili-lyubite-mne-vse-ravno-2458178/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "«Реал» остался недоволен отношением сборной Франции к состоянию з...",
-      "text": "В «Реале» остались недовольны отношением сборной Франции к состоянию здоровья форварда Килиана Мбаппе, сообщает L'Equipe.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/real-ostalsya-nedovolen-otnosheniem-sbornoy-francii-k-sostoyaniyu-zdorovya-mbappe-2458168/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-27T16:09:03.866665Z"
+  "results_updated": "2026-09-27T17:57:50.726937Z"
 }
