@@ -2,6 +2,48 @@
   "news": [
     {
       "d": "27 сентября 2026",
+      "t": "Нападающий сборной Швеции Исак получил травму и вернется в распол...",
+      "text": "Форвард «Ливерпуля» и сборной Швеции Александр Исак получил небольшое повреждение и пропустит три ближайших матча национальной ком...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-sbornoy-shvecii-isak-poluchil-travmu-i-vernetsya-v-raspolozhenie-liverpulya-2458167/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Гус Хиддинк: «Надеюсь, российские клубы как можно скорее вернутся...",
+      "text": "Бывший тренер сборной России Гус Хиддинк выразил надежду, что российские клубы вскоре снова смогут принимать участие в международн...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/gus-hiddink-nadeyus-rossiyskie-kluby-kak-mozhno-skoree-vernutsya-k-uchastiyu-v-evrokubkah-2458165/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Клеберсон: «Сафонов спасал «ПСЖ» в определенные моменты, он имеет...",
+      "text": "Бывший игрок сборной Бразилии Клеберсон считает, что у голкипера «ПСЖ» Матвея Сафонова есть хорошие шансы получить приз лучшему вр...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/kleberson-safonov-spasal-pszh-v-opredelennye-momenty-on-imeet-shansy-zabrat-priz-luchshemu-vrataryu-2458158/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Расписание матчей и трансляций Лиги наций на 27 сентября",
+      "text": "27 сентября, состоятся матчи 2-го тура группового этапа Лиги наций УЕФА сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/raspisanie-matchey-i-translyaciy-ligi-naciy-na-27-sentyabrya-2457950/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Горничек после матча Лиги наций Чехия — Хорватия: «С самого начал...",
+      "text": "Вратарь сборной Чехии Лукаш Горничек прокомментировал поражение от сборной Хорватии (1:2) в домашем матче 1-го тура группового тур...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/gornichek-posle-matcha-ligi-naciy-chehiya-horvatiya-s-samogo-nachala-my-igrali-tak-kak-dolzhny-byli-2458115/"
+    },
+    {
+      "d": "27 сентября 2026",
+      "t": "Вратарь сборной Англии Траффорд после игры Лиги наций с Испанией:...",
+      "text": "Вратарь сборной Англии Джеймс Траффорд прокомментировал поражение от сборной Испании (2:3) в домашнем матче 1-го тура группового т...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/vratar-sbornoy-anglii-trafford-posle-igry-ligi-naciy-s-ispaniey-u-nas-ochevidno-deystvitelno-topovaya-komanda-2458114/"
+    },
+    {
+      "d": "27 сентября 2026",
       "t": "Мексика и Колумбия сыграли вничью",
       "text": "Сборная Мексики в Балтиморе (США) сыграла вничью со сборной Колумбии в товарищеском матче — 1:1.",
       "src": "Спорт-Экспресс",
@@ -13,48 +55,6 @@
       "text": "Главный тренер сборной Хорватии Славен Билич прокомментировал гостевую победу над сборной Чехии (2:1) в матче группового турнира Л...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/bilich-luka-modrich-my-mozhem-tolko-gorditsya-tem-chto-zhivem-v-ego-epohu-2458106/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Сборная Испании продлила победную серию до 39 матчей",
-      "text": "Сборная Испании в гостях победила сборную Англии (3:2) в матче группового турнира Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/sbornaya-ispanii-po-futbolu-prodlila-pobednuyu-seriyu-do-39-matchey-2458099/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Гол Дэвида принес Канаде победу над Чили в товарищеском матче",
-      "text": "Сборная Канады на своем поле победила сборную Чили в товарищеском матче — 1:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/kanada-chili-schet-i-rezultat-tovarischeskogo-matcha-27-sentyabrya-2026-2458098/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Кейн: «В другой день, уверен, мы бы выиграли матч с Испанией»",
-      "text": "Нападающий сборной Англии Харри Кейн прокомментировал поражение от сборной Испании (2:3) в домашнем матче группового турнира Лиги ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-sbornoy-anglii-keyn-posle-igry-ligi-naciy-v-drugoy-den-uveren-my-by-vyigrali-match-s-ispaniey-2458096/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Чехия — Хорватия: видеообзор матча Лиги наций",
-      "text": "Сборная Чехии на своем поле проиграла сборной Хорватии в матче группового турнира Лиги наций — 1:2.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/chehiya-horvatiya-videoobzor-i-luchshie-momenty-igry-ligi-naciy-26-sentyabrya-2026-2458094/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Тухель после поражения Англии от Испании: «Мы должны извлечь урок...",
-      "text": "Главный тренер сборной Англии Томас Тухель прокомментировал поражение от сборной Испании (2:3) в домашнем матче группового турнира...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/tuhel-posle-porazheniya-anglii-ot-ispanii-my-dolzhny-izvlech-urok-i-prodolzhat-2458093/"
-    },
-    {
-      "d": "27 сентября 2026",
-      "t": "Де ла Фуэнте после матча Англия — Испания: «Мы показали, что мы в...",
-      "text": "Главный тренер сборной Испании Луис де ла Фуэнте прокомментировал победу над сборной Англии (3:2) в гостевом матче 1-го тура групп...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/de-la-fuente-posle-matcha-ligi-naciy-angliya-ispaniya-my-pokazali-chto-my-velikaya-komanda-2458091/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-27T04:18:54.225625Z"
+  "results_updated": "2026-09-27T10:55:22.376003Z"
 }
