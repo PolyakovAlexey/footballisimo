@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 сентября 2026",
+      "t": "Тренер сборной России Карпин о подготовке к матчу с Ираном: «Рабо...",
+      "text": "Главный тренер сборной России Валерий Карпин рассказал, как проходила подготовка к BETBOOM товарищескому матчу со сборной Ирана.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/trener-sbornoy-rossii-karpin-o-podgotovke-k-matchu-s-iranom-rabotali-nad-taktikoy-delali-upor-na-sebya-2458526/"
+    },
+    {
+      "d": "28 сентября 2026",
+      "t": "Луиш Фигу включил Ямаля, Мбаппе и Месси в число фаворитов в борьб...",
+      "text": "Бывший полузащитник сборной Португалии и обладатель «Золотого мяча» 2000 года Луиш Фигу назвал фаворитов в борьбе за звание лучшег...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/luish-figu-vklyuchil-yamalya-mbappe-i-messi-v-chislo-favoritov-v-borbe-za-zolotoy-myach-2458518/"
+    },
+    {
+      "d": "28 сентября 2026",
+      "t": "Италия забила три гола к 27-й минуте матча с Турцией в Лиге наций",
+      "text": "Сборная Италии громит сборную Турции в выездном матче группового турнира Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/italiya-zabila-tri-gola-k-27-y-minute-matcha-s-turciey-v-lige-naciy-2458516/"
+    },
+    {
+      "d": "28 сентября 2026",
       "t": "Тренер молодежной сборной России Шабаров о матче с Македонией: «С...",
       "text": "Главный тренер молодежной сборной России Иван Шабаров в комментарии для «СЭ» оценил победу в товарищеском матче над Македонией (3:...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник молодежной сборной России Матвей Бардачев в комментарии для «СЭ» поделился мнением о победе в товарищеском матче над Маке...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/zaschitnik-molodezhnoy-sbornoy-rossii-bardachev-o-matche-s-makedoniey-igru-sdelal-sudya-chetyre-penalti-eto-ne-futbol-2458492/"
-    },
-    {
-      "d": "28 сентября 2026",
-      "t": "Сафонов — о трансляции матча Россия — Иран на Первом канале: «Не ...",
-      "text": "Вратарь сборной России Матвей Сафонов поделился мнением о BetBoom товарищеском матче со сборной Ирана.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/matvey-safonov-o-translyacii-matcha-rossiya-iran-na-pervom-kanale-ne-mozhem-udarit-v-gryaz-licom-2458482/"
-    },
-    {
-      "d": "28 сентября 2026",
-      "t": "Сафонов — о длинном международном перерыве: «Можем уделить больше...",
-      "text": "Главный тренер сборной России Валерий Карпин и вратарь команды Матвей Сафонов прокомментировал длительный международный перерыв, к...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/matvey-safonov-o-dlinnom-mezhdunarodnom-pereryve-mozhem-udelit-bolshe-vremeni-taktike-2458479/"
-    },
-    {
-      "d": "28 сентября 2026",
-      "t": "Сафонов не ответил, кого бы подписал в «ПСЖ» из сборной России: «...",
-      "text": "Вратарь «ПСЖ» и сборной России Матвей Сафонов уклонился от ответа на вопрос, кого бы из национальной команды он подписал в парижск...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/safonov-ne-otvetil-kogo-by-podpisal-v-pszh-iz-sbornoy-rossii-doveryu-eto-lyudyam-kotorye-luchshe-razbirayutsya-2458478/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-28T19:03:04.247349Z"
+  "results_updated": "2026-09-28T20:17:55.195062Z"
 }
