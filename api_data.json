@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "28 сентября 2026",
+      "t": "Тренер молодежной сборной России Шабаров о матче с Македонией: «С...",
+      "text": "Главный тренер молодежной сборной России Иван Шабаров в комментарии для «СЭ» оценил победу в товарищеском матче над Македонией (3:...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/trener-molodezhnoy-sbornoy-rossii-shabarov-o-matche-s-makedoniey-sudya-srazu-dal-ponyat-lyuboe-narushenie-penalti-2458512/"
+    },
+    {
+      "d": "28 сентября 2026",
+      "t": "Игрок сборной Ирана Тареми: «Гостеприимство и отношение в России ...",
+      "text": "Нападающий и капитан сборной Ирана Мехди Тареми поделился впечатлениями от визита в Россию.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/igrok-sbornoy-irana-taremi-gostepriimstvo-i-otnoshenie-v-rossii-namnogo-luchshe-chem-v-ssha-2458497/"
+    },
+    {
+      "d": "28 сентября 2026",
+      "t": "Грузия и Украина сыграли вничью в матче Лиги наций",
+      "text": "Сборные Грузии и Украины сыграли вничью в матче группового турнира Лиги наций — 0:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/gruziya-ukraina-schet-i-rezultat-matcha-ligi-naciy-28-sentyabrya-2026-2458495/"
+    },
+    {
+      "d": "28 сентября 2026",
       "t": "Армения проиграла Черногории после гола в концовке матча Лиги нац...",
       "text": "Сборная Армении уступила сборной Черногории в матче группового турнира Лиги наций — 2:3.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Вратарь «ПСЖ» и сборной России Матвей Сафонов уклонился от ответа на вопрос, кого бы из национальной команды он подписал в парижск...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/safonov-ne-otvetil-kogo-by-podpisal-v-pszh-iz-sbornoy-rossii-doveryu-eto-lyudyam-kotorye-luchshe-razbirayutsya-2458478/"
-    },
-    {
-      "d": "28 сентября 2026",
-      "t": "Головин: «Батраков стал увереннее, это видно даже в поведении за ...",
-      "text": "Полузащитник «Монако» и сборной России Александр Головин поделился мнением об игре хавбека «Галатасарая» Алексея Батракова.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/aleksandr-golovin-aleksey-batrakov-stal-uverennee-eto-vidno-dazhe-v-povedenii-za-polem-2458476/"
-    },
-    {
-      "d": "28 сентября 2026",
-      "t": "Головин о «конфликте» с Соболевым в сборной России: «Это просто ш...",
-      "text": "Полузащитник сборной России Александр Головин ответил на вопрос о моменте с партнером по национальной команде нападающим Александр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/golovin-o-konflikte-s-sobolevym-v-sbornoy-rossii-eto-prosto-shutka-my-horosho-druzhim-2458474/"
-    },
-    {
-      "d": "28 сентября 2026",
-      "t": "Сборная России U-17 обыграла сборную Сербии в товарищеском матче",
-      "text": "Юношеская сборная России U-17 обыграла сверстников из Сербии во втором товарищеском матче в Белграде — 2:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/rossiya-u-17-serbiya-u-17-schet-i-rezultat-tovarischeskogo-matcha-28-sentyabrya-2026-2458475/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-28T17:59:42.660552Z"
+  "results_updated": "2026-09-28T19:03:04.247349Z"
 }
