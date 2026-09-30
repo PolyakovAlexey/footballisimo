@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "30 сентября 2026",
+      "t": "Сестра Роналду репостнула сообщение болельщика: «Криштиану заслуж...",
+      "text": "Элма Авейру, сестра нападающего сборной Португалии Криштиану Роналду, сделала в своих соцсетях репост сообщения болельщика о футбо...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/sestra-ronaldu-podderzhala-futbolista-posle-ego-otezda-iz-sbornoy-portugalii-2459062/"
+    },
+    {
+      "d": "30 сентября 2026",
+      "t": "Португальская футбольная федерация сделала заявление после отъезд...",
+      "text": "Португальская футбольная федерация (FPF) опубликовала заявление на фоне того, что нападающий Криштиану Роналду покинул расположени...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/portugalskaya-futbolnaya-federaciya-sdelala-zayavlenie-posle-otezda-ronaldu-iz-sbornoy-2459053/"
+    },
+    {
+      "d": "30 сентября 2026",
+      "t": "Роналду объявил, что покинул расположение сборной Португалии",
+      "text": "Нападающий сборной Португалии Криштиану Роналду заявил, что покинул расположение команды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-krishtianu-ronaldu-pokinul-raspolozhenie-sbornoy-portugalii-2459043/"
+    },
+    {
+      "d": "30 сентября 2026",
       "t": "Сафонов: «С детства болел за Роналду, но Месси был лучше на чемпи...",
       "text": "Вратарь «ПСЖ» Матвей Сафонов ответил на вопрос, грустит ли он из-за того, что чемпионат мира-2026, скорее всего, завершил полноцен...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Комментатор Геннадий Орлов в интервью «СЭ» рассказал, что удивлен, почему полузащитник Кирилл Глебов не сыграл против Ирана (2:0).",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/orlov-protiv-irana-sbornoy-rossii-tochno-ne-hvatilo-odnogo-igroka-2458978/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Роналду не сыграет против Дании и пропустит второй матч Португали...",
-      "text": "Главный тренер сборной Португалии Жорже Жезуш заявил, что нападающий Криштиану Роналду не примет участия в матче 3-го тура группов...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-krishtianu-ronaldu-propustit-match-portugalii-protiv-danii-v-lige-naciy-2459003/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Орлов о Батракове: «Пока не готов к мужской борьбе в чемпионате Т...",
-      "text": "Комментатор Геннадий Орлов оценил игру полузащитника сборной России Алексея Батракова в матче с Ираном.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/orlov-o-batrakove-poka-ne-gotov-k-muzhskoy-borbe-v-chempionate-turcii-2458975/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Орлов объяснил, в чем Головин превосходит остальных игроков сборн...",
-      "text": "Комментатор Геннадий Орлов оценил игру полузащитника сборной России Александра Головина в матче с Ираном.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/gennadiy-orlov-obyasnil-v-chem-aleksandr-golovin-prevoshodit-ostalnyh-igrokov-sbornoy-rossii-2458972/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-30T18:38:53.168574Z"
+  "results_updated": "2026-09-30T20:29:56.623508Z"
 }
