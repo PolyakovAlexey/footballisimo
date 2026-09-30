@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "30 сентября 2026",
+      "t": "Мексика и Перу сыграли вничью, Чавес на поле не вышел",
+      "text": "Сборные Мексики и Перу не выявили победителя в товарищеском матче — 1:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/meksika-peru-schet-1-1-rezultat-tovarischeskogo-matcha-30-sentyabrya-2026-goda-2458830/"
+    },
+    {
+      "d": "30 сентября 2026",
       "t": "США переиграли Чили в товарищеском матче, Гутьеррес забил гол",
       "text": "Сборная США выиграла у сборной Чили в товарищеском матче — 4:2.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер сборной Испании Луис де ла Фуэнте после победы над Хорватией (4:1) поблагодарил Севилью за прием.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/luis-de-la-fuente-kommentariy-po-pobede-ispanii-nad-horvatiey-v-lige-naciy-2458818/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Билич: «Оборонительная схема Хорватии в матче с Испанией не срабо...",
-      "text": "Главный тренер сборной Хорватии Славен Билич прокомментировал поражение от Испании (1:4) в матче Лиги наций УЕФА.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/slaven-bilich-kommentariy-po-porazheniyu-horvatii-ot-ispanii-v-lige-naciy-uefa-2458817/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-30T02:31:49.779933Z"
+  "results_updated": "2026-09-30T04:36:46.033783Z"
 }
