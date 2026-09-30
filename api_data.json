@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "30 сентября 2026",
+      "t": "Сафонов: «С детства болел за Роналду, но Месси был лучше на чемпи...",
+      "text": "Вратарь «ПСЖ» Матвей Сафонов ответил на вопрос, грустит ли он из-за того, что чемпионат мира-2026, скорее всего, завершил полноцен...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/vratar-pszh-matvey-safonov-schitaet-chto-lionel-messi-vystupil-luchshe-krishtianu-ronaldu-na-chm-2026-2459028/"
+    },
+    {
+      "d": "30 сентября 2026",
+      "t": "Marca: Роналду покинул расположение сборной Португалии",
+      "text": "Нападающий сборной Португалии Криштиану Роналду покинул расположение команды, сообщает Marca.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/marca-forvard-krishtianu-ronaldu-pokinul-raspolozhenie-sbornoy-portugalii-2459025/"
+    },
+    {
+      "d": "30 сентября 2026",
+      "t": "РФС утвердил стратегию развития ФНЛ до 2030 года",
+      "text": "Исполком Российского футбольного союза (РФС) утвердил стратегию развития Футбольной национальной лиги (ФНЛ) на 2026-2030 годы, соо...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_d1/news/rfs-utverdil-strategiyu-razvitiya-fnl-do-2030-goda-2459022/"
+    },
+    {
+      "d": "30 сентября 2026",
       "t": "Орлов: «Вышла бы такая сборная России из группы на ЧМ? Против Ира...",
       "text": "Комментатор Геннадий Орлов в интервью «СЭ» прокомментировал победу сборной России над сборной Ирана (2:0) в BetBoom товарищеском м...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Комментатор Геннадий Орлов оценил игру полузащитника сборной России Александра Головина в матче с Ираном.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/gennadiy-orlov-obyasnil-v-chem-aleksandr-golovin-prevoshodit-ostalnyh-igrokov-sbornoy-rossii-2458972/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Орлов о матче с Ираном: «Первые 40 минут — лучшее, что было в сбо...",
-      "text": "Комментатор Геннадий Орлов в интервью «СЭ» поделился мнением о победе сборной России над Ираном (2:0) в BetBoom товарищеском матче...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/orlov-o-matche-s-iranom-pervye-40-minut-luchshee-chto-bylo-v-sbornoy-rossii-pri-karpine-2458969/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Газизов оценил судейство в этом сезоне: «Положительная динамика, ...",
-      "text": "Генеральный директор махачкалинского «Динамо» Шамиль Газизов поделился с «СЭ» впечатлениями о судействе в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/gendirektor-mahachkalinskogo-dinamo-gazizov-otmetil-polozhitelnuyu-dinamiku-v-sudeystve-v-rpl-v-sezone-2026-27-2458947/"
-    },
-    {
-      "d": "30 сентября 2026",
-      "t": "Мостовой заступился за Роналду: «Он должен играть, когда захочет....",
-      "text": "Бывший футболист сборных СССР и России Александр Мостовой поделился с «СЭ» мнением о возможном конфликте Криштиану Роналду с главн...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/aleksandr-mostovoy-zastupilsya-za-ronaldu-on-dolzhen-igrat-kogda-zahochet-2458936/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-09-30T17:22:01.235737Z"
+  "results_updated": "2026-09-30T18:38:53.168574Z"
 }
