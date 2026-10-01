@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "1 октября 2026",
+      "t": "Кейруш во второй раз за год ушел с поста главного тренера сборной...",
+      "text": "Футбольная ассоциация Ганы объявила об отставке главного тренера сборной Карлуша Кейруша.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/karlush-keyrush-pokinul-post-glavnogo-trenera-sbornoy-gany-2459312/"
+    },
+    {
+      "d": "1 октября 2026",
+      "t": "Сафонов рассказал о победе вратарской команды сборной России в кв...",
+      "text": "Вратарь сборной России Матвей Сафонов рассказал о том, как игроки национальной команды проводят свободное время на сборе.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/safonov-rasskazal-o-pobede-vratarskoy-komandy-sbornoy-rossii-v-kvize-vazhno-inogda-otvlekatsya-ot-futbola-2459310/"
+    },
+    {
+      "d": "1 октября 2026",
+      "t": "Глава правительства Мадейры: «Через 30 лет никто не будет знать, ...",
+      "text": "Глава правительства Мадейры Мигел Албукерке выступил в поддержку Криштиану Роналду после скандала в сборной Португалии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/glava-pravitelstva-madeyry-podderzhal-ronaldu-posle-skandala-v-sbornoy-portugalii-2459295/"
+    },
+    {
+      "d": "1 октября 2026",
       "t": "Унаи Эмери считает, что из Дзюбы выйдет хороший тренер",
       "text": "Бывший главный тренер «Спартака» Унаи Эмери отреагировал на слова экс-футболиста сборной России Артема Дзюбы о карьере.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Президент Медиалиги Николай Осипов в комментарии для «СЭ» рассказал о возможности приглашения нападающего Артема Дзюбы в лигу. Ран...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/media-football-league/news/v-medialige-zayavili-chto-zhdut-vozmozhnosti-priglasit-dzyubu-dlya-igry-v-lige-ili-za-sbornuyu-2459271/"
-    },
-    {
-      "d": "1 октября 2026",
-      "t": "Нападающий сборной Англии Тоуни не признал вину по делу о нападен...",
-      "text": "Нападающий сборной Англии и саудовского «Аль-Ахли» Айван Тоуни не признал вину по обвинению в нападении с причинением телесных пов...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/napadayuschiy-sbornoy-anglii-touni-ne-priznal-vinu-po-delu-o-napadenii-v-nochnom-klube-2459268/"
-    },
-    {
-      "d": "1 октября 2026",
-      "t": "Агент Дзюбы Гольдман: «Никаких официальных объявлений о завершени...",
-      "text": "Агент бывшего нападающего сборной России Артема Дзюбы Леонид Гольдман рассказал, что его клиент не делал официальных заявлений о з...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/agent-dzyuby-goldman-nikakih-oficialnyh-obyavleniy-o-zavershenii-karery-artem-ne-delal-2459270/"
-    },
-    {
-      "d": "1 октября 2026",
-      "t": "Самедов о заявлении Дзюбы про карьеру: «Все когда-то приходит к з...",
-      "text": "Бывший полузащитник сборной России Александр Самедов в комментарии для «СЭ» отреагировал на заявление нападающего Артема Дзюбы, в ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/samedov-o-zayavlenii-dzyuby-pro-kareru-vse-kogda-to-prihodit-k-zaversheniyu-2459243/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-01T15:02:21.240141Z"
+  "results_updated": "2026-10-01T16:55:33.099980Z"
 }
