@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "1 октября 2026",
+      "t": "Тренер сборной Португалии Жорже Жезуш о ситуации с Криштиану Рона...",
+      "text": "Главный тренер сборной Португалии Жорже Жезуш рассказал о ситуации с нападающим национальной команды Криштиану Роналду.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/trener-sbornoy-portugalii-zhorzhe-zhezush-o-situacii-s-krishtianu-ronaldu-u-menya-absolyutno-chistaya-sovest-2459330/"
+    },
+    {
+      "d": "1 октября 2026",
       "t": "Нападающий сборной Франции Дембеле: «Зидан дал мне свободу, мне э...",
       "text": "Футболист сборной Франции Усман Дембеле поделился впечатлениями от совместной работы с главным тренером национальной команды Зинед...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Премьер-министр Португалии Луиш Монтенегру провел беседы с главным тренером национальной сборной Жорже Жезушем и нападающим Кришти...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/premer-ministr-portugalii-montenegru-pogovoril-s-ronaldu-i-zhezushem-posle-skandala-v-sbornoy-2459279/"
-    },
-    {
-      "d": "1 октября 2026",
-      "t": "Черчесов — о Дзюбе: «Оставил след в нашем футболе, переписал мног...",
-      "text": "Главный тренер «Ахмата» Станислав Черчесов, работавший с нападающим Артемом Дзюбой в сборной России и «Спартаке», отреагировал на ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/cherchesov-o-dzyube-ostavil-sled-v-nashem-futbole-perepisal-mnogie-rekordy-snimayu-shlyapu-pered-nim-2459277/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-01T17:48:55.952654Z"
+  "results_updated": "2026-10-01T19:06:14.122468Z"
 }
