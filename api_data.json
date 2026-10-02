@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "2 октября 2026",
+      "t": "Украина — Северная Ирландия: во сколько начало матча Лиги наций",
+      "text": "Украина — Северная Ирландия: во сколько начало матча Лиги наций, где смотреть трансляцию 2 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/ukraina-severnaya-irlandiya-vo-skolko-nachalo-matcha-ligi-naciy-gde-smotret-translyaciyu-2-oktyabrya-2026-2459350/"
+    },
+    {
+      "d": "2 октября 2026",
+      "t": "Венгрия — Грузия: во сколько начало матча Лиги наций",
+      "text": "Венгрия — Грузия: во сколько начало матча Лиги наций, где смотреть трансляцию 2 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/vengriya-gruziya-vo-skolko-nachalo-matcha-ligi-naciy-gde-smotret-translyaciyu-2-oktyabrya-2026-2459349/"
+    },
+    {
+      "d": "2 октября 2026",
+      "t": "Тренер Намибии Бенджамин: «У нас малоизвестная сборная, но мы уве...",
+      "text": "Главный тренер сборной Намибии Коллин Бенджамин рассказал об ожиданиях от BETBOOM товарищеского матча с Россией.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/trener-namibii-bendzhamin-u-nas-maloizvestnaya-sbornaya-no-my-uvereny-v-sebe-2459609/"
+    },
+    {
+      "d": "2 октября 2026",
       "t": "Видаль: «Ситуация с Роналду — это позор. Криштиану вправе делать ...",
       "text": "Бывший полузащитник «Барселоны» Артуро Видаль поддержал нападающего сборной Португалии Криштиану Роналду в конфликте с главным тре...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Защитник сборной Португалии Нуну Мендеш не исключил возвращения нападающего Криштиану Роналду в национальную команду.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/zaschitnik-nunu-mendesh-dopuskaet-vozvraschenie-krishtianu-ronaldu-v-sbornuyu-portugalii-2459581/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Кипр — Армения: во сколько начало матча Лиги наций",
-      "text": "Кипр — Армения: во сколько начало матча Лиги наций, где смотреть трансляцию 2 октября 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/kipr-armeniya-vo-skolko-nachalo-matcha-ligi-naciy-gde-smotret-translyaciyu-2-oktyabrya-2026-2459352/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Marca: Португальская футбольная федерация работает над заключение...",
-      "text": "Португальская футбольная федерация (FPF) работает над тем, чтобы «заключить мир» с покинувшим расположение сборной Португалии Криш...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/portugalskaya-futbolnaya-federaciya-rabotaet-nad-zaklyucheniem-mira-s-napadayuschim-krishtianu-ronaldu-2459574/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Матвею Сафонову подарили корову и научили ездить на тракторе",
-      "text": "Вратарю «ПСЖ» и сборной России Матвею Сафонову подарили теленка и научили управлять трактором.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/matveyu-safonovu-podarili-korovu-i-nauchili-ezdit-na-traktore-2459550/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-02T14:24:25.655395Z"
+  "results_updated": "2026-10-02T16:08:40.664433Z"
 }
