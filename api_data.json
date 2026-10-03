@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "3 октября 2026",
+      "t": "Зидан: «Не могу сказать, что нам не хватало Мбаппе»",
+      "text": "Главный тренер сборной Франции Зинедин Зидан после ничьей в матче Лиги наций УЕФА с Италией (1:1) ответил на вопрос о влиянии отсу...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/zinedin-zidan-kommentariy-po-otsutstviyu-kiliana-mbappe-v-matche-s-italiey-2459745/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Нгой: «Иметь в составе таких футболистов, как Лукаку и де Брейне ...",
+      "text": "Защитник сборной Бельгии Натан Нгой после победы над Турцией (3:0) в матче Лиги наций УЕФА оценил игру Кевина де Брейне и Ромела Л...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/natan-ngoy-kommentariy-po-igre-romelu-lukaku-i-kevina-de-breyne-za-sbornuyu-belgii-2459740/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Доннарумма назвал своего фаворита «Золотого мяча»",
+      "text": "Голкипер сборной Италии Джанлуиджи Доннарумма после ничьей против Франции (1:1) в матче Лиги наций назвал своего фаворита на получ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/donnarumma-nazval-svoego-favorita-zolotogo-myacha-2459739/"
+    },
+    {
+      "d": "3 октября 2026",
       "t": "Парагвай переиграл Колумбию, Андраде дебютировал за колумбийцев",
       "text": "Сборная Парагвая выиграла у сборной Колумбии в товарищеском матче — 1:0.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нападающий сборной Италии Себастьяно Эспозито прокомментировал ничью с Францией (1:1) в матче Лиги наций УЕФА.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/espozito-o-nichey-s-franciey-eto-sovsem-ne-plohoy-rezultat-2459729/"
-    },
-    {
-      "d": "3 октября 2026",
-      "t": "Босния и Герцеговина — Швеция: видеообзор матча Лиги наций",
-      "text": "Сборная Боснии и Герцеговины сыграла вничью со сборной Швеции в 3-м туре Лиги наций УЕФА — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/bosniya-i-gercegovina-shveciya-videoobzor-matcha-ligi-naciy-uefa-i-luchshie-momenty-igry-2-oktyabrya-2026-goda-2459725/"
-    },
-    {
-      "d": "3 октября 2026",
-      "t": "Дуэ: «Франции очень хотелось победить в матче с Италией»",
-      "text": "Нападающий сборной Франции Дезире Дуэ прокомментировал ничью с Италией (1:1) в матче 3-го тура Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/dezire-due-kommentariy-po-nichey-francii-i-italii-v-matche-ligi-naciy-uefa-2459726/"
-    },
-    {
-      "d": "3 октября 2026",
-      "t": "Франция — Италия: видеообзор матча Лиги наций",
-      "text": "Сборные Франции и Италии сыграли вничью в матче 3-го тура Лиги наций УЕФА — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/franciya-italiya-videoobzor-matcha-ligi-naciy-uefa-i-luchshie-momenty-igry-2-oktyabrya-2026-goda-2459723/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-03T02:23:49.676182Z"
+  "results_updated": "2026-10-03T04:22:04.025554Z"
 }
