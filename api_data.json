@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "d": "2 октября 2026",
+      "d": "3 октября 2026",
+      "t": "Парагвай переиграл Колумбию, Андраде дебютировал за колумбийцев",
+      "text": "Сборная Парагвая выиграла у сборной Колумбии в товарищеском матче — 1:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/kolumbiya-paragvay-schet-0-1-rezultat-tovarischeskogo-matcha-3-oktyabrya-2026-goda-2459737/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Роналду поддержал критику Мелу в адрес игроков сборной Португалии",
+      "text": "Нападающий «Аль-Насра» Криштиану Роналду лайкнул видео в социальной сети, на котором экс-полузащитник сборной Бразилии Фелипе Мелу...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-podderzhal-kritiku-melu-v-adres-igrokov-sbornoy-portugalii-2459734/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Калюлю поставил под сомнение удаление Упамекано в матче Лиги наци...",
+      "text": "Защитник сборной Франции Пьер Калюлю прокомментировал ничью с Италией (1:1) в матче Лиги наций УЕФА.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/kalyulyu-postavil-pod-somnenie-udalenie-upamekano-v-matche-ligi-naciy-s-italiey-2459733/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Тилеманс: «Турция действовала очень смело, оставляя много свободн...",
+      "text": "Капитан сборной Бельгии Юри Тилеманс прокомментировал победу над Турцией (3:0) в матче Лиги наций УЕФА.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/yuri-tilemans-kommentariy-po-pobede-belgii-nad-turciey-v-lige-naciy-uefa-2459731/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Эспозито — о ничьей с Францией: «Это совсем не плохой результат»",
+      "text": "Нападающий сборной Италии Себастьяно Эспозито прокомментировал ничью с Францией (1:1) в матче Лиги наций УЕФА.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/espozito-o-nichey-s-franciey-eto-sovsem-ne-plohoy-rezultat-2459729/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Босния и Герцеговина — Швеция: видеообзор матча Лиги наций",
+      "text": "Сборная Боснии и Герцеговины сыграла вничью со сборной Швеции в 3-м туре Лиги наций УЕФА — 1:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/bosniya-i-gercegovina-shveciya-videoobzor-matcha-ligi-naciy-uefa-i-luchshie-momenty-igry-2-oktyabrya-2026-goda-2459725/"
+    },
+    {
+      "d": "3 октября 2026",
+      "t": "Дуэ: «Франции очень хотелось победить в матче с Италией»",
+      "text": "Нападающий сборной Франции Дезире Дуэ прокомментировал ничью с Италией (1:1) в матче 3-го тура Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/dezire-due-kommentariy-po-nichey-francii-i-italii-v-matche-ligi-naciy-uefa-2459726/"
+    },
+    {
+      "d": "3 октября 2026",
       "t": "Франция — Италия: видеообзор матча Лиги наций",
       "text": "Сборные Франции и Италии сыграли вничью в матче 3-го тура Лиги наций УЕФА — 1:1.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/franciya-italiya-videoobzor-matcha-ligi-naciy-uefa-i-luchshie-momenty-igry-2-oktyabrya-2026-goda-2459723/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Ван Боммел: «Бельгия долго позволяла Турции оставаться в игре, хо...",
-      "text": "Главный тренер сборной Бельгии Марк ван Боммел прокомментировал победу над Турцией (3:0) в матче Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/mark-van-bommel-kommentariy-po-pobede-belgii-nad-turciey-v-lige-naciy-2459720/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Манчини о ничьей Италии с Францией: «Это был не экзамен, а шаг вп...",
-      "text": "Главный тренер сборной Италии Роберто Манчини подвел итоги матча против Франции (1:1) в 3-м туре Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/manchini-prokommentiroval-nichyu-italii-s-franciey-v-lige-naciy-2459716/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Зидан о ничьей Франции с Италией: «Я очень разочарован, мы заслуж...",
-      "text": "Главный тренер сборной Франции Зинедин Зидан подвел итоги матча против Италии (1:1) в 3-м туре Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/zidan-ocenil-nichyu-francii-s-italiey-v-lige-naciy-2459712/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Разин — на вопрос об уходе Кузнецова из «Сибири»: «А как вы счита...",
-      "text": "Главный тренер «Металлурга» Сергей Разин после победы над «Спартаком» (2:0) в FONBET чемпионате КХЛ иронично ответил на вопрос об ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/hockey/khl/news/razin-poshutil-pro-otezd-ronaldu-iz-sbornoy-portugalii-na-vopros-ob-uhode-kuznecova-iz-sibiri-2459711/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Грузия проиграла Венгрии в Лиге наций, Северная Ирландия разгроми...",
-      "text": "Сборная Грузии на выезде уступила Венгрии в матче 3-го тура Лиги наций — 0:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/ukraina-severnaya-irlandiya-vengriya-gruziya-schet-i-rezultaty-matchey-ligi-naciy-2-oktyabrya-2026-2459708/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Джеко проводили почетным коридором в последнем матче за сборную Б...",
-      "text": "Нападающий сборной Боснии и Герцеговины Эдик Джеко провел свой прощальный матч за команду.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/dzheko-provodili-pochetnym-koridorom-v-poslednem-matche-za-sbornuyu-bosnii-2459701/"
-    },
-    {
-      "d": "2 октября 2026",
-      "t": "Франция — Италия: Бастони сравнял счет в матче Лиги наций",
-      "text": "Сборная Италии отыгралась в матче против Франции в 3-м туре Лиги наций — 1:1.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/franciya-italiya-gol-bastoni-so-shtrafnogo-v-matche-ligi-naciy-2-oktyabrya-2026-2459699/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-02T23:51:21.902336Z"
+  "results_updated": "2026-10-03T02:23:49.676182Z"
 }
