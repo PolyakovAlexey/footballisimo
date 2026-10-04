@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "4 октября 2026",
+      "t": "Зидан — о Роналду: «Мы должны по-настоящему отдать должное его ве...",
+      "text": "Главный тренер сборной Франции Зинедин Зидан с восхищением отозвался о португальском форварде Криштиану Роналду.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/glavnyy-trener-sbornoy-francii-zinedin-zidan-kommentariy-o-karere-krishtianu-ronaldu-2460100/"
+    },
+    {
+      "d": "4 октября 2026",
+      "t": "Смородская о сборной России: «Когда будет риск проиграть, тогда и...",
+      "text": "Бывший президент «Локомотива» Ольга Смородская поделилась с «СЭ» мнением о перспективах сборной России.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/smorodskaya-podelilas-mneniem-o-perspektivah-sbornoy-rossii-2460086/"
+    },
+    {
+      "d": "4 октября 2026",
       "t": "Аргентина разгромила Буркина-Фасо в товарищеском матче",
       "text": "Сборная Аргентины в Буэнос-Айресе победила сборную Буркина-Фасо в товарищеском матче — 7:0.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной Испании Луис де ла Фуэнте поделился мнением о полузащитнике Ламине Ямале.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/de-la-fuente-yamal-na-puti-k-tomu-chtoby-stat-absolyutnoy-futbolnoy-legendoy-2459989/"
-    },
-    {
-      "d": "4 октября 2026",
-      "t": "Испания продлила рекордную беспроигрышную серию до 41 матча",
-      "text": "Сборная Испании победила сборную Чехии (3:1) в домашнем матче 3-го тура групповой стадии Лиги наций. Испанцы продлили свою рекордн...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/ispaniya-prodlila-rekordnuyu-besproigryshnuyu-seriyu-do-41-matcha-2459987/"
-    },
-    {
-      "d": "4 октября 2026",
-      "t": "Де ла Фуэнте после матча Испания — Чехия: «Во втором тайме мы нем...",
-      "text": "Главный тренер сборной Испании Луис де ла Фуэнте прокомментировал победу над сборной Чехии (3:1) в матче 3-го тура группового турн...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/de-la-fuente-posle-matcha-ispaniya-chehiya-vo-vtorom-tayme-my-nemnogo-poteryali-ostrotu-2459985/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-04T04:53:01.310350Z"
+  "results_updated": "2026-10-04T11:25:01.796373Z"
 }
