@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "4 октября 2026",
+      "t": "Рибери считает, что заслужил «Золотой мяч»-2013: «Было больно, не...",
+      "text": "Бывший полузащитник «Баварии» и сборной Франции Франк Рибери признался, что был расстроен, когда не стал обладателем «Золотого мяч...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/frank-riberi-schitaet-chto-zasluzhival-zolotoy-myach-v-2013-godu-2460175/"
+    },
+    {
+      "d": "4 октября 2026",
+      "t": "Семин заступился за Роналду: «Тренер должен учитывать значимость ...",
+      "text": "Бывший тренер сборной России Юрий Семин в разговоре с «СЭ» поделился мнением о конфликте форварда сборной Португалии Криштиану Рон...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/semin-zastupilsya-za-ronaldu-v-konflikte-s-trenerom-sbornoy-portugalii-zhezushem-2460162/"
+    },
+    {
+      "d": "4 октября 2026",
       "t": "В «Ахмате» оценили результативность Садулаева в матчах за сборную...",
       "text": "Спортивный директор «Ахмата» Руслан Газзаев в разговоре с «СЭ» ответил на вопрос о результативности полузащитника грозненцев Лечи ...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Сборная Аргентины в Буэнос-Айресе победила сборную Буркина-Фасо в товарищеском матче — 7:0.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/friendly/news/argentina-burkina-faso-schet-i-rezultat-tovarischeskogo-matcha-4-oktyabrya-2026-2460032/"
-    },
-    {
-      "d": "4 октября 2026",
-      "t": "Жена Роналду Родригес удалила пост с критикой главного тренера сб...",
-      "text": "Супруга нападающего сборной Португалии Криштиану Роналду Джорджина Родригес удалила из соцсети пост с критикой в адрес главного тр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/zhena-krishtianu-ronaldu-dzhordzhina-rodriges-udalila-post-s-kritikoy-glavnogo-trenera-sbornoy-portugalii-2460008/"
-    },
-    {
-      "d": "4 октября 2026",
-      "t": "Фреснеда после дебюта в сборной Испании: «Я много учусь и по-наст...",
-      "text": "Защитник сборной Испании Иван Фреснеда прокомментировал победу над сборной Чехии (3:1) в домашнем матче 3-го тура группового турни...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/fresneda-posle-debyuta-v-sbornoy-ispanii-ya-mnogo-uchus-i-po-nastoyaschemu-naslazhdayus-vremenem-zdes-2459998/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-04T16:15:06.615027Z"
+  "results_updated": "2026-10-04T17:54:27.965502Z"
 }
