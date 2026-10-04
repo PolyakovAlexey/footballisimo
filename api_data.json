@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "4 октября 2026",
+      "t": "Аргентина разгромила Буркина-Фасо в товарищеском матче",
+      "text": "Сборная Аргентины в Буэнос-Айресе победила сборную Буркина-Фасо в товарищеском матче — 7:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/argentina-burkina-faso-schet-i-rezultat-tovarischeskogo-matcha-4-oktyabrya-2026-2460032/"
+    },
+    {
+      "d": "4 октября 2026",
+      "t": "Жена Роналду Родригес удалила пост с критикой главного тренера сб...",
+      "text": "Супруга нападающего сборной Португалии Криштиану Роналду Джорджина Родригес удалила из соцсети пост с критикой в адрес главного тр...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/zhena-krishtianu-ronaldu-dzhordzhina-rodriges-udalila-post-s-kritikoy-glavnogo-trenera-sbornoy-portugalii-2460008/"
+    },
+    {
+      "d": "4 октября 2026",
       "t": "Фреснеда после дебюта в сборной Испании: «Я много учусь и по-наст...",
       "text": "Защитник сборной Испании Иван Фреснеда прокомментировал победу над сборной Чехии (3:1) в домашнем матче 3-го тура группового турни...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной Испании Луис де ла Фуэнте прокомментировал победу над сборной Чехии (3:1) в матче 3-го тура группового турн...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/de-la-fuente-posle-matcha-ispaniya-chehiya-vo-vtorom-tayme-my-nemnogo-poteryali-ostrotu-2459985/"
-    },
-    {
-      "d": "4 октября 2026",
-      "t": "Карпин обошел Черчесова и уступает только Романцеву по числу побе...",
-      "text": "Главный тренер сборной России Валерий Карпин вышел на второе место по числу побед в истории национальной команды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-vyshel-na-vtoroe-mesto-po-chislu-pobed-so-sbornoy-rossii-2459984/"
-    },
-    {
-      "d": "4 октября 2026",
-      "t": "Модрич о 0:7 Хорватии от Англии: «Впервые за 20 лет в сборной дей...",
-      "text": "Полузащитник сборной Хорватии Лука Модрич попросил прощения у болельщиков после поражения от Англии (0:7) в 3-м туре Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/modrich-poprosil-proscheniya-u-bolelschikov-horvatii-posle-porazheniya-ot-anglii-so-schetom-0-7-v-lige-naciy-2459975/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-04T00:31:07.531732Z"
+  "results_updated": "2026-10-04T04:53:01.310350Z"
 }
