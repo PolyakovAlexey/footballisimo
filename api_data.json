@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "6 октября 2026",
+      "t": "Агкацев: «В «Краснодаре» вратарей не просят разыгрывать мяч низом...",
+      "text": "Вратарь сборной России и «Краснодара» Станислав Агкацев рассказал о разных подходах к игре за клуб и национальную команду.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/stanislav-agkacev-v-krasnodare-vratarey-ne-prosyat-razygryvat-myach-nizom-v-shtrafnoy-2460540/"
+    },
+    {
+      "d": "6 октября 2026",
+      "t": "Агкацев: «Успех Сафонова в Лиге чемпионов никак его не изменил»",
+      "text": "Вратарь сборной России и «Краснодара» Станислав Агкацев ответил на вопрос по поводу голкипера национальной команды и «ПСЖ» Матвея ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/stanislav-agkacev-uspeh-matveya-safonova-v-lige-chempionov-nikak-ego-ne-izmenil-2460539/"
+    },
+    {
+      "d": "6 октября 2026",
+      "t": "Месси после последней тренировки в сборной Аргентины: «Особые мом...",
+      "text": "Нападающий сборной Аргентины Лионель Месси поделился эмоциями после последней тренировки в национальной команде.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/lionel-messi-posle-posledney-trenirovki-v-sbornoy-argentiny-osobye-momenty-2460529/"
+    },
+    {
+      "d": "6 октября 2026",
       "t": "Защитник сборной Италии Калафьори: «Мы стараемся воплотить в жизн...",
       "text": "Защитник сборной Италии Риккардо Калафьори прокомментировал победу над сборной Турции (3:1) в домашнем матче 4-го тура Лиги наций.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нападающий сборной Франции Майкл Олисе забил 2 гола и отдал результативный пас в домашнем матче 4-го тура группового турнира Лиги ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-maykl-olise-v-2026-godu-pouchastvoval-v-17-golah-sbornoy-francii-2460507/"
-    },
-    {
-      "d": "6 октября 2026",
-      "t": "Лавиа после матча Франция — Бельгия: «Много разочарования. Мы выл...",
-      "text": "Полузащитник сборной Бельгии Ромео Лавиа прокомментировал поражение от сборной Франции (1:4) в матче 4-го тура группового турнира ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/romeo-lavia-posle-matcha-ligi-naciy-franciya-belgiya-mnogo-razocharovaniya-my-vylozhilis-po-nastoyaschemu-2460503/"
-    },
-    {
-      "d": "6 октября 2026",
-      "t": "Зидан — о матче Франции с Бельгией: «Победа заслужена, а второй т...",
-      "text": "Главный тренер сборной Франции Зинедин Зидан прокомментировал победу над сборной Бельгии в матче 4-го тура Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/glavnyy-trener-sbornoy-francii-zinedin-zidan-ocenil-pobedu-nad-sbornoy-belgii-v-matche-ligi-naciy-2460502/"
-    },
-    {
-      "d": "6 октября 2026",
-      "t": "Мальдини после победы Италии над Турцией: «Командный дух помог на...",
-      "text": "Нападающий сборной Италии Даниэль Мальдини объяснил, за счет чего команде удалось победить сборную Турции в 4-м туре Лиге наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-sbornoy-italii-daniel-maldini-kommentariy-o-pobede-nad-sbornoy-turcii-v-lige-naciy-2460501/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-06T02:20:42.815949Z"
+  "results_updated": "2026-10-06T05:26:57.753102Z"
 }
