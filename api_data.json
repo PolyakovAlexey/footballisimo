@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "7 октября 2026",
+      "t": "В «Ахмате» оценили результативность Садулаева в сборной: «Это не ...",
+      "text": "Генеральный директор «Ахмата» Ахмед Айдамиров ответил «СЭ» на вопрос о результативности полузащитника грозненцев Лечи Садулаева в ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/v-ahmate-ocenili-igru-sadulaeva-za-sbornuyu-rossii-v-matchah-s-iranom-namibiey-i-nigeriey-2461038/"
+    },
+    {
+      "d": "7 октября 2026",
       "t": "Постекоглу — о Роналду: «Терпеть не мог, когда клубные тренеры ко...",
       "text": "Главный тренер «Аль-Насра» Анге Постекоглу не стал комментировать ситуацию вокруг нападающего Криштиану Роналду в сборной Португал...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Футболисты сборной России, прошедшие через Юношескую футбольную лигу, вышли на BetBoom матч против Нигерии (3:3) со специальными ш...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/futbolisty-sbornoy-rossii-sygrali-s-nigeriey-so-specialnymi-shevronami-vypusknik-yufl-2461007/"
-    },
-    {
-      "d": "7 октября 2026",
-      "t": "Аккаунты международных офисов Adidas сменили аватарки в честь про...",
-      "text": "Аккаунты международных офисов Adidas в Instagram (принадлежит компании Meta, признанной экстремистской организацией и запрещенной ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/adidas-po-vsemu-miru-smenil-avatarki-v-chest-proschalnogo-matcha-messi-za-sbornuyu-argentiny-kakie-dve-strany-otkazalis-2460962/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-07T17:19:45.932040Z"
+  "results_updated": "2026-10-07T18:13:45.732149Z"
 }
