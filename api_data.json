@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "7 октября 2026",
+      "t": "Экс-защитник «Тоттенхэма» Вега раскритиковал Инфантино и заявил о...",
+      "text": "Бывший защитник «Тоттенхэма» и сборной Швейцарии Рамон Вега объявил о намерении баллотироваться на пост президента ФИФА.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/eks-zaschitnik-tottenhema-ramon-vega-raskritikoval-infantino-i-zayavil-o-namerenii-vydvinutsya-na-post-glavy-fifa-2461075/"
+    },
+    {
+      "d": "7 октября 2026",
       "t": "Роналду обратился к Месси: «Мое уважение ко всему, чего ты добилс...",
       "text": "Нападающий сборной Португалии Криштиану Роналду обратился к завершившему карьеру в национальной команде Аргентины Лионелю Месси.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "«Барселона» обратилась к нападающему Лионелю Месси, отметив его путь от олимпийского золота в Пекине до исторической карьеры.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/barselona-pozdravila-lionelya-messi-s-vydayuscheysya-kareroy-v-sbornoy-argentiny-2461006/"
-    },
-    {
-      "d": "7 октября 2026",
-      "t": "Месси: «Горжусь тем, что я аргентинец. Мои товарищи по команде сд...",
-      "text": "Нападающий «Интер Майами» Лионель Месси подвел итоги своей карьеры в составе сборной Аргентины.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/world/news/lionel-messi-kommentariy-napadayuschego-inter-mayami-posle-zaversheniya-karery-v-sbornoy-argentiny-2461002/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-07T19:37:14.725268Z"
+  "results_updated": "2026-10-07T20:58:13.477964Z"
 }
