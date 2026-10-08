@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "8 октября 2026",
+      "t": "Сильва — о «Золотом мяче»: «Я бы отдал награду Фабиану Руису»",
+      "text": "Чемпион мира 2010 года в составе сборной Испании Давид Сильва заявил, что «Золотой мяч» в 2026 году должен получить хавбек «ПСЖ» Ф...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/chempion-mira-2010-goda-david-silva-rasskazal-kogo-schitaet-dostoynym-zolotogo-myacha-2461419/"
+    },
+    {
+      "d": "8 октября 2026",
+      "t": "Кроос планирует начать тренерскую карьеру",
+      "text": "Бывший полузащитник «Реала» и сборной Германии Тони Кроос намерен начать тренерскую карьеру, сообщает Diario AS.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/eks-igrok-reala-i-bavarii-toni-kroos-planiruet-nachat-trenerskuyu-kareru-2461416/"
+    },
+    {
+      "d": "8 октября 2026",
+      "t": "Рор — о прощальном матче Месси за Аргентину: «Хотели обменяться ф...",
+      "text": "Главный тренер сборной Бенина Гернот Рор рассказал, что после прощального матча Лионеля Месси за сборную Аргентины его игроки не с...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/gernot-ror-rasskazal-chto-igroki-sbornoy-benina-ne-poluchili-ni-odnoy-futbolki-argentincev-posle-proschalnogo-matcha-messi-2461415/"
+    },
+    {
+      "d": "8 октября 2026",
       "t": "Петухова: «Наконец-то открыла счет своим голам за сборную. Я долг...",
       "text": "Нападающая женской сборной России Кира Петухова рассказала, насколько тяжело было выходить на поле после сильного дождя в матче пр...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Главный операционный и спортивный директор «Родины» Алексей Зинин в разговоре «СЭ» прокомментировал совмещение главным тренером Дж...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/v-rodine-otvetili-na-vopros-o-rabote-novogo-trenera-komandy-dzhonatana-alby-v-sbornoy-rossii-2461300/"
-    },
-    {
-      "d": "8 октября 2026",
-      "t": "Кахигао — об отсутствии спартаковцев в молодежной сборной: «Это с...",
-      "text": "Спортивный директор «Спартака» Франсис Кахигао, отвечая на вопрос «СЭ», оценил представительство спартаковцев в юношеских и молоде...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kahigao-ob-otsutstvii-spartakovcev-v-molodezhnoy-sbornoy-eto-sledstvie-togo-chto-bylo-v-proshlom-2461272/"
-    },
-    {
-      "d": "8 октября 2026",
-      "t": "Футболиста сборной Лаоса арестовали по обвинению в участии в дого...",
-      "text": "Футболист сборной Лаоса Соукпхачан Луэнтала был арестован по подозрению в участии в организации договорных матчей на чемпионате АС...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/futbolista-sbornoy-laosa-arestovali-po-delu-o-dogovornyh-matchah-2461248/"
-    },
-    {
-      "d": "8 октября 2026",
-      "t": "Канчельскис ответил Бранко: «Ни в одной бане России не видел, что...",
-      "text": "Бывший футболист сборных СССР и России Андрей Канчельскис в разговоре с «СЭ» ответил бывшему одноклубнику по «Крыльям Советов» Сер...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/kanchelskis-otreagiroval-na-slova-branko-o-sovmestnom-pohode-v-banyu-s-vodkoy-v-samare-2461239/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-08T19:33:01.121478Z"
+  "results_updated": "2026-10-08T21:00:10.147133Z"
 }
