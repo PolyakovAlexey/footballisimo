@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "8 октября 2026",
+      "t": "Ротен: «На месте Жезуша я бы больше никогда не вызывал Роналду в ...",
+      "text": "Бывший полузащитник сборной Франции Жером Ротен раскритиковал нападающего сборной Португалии Криштиану Роналду за заявления в адре...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/zherom-roten-kommentariy-po-zayavleniyam-krishtianu-ronaldu-v-adres-zhorzhe-zhezusha-2461122/"
+    },
+    {
+      "d": "8 октября 2026",
+      "t": "Да Фонсека: «Думаю, «Золотой мяч вручат Ламину Ямалю»",
+      "text": "Экс-нападающий сборной Аргентины Омар да Фонсека считает, что «Золотой мяч» должен получить вингер «Барселоны» и сборной Испании Л...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/omar-da-fonseka-schitaet-chto-lamin-yamal-dolzhen-vyigrat-zolotoy-myach-2461121/"
+    },
+    {
+      "d": "8 октября 2026",
       "t": "Мартинес — о Месси: «Величайший из всех нас покидает нас. Нам буд...",
       "text": "Защитник сборной Аргентины Лисандро Мартинес обратился к нападающему Лионелю Месси после его последнего матча за национальную кома...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Нападающий сборной Португалии Криштиану Роналду обратился к завершившему карьеру в национальной команде Аргентины Лионелю Месси.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/krishtianu-ronaldu-obratilsya-k-lionelyu-messi-posle-proschalnogo-matcha-argentinca-za-sbornuyu-2461049/"
-    },
-    {
-      "d": "8 октября 2026",
-      "t": "Месси после прощального матча за сборную Аргентины: «Я уже скучаю...",
-      "text": "Нападающий Лионель Месси опубликовал трогательный пост после последнего матча за сборную Аргентины.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/napadayuschiy-lionel-messi-opublikoval-poslanie-posle-poslednego-matcha-za-sbornuyu-argentiny-2461044/"
-    },
-    {
-      "d": "8 октября 2026",
-      "t": "В «Ахмате» оценили результативность Садулаева в сборной: «Это не ...",
-      "text": "Генеральный директор «Ахмата» Ахмед Айдамиров ответил «СЭ» на вопрос о результативности полузащитника грозненцев Лечи Садулаева в ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/v-ahmate-ocenili-igru-sadulaeva-za-sbornuyu-rossii-v-matchah-s-iranom-namibiey-i-nigeriey-2461038/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-08T00:51:02.634686Z"
+  "results_updated": "2026-10-08T05:06:38.162942Z"
 }
