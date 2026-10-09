@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "9 октября 2026",
+      "t": "Симеоне: «Как аргентинец, я благодарен Месси за все, что он нам д...",
+      "text": "Главный тренер «Атлетико» Диего Симеоне поделился мнением о Лионеле Месси, завершившем карьеру в сборной Аргентины.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/glavnyy-trener-atletiko-diego-simeone-kommentariy-o-karere-lionelya-messi-v-sbornoy-argentiny-2461712/"
+    },
+    {
+      "d": "9 октября 2026",
+      "t": "УЕФА обязал Сербию провести матч Лиги наций против Германии без з...",
+      "text": "Контрольно-этический и дисциплинарный орган УЕФА оштрафовал Футбольный союз Сербии (ФСС) за расистское поведение болельщиков на ма...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/uefa-obyazal-serbiyu-provesti-match-ligi-naciy-protiv-germanii-bez-zriteley-iz-za-rasizma-2461704/"
+    },
+    {
+      "d": "9 октября 2026",
       "t": "Серия А-2026/27: расписание матчей и трансляций 6-го тура",
       "text": "Опубликовано расписание матчей 6-го тура чемпионата Италии.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Голкипер «Локомотива» Антон Митрюшкин в разговоре с «СЭ» поделился мнением о завершившемся сборе сборной России.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/mitryushkin-vydelil-nigeriyu-sredi-sopernikov-sbornoy-rossii-osenyu-2461585/"
-    },
-    {
-      "d": "9 октября 2026",
-      "t": "Вахания назвал парк Галицкого любимым местом в Краснодаре: «До си...",
-      "text": "Защитник сборной России и «Краснодара» Илья Вахания в интервью «СЭ» ответил на вопрос о любимом месте в городе.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/vahaniya-nazval-park-galickogo-lyubimym-mestom-v-krasnodare-do-sih-por-ne-oboshli-ego-celikom-2461584/"
-    },
-    {
-      "d": "9 октября 2026",
-      "t": "Вахания — о сборной России: «По товарищеским матчам можно оценить...",
-      "text": "Защитник сборной России Илья Вахания в интервью «СЭ» поделился мнением от первого осеннего сбора национальной команды.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/vahaniya-o-sbornoy-rossii-po-tovarischeskim-matcham-mozhno-ocenit-masterstvo-no-ne-realnuyu-silu-2461578/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-09T19:07:26.426796Z"
+  "results_updated": "2026-10-09T20:31:04.326127Z"
 }
