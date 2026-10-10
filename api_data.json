@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "10 октября 2026",
+      "t": "«Барселона» — «Хетафе»: во сколько начало матча чемпионата Испани...",
+      "text": "Барселона — Хетафе: во сколько начало матча чемпионата Испании, где смотреть трансляцию 10 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/barselona-hetafe-vo-skolko-nachalo-matcha-chempionata-ispanii-gde-smotret-translyaciyu-10-oktyabrya-2026-2461273/"
+    },
+    {
+      "d": "10 октября 2026",
+      "t": "Португальская футбольная федерация временно отстранила Роналду от...",
+      "text": "Федерации футбола Португалии (FPF) сообщила об отстранении нападающего Криштиану Роналду от выступлений за национальную сборную.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/federaciya-futbola-portugalii-vremenno-otstranila-ronaldu-ot-nacionalnoy-sbornoy-2461892/"
+    },
+    {
+      "d": "10 октября 2026",
+      "t": "Экс-капитан сборной Бразилии Дунга посетит Россию для участия в ц...",
+      "text": "Бывший капитан сборной Бразилии и чемпион мира Дунга впервые посетит Россию, чтобы вручить премию имени Никиты Симоняна.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/eks-kapitan-sbornoy-brazilii-dunga-vpervye-posetit-rossiyu-dlya-uchastiya-v-ceremonii-vrucheniya-premii-imeni-nikity-simonyana-2461888/"
+    },
+    {
+      "d": "10 октября 2026",
       "t": "«Нижний Новгород» — «Енисей»: во сколько начало матча Первой лиги",
       "text": "Нижний Новгород — Енисей: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Урал — Велес: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_d1/news/ural-veles-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461694/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "Игдисамов: «Хочу выиграть медали чемпионата мира со сборной Росси...",
-      "text": "Главный тренер ЦСКА Дмитрий Игдисамов в интервью «СЭ» рассказал о своей главной мечте.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/igdisamov-hochu-vyigrat-medali-chempionata-mira-so-sbornoy-rossii-2461763/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "Жаке готов сыграть с «Манчестер Сити»",
-      "text": "Защитник «Ливерпуля» Жереми Жаке пропустил последний матч сборной Франции из-за дискомфорта в задней поверхности бедра, но восстан...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/zhake-gotov-sygrat-s-manchester-siti-2461796/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "Наингголан сожалеет, что выбрал сборную Бельгии, а не Индонезии",
-      "text": "Полузащитник «Патро Эйсден» Раджа Наингголан считает, что его международная карьера могла сложиться совершенно иначе.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/nainggolan-sozhaleet-chto-vybral-sbornuyu-belgii-a-ne-indonezii-2461745/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-10T11:28:09.354940Z"
+  "results_updated": "2026-10-10T14:10:36.212713Z"
 }
