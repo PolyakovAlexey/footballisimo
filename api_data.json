@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "10 октября 2026",
+      "t": "«Реал» — «Вильярреал»: во сколько начало матча чемпионата Испании",
+      "text": "Реал — Вильярреал: во сколько начало матча чемпионата Испании, где смотреть трансляцию 10 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/real-vilyarreal-vo-skolko-nachalo-matcha-chempionata-ispanii-gde-smotret-translyaciyu-10-oktyabrya-2026-2461675/"
+    },
+    {
+      "d": "10 октября 2026",
+      "t": "«Монако» — «Тулуза»: во сколько начало матча Лиги 1",
+      "text": "Монако — Тулуза: во сколько начало матча Лиги 1, где смотреть трансляцию 10 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/monako-tuluza-vo-skolko-nachalo-matcha-ligi-1-gde-smotret-translyaciyu-10-oktyabrya-2026-2461693/"
+    },
+    {
+      "d": "10 октября 2026",
+      "t": "«ПСЖ» — «Ле-Ман»: во сколько начало матча Лиги 1",
+      "text": "ПСЖ — Ле-Ман: во сколько начало матча Лиги 1, где смотреть трансляцию 10 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/pszh-le-man-vo-skolko-nachalo-matcha-ligi-1-gde-smotret-translyaciyu-10-oktyabrya-2026-2461678/"
+    },
+    {
+      "d": "10 октября 2026",
       "t": "«Барселона» — «Хетафе»: во сколько начало матча чемпионата Испани...",
       "text": "Барселона — Хетафе: во сколько начало матча чемпионата Испании, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Шинник — Текстильщик: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_d1/news/shinnik-tekstilschik-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461697/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "Мамаев — о Батракове: «Его ждет большое будущее»",
-      "text": "Бывший полузащитник сборной России Павел Мамаев в комментарии для «СЭ» отреагировал на голевую передачу российского хавбека «Галат...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/turkey/news/pavel-mamaev-ob-aleksee-batrakove-ego-zhdet-bolshoe-buduschee-2461834/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "«Ленинградец» — «Торпедо»: во сколько начало матча Первой лиги",
-      "text": "Ленинградец — Торпедо: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/leningradec-torpedo-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461696/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "«Урал» — «Велес»: во сколько начало матча Первой лиги",
-      "text": "Урал — Велес: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/ural-veles-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461694/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-10T15:46:25.188911Z"
+  "results_updated": "2026-10-10T16:43:08.651423Z"
 }
