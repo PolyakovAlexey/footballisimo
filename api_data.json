@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "10 октября 2026",
+      "t": "Президент FPF Проэнса заявил, что Роналду должен вернуться в сбор...",
+      "text": "Президент Португальской футбольной федерации (FPF) Педру Проэнса прокомментировал ситуацию вокруг нападающего сборной Португалии К...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/krishtianu-ronaldu-v-noyabre-dolzhen-vernutsya-v-sbornuyu-portugalii-2461982/"
+    },
+    {
+      "d": "10 октября 2026",
       "t": "«Реал» — «Вильярреал»: во сколько начало матча чемпионата Испании",
       "text": "Реал — Вильярреал: во сколько начало матча чемпионата Испании, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Нижний Новгород — Енисей: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rus_d1/news/nizhniy-novgorod-enisey-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461699/"
-    },
-    {
-      "d": "10 октября 2026",
-      "t": "«Шинник» — «Текстильщик»: во сколько начало матча Первой лиги",
-      "text": "Шинник — Текстильщик: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/shinnik-tekstilschik-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461697/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-10T16:43:08.651423Z"
+  "results_updated": "2026-10-10T18:05:57.890096Z"
 }
