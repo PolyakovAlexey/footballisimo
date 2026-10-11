@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "11 октября 2026",
+      "t": "«Реал Сосьедад» — «Депортиво»: во сколько начало матча чемпионата...",
+      "text": "Реал Сосьедад — Депортиво: во сколько начало матча чемпионата Испании, где смотреть трансляцию 11 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/real-sosedad-deportivo-vo-skolko-nachalo-matcha-chempionata-ispanii-gde-smotret-translyaciyu-11-oktyabrya-2026-2462014/"
+    },
+    {
+      "d": "11 октября 2026",
+      "t": "Кирилл Глебов о трансфере Батракова: «Хочется так же приезжать в ...",
+      "text": "Полузащитник ЦСКА Кирилл Глебов ответил на вопрос «СЭ» о возможном продолжении карьеры в одном из европейских чемпионатов.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/kirill-glebov-o-transfere-batrakova-hochetsya-tak-zhe-priezzhat-v-sbornuyu-v-statuse-legionera-nado-pokazyvat-na-pole-chto-ya-gotov-2462169/"
+    },
+    {
+      "d": "11 октября 2026",
+      "t": "Флик: «Гордон набрался уверенности в сборной Англии и хочет продо...",
+      "text": "Главный тренер «Барселоны» Ханси Флик поделился мнением об игре вингера Энтони Гордона.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/flik-gordon-nabralsya-uverennosti-v-sbornoy-anglii-i-hochet-prodolzhit-v-tom-zhe-duhe-v-barselone-2462119/"
+    },
+    {
+      "d": "11 октября 2026",
       "t": "Президент FPF Проэнса заявил, что Роналду должен вернуться в сбор...",
       "text": "Президент Португальской футбольной федерации (FPF) Педру Проэнса прокомментировал ситуацию вокруг нападающего сборной Португалии К...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Барселона — Хетафе: во сколько начало матча чемпионата Испании, где смотреть трансляцию 10 октября 2026",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/barselona-hetafe-vo-skolko-nachalo-matcha-chempionata-ispanii-gde-smotret-translyaciyu-10-oktyabrya-2026-2461273/"
-    },
-    {
-      "d": "11 октября 2026",
-      "t": "Португальская футбольная федерация временно отстранила Роналду от...",
-      "text": "Федерации футбола Португалии (FPF) сообщила об отстранении нападающего Криштиану Роналду от выступлений за национальную сборную.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/federaciya-futbola-portugalii-vremenno-otstranila-ronaldu-ot-nacionalnoy-sbornoy-2461892/"
-    },
-    {
-      "d": "11 октября 2026",
-      "t": "Экс-капитан сборной Бразилии Дунга посетит Россию для участия в ц...",
-      "text": "Бывший капитан сборной Бразилии и чемпион мира Дунга впервые посетит Россию, чтобы вручить премию имени Никиты Симоняна.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/eks-kapitan-sbornoy-brazilii-dunga-vpervye-posetit-rossiyu-dlya-uchastiya-v-ceremonii-vrucheniya-premii-imeni-nikity-simonyana-2461888/"
-    },
-    {
-      "d": "11 октября 2026",
-      "t": "«Нижний Новгород» — «Енисей»: во сколько начало матча Первой лиги",
-      "text": "Нижний Новгород — Енисей: во сколько начало матча Первой лиги, где смотреть трансляцию 10 октября 2026",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_d1/news/nizhniy-novgorod-enisey-vo-skolko-nachalo-matcha-pervoy-ligi-gde-smotret-translyaciyu-10-oktyabrya-2026-2461699/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-11T04:42:17.126753Z"
+  "results_updated": "2026-10-11T11:41:49.513742Z"
 }
