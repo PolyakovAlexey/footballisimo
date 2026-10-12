@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "12 октября 2026",
+      "t": "Сборная Афганистана по футболу намерена провести товарищеский мат...",
+      "text": "Сборная Афганистана по футболу заинтересована в проведении товарищеского матча с Россией в ноябре 2026 года, сообщает президент Фе...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-afganistana-po-futbolu-namerena-provesti-tovarischeskiy-match-s-rossiey-v-noyabre-2462432/"
+    },
+    {
+      "d": "12 октября 2026",
+      "t": "Бывший тренер «Ливерпуля» Арне Слот стал техническим наблюдателем...",
+      "text": "Бывший главный тренер «Ливерпуля» Арне Слот вошел в группу технических наблюдателей УЕФА на сезон-2026/27, сообщается на официальн...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/byvshiy-trener-liverpulya-arne-slot-stal-tehnicheskim-nablyudatelem-uefa-2462425/"
+    },
+    {
+      "d": "12 октября 2026",
       "t": "Сборная России сыграет в ретро-форме в память о Никите Симоняне",
       "text": "В ноябрьское международное окно ФИФА сборная России может выйти на поле в специальной ретро-форме, созданной в стилистике экипиров...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Полузащитник ЦСКА Кирилл Глебов ответил на вопрос «СЭ» о возможном продолжении карьеры в одном из европейских чемпионатов.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/kirill-glebov-o-transfere-batrakova-hochetsya-tak-zhe-priezzhat-v-sbornuyu-v-statuse-legionera-nado-pokazyvat-na-pole-chto-ya-gotov-2462169/"
-    },
-    {
-      "d": "12 октября 2026",
-      "t": "Флик: «Гордон набрался уверенности в сборной Англии и хочет продо...",
-      "text": "Главный тренер «Барселоны» Ханси Флик поделился мнением об игре вингера Энтони Гордона.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/flik-gordon-nabralsya-uverennosti-v-sbornoy-anglii-i-hochet-prodolzhit-v-tom-zhe-duhe-v-barselone-2462119/"
-    },
-    {
-      "d": "12 октября 2026",
-      "t": "Молодежная лига, результаты 25-го тура: ЦСКА победил «Акрон-Акаде...",
-      "text": "18 сентября и 9 октября состоялись матчи 25-го тура сезона-2026 Молодежной футбольной лиги.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/yflrussia/news/molodezhnaya-futbolnaya-liga-schet-i-rezultaty-matchey-25-tura-mfl-11-oktyabrya-2026-2462215/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-12T13:40:44.439469Z"
+  "results_updated": "2026-10-12T17:17:40.363877Z"
 }
