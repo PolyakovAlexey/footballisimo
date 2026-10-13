@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "13 октября 2026",
+      "t": "«Краснодар» — «Факел»: прямая трансляция матча Кубка России",
+      "text": "Краснодар — Факел: прямая трансляция матча Кубка России, видео онлайн 13 октября 2026",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/krasnodar-fakel-pryamaya-translyaciya-matcha-kubka-rossii-video-onlayn-13-oktyabrya-2026-2462449/"
+    },
+    {
+      "d": "13 октября 2026",
       "t": "«Локомотив» — «Акрон»: прямая трансляция матча Кубка России",
       "text": "Локомотив — Акрон: прямая трансляция матча Кубка России, видео онлайн 13 октября 2026",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер тульского «Арсенала» Дмитрий Аленичев ответил на вопрос «СЭ» о Никите Симоняне.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/glavnyy-trener-tulskogo-arsenala-dmitriy-alenichev-rasskazal-o-glavnom-vospominanii-o-nikite-simonyane-2462623/"
-    },
-    {
-      "d": "13 октября 2026",
-      "t": "Снайдер сравнил Симоняна с Кройфом: «Легенда»",
-      "text": "Бывший футболист «Интера» и сборной Нидерландов Уэсли Снайдер в разговоре с «СЭ» поделился мнением о Никите Симоняне.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/byvshiy-futbolist-sbornoy-niderlandov-uesli-snayder-sravnil-nikitu-simonyana-s-yohanom-kroyfom-2462604/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-13T15:31:32.132688Z"
+  "results_updated": "2026-10-13T17:25:09.921230Z"
 }
