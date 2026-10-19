@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "19 октября 2026",
+      "t": "Федерация футбола Португалии оштрафовала Роналду на 255 евро за о...",
+      "text": "Нападающий «Аль-Насра» и сборной Португалии Криштиану Роналду оштрафован на 255 евро за самовольный отъезд из национальной сборной...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/federaciya-futbola-portugalii-oshtrafovala-ronaldu-na-255-evro-za-otezd-iz-sbornoy-i-diskvalificirovala-na-odin-mesyac-2464862/"
+    },
+    {
+      "d": "19 октября 2026",
+      "t": "Педри: «На сегодняшний день Ямаль — лучший игрок в мире»",
+      "text": "Полузащитник «Барселоны» и сборной Испании Педри заявил, что не стоит сравнивать Ламина Ямаля с Лионелем Месси.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/pedri-na-segodnyashniy-den-yamal-luchshiy-igrok-v-mire-2464850/"
+    },
+    {
+      "d": "19 октября 2026",
       "t": "Мусиала может вернуться на поле в конце октября",
       "text": "Полузащитник «Баварии» Джамал Мусиала близок к возвращению после травмы, полученной в сентябре в сборной Германии.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Член совета директоров московского «Динамо» Сергей Степашин в разговоре с «СЭ» оценил шансы команды на чемпионство в сезоне-2026/2...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/chlen-soveta-direktorov-dinamo-sergey-stepashin-otvetil-na-vopros-o-shansah-komandy-na-chempionstvo-2464491/"
-    },
-    {
-      "d": "19 октября 2026",
-      "t": "Онопко назвал открытие памятника Симоняну событием для российског...",
-      "text": "Тренер сборной России и бывший футболист «Спартака» Виктор Онопко в комментарии для «СЭ» поделился впечатлениями от открытия памят...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/onopko-nazval-otkrytie-pamyatnika-simonyanu-sobytiem-dlya-rossiyskogo-i-mirovogo-futbola-2464466/"
-    },
-    {
-      "d": "19 октября 2026",
-      "t": "Uefa gives Infantino two-week deadline to release key documents",
-      "text": "European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November.",
-      "src": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-19T16:50:56.557738Z"
+  "results_updated": "2026-10-19T18:05:08.533747Z"
 }
