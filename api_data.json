@@ -2,7 +2,21 @@
   "news": [
     {
       "d": "19 октября 2026",
-      "t": "Федерация футбола Португалии оштрафовала Роналду на 255 евро за о...",
+      "t": "Криштиану Роналду опубликовал сообщение на фоне информации о диск...",
+      "text": "Нападающий «Аль-Насра» и национальной команды Португалии Криштиану Роналду опубликовал пост в своих социальных сетях после новости...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/krishtianu-ronaldu-opublikoval-soobschenie-na-fone-informacii-o-diskvalifikacii-v-sbornoy-portugalii-2464915/"
+    },
+    {
+      "d": "19 октября 2026",
+      "t": "Пирс Морган предложил оплатить штраф Роналду за самовольный отъез...",
+      "text": "Журналист Пирс Морган отреагировал на решение Португальской футбольной федерации оштрафовать нападающего национальной команды Криш...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/pirs-morgan-reakciya-zhurnalista-na-shtraf-krishtianu-ronaldu-v-sbornoy-portugalii-2464910/"
+    },
+    {
+      "d": "19 октября 2026",
+      "t": "Федерация футбола Португалии оштрафовала Роналду на 255 евро и от...",
       "text": "Нападающий «Аль-Насра» и сборной Португалии Криштиану Роналду оштрафован на 255 евро за самовольный отъезд из национальной сборной...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/federaciya-futbola-portugalii-oshtrafovala-ronaldu-na-255-evro-za-otezd-iz-sbornoy-i-diskvalificirovala-na-odin-mesyac-2464862/"
@@ -41,20 +55,6 @@
       "text": "Вратарь «ПСЖ» Матвей Сафонов вошел в символическую сборную 7-го тура чемпионата Франции по версии L'Equipe.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/france/news/matvey-safonov-voshel-v-simvolicheskuyu-sbornuyu-7-go-tura-chempionata-francii-po-versii-lequipe-2464680/"
-    },
-    {
-      "d": "19 октября 2026",
-      "t": "Чемпион мира Пети считает, что Сафонов продолжит играть в основе ...",
-      "text": "Чемпион мира 1998 года в составе сборной Франции Эммануэль Пети считает, что российский вратарь «ПСЖ» Матвей Сафонов сохранит мест...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/chempion-mira-peti-schitaet-chto-safonov-prodolzhit-igrat-v-osnove-pszh-2464610/"
-    },
-    {
-      "d": "19 октября 2026",
-      "t": "Член совета директоров «Динамо» Степашин: «Победная серия за счет...",
-      "text": "Член совета директоров московского «Динамо» Сергей Степашин в разговоре с «СЭ» оценил шансы команды на чемпионство в сезоне-2026/2...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/chlen-soveta-direktorov-dinamo-sergey-stepashin-otvetil-na-vopros-o-shansah-komandy-na-chempionstvo-2464491/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-19T19:32:17.652452Z"
+  "results_updated": "2026-10-19T20:51:34.846377Z"
 }
