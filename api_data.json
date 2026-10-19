@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "19 октября 2026",
+      "t": "Мусиала может вернуться на поле в конце октября",
+      "text": "Полузащитник «Баварии» Джамал Мусиала близок к возвращению после травмы, полученной в сентябре в сборной Германии.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/musiala-mozhet-vernutsya-na-pole-v-konce-oktyabrya-2464826/"
+    },
+    {
+      "d": "19 октября 2026",
       "t": "Тьерри Анри будет ведущим церемонии вручения «Золотого мяча»",
       "text": "Бывший футболист сборной Франции Тьерри Анри и британская журналистка Кейт Скотт станут ведущими 70-й церемонии вручения «Золотого...",
       "src": "Спорт-Экспресс",
@@ -44,17 +51,10 @@
     },
     {
       "d": "19 октября 2026",
-      "t": "All the goals from the Women's Super League - matchweek six",
-      "text": "Watch every goal from matchweek six of the Women's Super League 2026-27 season.",
+      "t": "Uefa gives Infantino two-week deadline to release key documents",
+      "text": "European governing body Uefa tells Fifa it must release key documents related to its governance and decision-making by 2 November.",
       "src": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5y43049v0zzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "d": "19 октября 2026",
-      "t": "Big scorelines, one-sided games - are Women's World Cup play-offs...",
-      "text": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient th...",
-      "src": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq398rkpjljlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-19T15:13:50.790081Z"
+  "results_updated": "2026-10-19T16:50:56.557738Z"
 }
