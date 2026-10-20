@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "20 октября 2026",
+      "t": "Россия сыграет с Венесуэлой 17 ноября в Краснодаре",
+      "text": "Сборная России проведет BetBoom товарищеский матч со сборной Венесуэлы 17 ноября в Краснодаре, сообщает пресс-служба РФС.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-sygraet-so-sbornoy-venesuely-17-noyabrya-2026-goda-v-krasnodare-2465110/"
+    },
+    {
+      "d": "20 октября 2026",
+      "t": "Тренер «Реала» Моуринью: «В моих командах нет «неприкасаемых» игр...",
+      "text": "Главный тренер «Реала» Жозе Моуринью поделился мнением об игре сливочных в сезоне-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/trener-reala-mourinyu-v-moih-komandah-net-neprikasaemyh-igrokov-mne-ne-nravitsya-eta-koncepciya-2465106/"
+    },
+    {
+      "d": "20 октября 2026",
+      "t": "«ПСЖ» — «Барселона»: прогноз, ставка и коэффициенты на матч Лиги ...",
+      "text": "«ПСЖ» и «Барселона» встретятся в 3-м туре общего этапа Лиги чемпионов сезона-2026/27 во вторник, 20 октября.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/pszh-barselona-prognoz-stavka-i-koefficienty-na-match-ligi-chempionov-20-oktyabrya-2026-goda-2465048/"
+    },
+    {
+      "d": "20 октября 2026",
       "t": "Онопко вспомнил об общении с Симоняном: «Всегда жил футболом и сб...",
       "text": "Тренер сборной России и бывший футболист «Спартака» Виктор Онопко в комментарии для «СЭ» вспомнил об общении с легендой красно-бел...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Сборная России проведет BETBOOM товарищеский матч со сборной Узбекистана.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-sygraet-s-uzbekistanom-v-tashkente-2465016/"
-    },
-    {
-      "d": "20 октября 2026",
-      "t": "Карпин поделился информацией о матчах сборной России в ноябре: ко...",
-      "text": "Главный тренер сборной России Валерий Карпин сообщил, что в ноябре национальная команда проведет два товарищеских матча.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-podelilsya-informaciey-o-matchah-sbornoy-rossii-v-noyabre-komanda-provedet-dve-igry-doma-i-na-vyezde-2465013/"
-    },
-    {
-      "d": "20 октября 2026",
-      "t": "Дасаев об игре вратаря «Спартака» Максименко: «Он перекачанный, п...",
-      "text": "Бывший вратарь «Спартака» и сборной СССР Ринат Дасаев поделился мнением об игре голкипера красно-белых Александра Максименко.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/dasaev-ob-igre-vratarya-spartaka-maksimenko-on-perekachannyy-poteryal-vsyu-reakciyu-bystrotu-koordinaciyu-2464981/"
-    },
-    {
-      "d": "20 октября 2026",
-      "t": "Серген Ялчин станет главным тренером сборной Турции",
-      "text": "Турецкий специалист Серген Ялчин близок к назначению главным тренером сборной Турции, сообщает инсайдер Николо Скира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/sergen-yalchin-blizok-k-naznacheniyu-glavnym-trenerom-sbornoy-turcii-2464973/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-20T10:30:48.645899Z"
+  "results_updated": "2026-10-20T13:15:44.090492Z"
 }
