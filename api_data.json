@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "20 октября 2026",
+      "t": "Абдулхаликов — о турнире ФИФА: «Все ребята будут отдавать себя за...",
+      "text": "Полузащитник юношеской сборной России Матвей Абдулхаликов поделился ожиданиями от чемпионата мира и фестиваля ФИФА.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/chempionat-mira-i-festival-fifa-2026-sostav-yunosheskoy-sbornoy-rossii-na-turnir-v-azerbaydzhane-2465197/"
+    },
+    {
+      "d": "20 октября 2026",
+      "t": "Юношеская сборная России объявила состав на первый с 2022 года ту...",
+      "text": "Тренерский штаб юношеской сборной России по футболу среди игроков до 15 лет определил окончательный состав на турнир ФИФА, который...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/yflrussia/news/yunosheskaya-sbornaya-rossii-obyavila-sostav-na-turnir-fifa-v-azerbaydzhane-2465188/"
+    },
+    {
+      "d": "20 октября 2026",
+      "t": "CNN: Роналду не хочет возвращаться в сборную Португалии",
+      "text": "Присутствие нападающего Криштиану Роналду на ближайшем сборе национальной команды Португалии практически исключено, сообщает журна...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/napadayuschiy-krishtianu-ronaldu-ne-hochet-vozvraschatsya-v-sbornuyu-portugalii-2465187/"
+    },
+    {
+      "d": "20 октября 2026",
       "t": "Серген Ялчин назначен главным тренером сборной Турции",
       "text": "Турецкая футбольная федерация объявила о назначении Сергена Ялчина главным тренером национальной сборной.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "«ПСЖ» и «Барселона» встретятся в 3-м туре общего этапа Лиги чемпионов сезона-2026/27 во вторник, 20 октября.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/pszh-barselona-prognoz-stavka-i-koefficienty-na-match-ligi-chempionov-20-oktyabrya-2026-goda-2465048/"
-    },
-    {
-      "d": "20 октября 2026",
-      "t": "Онопко вспомнил об общении с Симоняном: «Всегда жил футболом и сб...",
-      "text": "Тренер сборной России и бывший футболист «Спартака» Виктор Онопко в комментарии для «СЭ» вспомнил об общении с легендой красно-бел...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/viktor-onopko-vspomnil-ob-obschenii-s-nikitoy-simonyanom-2465044/"
-    },
-    {
-      "d": "20 октября 2026",
-      "t": "Источник: Роналду просил смягчить наказание за уход из сборной По...",
-      "text": "Криштиану Роналду просил Португальскую футбольную федерацию смягчить наказание за самовольный уход из расположения сборной.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/istochnik-ronaldu-prosil-smyagchit-nakazanie-za-uhod-iz-sbornoy-portugalii-2465030/"
-    },
-    {
-      "d": "20 октября 2026",
-      "t": "Женская сборная России осталась на 27-м месте в обновленном рейти...",
-      "text": "Женская сборная России сохранила 27-ю позицию в обновленном рейтинге ФИФА.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/women/news/zhenskaya-sbornaya-rossii-ostalas-na-27-m-meste-v-obnovlennom-reytinge-fifa-2465026/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-20T16:07:58.293669Z"
+  "results_updated": "2026-10-20T18:09:57.532523Z"
 }
