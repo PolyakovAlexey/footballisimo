@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "21 октября 2026",
+      "t": "Семин о «крестах» Кварацхелии: «Эта травма даст ему отдохнуть в п...",
+      "text": "Бывший тренер сборной России Юрий Семин в разговоре с «СЭ» отреагировал на травму нападающего «ПСЖ» Хвича Кварацхелии, который пол...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/semin-o-krestah-kvarachelii-eta-travma-dast-emu-otdohnut-v-psihologicheskom-plane-on-stanet-esche-silnee-2465516/"
+    },
+    {
+      "d": "21 октября 2026",
+      "t": "Сафонов обратился к игрокам юношеской сборной России перед старто...",
+      "text": "Вратарь «ПСЖ» и сборной России Матвей Сафонов обратился к футболистам юношеской национальной команды перед началом чемпионата мира...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/safonov-obratilsya-k-igrokam-yunosheskoy-sbornoy-rossii-pered-startom-chm-i-festivalya-fifa-zhelaem-vam-tolko-pobed-2465513/"
+    },
+    {
+      "d": "21 октября 2026",
+      "t": "Министр Ганы Адамс: «Было бы здорово провести матч нашей команды ...",
+      "text": "Министр спорта Ганы Кофи Эдди Адамс сообщил о готовности национальной команды провести товарищеский матч со сборной России.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/ministr-gany-adams-bylo-by-zdorovo-provesti-match-nashey-komandy-so-sbornoy-rossii-2465507/"
+    },
+    {
+      "d": "21 октября 2026",
       "t": "Кавазашвили поздравил Сафонова с победой над «Барселоной»: «Желаю...",
       "text": "Бывший вратарь сборной СССР Анзор Кавазашвили в разговоре с «СЭ» поделился мнением об игре российского голкипера «ПСЖ» Матвея Сафо...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший полузащитник сборной России Денис Глушаков рассказал о своих планах после завершения игровой карьеры.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/glushakov-ne-isklyuchil-chto-v-buduschem-vozglavit-sbornuyu-rossii-2465405/"
-    },
-    {
-      "d": "21 октября 2026",
-      "t": "Карпин рассказал, почему запретил себе читать комментарии в соцсе...",
-      "text": "Главный тренер сборной России Валерий Карпин рассказал, как относится к критике и почему не читает комментарии в социальных сетях.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-rasskazal-pochemu-zapretil-sebe-chitat-kommentarii-v-socsetyah-2465400/"
-    },
-    {
-      "d": "21 октября 2026",
-      "t": "Карпин рассказал, почему решил завершить игровую карьеру в 36 лет",
-      "text": "Главный тренер сборной России Валерий Карпин рассказал о причинах завершения игровой карьеры в 36 лет.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-rasskazal-pochemu-reshil-zavershit-igrovuyu-kareru-v-36-let-2465397/"
-    },
-    {
-      "d": "21 октября 2026",
-      "t": "Карпин: «Тем, у кого нет здоровья играть в футбол, играйте в паде...",
-      "text": "Главный тренер сборной России Валерий Карпин рассказал, как относится к занятию паделом среди футболистов.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-tem-u-kogo-net-zdorovya-igrat-v-futbol-igrayte-v-padel-2465396/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-21T08:54:13.337198Z"
+  "results_updated": "2026-10-21T10:43:05.748921Z"
 }
