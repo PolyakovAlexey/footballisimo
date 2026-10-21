@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "21 октября 2026",
+      "t": "Батраков возглавил список бомбардиров «Галатасарая» в нынешней Ли...",
+      "text": "Алексей Батраков забил второй мяч в Лиге чемпионов сезона-2026/27 и стал лучшим бомбардиром «Галатасарая» в турнире.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/batrakov-vozglavil-spisok-bombardirov-galatasaraya-v-nyneshney-lige-chempionov-2465642/"
+    },
+    {
+      "d": "21 октября 2026",
       "t": "Умер бывший капитан сборной Грузии по футболу Георгий Немсадзе",
       "text": "Бывший полузащитник и капитан сборной Грузии по футболу Георгий Немсадзе умер на 55-м году жизни.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Вратарь «ПСЖ» и сборной России Матвей Сафонов обратился к футболистам юношеской национальной команды перед началом чемпионата мира...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/safonov-obratilsya-k-igrokam-yunosheskoy-sbornoy-rossii-pered-startom-chm-i-festivalya-fifa-zhelaem-vam-tolko-pobed-2465513/"
-    },
-    {
-      "d": "21 октября 2026",
-      "t": "Министр Ганы Адамс: «Было бы здорово провести матч нашей команды ...",
-      "text": "Министр спорта Ганы Кофи Эдди Адамс сообщил о готовности национальной команды провести товарищеский матч со сборной России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/ministr-gany-adams-bylo-by-zdorovo-provesti-match-nashey-komandy-so-sbornoy-rossii-2465507/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-21T16:23:31.548378Z"
+  "results_updated": "2026-10-21T18:17:24.600567Z"
 }
