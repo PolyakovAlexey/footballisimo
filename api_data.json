@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "22 октября 2026",
+      "t": "«Бенфика» лидирует в турнирной таблице Лиги Европы после 3-го тур...",
+      "text": "В четверг, 22 октября, были сыграны матчи 3-го тура общего этапа Лиги Европы-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/europa-league/news/liga-evropy-2026-27-turnirnaya-tablica-obschego-etapa-posle-3-tura-polozhenie-na-23-oktyabrya-2026-goda-2466092/"
+    },
+    {
+      "d": "22 октября 2026",
+      "t": "Кейн признан лучшим футболистом сезона-2025/26 по версии Marca",
+      "text": "Нападающий «Баварии» и сборной Англии Харри Кейн признан лучшим футболистом сезона-2025/26 по версии испанской газеты Marca. 33-ле...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/napadayuschiy-bavarii-i-sbornoy-anglii-harri-keyn-priznan-luchshim-futbolistom-sezona-2025-26-po-versii-marca-2466089/"
+    },
+    {
+      "d": "22 октября 2026",
       "t": "Первый женский клубный чемпионат мира пройдет в США в 2028 году",
       "text": "ФИФА объявила, что первый клубный чемпионат мира по футболу среди женщин состоится в США.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Генеральный директор махачкалинского «Динамо» Шамиль Газизов оценил выступление команды в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/gazizov-ob-igre-mahachkalinskogo-dinamo-gde-to-nam-chut-chut-ne-hvatilo-budem-ispravlyatsya-2465889/"
-    },
-    {
-      "d": "22 октября 2026",
-      "t": "Карпин: «Когда сборная России вернется на международную арену, эт...",
-      "text": "Главный тренер сборной России Валерий Карпин высказался о главных достижениях национальной команды и ее возможном возвращении на м...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/valeriy-karpin-kogda-sbornaya-rossii-vernetsya-na-mezhdunarodnuyu-arenu-eto-stanet-glavnoy-pobedoy-2465884/"
-    },
-    {
-      "d": "22 октября 2026",
-      "t": "Дегтярев — о возвращении российского футбола на международную аре...",
-      "text": "Министр спорта России Михаил Дегтярев на форуме «Россия — спортивная держава» высказался о работе по возвращению российских футбол...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/degtyarev-zayavil-chto-rabota-po-vozvrascheniyu-rossiyskih-klubov-i-sbornyh-na-mezhdunarodnye-turniry-idet-neprosto-2465866/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-22T19:42:51.977669Z"
+  "results_updated": "2026-10-22T22:46:25.236118Z"
 }
