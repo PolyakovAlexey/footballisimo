@@ -2,10 +2,38 @@
   "news": [
     {
       "d": "23 октября 2026",
+      "t": "Forbes: Роналду первым из действующих спортсменов заработал 2 мил...",
+      "text": "Футболист «Аль-Насра» и сборной Португалии Криштиану Роналду первым среди действующих спортсменов заработал 2 миллиарда долларов, ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/forbes-ronaldu-pervym-iz-deystvuyuschih-sportsmenov-zarabotal-2-milliarda-dollarov-2466436/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Гомес заявил, что Миранчук заставлял его говорить по-русски в «Ат...",
+      "text": "Бывший нападающий «Аталанты» Алехандро Гомес в интервью «СЭ» рассказал о работе с полузащитником сборной России Алексеем Миранчуко...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/italy/news/gomes-zayavil-chto-miranchuk-zastavlyal-ego-govorit-po-russki-v-atalante-2466414/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Американская инвестиционная группа приобрела 42 процента акций «В...",
+      "text": "Американская инвестиционная группа Pitchwise Holdings приобрела 42 процента акций «Валенсии».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/amerikanskaya-investicionnaya-gruppa-priobrela-42-akciy-valensii-2466398/"
+    },
+    {
+      "d": "23 октября 2026",
       "t": "Роскомнадзор отказался от иска к Смолову на 300 тысяч рублей",
       "text": "Роскомнадзор направил в Арбитражный суд Москвы ходатайство об отказе от иска к бывшему футболисту сборной России Федору Смолову.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/obshchestvo/news/roskomnadzor-otkazalsya-ot-iska-k-smolovu-na-300-tysyach-rubley-2466369/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "В РФС допустили матч сборной России с командой из топ-10 рейтинга...",
+      "text": "Генеральный секретарь Российского футбольного союза (РФС) Максим Митрофанов допустил проведение товарищеского матча сборной России...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/gensek-rfs-mitrofanov-dopustil-match-sbornoy-rossii-s-komandoy-iz-top-10-reytinga-fifa-v-2027-godu-zayavlenie-2466389/"
     },
     {
       "d": "23 октября 2026",
@@ -27,34 +55,6 @@
       "text": "Орельен Тчуамени высказался об инциденте с одноклубником Федерико Вальверде, который произошел в мае 2026 года.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/spain/news/tchuameni-oproverg-konflikt-s-valverde-my-nikogda-ne-dralis-2466295/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Суперкомпьютер Opta назвал «Арсенал» фаворитом Лиги чемпионов пос...",
-      "text": "Суперкомпьютер Opta определил фаворита Лиги чемпионов сезона-2026/27 после трех туров общего этапа.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/superkompyuter-opta-nazval-arsenal-favoritom-ligi-chempionov-posle-treh-turov-obschego-etapa-2466289/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Финал Межконтинентального кубка ФИФА состоится 16 декабря в Катар...",
-      "text": "Финал Межконтинентального кубка ФИФА 2026 года состоится 16 декабря на стадионе «Ахмед бин Али» в Эр-Райяне (Катар).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/final-mezhkontinentalnogo-kubka-fifa-sostoitsya-16-dekabrya-v-katare-2466283/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "В Испании футбольные судьи начнут давать интервью после матчей",
-      "text": "Начиная с 11-го тура чемпионата Испании-2026/27 судьи станут давать интервью после окончания игр.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/v-ispanii-futbolnye-sudi-nachnut-davat-intervyu-posle-matchey-2466274/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Чемпион мира 2014 года Озил призвал ФИФА вернуть российские коман...",
-      "text": "Бывший полузащитник сборной Германии Месут Озил обратился к ФИФА с призывом прекратить политику двойных стандартов и вернуть росси...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/byvshiy-poluzaschitnik-sbornoy-germanii-mesut-ozil-prizval-fifa-vernut-rossiyskie-komandy-na-sorevnovaniya-2466251/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-23T14:43:30.203664Z"
+  "results_updated": "2026-10-23T16:13:13.816704Z"
 }
