@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "23 октября 2026",
+      "t": "Тчуамени опроверг конфликт с Вальверде: «Мы никогда не дрались»",
+      "text": "Орельен Тчуамени высказался об инциденте с одноклубником Федерико Вальверде, который произошел в мае 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/tchuameni-oproverg-konflikt-s-valverde-my-nikogda-ne-dralis-2466295/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Суперкомпьютер Opta назвал «Арсенал» фаворитом Лиги чемпионов пос...",
+      "text": "Суперкомпьютер Opta определил фаворита Лиги чемпионов сезона-2026/27 после трех туров общего этапа.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/superkompyuter-opta-nazval-arsenal-favoritom-ligi-chempionov-posle-treh-turov-obschego-etapa-2466289/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Финал Межконтинентального кубка ФИФА состоится 16 декабря в Катар...",
+      "text": "Финал Межконтинентального кубка ФИФА 2026 года состоится 16 декабря на стадионе «Ахмед бин Али» в Эр-Райяне (Катар).",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/final-mezhkontinentalnogo-kubka-fifa-sostoitsya-16-dekabrya-v-katare-2466283/"
+    },
+    {
+      "d": "23 октября 2026",
       "t": "В Испании футбольные судьи начнут давать интервью после матчей",
       "text": "Начиная с 11-го тура чемпионата Испании-2026/27 судьи станут давать интервью после окончания игр.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "В четверг, 22 октября, были сыграны матчи 3-го тура общего этапа Лиги Европы-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/europa-league/news/liga-evropy-2026-27-turnirnaya-tablica-obschego-etapa-posle-3-tura-polozhenie-na-23-oktyabrya-2026-goda-2466092/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Кейн признан лучшим футболистом сезона-2025/26 по версии Marca",
-      "text": "Нападающий «Баварии» и сборной Англии Харри Кейн признан лучшим футболистом сезона-2025/26 по версии испанской газеты Marca. 33-ле...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/germany/news/napadayuschiy-bavarii-i-sbornoy-anglii-harri-keyn-priznan-luchshim-futbolistom-sezona-2025-26-po-versii-marca-2466089/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Первый женский клубный чемпионат мира пройдет в США в 2028 году",
-      "text": "ФИФА объявила, что первый клубный чемпионат мира по футболу среди женщин состоится в США.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/women/news/pervyy-zhenskiy-klubnyy-chempionat-mira-v-2028-godu-mesto-provedeniya-i-uchastniki-2466018/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Ван Гал раскритиковал УЕФА за новый формат Лиги чемпионов",
-      "text": "Бывший главный тренер сборной Нидерландов Луи ван Гал высказался о новом формате Лиги чемпионов.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/van-gal-raskritikoval-uefa-za-novyy-format-ligi-chempionov-2465995/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-23T08:58:04.400131Z"
+  "results_updated": "2026-10-23T10:36:05.638655Z"
 }
