@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "23 октября 2026",
+      "t": "В Испании футбольные судьи начнут давать интервью после матчей",
+      "text": "Начиная с 11-го тура чемпионата Испании-2026/27 судьи станут давать интервью после окончания игр.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/v-ispanii-futbolnye-sudi-nachnut-davat-intervyu-posle-matchey-2466274/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Чемпион мира 2014 года Озил призвал ФИФА вернуть российские коман...",
+      "text": "Бывший полузащитник сборной Германии Месут Озил обратился к ФИФА с призывом прекратить политику двойных стандартов и вернуть росси...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/byvshiy-poluzaschitnik-sbornoy-germanii-mesut-ozil-prizval-fifa-vernut-rossiyskie-komandy-na-sorevnovaniya-2466251/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Аккаунты сборной России в соцсетях оказались лидерами по охватам ...",
+      "text": "Сборная России по футболу стала лидером по охватам своих аккаунтов в соцсетях в Европе в осеннее международное окно, сообщила заме...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/akkaunty-sbornoy-rossii-v-socsetyah-okazalis-liderami-po-ohvatam-v-evrope-v-osennee-mezhdunarodnoe-okno-2466242/"
+    },
+    {
+      "d": "23 октября 2026",
+      "t": "Месси — о финале ЧМ-2026: «В футболе побеждать очень трудно. Важн...",
+      "text": "Нападающий Лионель Месси вспомнил поражения сборной Аргентины в финале чемпионатов мира 2014 и 2026 годов.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/napadayuschiy-lionel-messi-zayavil-chto-v-futbole-vazhno-cenit-sam-put-2466213/"
+    },
+    {
+      "d": "23 октября 2026",
       "t": "«Бенфика» лидирует в турнирной таблице Лиги Европы после 3-го тур...",
       "text": "В четверг, 22 октября, были сыграны матчи 3-го тура общего этапа Лиги Европы-2026/27.",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Бывший главный тренер сборной Нидерландов Луи ван Гал высказался о новом формате Лиги чемпионов.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/champions-league/news/van-gal-raskritikoval-uefa-za-novyy-format-ligi-chempionov-2465995/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "В РФС заявили о высоком потенциале корпоративного футбола",
-      "text": "Начальник отдела взрослого массового футбола Российского футбольного союза (РФС) Егор Тарадин в комментарии для «СЭ» подвел итоги ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/v-rfs-zayavili-o-vysokom-potenciale-korporativnogo-futbola-2465981/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Мостовой — о прозвище «князь» для Батракова: «Пока рановато — в Р...",
-      "text": "Бывший футболист сборной России Александр Мостовой в разговоре с «СЭ» отреагировал на прозвище «князь», которое турецкие болельщик...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/turkey/news/mostovoy-o-prozvische-knyaz-dlya-batrakova-poka-ranovato-v-rossii-est-tolko-car-2465968/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Эдгар Давидс — новый амбассадор WINLINE",
-      "text": "Легендарный полузащитник «Аякса», «Ювентуса» и сборной Нидерландов Эдгар Давидс стал новым амбассадором WINLINE и главным героем к...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/stavki-na-sport/novosti-rynka/news/edgar-davids-novyy-ambassador-winline-2465908/"
-    },
-    {
-      "d": "23 октября 2026",
-      "t": "Газизов — об игре махачкалинского «Динамо»: «Где-то нам чуть-чуть...",
-      "text": "Генеральный директор махачкалинского «Динамо» Шамиль Газизов оценил выступление команды в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/gazizov-ob-igre-mahachkalinskogo-dinamo-gde-to-nam-chut-chut-ne-hvatilo-budem-ispravlyatsya-2465889/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-23T03:51:34.381239Z"
+  "results_updated": "2026-10-23T08:58:04.400131Z"
 }
