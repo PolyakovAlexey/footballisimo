@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "24 октября 2026",
+      "t": "Пети: «На плечах Мбаппе, как и Беллингема, лежит огромная ответст...",
+      "text": "Экс-полузащитник сборной Франции Эммануэль Пети перед матчем «Реала» против «Барселоны» отметил важность, Джуда Беллингема и Килиа...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/emmanuel-peti-kommentariy-po-vazhnosti-kiliana-mbappe-dlya-reala-pered-matchem-s-barselonoy-2466554/"
+    },
+    {
+      "d": "24 октября 2026",
       "t": "Шейру: «Обладателем «Золотого мяча» в этом сезоне вполне может ст...",
       "text": "Экс-полузащитник сборной Франции Брюно Шейру считает, что нападающий «Реала» Килиан Мбаппе может выиграть «Золотой мяч».",
       "src": "Спорт-Экспресс",
@@ -13,6 +20,13 @@
       "text": "Главный тренер сборной Уругвая Диего Форлан объявил расширенный состав команды на ноябрьские матчи.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/friendly/news/marichal-i-olasa-vklyucheny-v-rasshirennyy-sostav-sbornoy-urugvaya-na-noyabrskie-matchi-2466524/"
+    },
+    {
+      "d": "24 октября 2026",
+      "t": "Молодежная лига, результаты 27-го тура: «Динамо» и «Краснодар» сы...",
+      "text": "2 и 23 октября состоялись матчи 27-го тура сезона-2026 Молодежной футбольной лиги.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/yflrussia/news/molodezhnaya-futbolnaya-liga-schet-i-rezultaty-matchey-27-tura-mfl-23-oktyabrya-2026-2466601/"
     },
     {
       "d": "24 октября 2026",
@@ -41,20 +55,6 @@
       "text": "Футболист «Аль-Насра» и сборной Португалии Криштиану Роналду первым среди действующих спортсменов заработал 2 миллиарда долларов, ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/saudovskaya-araviya/news/forbes-ronaldu-pervym-iz-deystvuyuschih-sportsmenov-zarabotal-2-milliarda-dollarov-2466436/"
-    },
-    {
-      "d": "24 октября 2026",
-      "t": "Гомес заявил, что Миранчук заставлял его говорить по-русски в «Ат...",
-      "text": "Бывший нападающий «Аталанты» Алехандро Гомес в интервью «СЭ» рассказал о работе с полузащитником сборной России Алексеем Миранчуко...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/gomes-zayavil-chto-miranchuk-zastavlyal-ego-govorit-po-russki-v-atalante-2466414/"
-    },
-    {
-      "d": "24 октября 2026",
-      "t": "Американская инвестиционная группа приобрела 42 процента акций «В...",
-      "text": "Американская инвестиционная группа Pitchwise Holdings приобрела 42 процента акций «Валенсии».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/amerikanskaya-investicionnaya-gruppa-priobrela-42-akciy-valensii-2466398/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-24T03:46:05.397660Z"
+  "results_updated": "2026-10-24T08:25:14.350987Z"
 }
