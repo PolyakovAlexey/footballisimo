@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "25 октября 2026",
+      "t": "Макманаман: «Отдал бы «Золотой мяч» Мбаппе, а не Ямалю»",
+      "text": "Бывший полузащитник «Реала» Стив Макманаман признался, что на церемонии вручения «Золотого мяча» — 2026 проголосовал бы за нападаю...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/byvshiy-poluzaschitnik-reala-stiv-makmanaman-nazval-svoego-favorita-v-borbe-za-zolotoy-myach-2026-2467061/"
+    },
+    {
+      "d": "25 октября 2026",
       "t": "Сборная России U-15 всухую разгромила Судан в дебютном матче ЧМ и...",
       "text": "Юношеская сборная России U-15 обыграла сборную Судана в матче 1-го тура предварительного этапа чемпионата мира и фестиваля Междуна...",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Главный тренер сборной Уругвая Диего Форлан объявил расширенный состав команды на ноябрьские матчи.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/friendly/news/marichal-i-olasa-vklyucheny-v-rasshirennyy-sostav-sbornoy-urugvaya-na-noyabrskie-matchi-2466524/"
-    },
-    {
-      "d": "25 октября 2026",
-      "t": "Молодежная лига, результаты 27-го тура: «Динамо» и «Краснодар» сы...",
-      "text": "2 и 23 октября состоялись матчи 27-го тура сезона-2026 Молодежной футбольной лиги.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/yflrussia/news/molodezhnaya-futbolnaya-liga-schet-i-rezultaty-matchey-27-tura-mfl-23-oktyabrya-2026-2466601/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-25T08:44:35.938173Z"
+  "results_updated": "2026-10-25T10:16:07.229548Z"
 }
