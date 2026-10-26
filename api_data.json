@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "26 октября 2026",
+      "t": "«Золотой мяч» — 2026: прямая трансляция церемонии вручения в Росс...",
+      "text": "В понедельник, 26 октября, в театре «Палладиум» в Лондоне пройдет 70-я церемония вручения «Золотого мяча».",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/zolotoy-myach-2026-gde-smotret-translyaciyu-ceremonii-vrucheniya-v-rossii-26-oktyabrya-2467463/"
+    },
+    {
+      "d": "26 октября 2026",
+      "t": "Вратарь ЦСКА Бориско о попадании в расширенный список сборной Рос...",
+      "text": "Вратарь ЦСКА Максим Бориско в комментарии для «СЭ» отреагировал на свое попадание в расширенный состав сборной России на ноябрьски...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/vratar-cska-borisko-o-popadanii-v-rasshirennyy-spisok-sbornoy-rossii-gotov-k-vyzovu-budu-dokazyvat-igroy-2467607/"
+    },
+    {
+      "d": "26 октября 2026",
+      "t": "«Аль-Наср» — «Аль-Васл»: матч Элитной Лиги чемпионов АФК",
+      "text": "Матч «Аль-Наср» — «Аль-Васл» в 3-м туре общего этапа Элитной Лиги чемпионов АФК сезона-2026/27 не состоится 26 октября.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/al-nasr-al-vasl-match-elitnoy-ligi-chempionov-afk-26-oktyabrya-2026-goda-perenesen-2467394/"
+    },
+    {
+      "d": "26 октября 2026",
       "t": "Месси не приедет на церемонию вручения «Золотого мяча»",
       "text": "Нападающий «Интер Майами» Лионель Месси не приедет на церемонию вручения «Золотого мяча» 2026 года, сообщает The Touchline.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший главный тренер «Арсенала» Арсен Венгер посетил матч сборной России среди игроков до 15 лет против Афганистана, сообщает пре...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/eks-trener-arsenala-venger-posetil-match-sbornoy-rossii-do-15-let-protiv-afganistana-2467509/"
-    },
-    {
-      "d": "26 октября 2026",
-      "t": "«Золотой мяч» — 2026: прогнозы и коэффициенты букмекеров",
-      "text": "Церемония состоится в театре «Палладиум» и начнется в 23.00 по московскому времени.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/zolotoy-myach-2026-prognozy-stavki-i-koefficienty-bukmekerov-kto-favorit-ceremonii-2467461/"
-    },
-    {
-      "d": "26 октября 2026",
-      "t": "Захарян, Пиняев и Бориско — в расширенном составе сборной России ...",
-      "text": "РФС объявил расширенный состав сборной России на ноябрьский сбор.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/rasshirennyy-sostav-sbornoy-rossii-na-matchi-s-uzbekistanom-i-venesueloy-kto-popal-v-spisok-iz-36-futbolistov-2467501/"
-    },
-    {
-      "d": "26 октября 2026",
-      "t": "Фернандеш лидирует в топ-5 лигах Европы по голевым передачам с ян...",
-      "text": "Капитан «Манчестер Юнайтед» Бруну Фернандеш сделал 14 голевых передач и создал 96 моментов с января 2026 года. По обоим показателя...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/kapitan-manchester-yunayted-brunu-fernandesh-lidiruet-v-top-5-ligah-evropy-po-golevym-peredacham-s-yanvarya-2026-goda-2467545/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-26T14:47:40.735533Z"
+  "results_updated": "2026-10-26T16:37:46.414186Z"
 }
