@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "27 октября 2026",
+      "t": "Мбаппе опубликовал пост с одним эмодзи после церемонии вручения п...",
+      "text": "Нападающий «Реала» и сборной Франции Килиан Мбаппе опубликовал в соцсети пост после церемонии вручения премии «Золотой мяч» лучшем...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/kilian-mbappe-opublikoval-post-s-odnim-emodzi-posle-ceremonii-vrucheniya-premii-zolotoy-myach-2467751/"
+    },
+    {
+      "d": "27 октября 2026",
+      "t": "Английский футболист выиграл «Золотой мяч» впервые за 25 лет",
+      "text": "Нападающий «Баварии» и сборной Англии Харри Кейн стал обладателем приза «Золотой мяч» лучшему футболисту сезона-2025/26 по версии ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/angliyskiy-futbolist-vyigral-zolotoy-myach-vpervye-za-25-let-nagrada-dostalas-harri-keynu-2467739/"
+    },
+    {
+      "d": "27 октября 2026",
+      "t": "Кейна и Мбаппе разделили 40 баллов при голосовании за обладателя ...",
+      "text": "Нападающего «Баварии» и сборной Англии Харри Кейна и форварда «Реала» и сборной Франции Килиана Мбаппе разделили 40 баллов при гол...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/harri-keyna-i-kiliana-mbappe-razdelili-40-ballov-pri-golosovanii-za-obladatelya-zolotogo-myacha-2467737/"
+    },
+    {
+      "d": "27 октября 2026",
       "t": "Тухель — Кейну: «Поздравляю, Харри, с заслуженным «Золотым мячом»",
       "text": "Главный тренер сборной Англии Томас Тухель поздравил нападающего «Баварии» и национальной команды Харри Кейна с получением приза «...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нападающий «Баварии» и сборной Англии Харри Кейн стал обладателем приза «Золотой мяч» лучшему футболисту сезона-2025/26 по версии ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/zolotoy-myach-harri-keyn-luchshiy-futbolist-sezona-2025-26-priz-france-football-mbappe-i-yamal-v-top-3-2467727/"
-    },
-    {
-      "d": "27 октября 2026",
-      "t": "«Золотой мяч» — 2026: итоги премии — полный список в режиме онлай...",
-      "text": "В понедельник, 26 октября состоится церемония вручения премии «Золотой мяч» — 2026.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/zolotoy-myach-2026-rezultaty-golosovaniya-kto-vyigral-nagradu-luchshemu-futbolistu-sezona-2025-26-keyn-yamal-mbappe-messi-i-drugie-pretendenty-2467655/"
-    },
-    {
-      "d": "27 октября 2026",
-      "t": "Кондратюк: «Я уверена: придет день, когда ты обязательно станешь ...",
-      "text": "Супруга вратаря «ПСЖ» и сборной России Матвея Сафонова Марина Кондратюк прокомментировала его 4-е место в голосовании за лучшего в...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/marina-kondratyuk-ya-uverena-pridet-den-kogda-ty-obyazatelno-stanesh-pervym-matvey-safonov-2467726/"
-    },
-    {
-      "d": "27 октября 2026",
-      "t": "Алексия Путельяс завоевала «Золотой мяч» в третий раз в карьере",
-      "text": "Полузащитник «Лондон Сити Лайонессис» и сборной Испании Алексия Путельяс завоевала «Золотой мяч» — приз лучшей футболистке сезона-...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/zolotoy-myach-aleksiya-putelyas-luchshaya-futbolistka-sezona-2025-26-po-versii-france-football-2467725/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-27T00:07:39.220690Z"
+  "results_updated": "2026-10-27T04:10:45.990671Z"
 }
