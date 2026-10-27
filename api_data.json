@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "27 октября 2026",
+      "t": "Французский журналист — о награде лучшему тренеру сезона-2025/26:...",
+      "text": "Бывший заместитель главного редактора L'Equipe Жан-Филип Леклер в разговоре с «СЭ» поделился мнением о признании тренера сборной И...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/francuzskiy-zhurnalist-lekler-zayavil-chto-otdal-by-enrike-nagradu-luchshemu-treneru-sezona-2025-26-2467915/"
+    },
+    {
+      "d": "27 октября 2026",
+      "t": "Роналду включили в расширенную заявку Португалии на ноябрьские ма...",
+      "text": "Криштиану Роналду попал в предварительный состав сборной Португалии на ноябрьские матчи Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-vklyuchili-v-rasshirennuyu-zayavku-portugalii-na-noyabrskie-matchi-ligi-naciy-2467898/"
+    },
+    {
+      "d": "27 октября 2026",
+      "t": "Полузащитник сборной U-15 Храбрый — о ЧМ: «Каждый матч — непросто...",
+      "text": "Полузащитник юношеской сборной России Илья Храбрый поделился впечатлениями от матчей группового этапа чемпионата мира и фестиваля ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/poluzaschitnik-sbornoy-u-15-hrabryy-o-chm-kazhdyy-match-neprostoy-2467893/"
+    },
+    {
+      "d": "27 октября 2026",
       "t": "«Тоттенхэм» поздравил Кейна с получением «Золотого мяча» — 2026",
       "text": "«Тоттенхэм» поздравил Харри Кейна с победой в голосовании за «Золотой мяч» — 2026.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Бывший полузащитник «Баварии» Франк Рибери поздравил нападающего мюнхенцев Харри Кейна с получением «Золотого мяча» 2026 года.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/germany/news/riberi-pozdravil-keyna-s-polucheniem-zolotogo-myacha-2467779/"
-    },
-    {
-      "d": "27 октября 2026",
-      "t": "Принц Уильям поздравил Харри Кейна с вручением «Золотого мяча»",
-      "text": "Принц Уэльский Уильям отреагировал на вручение «Золотого мяча» нападающему сборной Англии Харри Кейну.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/harri-keyn-vyigral-zolotoy-myach-2026-princ-uilyam-pozdravil-igroka-sbornoy-anglii-2467763/"
-    },
-    {
-      "d": "27 октября 2026",
-      "t": "Мбаппе опубликовал пост с одним эмодзи после церемонии вручения п...",
-      "text": "Нападающий «Реала» и сборной Франции Килиан Мбаппе опубликовал в соцсети пост после церемонии вручения премии «Золотой мяч» лучшем...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/kilian-mbappe-opublikoval-post-s-odnim-emodzi-posle-ceremonii-vrucheniya-premii-zolotoy-myach-2467751/"
-    },
-    {
-      "d": "27 октября 2026",
-      "t": "Английский футболист выиграл «Золотой мяч» впервые за 25 лет",
-      "text": "Нападающий «Баварии» и сборной Англии Харри Кейн стал обладателем приза «Золотой мяч» лучшему футболисту сезона-2025/26 по версии ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/angliyskiy-futbolist-vyigral-zolotoy-myach-vpervye-za-25-let-nagrada-dostalas-harri-keynu-2467739/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-27T11:09:33.799476Z"
+  "results_updated": "2026-10-27T13:53:21.241082Z"
 }
