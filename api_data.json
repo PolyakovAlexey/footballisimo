@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "28 октября 2026",
+      "t": "Сборная России до 15 лет проиграла Мексике в 1/16 финала турнира ...",
+      "text": "Сборная России по футболу среди игроков не старше 15 лет уступила Мексике в матче 1/16 финала чемпионата мира и фестиваля ФИФА — 2...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/sbornaya-rossii-do-15-let-proigrala-meksike-v-1-16-finala-turnira-fifa-2468308/"
+    },
+    {
+      "d": "28 октября 2026",
+      "t": "TEAMtalk: «Барселона» интересуется полузащитником «Тоттенхэма» Бе...",
+      "text": "«Барселона» рассматривает возможность приобретения полузащитника «Тоттенхэма» и сборной Швеции Лукаса Бергвалля.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/poluzaschitnik-tottenhema-bergvall-mozhet-pereyti-v-barselonu-2468260/"
+    },
+    {
+      "d": "28 октября 2026",
+      "t": "Бабаев: «Рассчитываем, что Акинфеев сыграет в этом году»",
+      "text": "Роман Бабаев выразил надежду, что Игорь Акинфеев сможет сыграть в официальном матче до конца 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/babaev-rasschityvaem-chto-akinfeev-sygraet-v-etom-godu-2468215/"
+    },
+    {
+      "d": "28 октября 2026",
+      "t": "Карвахаль: «Мы с Кейном одного возраста, и он достоин «Золотого м...",
+      "text": "Защитник «Хетафе» Даниэль Карвахаль прокомментировал получение нападающим «Баварии» Харри Кейном «Золотого мяча» в 2026 году.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/daniel-karvahal-kommentariy-po-zolotomu-myachu-harri-keyna-v-2026-godu-2468137/"
+    },
+    {
+      "d": "28 октября 2026",
       "t": "Отец Ямаля чуть не разбил телефон российскому оператору на глазах...",
       "text": "Экс-игрок сборной России Андрей Аршавин рассказал, что Мунир Насрауи, отец нападающего «Барселоны» Ламина Ямаля, устроил потасовку...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Нападающий «Краснодара» Дмитрий Воробьев в комментарии для «СЭ» ответил на вопрос о желании сыграть за сборную России.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/napadayuschiy-krasnodara-dmitriy-vorobev-zayavil-chto-vsegda-gotov-igrat-za-sbornuyu-rossii-2468093/"
-    },
-    {
-      "d": "28 октября 2026",
-      "t": "Тюкавин о «Золотом мяче» Кейна: «Очень рад, болел за него. Он за ...",
-      "text": "Нападающий «Динамо» Константин Тюкавин рассказал, что болел за форварда «Баварии» Харри Кейна в голосовании за «Золотой мяч» — 202...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/tyukavin-zayavil-chto-bolel-za-keyna-v-golosovanii-za-zolotoy-myach-2468094/"
-    },
-    {
-      "d": "28 октября 2026",
-      "t": "Советник президента РФС Сорокин о допуске России: «Надо продолжат...",
-      "text": "Советник президента РФС Алексей Сорокин поделился с «СЭ» мнением о процессе возвращения российских сборных и клубов к международны...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/sovetnik-prezidenta-rfs-sorokin-podelilsya-mneniem-o-processe-vozvrascheniya-rossiyskih-komand-na-mezhdunarodnye-turniry-2467992/"
-    },
-    {
-      "d": "28 октября 2026",
-      "t": "Французский журналист — о награде лучшему тренеру сезона-2025/26:...",
-      "text": "Бывший заместитель главного редактора L'Equipe Жан-Филип Леклер в разговоре с «СЭ» поделился мнением о признании тренера сборной И...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/francuzskiy-zhurnalist-lekler-zayavil-chto-otdal-by-enrike-nagradu-luchshemu-treneru-sezona-2025-26-2467915/"
-    },
-    {
-      "d": "28 октября 2026",
-      "t": "Роналду включили в расширенную заявку Португалии на ноябрьские ма...",
-      "text": "Криштиану Роналду попал в предварительный состав сборной Португалии на ноябрьские матчи Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/ronaldu-vklyuchili-v-rasshirennuyu-zayavku-portugalii-na-noyabrskie-matchi-ligi-naciy-2467898/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-28T04:39:39.217765Z"
+  "results_updated": "2026-10-28T11:43:49.297914Z"
 }
