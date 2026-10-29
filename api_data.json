@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "29 октября 2026",
+      "t": "Сборная России до 15 лет проиграла Перу по пенальти на турнире ФИ...",
+      "text": "Юношеская сборная России по футболу среди игроков до 15 лет уступила сборной Перу в полуфинале плей-офф за 17-32-е места на чемпио...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/rossiya-u-15-peru-u-15-schet-i-rezultat-matcha-na-chempionate-mira-i-festivale-fifa-29-oktyabrya-2026-2468729/"
+    },
+    {
+      "d": "29 октября 2026",
+      "t": "Компани пропустит три матча «Баварии» из-за проблем со здоровьем",
+      "text": "Венсан Компани не вернется на тренерскую скамейку команды до перерыва на матчи сборных.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/germany/news/kompani-propustit-tri-matcha-bavarii-iz-za-problem-so-zdorovem-2468723/"
+    },
+    {
+      "d": "29 октября 2026",
       "t": "Кейн намерен отблагодарить партнеров по «Баварии» и сборной Англи...",
       "text": "Нападающий «Баварии» и сборной Англии Харри Кейн планирует сделать подарки партнерам по клубу и национальной команде после получен...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Сборная России среди игроков не старше 15 лет обыграла Камерун со счетом 9:2 в матче 1/4 финала плей-офф за 17-32-е места на чемпи...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/sbornaya-rossii-u-15-razgromila-kamerun-i-sygraet-s-peru-v-polufinale-chempionata-mira-i-festivalya-fifa-2468598/"
-    },
-    {
-      "d": "29 октября 2026",
-      "t": "Бывший тренер сборной Японии Окада покинул пост вице-президента ф...",
-      "text": "Футбольная ассоциация Японии (JFA) объявила об отставке бывшего главного тренера национальной команды Такеши Окады с поста вице-пр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/asian-cup/news/byvshiy-trener-sbornoy-yaponii-okada-pokinul-post-vice-prezidenta-futbolnoy-associacii-28-oktyabrya-2026-2468631/"
-    },
-    {
-      "d": "29 октября 2026",
-      "t": "18-летний полузащитник «Динамо» Маринкин: «Покупка Lamborghini? Я...",
-      "text": "Полузащитник московского «Динамо» и молодежной сборной России Тимофей Маринкин рассказал РИА Новости, что не собирается тратиться ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/poluzaschitnik-moskovskogo-dinamo-timofey-marinkin-ne-sobiraetsya-tratitsya-na-avtomobil-lamborghini-2468585/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-29T14:54:13.506032Z"
+  "results_updated": "2026-10-29T16:43:24.101259Z"
 }
