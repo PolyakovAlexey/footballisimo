@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "30 октября 2026",
+      "t": "Унаи Симон — о призе лучшему вратарю мира: «Я не мог себе такого ...",
+      "text": "Вратарь «Атлетика» и сборной Испании Унаи Симон прокомментировал получение приза имени Льва Яшина лучшему голкиперу сезона по верс...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/unai-simon-o-prize-luchshemu-vrataryu-mira-ya-ne-mog-sebe-takogo-predstavit-2469108/"
+    },
+    {
+      "d": "30 октября 2026",
+      "t": "Чистяков назначен главным арбитром на дерби «Локомотив» — «Спарта...",
+      "text": "РФС объявил назначения арбитров на матчи 13-го тура чемпионата России сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/naznacheniya-arbitrov-na-matchi-13-tura-rpl-chistyakov-budet-rabotat-na-derbi-lokomotiv-spartak-2469079/"
+    },
+    {
+      "d": "30 октября 2026",
+      "t": "РФС заявил шесть проектов конкурса «Россия — футбольная страна» н...",
+      "text": "Российский футбольный союз (РФС) сообщил, что заявил шесть лучших проектов развития массового футбола на ежегодную премию UEFA Gra...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/rfs-zayavil-shest-proektov-konkursa-rossiya-futbolnaya-strana-na-premiyu-uefa-2469069/"
+    },
+    {
+      "d": "30 октября 2026",
       "t": "Митрофанов поздравил ФХР с решением CAS и уверен в скором допуске...",
       "text": "Максим Митрофанов поздравил ФХР с решением CAS о допуске национальных сборных к международным соревнованиям.",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Матчи 11-го тура испанской Ла Лиги сезона-2026/27 состоятся с 30 октября по 2 ноября.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/news/la-liga-2026-27-raspisanie-matchey-i-translyaciy-11-go-tura-chempionata-ispanii-2468965/"
-    },
-    {
-      "d": "30 октября 2026",
-      "t": "Максименко стал самым проверяемым на допинг футболистом России в ...",
-      "text": "Александр Максименко чаще других российских футболистов проходил допинг-контроль за первые девять месяцев 2026 года.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/maksimenko-stal-samym-proveryaemym-na-doping-futbolistom-rossii-v-2026-godu-2468958/"
-    },
-    {
-      "d": "30 октября 2026",
-      "t": "В Эсватини выразили желание провести матч со сборной России",
-      "text": "Адам Мтетва заявил о заинтересованности в проведении товарищеского матча между сборными своей страны и России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/v-esvatini-vyrazili-zhelanie-provesti-match-so-sbornoy-rossii-2468954/"
-    },
-    {
-      "d": "30 октября 2026",
-      "t": "Лига 1-2026/27: расписание матчей и трансляций 9-го тура",
-      "text": "Матчи 9-го тура французской Лиги 1 сезона-2026/27 пройдут с 30 октября по 2 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/liga-1-2026-27-raspisanie-matchey-i-translyaciy-9-go-tura-chempionata-francii-2468963/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-30T11:45:07.048783Z"
+  "results_updated": "2026-10-30T14:46:18.943344Z"
 }
