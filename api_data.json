@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "31 октября 2026",
+      "t": "Прокуратура Брюсселя требует два года тюрьмы для экс-полузащитник...",
+      "text": "Прокуратура Брюсселя потребовала приговорить бывшего полузащитника сборной Бельгии Раджи Наингголана к двум годам тюремного заключ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/prokuratura-bryusselya-trebuet-dva-goda-tyurmy-dlya-eks-poluzaschitnika-sbornoy-belgii-radzhi-nainggolana-2469384/"
+    },
+    {
+      "d": "31 октября 2026",
+      "t": "Тренер сборной России U-15 Первушин: «То, что говорил Венгер, бли...",
+      "text": "Старший тренер сборной России U-15 Денис Первушин в интервью ТАСС рассказал об общении с руководителем отдела ФИФА по глобальному ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/denis-pervushin-kommentariy-starshego-trenera-sbornoy-rossii-do-15-let-ob-obschenii-s-arsenom-vengerom-v-baku-2469289/"
+    },
+    {
+      "d": "31 октября 2026",
       "t": "Головин: «В физическом плане это один из моих лучших сезонов с мо...",
       "text": "Полузащитник «Монако» Александр Головин оценил свою физическую форму в сезоне-2026/27.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Почетный президент Олимпийского комитета России Александр Жуков в разговоре с «СЭ» ответил на вопрос о возможном допуске российски...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/zhukov-nadeetsya-chto-rossiyskih-futbolistov-dopustyat-do-mezhdunarodnyh-sorevnovaniy-2469145/"
-    },
-    {
-      "d": "31 октября 2026",
-      "t": "Сборная Испании стала победителем фестиваля ФИФА",
-      "text": "Сборная Испании среди футболистов не старше 15 лет выиграла чемпионат мира и фестиваль ФИФА.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/ispaniya-u-15-chehiya-u-15-schet-i-rezultat-finala-chempionata-mira-i-festivalya-fifa-30-oktyabrya-2026-2469136/"
-    },
-    {
-      "d": "31 октября 2026",
-      "t": "Унаи Симон — о призе лучшему вратарю мира: «Я не мог себе такого ...",
-      "text": "Вратарь «Атлетика» и сборной Испании Унаи Симон прокомментировал получение приза имени Льва Яшина лучшему голкиперу сезона по верс...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/unai-simon-o-prize-luchshemu-vrataryu-mira-ya-ne-mog-sebe-takogo-predstavit-2469108/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-10-31T04:38:07.811402Z"
+  "results_updated": "2026-10-31T11:18:40.174593Z"
 }
