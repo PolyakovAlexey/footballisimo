@@ -37,24 +37,24 @@
     },
     {
       "d": "2 ноября 2026",
-      "t": "Головин: «В физическом плане это один из моих лучших сезонов с мо...",
-      "text": "Полузащитник «Монако» Александр Головин оценил свою физическую форму в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/poluzaschitnik-monako-aleksandr-golovin-kommentariy-o-fizicheskoy-forme-2469272/"
-    },
-    {
-      "d": "2 ноября 2026",
-      "t": "Симон: «Вратари — враги футбола, ведь мы мешаем забивать голы и л...",
-      "text": "Вратарь сборной Испании и «Атлетика» Унаи Симон объяснил, почему считает голкиперов «злодеями в футбольном кино».",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/spain/news/vratar-sbornoy-ispanii-i-atletika-unai-simon-kommentariy-o-roli-golkiperov-v-futbole-2469258/"
-    },
-    {
-      "d": "2 ноября 2026",
       "t": "Manager ins and outs - 2026-27",
       "text": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football ...",
       "src": "BBC Sport",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "d": "2 ноября 2026",
+      "t": "All done deals in September & October 2026",
+      "text": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "src": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "d": "2 ноября 2026",
+      "t": "How to become a football referee",
+      "text": "Fifa and NIFL Premiership referee, Louise Thompson, explains her career path. Find out more about referees' salary, skills and tra...",
+      "src": "BBC Sport",
+      "url": "https://www.bbc.co.uk/bitesize/articles/z84w9ty?at_medium=RSS&at_campaign=rss"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-02T02:42:50.538941Z"
+  "results_updated": "2026-11-02T04:58:43.740941Z"
 }
