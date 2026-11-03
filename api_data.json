@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "3 ноября 2026",
+      "t": "Романо: Каннаваро может покинуть пост главного тренера сборной Уз...",
+      "text": "Главный тренер сборной Узбекистана Фабио Каннаваро может покинуть свой пост, сообщает инсайдер Фабрицио Романо.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/romano-kannavaro-mozhet-pokinut-post-glavnogo-trenera-sbornoy-uzbekistana-2470542/"
+    },
+    {
+      "d": "3 ноября 2026",
+      "t": "Мостовой: «Мусаев не убирают из «Краснодара», потому что он не фу...",
+      "text": "Бывший футболист сборных СССР и России Александр Мостовой в разговоре с «СЭ» оценил работу главного тренера «Краснодара» Мурада Му...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/mostovoy-musaev-ne-ubirayut-iz-krasnodara-potomu-chto-on-ne-futbolnyy-on-drug-mozhet-rodstvennik-2470535/"
+    },
+    {
+      "d": "3 ноября 2026",
       "t": "Матчи России с Узбекистаном и Венесуэлой покажут «Первый канал» и...",
       "text": "«Первый канал» и онлайн-кинотеатр Okko покажут матчи сборной России со сборными Узбекистана и Венесуэлы, следует из пресс-релиза.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Сборная России проведет товарищеский матч с командой Венесуэлы в специальной ретроформе, посвященной Никите Симоняну.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/sbornaya-rossii-sygraet-s-venesueloy-v-retroforme-posvyaschennoy-simonyanu-2470371/"
-    },
-    {
-      "d": "3 ноября 2026",
-      "t": "Расписание матчей и трансляций 4-го тура Лиги чемпионов на 3 нояб...",
-      "text": "Во вторник, 3 ноября, состоятся девять матчей 4-го тура общего этапа Лиги чемпионов сезона-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/raspisanie-matchey-i-translyaciy-4-go-tura-ligi-chempionov-na-3-noyabrya-2026-2470311/"
-    },
-    {
-      "d": "3 ноября 2026",
-      "t": "Кубок России по футболу 2026/27: расписание матчей 6-го раунда пу...",
-      "text": "Матчи шестого раунда пути регионов Кубка России сезона-2026/27 пройдут с 3 по 5 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rus_cup/news/kubok-rossii-po-futbolu-2026-27-raspisanie-matchey-6-go-raunda-puti-regionov-2470312/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-03T15:46:19.821796Z"
+  "results_updated": "2026-11-03T17:37:03.102418Z"
 }
