@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "4 ноября 2026",
+      "t": "Тренер сборной России Карпин о том, как стать профессиональным фу...",
+      "text": "Главный тренер сборной России Валерий Карпин ответил на вопрос о том, как стать профессиональным футболистом.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/trener-sbornoy-rossii-karpin-o-tom-kak-stat-professionalnym-futbolistom-glavnoe-uchitsya-i-mnogo-rabotat-2470859/"
+    },
+    {
+      "d": "4 ноября 2026",
+      "t": "Хакими из «ПСЖ» и Диас из «Реала» попали в число номинантов на зв...",
+      "text": "Африканская конфедерация футбола (CAF) опубликовала список претендентов на звание лучшего игрока континента в 2026 году.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/hakimi-iz-pszh-i-dias-iz-reala-popali-v-chislo-nominantov-na-zvanie-luchshego-igroka-afriki-2470843/"
+    },
+    {
+      "d": "4 ноября 2026",
       "t": "«СКА-Хабаровск» по пенальти обыграл «Ленинградец» и вышел в плей-...",
       "text": "«СКА-Хабаровск» победил «Ленинградец» в матче 6-го раунда пути регионов FONBET Кубка России — 1:1, пенальти 4:3.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший тренер «Спартака» Массимо Каррера в интервью «СЭ» высказался о перспективах сборной Италии.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/karrera-schitaet-chto-rossiyskie-trenery-ne-huzhe-italyanskih-2470710/"
-    },
-    {
-      "d": "4 ноября 2026",
-      "t": "Кубок России-2026/27: расписание матчей пути регионов на 4 ноября",
-      "text": "4 ноября состоятся два матча 6-го раунда пути регионов FONBET Кубка России сезона-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/raspisanie-matchey-i-translyaciy-6-go-raunda-puti-regionov-kubka-rossii-na-4-noyabrya-2026-2470757/"
-    },
-    {
-      "d": "4 ноября 2026",
-      "t": "Кабзе: «С опцией выкупа за 55 миллионов евро Батраков надолго не ...",
-      "text": "Бывший нападающий «Рубина» и сборной Турции Хасан Кабзе считает, что полузащитник «Галатасарая» Алексей Батраков может в ближайшее...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/champions-league/news/kabze-s-opciey-vykupa-za-55-millionov-evro-batrakov-nadolgo-ne-zaderzhitsya-v-galatasarae-2470609/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-04T13:22:39.147538Z"
+  "results_updated": "2026-11-04T15:55:49.649299Z"
 }
