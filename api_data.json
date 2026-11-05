@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "5 ноября 2026",
+      "t": "Ислам Чесноков стал первым амбассадором FONBET в Казахстане",
+      "text": "FONBET объявил о начале сотрудничества с Исламом Чесноковым. Футболист «Тобола» и сборной страны стал первым амбассадором бренда в...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/kazakhstan/football/news/islam-chesnokov-stal-pervym-ambassadorom-fonbet-v-kazahstane-2471360/"
+    },
+    {
+      "d": "5 ноября 2026",
+      "t": "Барбоза рассказал, в каком случае Роналду вернется в сборную Порт...",
+      "text": "Португальский агент Паулу Барбоза ответил «СЭ» на вопрос о возможном возвращении нападающего «Аль-Насра» Криштиану Роналду в сборн...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/barboza-rasskazal-v-kakom-sluchae-ronaldu-vernetsya-v-sbornuyu-portugalii-2471388/"
+    },
+    {
+      "d": "5 ноября 2026",
+      "t": "«Волга» разгромила «Чертаново» и вышла в плей-офф Пути регионов",
+      "text": "«Волга» разгромила «Чертаново» в домашнем матче 6-го раунда Пути регионов FONBET Кубка России — 5:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/volga-chertanovo-schet-i-rezultat-matcha-6-raunda-puti-regionov-kubka-rossii-5-noyabrya-2026-2471385/"
+    },
+    {
+      "d": "5 ноября 2026",
       "t": "Агент Батракова назвал приятной новостью попадание полузащитника ...",
       "text": "Представитель полузащитника «Галатасарая» Алексея Батракова Владимир Кузьмичев поделился с «СЭ» мнением о попадании футболиста в с...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нападающий и капитан сборной Португалии отказывается участвовать в прощальном матче в свою честь после завершения карьеры в национ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/istochnik-ronaldu-ne-hochet-provodit-proschalnyy-match-za-sbornuyu-portugalii-2471333/"
-    },
-    {
-      "d": "5 ноября 2026",
-      "t": "Винисиус — Роналду: «Навсегда номер один!»",
-      "text": "Нападающий «Реала» Винисиус Жуниор отреагировал на заявление форварда «Аль-Насра» Криштиану Роналду, который объявил о завершении ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/vinisius-zhunior-kommentariy-o-zavershenii-krishtianu-ronaldu-karery-v-sbornoy-portugalii-2471331/"
-    },
-    {
-      "d": "5 ноября 2026",
-      "t": "ЦСКА поздравил полузащитника Аззи с дебютным вызовом в сборную Ал...",
-      "text": "ЦСКА поздравил полузащитника Мохаммеда Аззи с дебютным вызовом в сборную Алжира.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/cska-pozdravil-poluzaschitnika-azzi-s-debyutnym-vyzovom-v-sbornuyu-alzhira-2471326/"
-    },
-    {
-      "d": "5 ноября 2026",
-      "t": "Жезуш повесил фотографию Роналду в тренировочном зале сборной Пор...",
-      "text": "Главный тренер сборной Португалии Жорже Жезуш рассказал, что разместил фотографию Криштиану Роналду в тренировочном зале националь...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/zhezush-povesil-fotografiyu-ronaldu-v-trenirovochnom-zale-sbornoy-portugalii-2471306/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-05T17:53:33.374574Z"
+  "results_updated": "2026-11-05T19:17:42.027552Z"
 }
