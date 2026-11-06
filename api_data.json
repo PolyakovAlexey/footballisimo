@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "6 ноября 2026",
+      "t": "Брат Джуда Беллингема впервые вызван в сборную Англии",
+      "text": "Томас Тухель включил в состав команды 25 футболистов на ноябрьские матчи Лиги наций.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/dzhuob-bellingem-vpervye-vyzvan-v-sbornuyu-anglii-sostav-nacionalnoy-komandy-anglii-v-noyabre-2026-goda-2471826/"
+    },
+    {
+      "d": "6 ноября 2026",
       "t": "Ямаль, Торрес, Педри и Фермин попали в заявку сборной Испании на ...",
       "text": "Пресс-служба Королевской испанской футбольной федерации опубликовала состав национальной команды на матчи Лиги наций в ноябре.",
       "src": "Спорт-Экспресс",
@@ -23,6 +30,13 @@
     },
     {
       "d": "6 ноября 2026",
+      "t": "Экс-защитник сборной Англии Коуди завершил карьеру в 33 года",
+      "text": "Бывший футболист «Ливерпуля» провел десять матчей за национальную команду.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/byvshiy-zaschitnik-sbornoy-anglii-i-liverpulya-konor-koudi-zavershil-professionalnuyu-kareru-v-33-goda-2471796/"
+    },
+    {
+      "d": "6 ноября 2026",
       "t": "Жезуш — о ситуации с Роналду: «Я поставил интересы сборной Португ...",
       "text": "Главный тренер сборной Португалии Жорже Жезуш рассказал, хотел бы он изменить что-то в ситуации с нападающим Криштиану Роналду.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной Португалии Жорже Жезуш заявил, что полузащитник Бернарду Силва будет новым капитаном национальной команды п...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/bernardu-silva-stanet-kapitanom-sbornoy-portugalii-posle-uhoda-ronaldu-2471720/"
-    },
-    {
-      "d": "6 ноября 2026",
-      "t": "Тренер молодежной сборной России Шабаров: «Матчи с Киргизией долж...",
-      "text": "Главный тренер молодежной сборной России Иван Шабаров поделился ожиданиями от товарищеских матчей со сборной Киргизии U-23 в ноябр...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/trener-molodezhnoy-sbornoy-rossii-shabarov-matchi-s-kirgiziey-dolzhny-pokazat-gotovnost-i-uroven-rebyat-2471712/"
-    },
-    {
-      "d": "6 ноября 2026",
-      "t": "Тереховский, Кондаков и Окишор вошли в состав молодежной сборной ...",
-      "text": "Тренерский штаб молодежной сборной России во главе с Иваном Шабаровым определил список игроков, вызванных на ноябрьский учебно-тре...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/molodezhnaya-sbornaya-rossii-obyavila-sostav-na-noyabrskiy-sbor-2026-v-zayavku-voshli-kondakov-okishor-polnyy-spisok-2471707/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-06T17:14:45.531768Z"
+  "results_updated": "2026-11-06T18:43:51.676725Z"
 }
