@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "7 ноября 2026",
+      "t": "Зидан объяснил, почему не вызывает в сборную Люка Эрнандеса",
+      "text": "Главный тренер сборной Франции Зинедин Зидан прокомментировал отсутствие защитника «ПСЖ» Люка Эрнандеса в составе на ноябрьские ма...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/zidan-obyasnil-pochemu-ne-vyzyvaet-v-sbornuyu-lyuka-ernandesa-2471933/"
+    },
+    {
+      "d": "7 ноября 2026",
+      "t": "Жезуш: «Не чувствую никакой вины в связи с уходом Роналду из сбор...",
+      "text": "Главный тренер сборной Португалии Жорже Жезуш заявил, что не чувствует вины из-за того, что нападающий Криштиану Роналду завершил ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/zhorzhe-zhezush-kommentariy-po-uhodu-krishtianu-ronaldu-iz-sbornoy-portugalii-2471912/"
+    },
+    {
+      "d": "7 ноября 2026",
       "t": "Дьюсбери-Холл разочарован, что не попал в состав сборной Англии",
       "text": "Полузащитник «Эвертона» Кирнан Дьюсбери-Холл после победы над «Ковентри Сити» (3:1) в матче 10-го тура чемпионата Англии признался...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший футболист сборных СССР и России Александр Мостовой в разговоре с «СЭ» поделился мнением о результатах «Краснодара» в осенне...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/mostovoy-u-musaeva-ne-hvatit-muzhestva-uyti-v-otstavku-v-sluchae-porazheniya-ot-cska-2471742/"
-    },
-    {
-      "d": "7 ноября 2026",
-      "t": "Экс-защитник сборной Англии Коуди завершил карьеру в 33 года",
-      "text": "Бывший футболист «Ливерпуля» провел десять матчей за национальную команду.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/byvshiy-zaschitnik-sbornoy-anglii-i-liverpulya-konor-koudi-zavershil-professionalnuyu-kareru-v-33-goda-2471796/"
-    },
-    {
-      "d": "7 ноября 2026",
-      "t": "Жезуш — о ситуации с Роналду: «Я поставил интересы сборной Португ...",
-      "text": "Главный тренер сборной Португалии Жорже Жезуш рассказал, хотел бы он изменить что-то в ситуации с нападающим Криштиану Роналду.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/zhezush-o-situacii-s-ronaldu-ya-postavil-interesy-sbornoy-portugalii-na-pervoe-mesto-2471732/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-07T00:57:35.791398Z"
+  "results_updated": "2026-11-07T05:07:50.276332Z"
 }
