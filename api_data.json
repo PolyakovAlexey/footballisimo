@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "9 ноября 2026",
+      "t": "FIFPRO опубликовала результаты голосования по выбору нападающих в...",
+      "text": "Международная федерация ассоциаций профессиональных футболистов (FIFPRO) обнародовала итоги голосования по выбору лучших нападающи...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/fifpro-opublikovala-rezultaty-golosovaniya-po-vyboru-napadayuschih-v-komandu-goda-mbappe-1-y-ronaldu-8-y-2473064/"
+    },
+    {
+      "d": "9 ноября 2026",
       "t": "Ван Дейк и Бробби пропустят матчи сборной Нидерландов в Лиге наци...",
       "text": "Оба футболиста не готовы к предстоящим играм по состоянию здоровья.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Полузащитник сборной России Александр Головин пропустит BetBoom товарищеские матчи с Узбекистаном и Венесуэлой.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/aleksandr-golovin-propustit-matchi-rossii-protiv-uzbekistana-i-venesuely-iz-za-travmy-2472976/"
-    },
-    {
-      "d": "9 ноября 2026",
-      "t": "Пак Чжи Сун: «С Хиддинком впервые почувствовал, что хочу играть р...",
-      "text": "Бывший полузащитник сборной Кореи Пак Чжи Сун в интервью «СЭ» рассказал, чем Гус Хиддинк отличался от других тренеров, с которыми ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/pak-chzhi-sun-s-hiddinkom-vpervye-pochuvstvoval-chto-hochu-igrat-radi-trenera-2472919/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-09T21:48:11.804989Z"
+  "results_updated": "2026-11-09T23:11:46.196635Z"
 }
