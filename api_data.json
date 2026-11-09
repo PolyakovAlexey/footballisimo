@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "9 ноября 2026",
+      "t": "Ван Дейк и Бробби пропустят матчи сборной Нидерландов в Лиге наци...",
+      "text": "Оба футболиста не готовы к предстоящим играм по состоянию здоровья.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/van-deyk-i-brobbi-propustyat-matchi-sbornoy-niderlandov-v-lige-naciy-2473030/"
+    },
+    {
+      "d": "9 ноября 2026",
+      "t": "Люси Бронз в девятый раз вошла в женскую сборную года FIFPRO и ус...",
+      "text": "В символическую команду по итогам голосования вошли 11 футболисток.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/women/news/zaschitnik-sbornoy-anglii-i-chelsi-lyusi-bronz-ustanovila-rekord-i-v-devyatyy-raz-voshla-v-zhenskuyu-sbornuyu-goda-fifpro-2473027/"
+    },
+    {
+      "d": "9 ноября 2026",
       "t": "Обладатель «Золотого мяча» Кейн не попал в команду года по версии...",
       "text": "Международная федерация ассоциаций профессиональных футболистов (FIFPro) опубликовала команду года. Символическую сборную выбрали ...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший полузащитник сборной Кореи Пак Чжи Сун в интервью «СЭ» рассказал, чем Гус Хиддинк отличался от других тренеров, с которыми ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/foreign/news/pak-chzhi-sun-s-hiddinkom-vpervye-pochuvstvoval-chto-hochu-igrat-radi-trenera-2472919/"
-    },
-    {
-      "d": "9 ноября 2026",
-      "t": "Защитник сборной Англии Гехи из-за травмы пропустит матчи Лиги на...",
-      "text": "Защитник сборной Англии Марк Гехи получил травму и пропустит матчи Лиги наций в ноябре, сообщает пресс-служба национальной команды...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/zaschitnik-sbornoy-anglii-gehi-iz-za-travmy-propustit-matchi-ligi-naciy-v-noyabre-ego-zamenit-bern-2472967/"
-    },
-    {
-      "d": "9 ноября 2026",
-      "t": "Муньос вызван в сборную Испании на матчи Лиги наций после травм Я...",
-      "text": "Полузащитник «Ливерпуля» Виктор Муньос получил вызов в сборную Испании на ноябрьские матчи Лиги наций против Чехии и Англии.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/munos-vyzvan-v-sbornuyu-ispanii-na-matchi-ligi-naciy-posle-travm-yamalya-i-oyyarsabalya-2472959/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-09T18:12:14.023593Z"
+  "results_updated": "2026-11-09T20:30:30.062465Z"
 }
