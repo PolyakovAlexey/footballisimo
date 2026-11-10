@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "10 ноября 2026",
+      "t": "Тчуамени получил травму и может пропустить матчи Франции в Лиге н...",
+      "text": "Полузащитник сборной Франции и «Реала» Орельен Тчуамени получил повреждение на тренировке национальной команды, сообщает L'Equipe.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/tchuameni-poluchil-travmu-i-mozhet-propustit-matchi-francii-v-lige-naciy-2473412/"
+    },
+    {
+      "d": "10 ноября 2026",
+      "t": "Беллингем назвал ЧМ-2026 самым ярким событием в своей жизни",
+      "text": "Полузащитник «Реала» и сборной Англии Джуд Беллингем поделился впечатлениями от чемпионата мира 2026 года.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/chempionat-mira-2026/news/bellingem-nazval-chm-2026-samym-yarkim-sobytiem-v-svoey-zhizni-2473398/"
+    },
+    {
+      "d": "10 ноября 2026",
+      "t": "Романо: «Манчестер Юнайтед» провел переговоры с представителями П...",
+      "text": "«Манчестер Юнайтед» провел переговоры с представителями главного тренера сборной США Маурисио Почеттино, сообщает инсйдер Фабрицио...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/romano-manchester-yunayted-provel-peregovory-s-predstavitelyami-pochettino-2473394/"
+    },
+    {
+      "d": "10 ноября 2026",
+      "t": "Globo: «Барселона» и сборная Бразилии договорились контролировать...",
+      "text": "«Барселона» и CBF согласовали подход к игровому времени нападающего Рафиньи в ноябрьских матчах национальной команды.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/globo-barselona-i-sbornaya-brazilii-dogovorilis-kontrolirovat-igrovoe-vremya-rafini-2473391/"
+    },
+    {
+      "d": "10 ноября 2026",
       "t": "Сафонов — о сборах национальной команды: «Дни насыщенные, много с...",
       "text": "Голкипер сборной России и «ПСЖ» Матвей Сафонов заявил, что получает удовольствие от времени, проведенном в расположении национальн...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Главный тренер молодежной сборной России Иван Шабаров рассказал об ожиданиях от товарищеских матчей против сборной Киргизии U-23.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/shabarov-o-matchah-molodezhnoy-sbornoy-s-kirgiziey-zhdem-horoshey-igry-so-svoey-storony-2473371/"
-    },
-    {
-      "d": "10 ноября 2026",
-      "t": "Нападающий «Борнмута» Крупи заменит травмированного Тюрама в сбор...",
-      "text": "Нападающий «Борнмута» Эли Крупи будет впервые вызван в сборную Франции вместо форварда «Интера» Маркуса Тюрама.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/rmc-napadayuschiy-bornmuta-krupi-zamenit-travmirovannogo-tyurama-v-sbornoy-francii-2473369/"
-    },
-    {
-      "d": "10 ноября 2026",
-      "t": "Щербаченко: «Первый номер в сборной — Сафонов. А дальше — большие...",
-      "text": "Известный тренер Федор Щербаченко поделился с «СЭ» мнением о составе сборной России на BetBoom товарищеские матчи с Узбекистаном и...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/fedor-scherbachenko-o-sostave-sbornoy-rossii-na-sbor-v-noyabre-2026-mnenie-trenera-o-vyzvannyh-futbolistah-2473367/"
-    },
-    {
-      "d": "10 ноября 2026",
-      "t": "Пестряков об играх молодежной сборной с Киргизией: «Не ждем легки...",
-      "text": "Полузащитник молодежной сборной России Дмитрий Пестряков рассказал об ожиданиях от товарищеских матчей против сборной Киргизии U-2...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/pestryakov-ob-igrah-molodezhnoy-sbornoy-s-kirgiziey-ne-zhdem-legkih-matchey-2473366/"
-    },
-    {
-      "d": "10 ноября 2026",
-      "t": "Араухо — о матче с Аргентиной без Месси: «У них есть молодые игро...",
-      "text": "Защитник Рональд Араухо заявил, что сборная Уругвая серьезно относится к товарищескому матчу со сборной Аргентины, несмотря на отс...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/arauho-o-matche-s-argentinoy-bez-messi-u-nih-est-molodye-igroki-vysokogo-urovnya-2473360/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-10T17:31:55.023145Z"
+  "results_updated": "2026-11-10T19:08:43.498495Z"
 }
