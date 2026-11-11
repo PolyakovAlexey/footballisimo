@@ -2,6 +2,34 @@
   "news": [
     {
       "d": "11 ноября 2026",
+      "t": "Карпин рассказал, какие просьбы болельщиков его раздражают: «Вале...",
+      "text": "Главный тренер сборной России Валерий Карпин признался, что привык к популярности, однако некоторые обращения болельщиков с просьб...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-rasskazal-kakie-prosby-bolelschikov-ego-razdrazhayut-valer-idi-syuda-sfotografiruemsya-2473503/"
+    },
+    {
+      "d": "11 ноября 2026",
+      "t": "Беллингем признался, что не умеет готовить и водить машину: «В фу...",
+      "text": "Полузащитник «Реала» и сборной Англии Джуд Беллингем рассказал, какие трудности испытывает в повседневной жизни.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/spain/news/bellingem-priznalsya-chto-ne-umeet-gotovit-i-vodit-mashinu-v-futbole-ya-horosh-no-vo-vsem-ostalnom-ne-ochen-2473500/"
+    },
+    {
+      "d": "11 ноября 2026",
+      "t": "Кумбеди — о вызове в сборную Франции: «Я здесь не для того, чтобы...",
+      "text": "Защитник «Вольфсбурга» Саэль Кумбеди прокомментировал свой первый вызов в сборную Франции.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/sael-kumbedi-kommentariy-po-svoemu-pervomu-vyzovu-v-sbornuyu-francii-2473464/"
+    },
+    {
+      "d": "11 ноября 2026",
+      "t": "Новичок сборной Португалии Кошта: «Мне очень жаль, что Криштиану ...",
+      "text": "Защитник «Порту» Алберту Кошта сожалеет, что во время своего первого вызова в сборную Португалии ему не удалось оказаться рядом с ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/albertu-koshta-kommentariy-po-otsutstviyu-krishtianu-ronaldu-v-sbornoy-portugalii-2473463/"
+    },
+    {
+      "d": "11 ноября 2026",
       "t": "Ротен не понимает, почему Зидан вызвал в сборную Франции Кумбеди ...",
       "text": "Экс-игрок сборной Франции Жером Ротен прокомментировал вызов в национальную команду защитника «Вольфсбурга» Саэля Кумбеди вместо т...",
       "src": "Спорт-Экспресс",
@@ -27,34 +55,6 @@
       "text": "Полузащитник Шаэ Кройф-Бин, внук легендарного нападающего сборной Нидерландов Йохана Кройфа, впервые вызван в сборную США до 18 ле...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/juniors/news/vnuk-yohana-kroyfa-vyzvan-v-yunosheskuyu-sbornuyu-ssha-2473454/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "В сборную Нидерландов впервые вызвали защитника «Брентфорда» ван ...",
-      "text": "24-летний футболист присоединится к национальной команде перед матчами Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/v-sbornuyu-niderlandov-vpervye-vyzvali-zaschitnika-brentforda-seppa-van-den-berga-liga-naciy-10-noyabrya-2026-2473451/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "Алексей Миранчук прилетел в расположение сборной России",
-      "text": "Полузащитник «Атланты Юнайтед» Алексей Миранчук прилетел в Узбекистан, где присоединится к сборной России.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/aleksey-miranchuk-priletel-v-raspolozhenie-sbornoy-rossii-2473447/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "Тчуамени из-за травмы не сыграет за сборную Франции с Италией и Т...",
-      "text": "Полузащитник сборной Франции Орельен Тчуамени из-за повреждения не примет участия в матчах против Италии и Турции в Лиге наций, со...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/tchuameni-iz-za-travmy-ne-sygraet-za-sbornuyu-francii-s-italiey-i-turciey-v-lige-naciy-2473442/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "Тчуамени получил травму и может пропустить матчи Франции в Лиге н...",
-      "text": "Полузащитник сборной Франции и «Реала» Орельен Тчуамени получил повреждение на тренировке национальной команды, сообщает L'Equipe.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/tchuameni-poluchil-travmu-i-mozhet-propustit-matchi-francii-v-lige-naciy-2473412/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-11T01:28:12.391328Z"
+  "results_updated": "2026-11-11T05:13:20.566744Z"
 }
