@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "11 ноября 2026",
+      "t": "В сборную США хотят пригласить Гвардиолу, если Почеттино уйдет в ...",
+      "text": "Федерация футбола США хочет пригласить Гвардиолу, если Почеттино уйдет в «Манчестер Юнайтед»",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/v-sbornuyu-ssha-hotyat-priglasit-gvardiolu-esli-pochettino-uydet-v-manchester-yunayted-2473850/"
+    },
+    {
+      "d": "11 ноября 2026",
+      "t": "Мбаппе не сыграет за сборную Франции в матче с Италией в Лиге нац...",
+      "text": "Нападающий сборной Франции Килиан Мбаппе пропустит матч против Италии в 5-м туре Лиги наций, объявил главный тренер сборной Зинеди...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/mbappe-ne-sygraet-za-sbornuyu-francii-v-matche-s-italiey-v-lige-naciy-2473844/"
+    },
+    {
+      "d": "11 ноября 2026",
       "t": "Мостовой назвал «Атлетико» подходящим клубом для Батракова",
       "text": "Бывший футболист сборной России и испанской «Сельты» Александр Мостовой считает, что полузащитник Алексей Батраков мог бы продолжи...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной России Валерий Карпин ответил на вопрос об игроках, не вызванных в национальную команду на BETBOOM матч про...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/karpin-o-nevyzove-soboleva-v-sbornuyu-rossii-hotite-dokopatsya-kakuyu-to-gryaz-eto-medicinskaya-tayna-2473801/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "Нападающий сборной России Тюкавин: «Хотелось сыграть против таког...",
-      "text": "Нападающий сборной России Константин Тюкавин поделился ожиданиями от предстоящего в Ташкенте BETBOOM матча против сборной Узбекист...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/napadayuschiy-sbornoy-rossii-tyukavin-hotelos-sygrat-protiv-takogo-klassnogo-zaschitnika-kak-husanov-2473796/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "Главный тренер сборной России Карпин: «Думаю, Узбекистан прибавил...",
-      "text": "Главный тренер сборной России Валерий Карпин оценил уровень сборной Узбекистана в преддверии BETBOOM матча в Ташкенте.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/glavnyy-trener-sbornoy-rossii-karpin-dumayu-uzbekistan-pribavil-mozhet-on-dazhe-silnee-slovenii-2473780/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-11T19:05:20.358271Z"
+  "results_updated": "2026-11-11T20:57:58.364712Z"
 }
