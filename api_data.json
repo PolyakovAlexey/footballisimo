@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "11 ноября 2026",
+      "t": "Мостовой назвал «Атлетико» подходящим клубом для Батракова",
+      "text": "Бывший футболист сборной России и испанской «Сельты» Александр Мостовой считает, что полузащитник Алексей Батраков мог бы продолжи...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/mostovoy-nazval-atletiko-podhodyaschim-klubom-dlya-batrakova-2473831/"
+    },
+    {
+      "d": "11 ноября 2026",
+      "t": "«Отказаться от сборной может только раздолбай». Игнашевич — жестк...",
+      "text": "Легенды сборной России Сергей Игнашевич и Александр Мостовой поспорили в шоу БЕТСИТИ «Кто здесь Царь?» о том, может ли футболист о...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/otkazatsya-ot-sbornoy-mozhet-tolko-razdolbay-ignashevich-zhestko-o-situacii-s-glushenkovym-2473826/"
+    },
+    {
+      "d": "11 ноября 2026",
       "t": "Карпин с улыбкой отреагировал на то, что Каннаваро не вспомнил ег...",
       "text": "Главный тренер сборной России Валерий Карпин перед BETBOOM матчем против Узбекистана отреагировал на то, что тренер соперников не ...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной России Валерий Карпин оценил уровень сборной Узбекистана в преддверии BETBOOM матча в Ташкенте.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/glavnyy-trener-sbornoy-rossii-karpin-dumayu-uzbekistan-pribavil-mozhet-on-dazhe-silnee-slovenii-2473780/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "Карпин заявил, что Сафонов сыграет в матче сборной России с Узбек...",
-      "text": "Голкипер сборной России Матвей Сафонов выйдет на поле в BETBOOM матче против Узбекистана, сообщил главный тренер сборной Валерий К...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-zayavil-chto-safonov-sygraet-v-matche-sbornoy-rossii-s-uzbekistanom-2473770/"
-    },
-    {
-      "d": "11 ноября 2026",
-      "t": "В молодежной сборной России рассказали о задержке рейса в Турцию:...",
-      "text": "В пресс-службе молодежной сборной России сообщили «СЭ», что команда в ближайшее время должна отправиться в Турцию на товарищеские ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/juniors/news/v-molodezhnoy-sbornoy-rossii-rasskazali-o-zaderzhke-reysa-v-turciyu-komanda-dolzhna-vyletet-cherez-poltora-chasa-2473737/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-11T17:45:13.222062Z"
+  "results_updated": "2026-11-11T19:05:20.358271Z"
 }
