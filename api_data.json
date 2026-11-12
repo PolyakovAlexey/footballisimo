@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "12 ноября 2026",
+      "t": "Узбекистан — Россия: Мелехин забил в свои ворота",
+      "text": "Сборная России пропустила в BETBOOM матче против Узбекистана — 0:1.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/uzbekistan-rossiya-melehin-zabil-v-svoi-vorota-2474112/"
+    },
+    {
+      "d": "12 ноября 2026",
+      "t": "Турция — Бельгия: во сколько начало матча Лиги наций",
+      "text": "Сборные Турции и Бельгии сыграют в 5-м туре группового этапа Лиги наций сезона-2026/27 12 ноября/",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/turciya-belgiya-vo-skolko-nachalo-matcha-ligi-naciy-gde-smotret-translyaciyu-12-noyabrya-2026-2473496/"
+    },
+    {
+      "d": "12 ноября 2026",
+      "t": "Смолов и Казанский прокомментируют матч между сборными Узбекистан...",
+      "text": "Бывший нападающий сборной России Федор Смолов и Денис Казанский прокомментируют BetBoom сборной России против Узбекистана.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/smolov-i-kazanskiy-prokommentiruyut-match-mezhdu-sbornymi-uzbekistana-i-rossii-2474101/"
+    },
+    {
+      "d": "12 ноября 2026",
       "t": "Узбекистан — Россия: прямая трансляция товарищеского матча",
       "text": "Сборные Узбекистана и России сыграют товарищеский матч в четверг, 12 ноября.",
       "src": "Спорт-Экспресс",
@@ -24,7 +45,7 @@
     {
       "d": "12 ноября 2026",
       "t": "Узбекистан — Россия: Сафонов, Батраков и Тюкавин выйдут с первых ...",
-      "text": "Стал известен состав сборной России на BetBoom матч против Узбекистана.",
+      "text": "Стали известны составы на BetBoom матч сборной России против Узбекистана.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/uzbekistan-rossiya-startovyy-sostav-sbornoy-rossii-12-noyabrya-2026-2474078/"
     },
@@ -34,27 +55,6 @@
       "text": "Сборные Узбекистана и России сыграют товарищеский матч 12 ноября.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/news/uzbekistan-rossiya-vo-skolko-nachalo-tovarischeskogo-matcha-gde-smotret-translyaciyu-12-noyabrya-2026-2473490/"
-    },
-    {
-      "d": "12 ноября 2026",
-      "t": "Глушаков о матче сборной России против Узбекистана: «Будет очень ...",
-      "text": "Бывший футболист сборной России Денис Глушаков в разговоре с «СЭ» поделился ожиданиями от товарищеского матча национальной команды...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/glushakov-o-matche-sbornoy-rossii-protiv-uzbekistana-budet-ochen-neprosto-tam-mnogo-molodyh-talantov-2474048/"
-    },
-    {
-      "d": "12 ноября 2026",
-      "t": "Узбекистан — Россия: когда начнется прямая трансляция товарищеско...",
-      "text": "Товарищеский матч сборных Узбекистана и России состоится в четверг, 12 ноября, на стадионе «Пахтакор» в Ташкенте. Начало игры — в ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/uzbekistan-rossiya-nachalas-pryamaya-translyaciya-tovarischeskogo-matcha-12-noyabrya-2026-2473495/"
-    },
-    {
-      "d": "12 ноября 2026",
-      "t": "Романо: «Манчестер Юнайтед» готов заключить соглашение с Почеттин...",
-      "text": "«Манчестер Юнайтед» готов заключить соглашение с главным тренером сборной США Маурисио Почеттино, сообщил инсайдер Фабрицио Романо...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/england/news/romano-manchester-yunayted-gotov-zaklyuchit-soglashenie-s-pochettino-posle-uvolneniya-kerrika-2474033/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-12T14:05:38.617815Z"
+  "results_updated": "2026-11-12T16:31:10.257207Z"
 }
