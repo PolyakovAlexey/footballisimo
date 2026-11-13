@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "13 ноября 2026",
+      "t": "Саудовская Аравия победила Южную Корею в товарищеском матча, Авст...",
+      "text": "Сборная Саудовской Аравии обыграла сборную Южной Кореи в товарищеском матче — 3:2.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/friendly/news/saudovskaya-araviya-yuzhnaya-koreya-katar-avstraliya-schet-i-rezultat-tovarischeskih-matchey-13-noyabrya-2026-2474599/"
+    },
+    {
+      "d": "13 ноября 2026",
+      "t": "Юношеская сборная России уступила сборной Египта в товарищеском м...",
+      "text": "Юношеская сборная России по футболу среди игроков не старше 17 лет потерпела поражение от сборной Египта U-19 в товарищеском матче...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/juniors/news/egipet-u-19-rossiya-u-17-schet-i-rezultat-tovarischeskogo-matcha-13-noyabrya-2026-2474594/"
+    },
+    {
+      "d": "13 ноября 2026",
       "t": "Игроки сборной Португалии выйдут на матч с Данией в футболках с 7...",
       "text": "Футболисты сборной Португалии проведут акцию в честь нападающего Криштиану Роналду, завершившего карьеру в национальной команде.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Полузащитник сборной Италии Давиде Фраттези прокомментировал победу над Францией (3:1) в матче пятого тура группового этапа Лиги н...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/frattezi-ocenil-pobedu-sbornoy-italii-nad-franciey-v-lige-naciy-2474495/"
-    },
-    {
-      "d": "13 ноября 2026",
-      "t": "Маурисио Почеттино назвал работу в сборной США одной из величайши...",
-      "text": "Главный тренер сборной США Маурисио Почеттино, который с 18 ноября возглавит «Манчестер Юнайтед», сделал заявление о завершении ра...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/maurisio-pochettino-nazval-rabotu-v-sbornoy-ssha-odnoy-iz-velichayshih-pochestey-v-karere-2474473/"
-    },
-    {
-      "d": "13 ноября 2026",
-      "t": "Тренер сборной Германии Клопп — перед матчем с Сербией: «Чувствуе...",
-      "text": "Главный тренер сборной Германии Юрген Клопп рассказал о подготовке команды к матчу пятого тура группового этапа Лиги наций против ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/glavnyy-trener-sbornoy-germanii-klopp-ocenil-gotovnost-komandy-k-matchu-s-serbiey-v-lige-naciy-2474440/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-13T15:52:42.924057Z"
+  "results_updated": "2026-11-13T17:33:19.376998Z"
 }
