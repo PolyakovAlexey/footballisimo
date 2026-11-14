@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "14 ноября 2026",
+      "t": "Губерниев — о матче сборной России против Венесуэлы: «Никакой нед...",
+      "text": "Спортивный комментатор Дмитрий Губерниев в разговоре с «СЭ» высказался о предстоящем матче сборной России против Венесуэлы.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/guberniev-o-matche-sbornoy-rossii-protiv-venesuely-nikakoy-nedoocenki-shkval-atak-i-blestyaschaya-pobeda-2474770/"
+    },
+    {
+      "d": "14 ноября 2026",
+      "t": "Салах стал лучшим бомбардиром в истории сборной Египта",
+      "text": "Нападающий сборной Египта Мохамед Салах установил рекорд по голам в национальной команде.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/africa-cup/news/salah-stal-luchshim-bombardirom-v-istorii-sbornoy-egipta-2474757/"
+    },
+    {
+      "d": "14 ноября 2026",
       "t": "Лига наций-2026/27: расписание матчей и трансляций 14 ноября",
       "text": "14 ноября в Лиге наций УЕФА сезона-2026/27 состоятся восемь заключительных матчей 5-го тура группового этапа.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Главный тренер сборной Аргентины Лионель Скалони прокомментировал поражение от Уругвая (1:2) в товарищеском матче.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/friendly/news/lionel-skaloni-kommentariy-po-porazheniyu-argentiny-ot-urugvaya-v-tovarischeskom-matche-2474679/"
-    },
-    {
-      "d": "14 ноября 2026",
-      "t": "Альварес: «Скалони сказал нам, что остается, и это придает нам ув...",
-      "text": "Нападающий сборной Аргентины Хулиан Альварес прокомментировал поражение от Уругвая (1:2) в товарищеском матче.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/hulian-alvares-kommentariy-po-porazheniyu-argentiny-ot-urugvaya-v-tovarischeskom-matche-2474677/"
-    },
-    {
-      "d": "14 ноября 2026",
-      "t": "Рульи: «Для меня большая гордость и ответственность — выйти на по...",
-      "text": "Голкипер сборной Аргентины Херонимо Рульи прокомментировал поражение от Уругвая (1:2) в товарищеском матче.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/heronimo-ruli-kommentariy-po-porazheniyu-argentiny-ot-urugvaya-v-tovarischeskom-matche-2474678/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-14T05:28:52.163508Z"
+  "results_updated": "2026-11-14T12:36:36.883026Z"
 }
