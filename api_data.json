@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "14 ноября 2026",
+      "t": "Силкин: «По идее, сборная России должна обыгрывать Венесуэлу, но ...",
+      "text": "Российский тренер Сергей Силкин в разговоре с «СЭ» высказался о BETBOOM матче сборной России против Венесуэлы.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/silkin-po-idee-sbornaya-rossii-dolzhna-obygryvat-venesuelu-no-legko-tochno-ne-budet-2474872/"
+    },
+    {
+      "d": "14 ноября 2026",
+      "t": "Румыния — Польша: во сколько начало матча Лиги наций, где смотрет...",
+      "text": "Сборные Румынии и Польши сыграют в 5-м туре группового этапа Лиги наций УЕФА 14 ноября.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/rumyniya-polsha-vo-skolko-nachalo-matcha-ligi-naciy-gde-smotret-translyaciyu-14-noyabrya-2026-2473634/"
+    },
+    {
+      "d": "14 ноября 2026",
       "t": "Сборная Португалии обновила дизайн цифры «7» на форме после ухода...",
       "text": "Сборная Португалии представила новый дизайн цифры «7» на футболках после завершения карьеры в национальной команде форварда Кришти...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Спортивный комментатор Дмитрий Губерниев в разговоре с «СЭ» высказался о предстоящем матче сборной России против Венесуэлы.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/guberniev-o-matche-sbornoy-rossii-protiv-venesuely-nikakoy-nedoocenki-shkval-atak-i-blestyaschaya-pobeda-2474770/"
-    },
-    {
-      "d": "14 ноября 2026",
-      "t": "Салах стал лучшим бомбардиром в истории сборной Египта",
-      "text": "Нападающий сборной Египта Мохамед Салах установил рекорд по голам в национальной команде.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/africa-cup/news/salah-stal-luchshim-bombardirom-v-istorii-sbornoy-egipta-2474757/"
-    },
-    {
-      "d": "14 ноября 2026",
-      "t": "Лига наций-2026/27: расписание матчей и трансляций 14 ноября",
-      "text": "14 ноября в Лиге наций УЕФА сезона-2026/27 состоятся восемь заключительных матчей 5-го тура группового этапа.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/raspisanie-matchey-i-translyaciy-5-go-tura-ligi-naciy-na-14-noyabrya-2026-2474689/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-14T16:25:56.655931Z"
+  "results_updated": "2026-11-14T17:31:11.477444Z"
 }
