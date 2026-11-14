@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "14 ноября 2026",
+      "t": "Сборная Португалии обновила дизайн цифры «7» на форме после ухода...",
+      "text": "Сборная Португалии представила новый дизайн цифры «7» на футболках после завершения карьеры в национальной команде форварда Кришти...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/sbornaya-portugalii-obnovila-dizayn-cifry-7-na-forme-posle-uhoda-ronaldu-2474831/"
+    },
+    {
+      "d": "14 ноября 2026",
+      "t": "Де Йонг пропустит матч Лиги наций с Германией из-за повреждения",
+      "text": "Полузащитник сборной Нидерландов Френки де Йонг не примет участия в матче 6-го тура группового турнира Лиги наций против сборной Г...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/de-yong-propustit-match-ligi-naciy-s-germaniey-iz-za-povrezhdeniya-2474827/"
+    },
+    {
+      "d": "14 ноября 2026",
       "t": "Кисляк: «Всегда рад играть в Краснодаре. Жду аншлага на матче Рос...",
       "text": "Полузащитник сборной России Матвей Кисляк поделился мнением о BetBoom товарищеском матче с Венесуэлой, который пройдет на «Ozon Ар...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "14 ноября в Лиге наций УЕФА сезона-2026/27 состоятся восемь заключительных матчей 5-го тура группового этапа.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/news/raspisanie-matchey-i-translyaciy-5-go-tura-ligi-naciy-na-14-noyabrya-2026-2474689/"
-    },
-    {
-      "d": "14 ноября 2026",
-      "t": "Энцо: «Аргентина была лучше Уругвая»",
-      "text": "Полузащитник сборной Аргентины Энцо Фернандес прокомментировал поражение от Уругвая (1:2) в товарищеском матче.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/enco-fernandes-kommentariy-po-porazheniyu-argentiny-ot-urugvaya-v-tovarischeskom-matche-2474704/"
-    },
-    {
-      "d": "14 ноября 2026",
-      "t": "Сборная Перу переиграла сборную Боливии",
-      "text": "Сборная Перу выиграла у сборной Боливии в товарищеском матче — 2:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/peru-boliviya-schet-2-0-rezultat-tovarischeskogo-matcha-14-noyabrya-2026-goda-2474683/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-14T14:43:21.656379Z"
+  "results_updated": "2026-11-14T16:25:56.655931Z"
 }
