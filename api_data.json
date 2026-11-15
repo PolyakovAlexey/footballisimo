@@ -2,6 +2,27 @@
   "news": [
     {
       "d": "15 ноября 2026",
+      "t": "Гаврилов о победе сборной России над Узбекистаном: «Еле-еле обыгр...",
+      "text": "Бывший полузащитник «Спартака» и сборной СССР Юрий Гаврилов поделился с «СЭ» впечатлениями от победы сборной России над Узбекистан...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/gavrilov-o-pobede-sbornoy-rossii-nad-uzbekistanom-ele-ele-obygrali-otkrovenno-slabogo-sopernika-2475272/"
+    },
+    {
+      "d": "15 ноября 2026",
+      "t": "Сборная Белоруссии проиграла Албании в матче Лиги наций",
+      "text": "Сборная Белоруссии проиграла Албании в матче группового этапа дивизиона C Лиги наций — 0:2.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/belorussiya-albaniya-finlyandiya-san-marino-rezultaty-matchey-ligi-naciy-15-noyabrya-2026-2475278/"
+    },
+    {
+      "d": "15 ноября 2026",
+      "t": "Франция — Турция: прямая трансляция матча Лиги наций",
+      "text": "Сборные Франции и Турции встретятся в 6-м туре группового этапа Лиги наций УЕФА в воскресенье, 15 ноября.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/franciya-turciya-pryamaya-translyaciya-matcha-ligi-naciy-smotret-onlayn-15-noyabrya-2026-2475086/"
+    },
+    {
+      "d": "15 ноября 2026",
       "t": "Расулов отметил заслуги Унаи Симона в сезоне-2025/26: «На чемпион...",
       "text": "Вратарь «Динамо» Курбан Расулов поделился с «СЭ» мнением о том, почему голкипер сборной Испании и «Атлетика» Унаи Симон получил по...",
       "src": "Спорт-Экспресс",
@@ -34,27 +55,6 @@
       "text": "Нападающий «Барселоны» Ламин Ямаль сыграет под 10-м номером за сборную Испании в матче Лиги наций против Англии.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/yamal-sygraet-pod-10-m-nomerom-za-sbornuyu-ispanii-protiv-anglii-2475203/"
-    },
-    {
-      "d": "15 ноября 2026",
-      "t": "Диаш, Пальинья и Силва покинули расположение сборной Португалии",
-      "text": "Защитник Рубен Диаш и полузащитники Жоау Пальинья и Бернарду Силва покинули расположение сборной Португалии после поражения от Дан...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/diash-palinya-i-silva-pokinuli-raspolozhenie-sbornoy-portugalii-2475116/"
-    },
-    {
-      "d": "15 ноября 2026",
-      "t": "Саутгейт вошел в число кандидатов на пост главного тренера сборно...",
-      "text": "Федерация футбола США рассматривает Гарета Саутгейта в качестве возможного преемника Маурисио Почеттино.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/foreign/news/sautgeyt-voshel-v-chislo-kandidatov-na-post-glavnogo-trenera-sbornoy-ssha-2475097/"
-    },
-    {
-      "d": "15 ноября 2026",
-      "t": "Гримальдо покинул расположение сборной Испании из-за болезни",
-      "text": "Защитник «Атлетико» Алекс Гримальдо покинул расположение сборной Испании из-за болезни.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/grimaldo-pokinul-raspolozhenie-sbornoy-ispanii-iz-za-bolezni-2475096/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-15T18:19:12.050580Z"
+  "results_updated": "2026-11-15T19:29:17.981647Z"
 }
