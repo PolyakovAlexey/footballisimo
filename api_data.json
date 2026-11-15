@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "15 ноября 2026",
+      "t": "Расулов отметил заслуги Унаи Симона в сезоне-2025/26: «На чемпион...",
+      "text": "Вратарь «Динамо» Курбан Расулов поделился с «СЭ» мнением о том, почему голкипер сборной Испании и «Атлетика» Унаи Симон получил по...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/rasulov-otmetil-zaslugi-unai-simona-v-sezone-2025-26-na-chempionate-mira-on-sygral-smelo-i-pokazal-uroven-2475268/"
+    },
+    {
+      "d": "15 ноября 2026",
+      "t": "Гвардиола не возглавит сборную США после ухода Почеттино",
+      "text": "Бывший главный тренер «Манчестер Сити» Хосеп Гвардиола не намерен возглавлять сборную США после ухода Маурисио Почеттино, сообщает...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/gvardiola-ne-vozglavit-sbornuyu-ssha-posle-uhoda-pochettino-2475264/"
+    },
+    {
+      "d": "15 ноября 2026",
       "t": "Сборная Армении сыграла вничью с Латвией в матче Лиги наций",
       "text": "Сборная Армении сыграла вничью с Латвией в матче группового этапа дивизиона C Лиги наций — 0:0.",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Защитник «Атлетико» Алекс Гримальдо покинул расположение сборной Испании из-за болезни.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/grimaldo-pokinul-raspolozhenie-sbornoy-ispanii-iz-za-bolezni-2475096/"
-    },
-    {
-      "d": "15 ноября 2026",
-      "t": "Фернандеш о поражении от Дании: «Это был вечер, из которого нужно...",
-      "text": "Полузащитник сборной Португалии Бруну Фернандеш прокомментировал поражение от Дании (1:4) в матче 5-го тура Лиги наций.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/fernandesh-o-porazhenii-ot-danii-eto-byl-vecher-iz-kotorogo-nuzhno-izvlech-uroki-2475089/"
-    },
-    {
-      "d": "15 ноября 2026",
-      "t": "Лига наций: расписание матчей 6-го тура на 15 ноября",
-      "text": "В воскресенье, 15 ноября, стартует шестой тур группового этапа Лиги наций УЕФА сезона-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/liga-naciy-2026-2027-raspisanie-matchey-i-translyaciy-6-go-tura-na-15-noyabrya-2475055/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-15T16:51:00.918232Z"
+  "results_updated": "2026-11-15T18:19:12.050580Z"
 }
