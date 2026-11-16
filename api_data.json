@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "16 ноября 2026",
+      "t": "Германия — Нидерланды: видеообзор матча Лиги наций",
+      "text": "Сборная Нидерландов проиграла сборной Германии в гостевом матче 6-го тура группового турнира Лиги наций — 0:5.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/germaniya-niderlandy-videoobzor-matcha-ligi-naciy-i-luchshie-momenty-igry-16-noyabrya-2026-2475689/"
+    },
+    {
+      "d": "16 ноября 2026",
+      "t": "Клопп после матча Германия — Нидерланды: «Это был невероятный рез...",
+      "text": "Главный тренер сборной Германии Юрген Клопп прокомментировал победу над сборной Нидерландов (5:0) в домашнем матче 6-го тура групп...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/yurgen-klopp-posle-matcha-germaniya-niderlandy-eto-byl-neveroyatnyy-rezultat-v-ochen-tyazheloy-igre-2475687/"
+    },
+    {
+      "d": "16 ноября 2026",
       "t": "Почеттино: «Игроки сборной США обязательно разовьют отношения с н...",
       "text": "Покидающий пост главного тренера сборной США Маурисио Почеттино, выразил надежду, что его преемник сможет создать с игроками такие...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Защитник сборной Шотландии Эндрю Робертсон стал рекордсменом национальной команды по числу проведенных матчей.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/robertson-oboshel-dalglisha-i-stal-rekordsmenom-sbornoy-shotlandii-po-chislu-matchey-2475668/"
-    },
-    {
-      "d": "16 ноября 2026",
-      "t": "Германия — Нидерланды: прямая трансляция матча Лиги наций",
-      "text": "Сборные Германии и Нидерландов встретятся в заключительном, 6-м туре группового этапа Лиги наций УЕФА 16 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/germaniya-niderlandy-pryamaya-translyaciya-matcha-ligi-naciy-smotret-onlayn-16-noyabrya-2026-2475377/"
-    },
-    {
-      "d": "16 ноября 2026",
-      "t": "Кварацхелия вошел в число лауреатов премии «Человек года» по верс...",
-      "text": "Полузащитник «ПСЖ» и сборной Грузии Хвича Кварацхелия стал одним из лауреатов ежегодной премии «Человек года» по версии французско...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/france/news/kvaracheliya-voshel-v-chislo-laureatov-premii-chelovek-goda-po-versii-gq-france-2475640/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-16T23:04:56.159322Z"
+  "results_updated": "2026-11-16T23:57:27.824462Z"
 }
