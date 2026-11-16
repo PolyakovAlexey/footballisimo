@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "16 ноября 2026",
+      "t": "Робертсон обошел Далглиша и стал рекордсменом сборной Шотландии п...",
+      "text": "Защитник сборной Шотландии Эндрю Робертсон стал рекордсменом национальной команды по числу проведенных матчей.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/robertson-oboshel-dalglisha-i-stal-rekordsmenom-sbornoy-shotlandii-po-chislu-matchey-2475668/"
+    },
+    {
+      "d": "16 ноября 2026",
       "t": "Германия — Нидерланды: прямая трансляция матча Лиги наций",
       "text": "Сборные Германии и Нидерландов встретятся в заключительном, 6-м туре группового этапа Лиги наций УЕФА 16 ноября.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Полный рейтинг «55 главных талантов России-2026» будет опубликован на сайте «СЭ» 17 ноября в 0.00 мск.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rfpl/news/zaschitnik-cska-danilov-zanyal-trete-mesto-v-reytinge-glavnyh-talantov-rossii-po-versii-se-2475623/"
-    },
-    {
-      "d": "16 ноября 2026",
-      "t": "Северная Македония — Словения: во сколько начало матча Лиги наций",
-      "text": "Сборные Северной Македонии и Словении встретятся в 6-м туре группового этапа Лиги наций УЕФА 16 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/severnaya-makedoniya-sloveniya-vo-skolko-nachalo-matcha-ligi-naciy-gde-smotret-translyaciyu-16-noyabrya-2026-2475379/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-16T20:03:28.226595Z"
+  "results_updated": "2026-11-16T21:28:40.869419Z"
 }
