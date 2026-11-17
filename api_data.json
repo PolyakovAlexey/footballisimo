@@ -2,6 +2,41 @@
   "news": [
     {
       "d": "17 ноября 2026",
+      "t": "Определились все участники плей-офф Лиги наций",
+      "text": "Стали известны все участники плей-офф Лиги наций-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/opredelilis-vse-uchastniki-pley-off-ligi-naciy-2476033/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Норвегия вырвала победу в матче Лиги наций с Данией, Холанн реали...",
+      "text": "Сборная Норвегии переиграла сборную Дании в матче 6-го тура Лиги наций УЕФА — 3:2.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/daniya-norvegiya-schet-2-3-rezultat-matcha-ligi-naciy-uefa-17-noyabrya-2026-goda-2476032/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Португалия одержала первую победу после ухода Роналду из сборной",
+      "text": "Сборная Португалии переиграла сборную Уэльса в матче 6-го тура Лиги наций УЕФА — 3:2.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/uels-portugaliya-schet-2-3-rezultat-matcha-ligi-naciy-uefa-17-noyabrya-2026-goda-2476030/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Шамиль Газизов: «Возинья на 90 процентов был в «Динамо»",
+      "text": "Генеральный директор махачкалинского «Динамо» в выпуске клубного шоу «БЕТСИТИ Подкаст PRO DMX» рассказал, что клуб был в шаге от п...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rfpl/news/shamil-gazizov-vozinya-na-90-procentov-byl-v-dinamo-2476025/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Новый седьмой номер сборной Португалии Боржеш вывел команду впере...",
+      "text": "Сборная Португалии вышла вперед в матче Лиги наций УЕФА против Уэльса.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/novyy-sedmoy-nomer-sbornoy-portugalii-borzhesh-vyvel-komandu-vpered-v-matche-s-daniey-2476026/"
+    },
+    {
+      "d": "17 ноября 2026",
       "t": "Батраков подвел итоги ноябрьских игр сборной России: «Два матча, ...",
       "text": "Алексей Батраков подвел итоги ноябрьских матчей национальной команды в социальных сетях.",
       "src": "Спорт-Экспресс",
@@ -20,41 +55,6 @@
       "text": "Главный тренер сборной России Валерий Карпин ответил на вопросы после победы в BetBoom матче против Венесуэлы (2:0).",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/karpin-tolko-bolnoy-chelovek-mozhet-skazat-chto-my-dogovorilis-s-venesueloy-2476010/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Сафонов о победе над Венесуэлой: «Получил удовольствие от игры до...",
-      "text": "Голкипер сборной России Матвей Сафонов подвел итоги BetBoom товарищеского матча против Венесуэлы (2:0).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/safonov-o-pobede-nad-venesueloy-poluchil-udovolstvie-ot-igry-doma-2476009/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Карпин: «Почему не сыграл Карпукас? Обижаться можно на маму или ж...",
-      "text": "Главный тренер сборной России Валерий Карпин объяснил выбор состава на BetBoom матчи против Узбекистана (3:2) и Венесуэлы (2:0).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-pochemu-ne-sygral-karpukas-obizhatsya-mozhno-na-mamu-ili-zhenu-a-v-sbornoy-vybor-sostava-za-trenerom-2476008/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Карпин: «Игра с Венесуэлой — возможно, лучшая для России за год»",
-      "text": "Главный тренер сборной России Валерий Карпин подвел итоги BetBoom товарищеского матча против Венесуэлы (2:0).",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-igra-s-venesueloy-vozmozhno-luchshaya-dlya-rossii-za-god-2476005/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Карпин подвел итоги года для сборной: «Не понравился только тайм ...",
-      "text": "Главный тренер сборной России Валерий Карпин подвел итоги 2026 года.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/karpin-podvel-itogi-goda-dlya-sbornoy-ne-ponravilsya-tolko-taym-v-uzbekistane-ostalnoe-na-vysshem-urovne-2476004/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Украина — Грузия: прямая трансляция матча Лиги наций",
-      "text": "Сборные Украины и Грузии встретятся в заключительном туре группового этапа Лиги наций УЕФА 17 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/ukraina-gruziya-pryamaya-translyaciya-matcha-ligi-naciy-smotret-onlayn-17-noyabrya-2026-2475728/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-17T20:17:54.985199Z"
+  "results_updated": "2026-11-17T21:56:26.290921Z"
 }
