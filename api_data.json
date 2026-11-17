@@ -2,8 +2,43 @@
   "news": [
     {
       "d": "17 ноября 2026",
+      "t": "Осужденный за изнасилование Бен Йеддер подписал контракт с клубом...",
+      "text": "Бывший нападающий сборной Франции Виссам Бен Йеддер стал игроком «Пари 13 Атлетико», выступающего в третьем по силе дивизионе стра...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/france/news/osuzhdennyy-za-iznasilovanie-ben-yedder-podpisal-kontrakt-s-klubom-tretego-diviziona-francii-2475971/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Россия — Венесуэла: нулевая ничья после первого тайма",
+      "text": "Первый тайм BETBOOM товарищеского матча между сборными России и Венесуэлы завершился вничью — 0:0.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/rossiya-venesuela-nichya-0-0-posle-pervogo-tayma-tovarischeskogo-matcha-17-noyabrya-2026-2475968/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Россия — Венесуэла: Романцев и Газзаев нанесли символический удар...",
+      "text": "Бывшие главные тренеры сборной России Олег Романцев и Валерий Газзаев нанесли символический удар по мячу перед BetBoom товарищески...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rusteam/news/rossiya-venesuela-romancev-i-gazzaev-nanesli-simvolicheskiy-udar-pered-matchem-2475955/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Претендент на пост президента ФИФА назвал глупым поступок Инфанти...",
+      "text": "Претендент на пост президента ФИФА Рамон Вега в интервью «СЭ» раскритиковал действующего главу организации Джанни Инфантино за рез...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/foreign/news/pretendent-na-post-prezidenta-fifa-nazval-glupym-postupok-infantino-po-delu-baloguna-vo-vremya-chm-2026-2475931/"
+    },
+    {
+      "d": "17 ноября 2026",
+      "t": "Россия — Венесуэла: прямая трансляция товарищеского матча",
+      "text": "Сборная России примет Венесуэлу в товарищеском матче 17 ноября.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/news/rossiya-venesuela-pryamaya-translyaciya-tovarischeskogo-matcha-smotret-onlayn-17-noyabrya-2026-2475733/"
+    },
+    {
+      "d": "17 ноября 2026",
       "t": "Россия — Венесуэла: Сафонов, Батраков и Миранчук выйдут с первых ...",
-      "text": "Стал известен стартовый состав сборной России на BetBoom товарищеский матч против Венесуэлы.",
+      "text": "Стали известны составы сборных России и Венесуэлы на BetBoom товарищеский матч.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/rusteam/news/rossiya-venesuela-startovye-sostavy-komand-na-tovarischeskiy-match-17-noyabrya-2026-2475905/"
     },
@@ -20,41 +55,6 @@
       "text": "Казахстанская федерация футбола приняла решение не продлевать контракт с главным тренером национальной сборной Джоном ван'т Схипом...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/vant-ship-pokinet-post-glavnogo-trenera-sbornoy-kazahstana-posle-shesti-matchey-bez-pobed-2475896/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Россия — Венесуэла: во сколько начало товарищеского матча",
-      "text": "Сборные России и Венесуэлы сыграют товарищеский матч 17 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/rossiya-venesuela-vo-skolko-nachalo-tovarischeskogo-matcha-gde-smotret-translyaciyu-17-noyabrya-2026-2475730/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Россия — Венесуэла: ставка и коэффициент на товарищеский матч",
-      "text": "Сборные России и Венесуэлы сыграют товарищеский матч 17 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/rossiya-venesuela-prognoz-stavka-i-koefficient-na-tovarischeskiy-match-17-noyabrya-2026-2475732/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Сборная Бразилии разгромила Сингапур, Винисиус оформил хет-трик",
-      "text": "Сборная Бразилии обыграла Сингапур в товарищеском матче — 7:0.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/friendly/news/singapur-braziliya-schet-i-rezultat-tovarischeskogo-matcha-17-noyabrya-2026-2475860/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Романцев и Газзаев нанесут символический удар перед матчем сборно...",
-      "text": "Бывшие главные тренеры сборной России Олег Романцев и Валерий Газзаев нанесут символический удар по мячу перед BetBoom матчем наци...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/romancev-i-gazzaev-nanesut-simvolicheskiy-udar-pered-matchem-sbornoy-rossii-protiv-venesuely-2475857/"
-    },
-    {
-      "d": "17 ноября 2026",
-      "t": "Россия — Венесуэла: счет и результат товарищеского матча",
-      "text": "Сборные России и Венесуэлы встретятся в товарищеском матче 17 ноября.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/news/rossiya-venesuela-schet-i-rezultat-tovarischeskogo-matcha-17-noyabrya-2026-2475731/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-17T15:00:08.009957Z"
+  "results_updated": "2026-11-17T17:19:20.471829Z"
 }
