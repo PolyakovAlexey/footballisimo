@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "18 ноября 2026",
+      "t": "Лига наций: дата и время жеребьевки четвертьфиналов и стыковых ма...",
+      "text": "Жеребьевка четвертьфиналов и стыковых матчей Лиги наций сезона-2026/27 состоится 20 ноября в Ньоне.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/nation-league/news/kogda-zherebevka-ligi-naciy-data-i-vremya-vo-skolko-nachalo-gde-smotret-translyaciyu-i-vse-komandy-2476108/"
+    },
+    {
+      "d": "18 ноября 2026",
       "t": "Уилсон: «Пересмотрели голы Португалии и остались разочарованы»",
       "text": "Нападающий сборной Уэльса Харри Уилсон прокомментировал поражение от Португалии (2:3) в матче Лиги наций УЕФА.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "Вратарь сборной Дании Мадс Хермансен прокомментировал поражение от Норвегии (2:3) в матче Лиги наций УЕФА.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/nation-league/news/mads-hermansen-kommentariy-po-porazheniyu-danii-ot-norvegii-v-matche-ligi-naciy-uefa-2476049/"
-    },
-    {
-      "d": "18 ноября 2026",
-      "t": "Витинья: «Сборная Португалии должна быть готова обыграть в четвер...",
-      "text": "Полузащитник сборной Португалии Витинья после победы над Уэльсом (3:2) в матче Лиги наций УЕФА отметил, что португальцы должны быт...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/nation-league/news/vitinya-kommentariy-po-sopernikam-dlya-portugalii-v-lige-naciy-uefa-2476046/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-18T04:32:53.775483Z"
+  "results_updated": "2026-11-18T06:27:52.722088Z"
 }
