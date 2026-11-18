@@ -2,10 +2,24 @@
   "news": [
     {
       "d": "18 ноября 2026",
+      "t": "Мать Месси назвала Нико Паса преемником сына в сборной Аргентины",
+      "text": "Селия Куччиттини, мать восьмикратного обладателя «Золотого мяча» Лионеля Месси, считает полузащитника итальянского «Комо» Нико Пас...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/world/news/mat-messi-nazvala-niko-pasa-preemnikom-syna-v-sbornoy-argentiny-2476434/"
+    },
+    {
+      "d": "18 ноября 2026",
       "t": "Колосков объяснил, почему сборная России пока не потеряла возможн...",
       "text": "Почетный президент РФС Вячеслав Колосков в комментарии для «СЭ» отреагировал на решение УЕФА не включать сборную России в жеребьев...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/euro/news/koloskov-obyasnil-pochemu-sbornaya-rossii-poka-ne-poteryala-vozmozhnost-sygrat-na-evro-2028-2476423/"
+    },
+    {
+      "d": "18 ноября 2026",
+      "t": "AS: «Арсенал» оценивает Субименди в 70 миллионов евро. На игрока ...",
+      "text": "Лондонский «Арсенал» готов расстаться с полузащитником сборной Испании Мартином Субименди в зимнее трансферное окно. Как сообщает ...",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/england/news/as-arsenal-ocenivaet-subimendi-v-70-millionov-evro-na-igroka-pretenduet-chelsi-2476425/"
     },
     {
       "d": "18 ноября 2026",
@@ -41,20 +55,6 @@
       "text": "Форвард более чем удвоил прежнее количество голов за сборную после назначения итальянского тренера. В матче с Сингапуром он оформи...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/friendly/news/vinisius-zabil-13-golov-za-braziliyu-v-20-matchah-pri-anchelotti-do-nego-bylo-6-za-39-statistika-17-noyabrya-2026-2476409/"
-    },
-    {
-      "d": "18 ноября 2026",
-      "t": "Беларусь может сыграть с Грузией, Израилем, Румынией или Северной...",
-      "text": "Определились четыре возможных соперника сборной Беларуси по переходным матчам Лиги наций за право выступить в дивизионе B.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/belarus/news/belarus-mozhet-sygrat-s-gruziey-izrailem-rumyniey-ili-severnoy-makedoniey-v-lige-naciy-2476329/"
-    },
-    {
-      "d": "18 ноября 2026",
-      "t": "Колосков о недопуске сборной России к отбору на Евро-2028: «Главн...",
-      "text": "Почетный президент РФС Вячеслав Колосков не видит повода для огорчения из-за решения УЕФА не включать сборную России в жеребьевку ...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rusteam/news/koloskov-o-nedopuske-sbornoy-rossii-k-otboru-na-evro-2028-glavnoe-chtoby-nam-razreshili-igrat-2476319/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-18T19:48:50.656072Z"
+  "results_updated": "2026-11-18T21:38:51.838973Z"
 }
