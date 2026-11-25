@@ -2,6 +2,20 @@
   "news": [
     {
       "d": "25 ноября 2026",
+      "t": "«Реал» первым вышел в плей-офф Лиги чемпионов сезона-2026/27",
+      "text": "«Реал» стал первой командой, которая гарантировала себе участие в плей-офф Лиги чемпионов сезона-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/real-pervym-vyshel-v-pley-off-ligi-chempionov-sezona-2026-27-2479039/"
+    },
+    {
+      "d": "25 ноября 2026",
+      "t": "«Реал» лидирует в турнирной таблице Лиги чемпионов после 5-го тур...",
+      "text": "В среду, 25 ноября, были сыграны заключительные матчи 5-го тура общего этапа Лиги чемпионов-2026/27.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/champions-league/news/liga-chempionov-2026-27-turnirnaya-tablica-obschego-etapa-posle-5-tura-polozhenie-na-25-noyabrya-2026-goda-2479034/"
+    },
+    {
+      "d": "25 ноября 2026",
       "t": "Юношеская команда «Спартака» сыграет на турнире в Чили",
       "text": "Команда «Спартака» среди игроков до 17 лет примет участие в международном турнире Copa UC 2026, сообщает пресс-служба красно-белых...",
       "src": "Спорт-Экспресс",
@@ -41,20 +55,6 @@
       "text": "Бывший нападающий сборной Англии Рахим Стерлинг получил 12 месяцев лишения свободы условно за опасное вождение. Решение 25 ноября ...",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/england/news/byvshiy-napadayuschiy-sbornoy-anglii-rahim-sterling-prigovoren-k-godu-lisheniya-svobody-uslovno-za-opasnoe-vozhdenie-2478809/"
-    },
-    {
-      "d": "25 ноября 2026",
-      "t": "«Энергия, способная разрушать стены»: «Спартак» представил третий...",
-      "text": "«Спартак» представил новый третий комплект игровой формы в сезоне-2026/27.",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/rfpl/news/energiya-sposobnaya-razrushat-steny-spartak-predstavil-tretiy-komplekt-igrovoy-formy-v-sezone-2026-27-2478769/"
-    },
-    {
-      "d": "25 ноября 2026",
-      "t": "Гвардиола заявил, что отказался возглавить сборную Италии из-за ж...",
-      "text": "Бывший главный тренер «Манчестер Сити» Хосеп Гвардиола подтвердил, что вел переговоры о назначении на пост главного тренера сборно...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/italy/news/gvardiola-otkazalsya-vozglavit-sbornuyu-italii-iz-za-zhelaniya-vzyat-pauzu-v-karere-2478700/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-25T20:54:51.018031Z"
+  "results_updated": "2026-11-25T22:51:05.095935Z"
 }
