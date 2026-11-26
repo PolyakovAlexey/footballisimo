@@ -2,6 +2,13 @@
   "news": [
     {
       "d": "26 ноября 2026",
+      "t": "Стали известны все пары плей-офф FONBET Кубка России",
+      "text": "Определились все пары плей-офф FONBET Кубка России.",
+      "src": "Спорт-Экспресс",
+      "url": "https://www.sport-express.ru/football/rus_cup/news/stali-izvestny-vse-pary-pley-off-fonbet-kubka-rossii-2026-27-2479442/"
+    },
+    {
+      "d": "26 ноября 2026",
       "t": "Гордон, Мбаппе и Беллингем вошли в символическую сборную недели в...",
       "text": "УЕФА назвал символическую сборную по итогам 5-го тура общего этапа Лиги чемпионов.",
       "src": "Спорт-Экспресс",
@@ -48,13 +55,6 @@
       "text": "В четверг, 26 ноября, состоятся матчи 4-го тура общего этапа Лиги конференций сезона-2026/27.",
       "src": "Спорт-Экспресс",
       "url": "https://www.sport-express.ru/football/liga-konferencij/news/liga-konferenciy-sezona-2026-27-raspisanie-matchey-i-translyaciy-4-go-tura-2479142/"
-    },
-    {
-      "d": "26 ноября 2026",
-      "t": "МЛС может сократить число участников плей-офф до 16 команд",
-      "text": "МЛС намерена изменить формат плей-офф с сезона-2027/28, сообщает The Guardian со ссылкой на собственные источники, подтвердившие и...",
-      "src": "Спорт-Экспресс",
-      "url": "https://www.sport-express.ru/football/mls/news/mls-mozhet-sokratit-chislo-uchastnikov-pley-off-do-16-komand-reforma-posle-perehoda-na-sistemu-osen-vesna-2479269/"
     }
   ],
   "odds": [
@@ -1005,5 +1005,5 @@
     }
   ],
   "odds_updated": "2026-07-19T22:04:43.038115Z",
-  "results_updated": "2026-11-26T18:03:53.642101Z"
+  "results_updated": "2026-11-26T19:26:34.035840Z"
 }
